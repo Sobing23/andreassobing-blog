@@ -17,6 +17,6 @@ Heute stelle ich Euch den Spot von VW vor welcher gerade auch im TV läuft. Ihr 
 
 Weitere Comercial Masterpieces findet Ihr hier:
 
-### [Commercial Masterpieces](../commercial-masterpieces-2/374/ "Permanent-Link zu Commercial Masterpieces") [(Axe - Was Frauen wollen/ Take it to the next Level - Nike Football)](https://hun-gry.com/commercial-masterpieces-2/374/ "Axe - Was Frauen wollen/ Take it to the next Level - Nike Football")
+### [Commercial Masterpieces](../commercial-masterpieces-2/374/ "Permanent-Link zu Commercial Masterpieces") [(Axe - Was Frauen wollen/ Take it to the next Level - Nike Football)](/commercial-masterpieces-2/ "Axe - Was Frauen wollen/ Take it to the next Level - Nike Football")
 
 ### [Commercial Masterpieces (Samsung - A guide to taking better pictures/ Heineken - Begehbarer Schrank = Männertraum)](../commercial-masterpieces/366/ "Permanent-Link zu Commercial Masterpieces")

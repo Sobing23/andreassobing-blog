@@ -13,4 +13,4 @@ Das Medium Twitter hat viele Fans aber auch genauso viele Gegner. Für viele das
 
 <div class="video" data-provider="youtube" data-id="XzqlJyapikE"></div>
 
-[Mehr zum Thema Twitter: Twitter: Zeitfresser oder Geldmaschine?](https://hun-gry.com/twitter-zeitfresser-oder-geldmaschine/109/ "Twitter: Twitter: Zeitfresser oder Geldmaschine")
+[Mehr zum Thema Twitter: Twitter: Zeitfresser oder Geldmaschine?](/twitter-zeitfresser-oder-geldmaschine/ "Twitter: Twitter: Zeitfresser oder Geldmaschine")

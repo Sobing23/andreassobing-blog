@@ -11,7 +11,7 @@ wpId: 506
 
 ![](http://farm1.static.flickr.com/151/351409399_f566fc829f.jpg "eBook Internetrecht")
 
-Unter der Kategorie [Download](https://hun-gry.com/category/download/ "Download Kategorie andreassobing.de") findet Ihr das kostenlose eBook Internetrecht von Prof. Dr. Thomas Hoeren, Institut für Informations-, Telekommunikations- und Medienrecht, Universität Münster.
+Unter der Kategorie [Download](/archiv/ "Download Kategorie andreassobing.de") findet Ihr das kostenlose eBook Internetrecht von Prof. Dr. Thomas Hoeren, Institut für Informations-, Telekommunikations- und Medienrecht, Universität Münster.
 
 Die Bedürfnisse des Internetanbieter stehen beim Aufbau des eBooks im Vordergrund. Abschließend die Frage der Vollstreckung sowie das Vollstreckungsrecht. Das eBook umfasst insgesamt 522 Seiten.
 

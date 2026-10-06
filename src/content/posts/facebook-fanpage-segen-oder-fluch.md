@@ -10,7 +10,7 @@ vgwort: "https://vg06.met.vgwort.de/na/4697ed13bc4a48b3bf873d79bea93aaa"
 wpId: 689
 ---
 
-Viele Unternehmen tun sich schwer mit dem Eintritt in die Facebook Welt in Form einer Fanpage. Aber auch hier gilt das [gleiche Prinzip wie bei den Copycats](https://hun-gry.com/innovationen-vs-copycats/674/ "Innovationen vs. Copycat"). Wer nicht mit der Zeit geht, geht mit der Zeit. Man sollte sich nicht immer neuen Wegen verschließen, allerdings muss man auch nicht alles mitmachen. Die Mischung machst.
+Viele Unternehmen tun sich schwer mit dem Eintritt in die Facebook Welt in Form einer Fanpage. Aber auch hier gilt das [gleiche Prinzip wie bei den Copycats](/innovationen-vs-copycats/ "Innovationen vs. Copycat"). Wer nicht mit der Zeit geht, geht mit der Zeit. Man sollte sich nicht immer neuen Wegen verschließen, allerdings muss man auch nicht alles mitmachen. Die Mischung machst.
 
 Hier zuerst einmal einige Ängste der Unternehmen welche gegen eine Teilnahme sprechen:
 
