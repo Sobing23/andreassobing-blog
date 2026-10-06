@@ -30,6 +30,8 @@ Hier beginnt der Text. ## Zwischenüberschrift, **fett**, - Aufzählung.
 
 **VG Wort:** Nur die **öffentliche** Zählmarke eintragen, niemals die private.
 
+**Keine Kommentaraufrufe:** Der Blog hat keine Kommentarfunktion. Artikel enden ohne „Schreib es mir in die Kommentare“ o. Ä.
+
 **Video einbetten:** `<div class="video" data-provider="youtube" data-id="VIDEO-ID"></div>` – wird erst nach Klick geladen.
 
 ## Lokal ansehen
