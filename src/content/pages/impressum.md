@@ -2,33 +2,34 @@
 title: "Impressum"
 slug: "impressum"
 date: 2009-03-20T09:45:00
-updated: 2022-07-27T06:26:43
+updated: 2026-10-06T09:00:00
 vgwort: "https://vg06.met.vgwort.de/na/59083cd9d4a5440188e12ff8d9b89296"
 wpId: 6
 ---
 
-## Angaben gemäß § 5 TMG
+## Angaben gemäß § 5 DDG
 
-Andreas Sobing
-Schliemannstr. 9
+Andreas Sobing<br>
+Schliemannstr. 9<br>
 27749 Delmenhorst
 
-**Kontakt**
+## Kontakt
+
 E-Mail: admin@andreassobing.de
 
-**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
-Andreas Sobing
-Schliemannstr. 9
-27749 Delmenhorst
-**Haftung für Inhalte**
-Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
 
-**Haftung für Links**
-Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links
-umgehend entfernen.
+Andreas Sobing<br>
+Anschrift wie oben
 
-**Urheberrecht**
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+## Haftung für Inhalte
 
-**Quelle**:
-https://www.e-recht24.de
+Die Inhalte dieses Blogs wurden mit Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen. Als Diensteanbieter bin ich für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Ich bin jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Sobald mir eine konkrete Rechtsverletzung bekannt wird, entferne ich die entsprechenden Inhalte umgehend.
+
+## Haftung für Links
+
+Dieser Blog enthält Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Für diese fremden Inhalte kann ich deshalb keine Gewähr übernehmen. Verantwortlich ist stets der jeweilige Anbieter oder Betreiber der verlinkten Seiten. Zum Zeitpunkt der Verlinkung waren keine Rechtsverstöße erkennbar. Werden mir Rechtsverletzungen bekannt, entferne ich derartige Links umgehend.
+
+## Urheberrecht
+
+Die Texte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen meiner schriftlichen Zustimmung. Soweit Inhalte nicht von mir erstellt wurden, werden die Urheberrechte Dritter beachtet und als solche gekennzeichnet. Solltest du dennoch auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen Hinweis.
