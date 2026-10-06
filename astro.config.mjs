@@ -10,6 +10,7 @@ export default defineConfig({
   integrations: [sitemap({ filter: (page) => !page.includes('/suche/') }), externeLinks()],
   // Alte WordPress-Adressen, die es so nicht mehr gibt
   redirects: {
+    '/glossar': '/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/',
     '/feed': '/rss.xml',
     '/cookie-richtlinie-eu': '/datenschutz/',
     '/author/sobing': '/',

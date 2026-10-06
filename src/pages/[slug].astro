@@ -7,7 +7,7 @@ import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anris
 
 export async function getStaticPaths() {
   const posts = await allePosts();
-  const pages = (await getCollection('pages')).filter((p) => !['index', 'cookie-richtlinie-eu'].includes(p.data.slug));
+  const pages = (await getCollection('pages')).filter((p) => !['index', 'cookie-richtlinie-eu', 'das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert'].includes(p.data.slug));
   return [
     ...posts.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry, isPost: true } })),
     ...pages.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry, isPost: false } })),

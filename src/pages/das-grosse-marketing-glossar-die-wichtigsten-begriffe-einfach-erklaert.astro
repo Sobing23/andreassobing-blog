@@ -1,0 +1,74 @@
+---
+// Marketing-Glossar: Begriffe aus den Blogartikeln, A bis Z, je mit Link zum Artikel
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import glossar from '../data/glossar.json';
+
+const seite = (await getCollection('pages')).find((p) => p.data.slug === 'das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert');
+const vgwort = seite?.data.vgwort;
+const buchstaben = [...new Set(glossar.map((e) => e.buchstabe))];
+const titel = 'Marketing-Glossar: Begriffe einfach erklärt';
+const beschreibung = `${glossar.length} Begriffe aus Marketing, Strategie, Führung und Psychologie, kurz erklärt und jeweils mit dem ausführlichen Artikel im Blog verlinkt.`;
+const href = (slug: string) => `/${slug}/`;
+const jsonld = {
+  '@context': 'https://schema.org',
+  '@type': 'DefinedTermSet',
+  name: titel,
+  url: new URL('/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/', Astro.site).toString(),
+  hasDefinedTerm: glossar.map((e) => ({ '@type': 'DefinedTerm', name: e.begriff, description: e.definition })),
+};
+---
+<Base title={titel} description={beschreibung}>
+  <main class="wrap simple glossar">
+    <h1>Marketing-Glossar</h1>
+    <p class="lead-text">{glossar.length} Begriffe aus Marketing, Strategie, Führung und Psychologie, kurz erklärt. Zu jedem Begriff gibt es einen ausführlichen Artikel hier im Blog.</p>
+
+    <div class="glossar-tools" data-pagefind-ignore>
+      <label for="gfilter" class="sr-only">Begriffe filtern</label>
+      <input id="gfilter" type="search" placeholder="Begriff suchen, z. B. OKR oder Funnel" autocomplete="off">
+      <nav aria-label="Buchstaben" class="glossar-az">
+        {buchstaben.map((b) => <a href={`#b-${b === '0–9' ? '0-9' : b}`}>{b}</a>)}
+      </nav>
+    </div>
+    <p id="gleer" class="glossar-leer" hidden>Kein Begriff gefunden. Probier es mit der <a href="/suche/">Volltextsuche</a>.</p>
+
+    {buchstaben.map((b) => (
+      <section class="glossar-gruppe" id={`b-${b === '0–9' ? '0-9' : b}`}>
+        <div class="section-head"><h2>{b}</h2></div>
+        <dl>
+          {glossar.filter((e) => e.buchstabe === b).map((e) => (
+            <div class="glossar-eintrag" id={e.anker}>
+              <dt>{e.begriff}</dt>
+              <dd>
+                <p>{e.definition}</p>
+                <p class="glossar-mehr">Ausführlich: {e.artikel.map((a, i) => (
+                  <>{i > 0 && ' · '}<a href={href(a.slug)}>{a.titel}</a></>
+                ))}</p>
+              </dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+    ))}
+    {vgwort && <img class="vgwort" src={vgwort} width="1" height="1" alt="" loading="eager" data-pagefind-ignore>}
+  </main>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />
+  <script>
+    const input = document.getElementById('gfilter') as HTMLInputElement;
+    const leer = document.getElementById('gleer')!;
+    const eintraege = [...document.querySelectorAll<HTMLElement>('.glossar-eintrag')];
+    const gruppen = [...document.querySelectorAll<HTMLElement>('.glossar-gruppe')];
+    const norm = (s: string) => s.toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '');
+    const texte = eintraege.map((e) => ({ el: e, b: norm(e.querySelector('dt')!.textContent || ''), d: norm(e.querySelector('dd p')!.textContent || '') }));
+    input.addEventListener('input', () => {
+      const q = norm(input.value.trim());
+      let treffer = 0;
+      for (const t of texte) {
+        const ok = !q || t.b.includes(q) || (q.length > 3 && t.d.includes(q));
+        t.el.hidden = !ok; if (ok) treffer++;
+      }
+      for (const g of gruppen) g.hidden = !g.querySelector('.glossar-eintrag:not([hidden])');
+      leer.hidden = treffer > 0;
+    });
+  </script>
+</Base>
