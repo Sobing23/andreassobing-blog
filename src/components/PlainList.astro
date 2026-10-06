@@ -1,0 +1,12 @@
+---
+// Kompakte Liste ohne Bilder: Datum + Titel
+import { postUrl, type Post } from '../lib/blog';
+interface Props { posts: Post[] }
+const { posts } = Astro.props;
+const fmt = new Intl.DateTimeFormat('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric', timeZone: 'Europe/Berlin' });
+---
+<ul class="plain-list">
+  {posts.map((p) => (
+    <li><a href={postUrl(p)}><span class="d">{fmt.format(p.data.date)}</span><span class="t">{p.data.title}</span></a></li>
+  ))}
+</ul>

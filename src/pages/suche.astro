@@ -1,0 +1,23 @@
+---
+// Volltextsuche mit Pagefind (läuft komplett im Browser, ohne Server)
+import Base from '../layouts/Base.astro';
+---
+<Base title="Suche" description="Alle Artikel im Blog it Marketing durchsuchen." noindex>
+  <main class="wrap simple">
+    <h1>Suche</h1>
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <div id="search"></div>
+    <script is:inline src="/pagefind/pagefind-ui.js"></script>
+    <script is:inline>
+      window.addEventListener('DOMContentLoaded', () => {
+        const ui = new PagefindUI({ element: '#search', showSubResults: true, showImages: false,
+          translations: { placeholder: 'Artikel durchsuchen', zero_results: 'Keine Treffer für [SEARCH_TERM]', many_results: '[COUNT] Treffer für [SEARCH_TERM]', one_result: '1 Treffer für [SEARCH_TERM]', load_more: 'Mehr Treffer laden' } });
+        const q = new URLSearchParams(location.search).get('q');
+        if (q) ui.triggerSearch(q);
+      });
+    </script>
+    <style is:global>
+      #search { --pagefind-ui-scale: 1; --pagefind-ui-primary: var(--accent); --pagefind-ui-text: var(--text); --pagefind-ui-background: var(--bg); --pagefind-ui-border: var(--line); --pagefind-ui-font: var(--sans); }
+    </style>
+  </main>
+</Base>

@@ -1,0 +1,27 @@
+---
+title: "Wirklich ein guter Deal? - Gutscheine und deren Chancen"
+slug: "wirklich-ein-guter-deal-gutscheine-und-deren-chancen"
+date: 2013-10-25T15:41:13
+updated: 2023-10-02T13:10:46
+description: "Fast alle sind auf der Suche nach Gutscheinen im Netz. Dies merkt man schon wenn man einen Shopnamen in der Google Suche eingibt."
+image: "/wp-content/uploads/2013/10/6838620263_f70a26002e1.jpg"
+category: "marketing"
+vgwort: "https://vg06.met.vgwort.de/na/22338ae41f844c0d9b5cf869602d5cdc"
+wpId: 1041
+---
+
+Fast alle sind auf der Suche nach Gutscheinen im Netz. Dies merkt man schon wenn man einen Shopnamen in der Google Suche eingibt. Danach werden einem sofort die Erweiterungen "Gutschein" und "Erfahrungen" vorgeschlagen. Das Geschäft mit den Schnäppchenjägern brummt. **Aber wie sollte man mit Gutscheinen verfahren?**
+
+Grafik: Bitkom 2012 Quelle: Adzine
+
+Das sogenannte [Online-Couponing](http://de.wikipedia.org/wiki/Online_Couponing "Definition Online Couponing") ist ein bewährtes Mittel, um im [E-Commerce](http://de.wikipedia.org/wiki/E-commerce "E-Commerce Definition") den Abverkauf anzukurbeln. Hier spielen Gutscheinportale sowie Dealplattformen eine wichtige Rolle. Laut einer Bitkom-Studie aus dem Jahr 2012 lässt sich jeder vierte Internetnutzer durch Rabattgutscheine zum Kauf anregen. Die Bitkom bezeichnet Rabattgutscheine daher als eine der erfolgreichsten Werbeform im Internet.
+
+**Was muss bei der Gutscheinvergabe beachtet werden?**Häufig werden durch Gutscheinaktionen eine bestimmte Käuferschicht angezogen. Dies sind Schnäppchenjäger welche äußerst preissensibel sind. Diese Kunden kaufen meist auch nur in der Zukunft sofern Ihr diesen einen Rabatt anbietet. Dabei spielt es keine Rolle ob Euer Produkt bzw. der Service bereits günstig sind oder nicht. Zu viele Gutscheine können auch das Image eines Shops bzw. einer Marke in das falsche Licht rücken. Daher ist hier Vorsicht geboten. Wisst Ihr wie viele Kunden auch ohne Gutschein gekauft hätten? Hier bleibt meist eine Menge Umsatz auf der Strecke. Auch eine Abwanderung der Bestandskunden kann passieren, da auch diese immer einen Gutschein erwarten beim nächsten Kauf. Lieber sollte man im [CRM](http://de.wikipedia.org/wiki/Customer-Relationship-Management "Definition CRM") die Kunden sinnvoll incentivieren. Beispielsweise erst in einer Nachfass E-Mail, sofern die erste Mail ohne Erfolg blieb, einen Gutschein offerieren oder. Zusätzlich sollte man Gutscheinkampagnen mit gleichen Kampagnen ohne Gutschein testen und schauen was die einzelnen Kampagnen generiert haben.
+
+**Was bringen mir Dealplattformen?**Jeder kennt wahrscheinlich von Euch die Flagschiffe in dieser Kategorie. Die Rede ist von Dailydeal und Groupon. Allerdings ist es etwas ruhiger um die beiden geworden. Ihr müsst bei den Dealplattformen folgendes beachten. Die Plattformen wollen ihren Kunden einen guten Rabatt bieten. Daher könnt Ihr von einer Preisreduktion von min. 50% für Euer Angebot ausgehen. Vom Ertrag ziehen die Anbieter auch meist 30% - 50% noch einmal als Provision ab. Speziell die Abrechnung und die Meldung an die jeweilige Plattform sind sehr zeitaufwendig. Ihr erhaltet den Ertrag auch nicht sofort sondern erst nach Meldung der eingelösten Gutscheine bei Euch.Daher müsst Ihr evtl. bei einem Deal Angebot massiv in Vorleistung treten. Auch hier zieht Ihr ein sehr preisbewußtes Publikum an. Daher würde ich Euch nur zu so einer Aktion raten wenn Ihr Euren Shop oder ein spezielles Produkt bzw. einen Service schnell bekannt machen wollt. Ihr erreicht durch die Deal Plattformen eine große Reichweite. Mit Vorsicht zu genießen. Ansonsten testet es aus und zieht Eure Schlüsse danach bzw. optimiert ein mögliches weiteres Angebot.
+
+**Wie sieht es mit Gutscheinpublishern speziell im Affiliate Marketing aus?**Es gibt derzeitig mehr als 150 dieser Gutscheinanbieter wie z.B. Gutscheinpony oder Mydealz. Knapp 46 Prozent der befragten User bei Deals.com haben schon einmal Gutscheine über einen Gutscheinpublisher geholt. Diese Gutscheinpublisher sind aber sehr gut im Netz aufgestellt. Daher ist es nicht verwunderlich wenn potenzielle Kunden nach Eingabe eures Shopnamens in Verbindung mit dem Keyword Gutschein auf die Seite der Publisher kommen. Ihr müsst bedenken dass jeder Sale über den Gutscheinpublisher Euch Provision für diesen sowie für das [Affiliate Netzwerk](http://de.wikipedia.org/wiki/Affiliate-Marketing "Affiliate Netzwerk Definition") kostet. Die Gutscheinpubliser haben aber auch eine riesige Reichweite und können natürlich auch Neukunden für Euch generieren. Mein Tipp wäre z. B. beim Lagerverkauf, Vermarktung von bestimmtenen Produkten gezielt mit Gutscheinplattformen zu werben und diese für solche Aktionen zu nutzen. Zusätzlich würde ich eine eigene Seite bei Euch aufbauen mit dem Keyword Gutschein in Verbindung zu eurem Shopnamen. Hier könnt Ihr selbst Gutscheine posten, spart aber die Provisionen für die Publisher und das Netzwerk. Ihr könnt auch testweise Gutscheine posten welche bereits abgelaufen sind oder bestimmte Aktionsgebote. Ein Nachteil ist nämlich auch dass Besucher von Gutscheinplattformen gerne beim nächsten Kauf wieder über diesen Anbieter kommen. Euer Ziel muss es aber sein dass der Kunde direkt in eiren Shop einsteigt und dort kauft. Egal ob mit Gutschein oder ohne.
+
+Grafik: *Creative Commons* (*CC*): [geldenkirchen](http://www.flickr.com/photos/geldenkirchen/)
+
+Lesetipp: [Weisheiten für den Online Handel und den Offline Handel](/weisheiten-fur-den-offline-handel-sowie-die-online-welt/)

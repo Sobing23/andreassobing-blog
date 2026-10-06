@@ -1,0 +1,21 @@
+---
+// Schlagwortseite
+import Base from '../../layouts/Base.astro';
+import Card from '../../components/Card.astro';
+import { allePosts, tagSlug } from '../../lib/blog';
+
+export async function getStaticPaths() {
+  const posts = await allePosts();
+  const tags = [...new Set(posts.flatMap((p) => p.data.tags))];
+  return tags.map((tag) => ({ params: { tag: tagSlug(tag) }, props: { tag, posts: posts.filter((p) => p.data.tags.includes(tag)) } }));
+}
+const { tag, posts } = Astro.props;
+---
+<Base title={`Schlagwort: ${tag}`} description={`Artikel zum Thema ${tag} im Blog it Marketing.`}>
+  <main class="wrap simple">
+    <p class="kicker">Schlagwort</p>
+    <h1>{tag}</h1>
+    <p class="lead-text">{posts.length} Artikel</p>
+    <ul class="cards">{posts.map((p) => <Card post={p} mitRubrik />)}</ul>
+  </main>
+</Base>

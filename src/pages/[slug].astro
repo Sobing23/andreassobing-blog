@@ -1,0 +1,62 @@
+---
+// Einzelner Artikel oder statische Seite – unter derselben Adresse wie in WordPress
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Card from '../components/Card.astro';
+import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss } from '../lib/blog';
+
+export async function getStaticPaths() {
+  const posts = await allePosts();
+  const pages = (await getCollection('pages')).filter((p) => !['index', 'cookie-richtlinie-eu'].includes(p.data.slug));
+  return [
+    ...posts.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry, isPost: true } })),
+    ...pages.map((entry) => ({ params: { slug: entry.data.slug }, props: { entry, isPost: false } })),
+  ];
+}
+
+const { entry, isPost } = Astro.props;
+const { Content, headings } = await render(entry);
+const d = entry.data as any;
+const toc = headings.filter((h) => h.depth === 2);
+const related = isPost ? await aehnliche(entry as any, 3) : [];
+const beschreibung = anriss(entry as any);
+---
+<Base title={d.seoTitle || d.title} description={beschreibung} image={d.image} type={isPost ? 'article' : 'website'} kompakt>
+  <main class="wrap post">
+    <div class="post-head">
+      {isPost && <a href={rubrikUrl(d.category)} class="kicker">{rubrik(d.category).name}</a>}
+      <h1>{d.title}</h1>
+      {isPost && d.description && <p class="intro">{d.description}</p>}
+      {isPost && <span class="meta">Andreas Sobing · <time datetime={d.date.toISOString()}>{datum(d.date)}</time> · {lesezeit(entry.body)} Min. Lesezeit</span>}
+    </div>
+    {isPost && d.image && <div class="thumb ratio-21-9"><img src={d.image} alt="" fetchpriority="high"></div>}
+    <div class="post-grid">
+      <article class="prose" data-pagefind-body>
+        <Content />
+        {d.vgwort && <img class="vgwort" src={d.vgwort} width="1" height="1" alt="" loading="eager" data-pagefind-ignore>}
+      </article>
+      {isPost && (toc.length >= 3 || d.tags.length > 0) && (
+        <aside class="post-aside">
+          {toc.length >= 3 && (
+            <nav class="toc" aria-label="Inhaltsverzeichnis">
+              <span class="label">Inhalt</span>
+              {toc.map((h) => <a href={`#${h.slug}`}>{h.text}</a>)}
+            </nav>
+          )}
+          {d.tags.length > 0 && (
+            <div>
+              <span class="label">Schlagwörter</span>
+              <div class="tag-list" style="margin-top:10px">{d.tags.map((t: string) => <a href={tagUrl(t)}>{t}</a>)}</div>
+            </div>
+          )}
+        </aside>
+      )}
+    </div>
+    {related.length > 0 && (
+      <section aria-labelledby="mehr">
+        <div class="section-head"><h2 id="mehr">Das könnte dich auch interessieren</h2></div>
+        <ul class="cards">{related.map((p) => <Card post={p} />)}</ul>
+      </section>
+    )}
+  </main>
+</Base>

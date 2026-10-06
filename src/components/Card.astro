@@ -1,0 +1,14 @@
+---
+// Artikelkarte mit Bild, Titel und optional Anrisstext
+import { postUrl, rubrik, anriss, type Post } from '../lib/blog';
+interface Props { post: Post; mitText?: boolean; mitRubrik?: boolean }
+const { post, mitText = false, mitRubrik = false } = Astro.props;
+---
+<li class="card">
+  <a href={postUrl(post)}>
+    <span class="thumb ratio-3-2">{post.data.image && <img src={post.data.image} alt="" loading="lazy" decoding="async">}</span>
+    {mitRubrik && <span class="kicker">{rubrik(post.data.category).name}</span>}
+    <span class="t">{post.data.title}</span>
+    {mitText && <p>{anriss(post, 130)}</p>}
+  </a>
+</li>

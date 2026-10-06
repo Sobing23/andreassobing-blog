@@ -1,0 +1,11 @@
+---
+// Alte WordPress-Schlagwortseiten (/tag/…/) weiterleiten: auf das neue Schlagwort oder in die Suche
+import redirects from '../../data/tag-redirects.json';
+export function getStaticPaths() {
+  return Object.entries(redirects as Record<string, string>).map(([old, ziel]) => ({ params: { old }, props: { ziel } }));
+}
+const { ziel } = Astro.props;
+---
+<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><title>Weiterleitung</title><meta name="robots" content="noindex"><meta http-equiv="refresh" content={`0;url=${ziel}`}><link rel="canonical" href={new URL(ziel, Astro.site)}></head>
+<body><a href={ziel}>Weiter</a></body></html>

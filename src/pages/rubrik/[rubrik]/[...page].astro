@@ -1,0 +1,30 @@
+---
+// Rubrikseite mit Seitenzahlen (24 Artikel pro Seite)
+import type { GetStaticPaths } from 'astro';
+import Base from '../../../layouts/Base.astro';
+import Card from '../../../components/Card.astro';
+import PlainList from '../../../components/PlainList.astro';
+import { allePosts, RUBRIKEN } from '../../../lib/blog';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await allePosts();
+  return RUBRIKEN.flatMap((r) =>
+    paginate(posts.filter((p) => p.data.category === r.key), { params: { rubrik: r.key }, props: { r }, pageSize: 24 }),
+  );
+}) satisfies GetStaticPaths;
+
+const { page, r } = Astro.props;
+---
+<Base title={page.currentPage > 1 ? `${r.name} – Seite ${page.currentPage}` : r.name} description={`Alle Artikel der Rubrik ${r.name} im Blog it Marketing.`} aktiveRubrik={r.key}>
+  <main class="wrap simple">
+    <h1>{r.name}</h1>
+    <p class="lead-text">{page.total} Artikel{page.lastPage > 1 && ` · Seite ${page.currentPage} von ${page.lastPage}`}</p>
+    {r.key === 'fundstuecke'
+      ? <PlainList posts={page.data} />
+      : <ul class="cards">{page.data.map((p) => <Card post={p} mitText />)}</ul>}
+    <nav class="pager" aria-label="Seiten">
+      {page.url.prev ? <a href={page.url.prev}>← Neuere Artikel</a> : <span />}
+      {page.url.next ? <a href={page.url.next}>Ältere Artikel →</a> : <span />}
+    </nav>
+  </main>
+</Base>

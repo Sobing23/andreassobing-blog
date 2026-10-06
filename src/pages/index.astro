@@ -1,0 +1,57 @@
+---
+// Startseite: Aufmacher, „Neu im Blog“, Blöcke je Rubrik
+import Base from '../layouts/Base.astro';
+import Card from '../components/Card.astro';
+import PlainList from '../components/PlainList.astro';
+import { allePosts, RUBRIKEN, rubrik, rubrikUrl, postUrl, datum, lesezeit, anriss } from '../lib/blog';
+
+const posts = await allePosts();
+const [lead, ...rest] = posts;
+const neu = rest.slice(0, 6);
+const gezeigt = new Set([lead, ...neu].map((p) => p.id));
+const bloecke = RUBRIKEN.map((r) => {
+  const alle = posts.filter((p) => p.data.category === r.key);
+  return { ...r, anzahl: alle.length, artikel: alle.filter((p) => !gezeigt.has(p.id)).slice(0, r.key === 'fundstuecke' ? 5 : 3) };
+});
+---
+<Base title="Blog it Marketing" description="Mein digitales Notizbuch: Methoden, Modelle und Werkzeuge aus Marketing, Strategie und Führung – fast 1.000 Artikel seit 2009.">
+  <main class="wrap home">
+    <section class="lead-row">
+      <article class="lead">
+        <a href={postUrl(lead)} class="thumb ratio-16-9">{lead.data.image && <img src={lead.data.image} alt="" fetchpriority="high">}</a>
+        <a href={rubrikUrl(lead.data.category)} class="kicker">{rubrik(lead.data.category).name}</a>
+        <h2><a href={postUrl(lead)}>{lead.data.title}</a></h2>
+        <p>{anriss(lead, 220)}</p>
+        <span class="meta">{datum(lead.data.date)} · {lesezeit(lead.body)} Min. Lesezeit</span>
+      </article>
+      <aside class="latest" aria-labelledby="neu">
+        <span class="label" id="neu">Neu im Blog</span>
+        <ul>
+          {neu.map((p) => (
+            <li><a href={postUrl(p)}>
+              <span class="kicker">{rubrik(p.data.category).name}</span>
+              <span class="t">{p.data.title}</span>
+              <span class="meta">{datum(p.data.date)}</span>
+            </a></li>
+          ))}
+        </ul>
+      </aside>
+    </section>
+    {bloecke.map((b) => (
+      <section aria-labelledby={`r-${b.key}`}>
+        <div class="section-head">
+          <h2 id={`r-${b.key}`}>{b.name}</h2>
+          <a href={rubrikUrl(b.key)}>Alle {b.anzahl} Artikel →</a>
+        </div>
+        {b.key === 'fundstuecke'
+          ? <PlainList posts={b.artikel} />
+          : <ul class="cards">{b.artikel.map((p) => <Card post={p} />)}</ul>}
+      </section>
+    ))}
+  </main>
+  <script>
+    // Alte WordPress-Links der Form /?p=123 auf die neue Adresse umleiten
+    const id = new URLSearchParams(location.search).get('p') || new URLSearchParams(location.search).get('page_id');
+    if (id) fetch('/wp-ids.json').then((r) => r.json()).then((m) => { if (m[id]) location.replace(m[id]); });
+  </script>
+</Base>

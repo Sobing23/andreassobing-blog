@@ -1,0 +1,22 @@
+---
+// Archiv: alle Artikel nach Jahren
+import Base from '../../layouts/Base.astro';
+import PlainList from '../../components/PlainList.astro';
+import { allePosts } from '../../lib/blog';
+
+const posts = await allePosts();
+const jahre = [...new Set(posts.map((p) => p.data.date.getFullYear()))];
+---
+<Base title="Archiv" description="Alle Artikel aus dem Blog it Marketing seit 2009, nach Jahren geordnet.">
+  <main class="wrap simple">
+    <h1>Archiv</h1>
+    <p class="lead-text">{posts.length} Artikel seit {jahre.at(-1)}</p>
+    <nav aria-label="Jahre" class="tag-list" style="margin-bottom:40px">{jahre.map((j) => <a href={`#j${j}`}>{j}</a>)}</nav>
+    {jahre.map((j) => (
+      <section id={`j${j}`} style="margin-bottom:40px">
+        <div class="section-head"><h2>{j}</h2></div>
+        <PlainList posts={posts.filter((p) => p.data.date.getFullYear() === j)} />
+      </section>
+    ))}
+  </main>
+</Base>
