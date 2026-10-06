@@ -8,15 +8,15 @@ category: "marketing"
 vgwort: "https://vg09.met.vgwort.de/na/eddda9622add48b6817b03440a65a049"
 ---
 
-Stell dir vor, du startest einen Blog über dein Lieblingsthema. Fußball, Minecraft, Backen, egal. Die erste Woche läuft super, du schreibst fast jeden Tag. In der zweiten Woche fällt dir schon weniger ein. Und irgendwann merkst du: Dein letzter Beitrag ist drei Wochen alt.
+Stell dir vor, dein Unternehmen startet einen Corporate Blog. Die ersten Wochen laufen super: Das Team ist motiviert, die Ideen sprudeln, fast jede Woche erscheint ein neuer Beitrag. Dann kommt das Quartalsende, ein Produktlaunch, die Urlaubszeit. Und irgendwann merkst du: Der letzte Beitrag ist zwei Monate alt.
 
-Deine Leser kommen vorbei, sehen nichts Neues und klicken weg. Viele kommen nicht wieder.
+Deine Leser kommen vorbei, sehen nichts Neues und klicken weg. Viele kommen nicht wieder. Und auch Google merkt, dass sich auf der Seite nichts mehr tut.
 
-Das passiert fast jedem, der bloggt. Und es gibt ein ziemlich einfaches Mittel dagegen: einen **Redaktionsplan**.
+Das passiert fast jedem Unternehmen, das bloggt. Und es gibt ein ziemlich einfaches Mittel dagegen: einen **Redaktionsplan**.
 
 ## Was ist ein Redaktionsplan?
 
-Du kennst deinen Stundenplan aus der Schule. Da steht drin, wann du welches Fach hast. Ein Redaktionsplan funktioniert genauso, nur für Texte. Darin steht, wann welcher Artikel erscheint, worum es geht und wer ihn schreibt.
+Ein Redaktionsplan ist der Fahrplan für deine Inhalte. Darin steht, wann welcher Artikel erscheint, worum es geht, für wen er gedacht ist und wer ihn schreibt. Er macht aus einzelnen Ideen ein planbares Content-Marketing.
 
 Zeitungen arbeiten seit Ewigkeiten so. Sonst wüsste dort niemand, was morgen gedruckt wird.
 
@@ -24,11 +24,11 @@ Du brauchst dafür kein teures Programm. Ein Blatt Papier geht. Eine Tabelle in 
 
 ## Warum lohnt sich das?
 
-Weil du dann **regelmäßig** etwas veröffentlichst. Wenn deine Leser wissen, dass jeden Dienstag ein neuer Artikel kommt, schauen sie am Dienstag vorbei. Das ist wie bei einer Serie, die immer am selben Tag läuft.
+Weil du dann **regelmäßig** etwas veröffentlichst. Wenn deine Leser wissen, dass jeden Dienstag ein neuer Fachartikel kommt, schauen sie am Dienstag vorbei oder abonnieren deinen Newsletter. Kontinuität schafft Vertrauen, bei Lesern wie bei Suchmaschinen.
 
-Du **verpasst außerdem keine wichtigen Tage** mehr. Ein Artikel über Weihnachtsgeschenke bringt dir am 27. Dezember nichts. Mit Plan siehst du schon im November, dass du ihn schreiben musst.
+Du **verpasst außerdem keine wichtigen Termine** mehr. Ein Artikel zu Black Friday bringt dir am 2. Dezember nichts. Mit Plan siehst du schon im Oktober, dass du ihn schreiben musst, und kannst ihn mit Kampagnen, Newsletter und Social Media abstimmen.
 
-Und du hast **weniger Stress**. Kennst du das von Hausaufgaben, die du erst Sonntagabend anfängst? Genau das vermeidet der Plan. Du siehst Wochen vorher, was ansteht.
+Und du hast **weniger Stress**. Kennst du das: Freitagnachmittag fällt auf, dass am Montag eigentlich ein Beitrag erscheinen sollte? Genau das vermeidet der Plan. Du siehst Wochen vorher, was ansteht, und kannst Kollegen, Freigaben und Grafiken rechtzeitig einplanen.
 
 ## Was kommt in die Tabelle?
 
@@ -36,38 +36,38 @@ Jede Zeile ist ein Artikel. Die Spalten sagen dir alles, was du über diesen Art
 
 - **Datum:** Wann soll der Artikel online gehen?
 - **Thema:** Worum geht es?
-- **Für wen:** Wer soll das lesen? Anfänger, Profis, Eltern?
-- **Format:** Normaler Text, Liste, Interview, Video?
+- **Für wen:** Welche Zielgruppe oder Persona soll das lesen? Einsteiger, Entscheider, Bestandskunden?
+- **Format:** Fachartikel, Liste, Interview, Case Study, Video?
 - **Wer schreibt:** Wichtig, wenn ihr zu mehreren seid.
 - **Abgabe bis:** Bis wann muss der Text fertig sein? Am besten ein paar Tage vor dem Datum.
 - **Suchwörter:** Welche Wörter tippen Leute bei Google ein, wenn sie so etwas suchen?
-- **Was danach?** Was soll der Leser nach dem Lesen tun? Einen Newsletter bestellen, einen anderen Artikel lesen, einen Kommentar schreiben?
+- **Was danach?** Was soll der Leser nach dem Lesen tun? Ein Whitepaper herunterladen, den Newsletter abonnieren, eine Demo anfragen?
 - **Status:** Idee, in Arbeit, fertig oder veröffentlicht.
 
-So könnte das zum Beispiel für einen Minecraft-Blog aussehen:
+So könnte das zum Beispiel für den Blog eines Software-Anbieters aussehen:
 
 | Datum | Thema | Format | Abgabe bis | Status |
 |---|---|---|---|---|
-| 6. Nov. | Die 10 besten Bauideen für Anfänger | Liste | 3. Nov. | fertig |
-| 13. Nov. | So überlebst du die erste Nacht | Anleitung | 10. Nov. | in Arbeit |
-| 20. Nov. | Interview mit einem Redstone-Profi | Interview | 17. Nov. | Idee |
-| 4. Dez. | Weihnachtsdorf bauen, Schritt für Schritt | Anleitung | 1. Dez. | Idee |
+| 6. Nov. | 10 Fehler bei der CRM-Einführung | Liste | 30. Okt. | fertig |
+| 13. Nov. | Black-Friday-Kampagne in 5 Schritten | Anleitung | 6. Nov. | in Arbeit |
+| 20. Nov. | Interview mit unserem Head of Sales | Interview | 13. Nov. | Idee |
+| 4. Dez. | Case Study: 30 % mehr Leads mit Automation | Case Study | 27. Nov. | Idee |
 
-Wenn du mit anderen zusammen bloggst, kannst du später noch mehr Spalten ergänzen. Zum Beispiel, wer einen Text vor dem Veröffentlichen noch mal liest, oder welcher Titel noch zur Auswahl steht.
+Wenn mehrere Leute oder Abteilungen beteiligt sind, kannst du später noch mehr Spalten ergänzen. Zum Beispiel, wer einen Text freigibt, auf welchen Kanälen er verbreitet wird oder welcher Titel im A/B-Test steht.
 
 ## In fünf Schritten zu deinem ersten Plan
 
-1. **Überleg dir, für wen du schreibst.** Für Kinder, die gerade anfangen? Für Leute, die schon alles wissen? Davon hängt ab, welche Themen passen.
-2. **Sammle Ideen.** Leg dir eine Ideenliste an und schreib alles auf, was dir einfällt. Auch die komischen Ideen. Sortieren kannst du später.
-3. **Entscheide, wie oft du posten willst.** Sei ehrlich zu dir. Ein Artikel pro Woche, den du wirklich schaffst, ist besser als einer pro Tag, den du nach zehn Tagen aufgibst.
-4. **Trag zuerst die festen Termine ein.** Ferien, Feiertage, Geburtstage, große Events. Danach füllst du die Lücken mit deinen anderen Ideen.
+1. **Überleg dir, für wen du schreibst.** Für Einsteiger, die ein Problem verstehen wollen? Für Entscheider, die Lösungen vergleichen? Davon hängt ab, welche Themen und welche Tiefe passen.
+2. **Sammle Ideen.** Leg dir eine Ideenliste an und schreib alles auf: Fragen aus dem Vertrieb, Support-Tickets, Suchbegriffe, Themen der Konkurrenz. Auch die ungewöhnlichen Ideen. Sortieren kannst du später.
+3. **Entscheide, wie oft du veröffentlichen willst.** Sei ehrlich zu dir und deinem Team. Ein Artikel pro Woche, den ihr wirklich schafft, ist besser als drei, die nach einem Monat versanden.
+4. **Trag zuerst die festen Termine ein.** Produktlaunches, Messen, saisonale Anlässe wie Black Friday oder Jahresplanung, Urlaubszeiten. Danach füllst du die Lücken mit deinen anderen Ideen.
 5. **Setz die Abgabe früher als das Datum.** Dann hast du Luft, wenn mal was dazwischenkommt. Und irgendwas kommt immer dazwischen.
 
 ## Aus einem Thema werden mehrere
 
 Der Plan hilft dir auch beim Ideenfinden. Wenn du ihn vor dir siehst, merkst du schnell, dass ein großes Thema oft mehrere kleine Artikel liefert.
 
-Sagen wir, du schreibst über eine Klassenfahrt. Daraus kannst du eine Packliste machen, einen Bericht mit Fotos und einen Artikel mit Tipps gegen Heimweh. Drei Artikel aus einer Sache.
+Sagen wir, du schreibst über die Einführung eines neuen CRM-Systems. Daraus kannst du eine Checkliste zur Auswahl machen, einen Erfahrungsbericht aus dem Projekt und einen Artikel über typische Fehler. Drei Artikel aus einem Thema, dazu Material für Newsletter und LinkedIn.
 
 Du siehst im Plan auch, wann dir die Ideen zufliegen und wann eher Flaute ist. In den Flauten weißt du dann: Jetzt muss ich mich mal hinsetzen und nachdenken.
 
@@ -75,7 +75,7 @@ Du siehst im Plan auch, wann dir die Ideen zufliegen und wann eher Flaute ist. I
 
 Alle paar Monate lohnt sich ein Blick zurück. Stell dir dabei ein paar Fragen:
 
-- Welche Artikel wurden besonders oft gelesen?
+- Welche Artikel wurden besonders oft gelesen, und welche haben Leads oder Anfragen gebracht?
 - Schreibe ich zu oft über dasselbe?
 - Gibt es Themen, die meine Leser interessieren und die ich bisher vergessen habe?
 - Passen meine Themen noch zu den Leuten, für die ich schreibe?
