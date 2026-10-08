@@ -3,7 +3,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Card from '../components/Card.astro';
-import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss } from '../lib/blog';
+import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss, themaFuer, themaUrl } from '../lib/blog';
 
 export async function getStaticPaths() {
   const posts = await allePosts();
@@ -20,6 +20,16 @@ const d = entry.data as any;
 const toc = headings.filter((h) => h.depth === 2);
 const related = isPost ? await aehnliche(entry as any, 3) : [];
 const beschreibung = anriss(entry as any);
+const thema = isPost ? themaFuer(d.slug) : undefined;
+let nachbarn: any[] = [];
+if (thema) {
+  const alle = await allePosts();
+  // die nächsten Artikel im Abschnitt (zyklisch), damit sich die Links gleichmäßig verteilen
+  const liste = thema.abschnitt.artikel;
+  const i = liste.indexOf(d.slug);
+  const andere = [...liste.slice(i + 1), ...liste.slice(0, i)].slice(0, 4);
+  nachbarn = andere.map((s) => alle.find((p) => p.data.slug === s)).filter(Boolean);
+}
 ---
 <Base title={d.seoTitle || d.title} description={beschreibung} image={d.image} type={isPost ? 'article' : 'website'} kompakt>
   <main class="wrap post">
@@ -35,8 +45,11 @@ const beschreibung = anriss(entry as any);
         <Content />
         {d.vgwort && <img class="vgwort" src={d.vgwort} width="1" height="1" alt="" loading="eager" data-pagefind-ignore>}
       </article>
-      {isPost && (toc.length >= 3 || d.tags.length > 0) && (
+      {isPost && (toc.length >= 3 || d.tags.length > 0 || thema) && (
         <aside class="post-aside">
+          {thema && (
+            <a class="thema-chip" href={themaUrl(thema.thema.key)}><span class="label">Thema</span>{thema.thema.name}: alle {thema.anzahl} Artikel</a>
+          )}
           {toc.length >= 3 && (
             <nav class="toc" aria-label="Inhaltsverzeichnis">
               <span class="label">Inhalt</span>
@@ -52,6 +65,14 @@ const beschreibung = anriss(entry as any);
         </aside>
       )}
     </div>
+    {thema && (
+      <section class="thema-box" aria-labelledby="thema-box-titel" data-pagefind-ignore>
+        <span class="kicker">Teil des Themas {thema.thema.name}</span>
+        <h2 id="thema-box-titel">Weiterlesen: {thema.abschnitt.titel}</h2>
+        <ul>{nachbarn.map((p) => <li><a href={`/${p.data.slug}/`}>{p.data.title}</a></li>)}</ul>
+        <a class="thema-alle" href={themaUrl(thema.thema.key)}>Alle {thema.anzahl} Artikel zu {thema.thema.name} im Überblick →</a>
+      </section>
+    )}
     {related.length > 0 && (
       <section aria-labelledby="mehr">
         <div class="section-head"><h2 id="mehr">Das könnte dich auch interessieren</h2></div>

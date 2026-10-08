@@ -89,3 +89,17 @@ export async function aehnliche(p: Post, anzahl = 3): Promise<Post[]> {
     .sort((a, b) => b.s - a.s);
   return scored.slice(0, anzahl).map((x) => x.o);
 }
+
+// Themenseiten (Cluster): Übersichtsseite je Thema, Artikel nach Abschnitten
+import themenDaten from '../data/themen.json';
+export type Thema = (typeof themenDaten)[number];
+export const THEMEN: Thema[] = themenDaten;
+export const themaUrl = (key: string) => `/thema/${key}/`;
+/** Thema und Abschnitt, zu dem ein Artikel gehört (oder undefined) */
+export function themaFuer(slug: string) {
+  for (const t of THEMEN) {
+    const abschnitt = t.abschnitte.find((a) => a.artikel.includes(slug));
+    if (abschnitt) return { thema: t, abschnitt, anzahl: t.abschnitte.reduce((n, a) => n + a.artikel.length, 0) };
+  }
+  return undefined;
+}

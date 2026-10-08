@@ -48,3 +48,7 @@ npm run dev
 - `public/wp-content/uploads/` – Bilder
 - `src/layouts`, `src/pages`, `src/styles` – Design und Seitenaufbau
 - `tools/` – einmalige Skripte vom Umzug aus WordPress (2026)
+
+## Themenseiten (Cluster)
+
+Übersichtsseiten pro Thema liegen unter `/thema/<key>/` und werden aus `src/data/themen.json` gebaut (Einleitung, Abschnitte, Artikel-Slugs). Jeder dort eingetragene Artikel bekommt automatisch einen Themenhinweis in der Seitenleiste und eine „Weiterlesen“-Box mit Artikeln aus demselben Abschnitt. Neue Artikel zu einem Thema einfach in den passenden Abschnitt eintragen.

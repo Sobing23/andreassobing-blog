@@ -1,0 +1,42 @@
+---
+// Themenseite: Überblick über alle Artikel eines Themas, nach Abschnitten geordnet
+import Base from '../../layouts/Base.astro';
+import { THEMEN, allePosts, postUrl, anriss } from '../../lib/blog';
+
+export async function getStaticPaths() {
+  return THEMEN.map((thema) => ({ params: { thema: thema.key }, props: { thema } }));
+}
+const { thema } = Astro.props;
+const posts = await allePosts();
+const bySlug = new Map(posts.map((p) => [p.data.slug, p]));
+const abschnitte = thema.abschnitte.map((a) => ({
+  ...a,
+  id: a.titel.toLowerCase().replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''),
+  posts: a.artikel.map((s) => bySlug.get(s)).filter(Boolean) as typeof posts,
+}));
+const anzahl = abschnitte.reduce((n, a) => n + a.posts.length, 0);
+---
+<Base title={thema.seoTitel} description={thema.beschreibung}>
+  <main class="wrap simple thema">
+    <span class="kicker">Thema</span>
+    <h1>{thema.titel}</h1>
+    <div class="thema-intro">
+      {thema.intro.map((p) => <p>{p}</p>)}
+    </div>
+    <nav class="thema-nav" aria-label="Abschnitte">
+      <span class="label">{anzahl} Artikel in {abschnitte.length} Abschnitten</span>
+      <ol>{abschnitte.map((a) => <li><a href={`#${a.id}`}>{a.titel}</a> <span>({a.posts.length})</span></li>)}</ol>
+    </nav>
+    {abschnitte.map((a) => (
+      <section id={a.id} class="thema-abschnitt">
+        <div class="section-head"><h2>{a.titel}</h2></div>
+        <p class="thema-text">{a.text}</p>
+        <ul class="thema-liste">
+          {a.posts.map((p) => (
+            <li><a href={postUrl(p)}>{p.data.title}</a><p>{anriss(p)}</p></li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </main>
+</Base>

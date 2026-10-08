@@ -1,0 +1,100 @@
+[
+  {
+    "key": "okr",
+    "name": "OKR",
+    "titel": "OKR: Der Überblick über alle Artikel",
+    "seoTitel": "OKR (Objectives and Key Results): Grundlagen, Einführung und Praxis",
+    "beschreibung": "Alles zu OKR an einem Ort: was Objectives and Key Results sind, wie du gute OKRs formulierst, wie die Einführung gelingt und wie OKR zu Strategie, Organisation und anderen Methoden passt.",
+    "intro": [
+      "OKR steht für Objectives and Key Results. Die Methode verbindet qualitative Ziele, die die Richtung vorgeben (Objectives), mit messbaren Schlüsselergebnissen, an denen du siehst, ob du vorankommst (Key Results). Statt eines starren Jahresplans setzen sich Unternehmen, Teams und einzelne Mitarbeitende meist pro Quartal wenige Ziele mit jeweils wenigen Schlüsselergebnissen.",
+      "Den Grundstein legte Peter Drucker mit Management by Objectives. Andy Grove führte OKR in den 1970er Jahren bei Intel ein, John Doerr brachte die Methode später zu Google. Heute nutzen unter anderem Google, LinkedIn und Netflix die Methode.",
+      "Ich schreibe seit Jahren über OKR. Auf dieser Seite findest du alle Artikel dazu, nach Themen geordnet. Wenn du neu einsteigst, beginne mit den Grundlagen und lies dann, wie du gute OKRs formulierst. Wer OKR schon einführt, findet im Abschnitt Einführung und Praxis die typischen Fehler und wie du sie vermeidest."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen",
+        "text": "Was OKRs sind, woher sie kommen, wofür sie sich eignen und wo ihre Grenzen liegen.",
+        "artikel": [
+          "was-sind-okrs",
+          "okr-hilft-dir-bei-der-formulierung-der-unternehmensziele",
+          "ein-umfassender-okr-leitfaden",
+          "was-sind-denn-wirklich-okrs",
+          "okrs-der-schluessel-zu-effektiver-zielsetzung-und-ergebnismessung",
+          "vorteile-von-okr",
+          "nachteile-der-okr-methode",
+          "fuer-welche-umfelder-eignen-sich-okrs",
+          "haeufige-fragen-und-antworten-zu-okr",
+          "weitere-fragen-und-antworten-zu-okrs"
+        ]
+      },
+      {
+        "titel": "Gute OKRs formulieren",
+        "text": "Wie du Objectives und Key Results schreibst und wie sie sich von KPIs und SMART-Zielen unterscheiden.",
+        "artikel": [
+          "effektive-okrs-schreiben",
+          "alles-was-du-ueber-okr-objektive-wissen-musst",
+          "wie-du-gewinnbringende-okrs-schreibst",
+          "nuetzliche-okrs-wie-du-ziele-und-schluesselergebnisse-effektiv-einsetzt",
+          "smart-ziele-und-okrs",
+          "okr-kpis-vs-metriken",
+          "okr-der-nordstern-und-die-wichtigsten-kennzahlen"
+        ]
+      },
+      {
+        "titel": "Einführung und Praxis",
+        "text": "Wie du OKR einführst, welche Fehler häufig passieren und wie sich die Arbeit mit OKR weiterentwickelt.",
+        "artikel": [
+          "okr-erfolgreich-einfuehren",
+          "wie-man-okrs-erfolgreich-in-4-effektiven-schritten-implementiert",
+          "die-20-haeufigsten-fehler-bei-okrs-und-wie-man-sie-vermeidet",
+          "probleme-fuer-okr",
+          "okr-tabellen-vs-software",
+          "okrs-und-cfrs-eine-synergie-fuer-den-unternehmenserfolg",
+          "wie-du-dein-hybrid-team-mit-okrs-ausrichtest",
+          "agile-okrs-dein-schluessel-zu-dynamischer-zielsetzung",
+          "das-evolutionaere-okr-reifemodell",
+          "mit-evolutionaeren-okrs-arbeiten-ein-umfassender-leitfaden"
+        ]
+      },
+      {
+        "titel": "OKR, Strategie und Organisation",
+        "text": "Wie OKRs mit Strategie, Betriebsmodell und Veränderung im Unternehmen zusammenhängen.",
+        "artikel": [
+          "okrs-und-strategie-eine-symbiotische-beziehung",
+          "der-connected-strategic-stack",
+          "okr-connected-strategic-implementation-stack",
+          "okr-was-ist-die-cross-functional-alignment",
+          "mit-dem-operating-model-organisierst-du-dein-unternehmen-richtig-okr",
+          "warum-du-ein-modernes-betriebsmodell-fuer-dein-unternehmen-brauchst",
+          "geschaeftsflexibilitaet-durch-adaptive-strategieumsetzung-und-okrs",
+          "exploitation-vs-exploration-in-verbindung-mit-okr",
+          "schlanke-wachstumsstrategien-mit-okrs",
+          "okr-im-change-management",
+          "okrs-im-change-management"
+        ]
+      },
+      {
+        "titel": "OKR und Menschen",
+        "text": "Was OKRs für Engagement, Employee Experience und nachhaltige Ziele leisten können.",
+        "artikel": [
+          "okrs-fuer-mitarbeiterengagement",
+          "okrs-und-die-employee-experience",
+          "employee-experience-in-deutschland-definition-business-case-und-okrs-als-wachstumsmotor",
+          "wie-okrs-bei-der-erreichung-von-esg-zielen-helfen-koennen"
+        ]
+      },
+      {
+        "titel": "OKR im Vergleich",
+        "text": "Andere Methoden für Ziele und Strategie und wie sie sich von OKR unterscheiden.",
+        "artikel": [
+          "okr-vs-4dx-welches-framework-passt-zu-deinem-unternehmen",
+          "okrs-vs-balanced-scorecard",
+          "balanced-scorecard-einfach-erklaert",
+          "hoshin-kanri-der-weg-zu-einer-effektiven-unternehmensstrategie",
+          "mit-v2mom-ziele-setzen-und-erreichen",
+          "strategy-choice-cascade-klarer-weg-zum-erfolg"
+        ]
+      }
+    ]
+  }
+]
