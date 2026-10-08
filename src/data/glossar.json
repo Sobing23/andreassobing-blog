@@ -2453,8 +2453,12 @@
  },
  {
   "begriff": "Ikigai",
-  "definition": "Ikigai ist ein in der japanischen Kultur verwurzeltes Konzept, das sich auf die Suche nach Lebenssinn und Lebensfreude konzentriert. Es hilft, die Schnittmenge zu finden zwischen dem, was man liebt, was man gut kann, was die Welt braucht und wofür man bezahlt werden kann. Im Unternehmenskontext kann Ikigai helfen, ein Unternehmen aufzubauen, das sowohl erfolgreich als auch erfüllend ist.",
+  "definition": "Ikigai ist ein japanisches Konzept für das, was das Leben lebenswert macht. In Japan wird es vor allem als Gefühl beschrieben, das auch in kleinen Dingen liegen kann und nicht an Beruf oder Geld gebunden ist. Die Psychiaterin Mieko Kamiya beschrieb sieben Bedürfnisse, deren Erfüllung dieses Gefühl entstehen lässt.",
   "artikel": [
+   {
+    "slug": "ikigai-framework-kamiya-mogi",
+    "titel": "Ikigai ist kein Venn-Diagramm: Was hinter dem japanischen Konzept wirklich steckt"
+   },
    {
     "slug": "ikigai-verbindet-sinn-und-erfolg",
     "titel": "Ikigai verbindet Sinn und Erfolg"
@@ -4397,6 +4401,18 @@
    }
   ],
   "anker": "purpose",
+  "buchstabe": "P"
+ },
+ {
+  "begriff": "Purpose-Diagramm (Zuzunaga)",
+  "definition": "Das Purpose-Diagramm zeigt vier sich überschneidende Kreise: was du liebst, worin du gut bist, was die Welt braucht und wofür du bezahlt wirst. Andrés Zuzunaga zeichnete es 2011 als Modell für den Lebenszweck. Seit einem Blogbeitrag von Marc Winn 2014 wird es oft fälschlich als Ikigai-Diagramm bezeichnet.",
+  "artikel": [
+   {
+    "slug": "ikigai-framework-kamiya-mogi",
+    "titel": "Ikigai ist kein Venn-Diagramm: Was hinter dem japanischen Konzept wirklich steckt"
+   }
+  ],
+  "anker": "purpose-diagramm",
   "buchstabe": "P"
  },
  {

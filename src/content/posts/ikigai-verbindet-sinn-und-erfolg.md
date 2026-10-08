@@ -11,6 +11,8 @@ wpId: 4527
 
 Ikigai ist ein japanisches Konzept, das sich auf die Suche nach Lebenssinn und Lebensfreude konzentriert. Es hilft, die Schnittmenge zu finden zwischen dem, was man liebt, was man gut kann, was die Welt braucht und wofür man bezahlt werden kann. Im Unternehmens- und Marketingkontext kann Ikigai helfen, ein Unternehmen aufzubauen, das sowohl erfolgreich als auch erfüllend ist, indem es sich auf die Kernwerte und die Bedürfnisse der Kunden konzentriert.
 
+*Nachtrag 2026: Das Modell mit den vier Kreisen stammt ursprünglich nicht aus Japan, sondern ist ein Purpose-Diagramm. Was Ikigai in Japan bedeutet, liest du in [Ikigai ist kein Venn-Diagramm](/ikigai-framework-kamiya-mogi/).*
+
 ## Wer hat Ikigai erfunden?
 
 Ikigai ist keine Erfindung im klassischen Sinne, sondern eine in der japanischen Kultur verwurzelte Lebensphilosophie. Die Idee des Ikigai wurde durch verschiedene Bücher und Artikel bekannt gemacht, wie zum Beispiel "Ikigai: Das japanische Geheimnis für ein langes und glückliches Leben" von Héctor García und Francesc Miralles oder "Finding Your Ikigai" von Ken Mogi.
