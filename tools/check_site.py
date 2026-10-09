@@ -19,7 +19,7 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 
-REDIRECTED = {"cookie-richtlinie-eu": "/datenschutz/"}
+REDIRECTED = {"cookie-richtlinie-eu": "/datenschutz/", "e-mail-marketing-guide": "/thema/e-mail-marketing/"}
 
 
 def page_exists(dist, path):

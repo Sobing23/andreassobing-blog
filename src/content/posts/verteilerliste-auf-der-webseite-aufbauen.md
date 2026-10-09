@@ -32,4 +32,4 @@ Sehr gute Erfahrungen habe ich mit folgenden Platzierungen gemacht.
 
 [Folge mir gerne auf Youtube und erhalte weitere kostenlose E-Mail Marketing Tipps.](https://www.youtube.com/channel/UC3dMCOsiWBJyhxW8bMaGTmA)
 
-Wie du Newsletter Leads generieren kannst findest du in diesem [Beitrag](/leads-durch-die-newsletter-anmeldung-generieren/). Und wie du einen Newsletter aufbaust findest du [hier](/wie-sieht-der-aufbau-des-newsletter-aus/). Zum Schluss noch die Empfehlung für meinen [E-Mail Guide 2022](/e-mail-marketing-guide/) als PDF.
+Wie du Newsletter Leads generieren kannst findest du in diesem [Beitrag](/leads-durch-die-newsletter-anmeldung-generieren/). Und wie du einen Newsletter aufbaust findest du [hier](/wie-sieht-der-aufbau-des-newsletter-aus/).

@@ -52,9 +52,3 @@ Denke aber auch an Web-Safe-Fonts oder E-Mail-Safe-Fonts als Fallbackvariante de
 **Footer**: Dies ist der unterste Teil einer E-Mail und bildet den Abschluss einer Mail. Der Fußbereich ist genau wie der Header ein konstanter Bestandteil. Daher empfiehlt es sich den Header und Footer zentral zu verwalten und bei Bedarf anzupassen. Häufig wird eine andere Hintergrundfarbe für den Fußbereich gewählt, um diesen etwas abzugrenzen. Der Footer sollte rechtliche Informationen enthalten. Es können aber durchaus auch werbliche Elemente genutzt werden. Kontaktmöglichkeiten und Verweis auf soziale Netzwerke sollten hier auch noch einmal vermerkt sein.
 
 <div class="video" data-provider="youtube" data-id="rKCuslqniAo"></div>
-
-## Kennst du meinen E-Mail Guide?
-
-[![](/wp-content/uploads/2022/07/E-Mail-Guide-2022-Leaderboard.jpg)](/e-mail-marketing-guide/)
-
-Im [E-Mail Guide](/e-mail-marketing-guide/) erhältst du auf über 210 Seiten wertvolle Tipps aus der Praxis des E-Mail Marketings. Du findest viele Kampagnen, welche du direkt für deine tägliche Arbeit umsetzen kannst.

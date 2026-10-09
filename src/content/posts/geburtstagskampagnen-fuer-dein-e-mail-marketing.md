@@ -50,12 +50,6 @@ Aber was machst du wenn du das Geburtstagsdatum nicht kennst? Hier benötigst du
 
 Allerdings habe ich auch schon häufig die Erfahrung gemacht das man diese Daten kostenlos erhält sofern man den Grund nennt, also den Kunden mit einem exklusiven Geschenk zu überraschen. Das reicht in der Regel. Sofern du einen flexiblen Platz auf der Webseite im Kundenkonto oder im Mailing hast, kannst du den Empfänger von Zeit zu Zeit fragen und erinnern.
 
-## Kennst du bereits meinen E-Mail Guide?
-
-[![](/wp-content/uploads/2022/07/E-Mail-Marketing-Guide-2022_Large-Rectangle.jpg)](/e-mail-marketing-guide/)
-
-Im [E-Mail Guide](/e-mail-marketing-guide/) erhältst du auf über 210 Seiten wertvolle Tipps aus der Praxis des E-Mail Marketings. Du findest viele Kampagnen, welche du direkt für deine tägliche Arbeit umsetzen kannst.
-
 <div class="video" data-provider="youtube" data-id="0Nbmx_nufDc"></div>
 
 Grafik:

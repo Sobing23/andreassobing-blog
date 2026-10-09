@@ -34,8 +34,3 @@ Weitere Infos (Bildquelle) findest du hier: <https://blog.marketo.com/2017/01/th
 
 Siehe dir auch meinen Beitrag zum Thema [Kampagnenmailings Geburtstag](/geburtstagskampagnen-fuer-dein-e-mail-marketing/) an.
 
-## Kennst du den E-Mail Guide von mir?
-
-Auf über 200 Seiten findest du [v](/e-mail-marketing-guide/)[iele Praxisbeispiele und lernst eine Menge](/e-mail-marketing-guide/) über das Thema E-Mail Marketing.
-
-[![](/wp-content/uploads/2022/07/E-Mail-Guide-2022-Leaderboard.jpg)](/e-mail-marketing-guide/)
