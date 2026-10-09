@@ -96,5 +96,237 @@
         ]
       }
     ]
+  },
+  {
+    "key": "e-mail-marketing",
+    "name": "E-Mail-Marketing",
+    "titel": "E-Mail-Marketing: Der Überblick über alle Artikel",
+    "seoTitel": "E-Mail-Marketing: Verteiler, Kampagnen, Design, Zustellbarkeit und Kennzahlen",
+    "beschreibung": "Alles zu E-Mail-Marketing an einem Ort: Grundlagen, Verteileraufbau, Segmentierung, Kampagnen und Automatisierung, Design, Datenschutz, Zustellbarkeit und Kennzahlen.",
+    "intro": [
+      "E-Mail-Marketing ist einer der ältesten digitalen Kanäle und noch immer einer der wirksamsten. Du erreichst Menschen direkt in ihrem Postfach, und zwar nur die, die dir dafür ihre Erlaubnis gegeben haben. Dafür brauchst du keine Plattform, deren Regeln sich morgen ändern: Der Verteiler gehört dir.",
+      "Ich beschäftige mich seit vielen Jahren mit E-Mail-Marketing, habe in dieser Zeit Milliarden von Mails versendet und dafür unter anderem den Selligent E-Mail-Marketing Award gewonnen. Auf dieser Seite findest du alle meine Artikel zum Thema, geordnet entlang des Wegs einer Kampagne: vom Verteiler über Inhalt und Design bis zur Zustellung und Auswertung.",
+      "Wenn du neu einsteigst, beginne mit den Grundlagen und dem Verteileraufbau. Wenn du schon regelmäßig versendest, lohnen sich vor allem die Abschnitte Zustellbarkeit sowie Kennzahlen und Tests. Einige Artikel sind schon älter: Die Grundprinzipien gelten weiter, Zahlen, Tools und Rechtslage solltest du aber im Einzelfall prüfen."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen",
+        "text": "Was E-Mail-Marketing ist, was es bringt, was es kostet und wie du eine Strategie aufsetzt.",
+        "artikel": [
+          "die-entstehung-der-e-mail-und-dem-e-mail-marketing",
+          "wieso-die-e-mail-nicht-tot-ist",
+          "was-sind-die-vorteile-beim-e-mail-marketing",
+          "was-kostet-eigentlich-e-mail-marketing",
+          "11-tipps-um-kosten-beim-e-mail-marketing-zu-sparen",
+          "e-mail-marketing-inbound-oder-outbound",
+          "dein-leitfaden-fuer-eine-erfolgreiche-e-mail-marketingstrategie",
+          "ziele-umsatz-vs-engagement",
+          "haeufige-fragen-zum-e-mail-marketing",
+          "haeufigsten-fragen-und-antworten-e-mail-marketing"
+        ]
+      },
+      {
+        "titel": "Aufbau und Texte",
+        "text": "Wie eine E-Mail aufgebaut ist und wie du Betreffzeile, Preheader, Text und Call-to-Action schreibst.",
+        "artikel": [
+          "aufbau-der-e-mail-adresse",
+          "was-du-ueber-den-aufbau-einer-e-mail-wissen-musst",
+          "wie-sieht-der-aufbau-des-newsletter-aus",
+          "die-betreffzeile-fuer-dein-e-mail-marketing",
+          "der-e-mail-preheader-dein-erster-eindruck",
+          "10-unverzichtbare-tipps-fuer-ueberzeugende-e-mail-texte",
+          "14-tipps-um-bessere-e-mails-zu-schreiben",
+          "6-tipps-fuer-eine-hoehere-qualitaet-von-e-mails",
+          "kiss-fuer-e-mails-die-5-satz-formel",
+          "wie-man-einen-cta-button-erstellt-der-die-conversions-steigert",
+          "die-empfanger-typen-der-e-mail",
+          "bitte-keine-no-reply-adressen",
+          "effektive-cold-e-mails-wie-du-antworten-von-beschaeftigten-erhaeltst",
+          "9-tipps-fuer-e-mail-antworten-beschaeftigter-leute",
+          "e-mail-marketing-hacks-verdopple-deine-antwortraten",
+          "12-tipps-fuer-eine-bessere-e-mail-signatur"
+        ]
+      },
+      {
+        "titel": "Tools und Anbieter",
+        "text": "Welches Versandtool passt und auf welche Mail-Anbieter du achten solltest.",
+        "artikel": [
+          "das-richtige-e-mail-tool-finden",
+          "email-marketing-anbieter-vergleich",
+          "mail-anbieter",
+          "die-ultimativen-gpts-fuer-e-mail-marketing",
+          "mehrere-e-mail-postfaecher"
+        ]
+      },
+      {
+        "titel": "Verteiler aufbauen und pflegen",
+        "text": "Wie du neue Empfänger gewinnst, deine Daten nutzt und Abmeldungen senkst.",
+        "artikel": [
+          "welche-daten-besitzt-du-fuer-deine-verteilerliste",
+          "wie-kannst-du-die-vorhandenen-daten-aufbereiten",
+          "der-richtige-aufbau-des-verteilers-fuer-deine-newsletter",
+          "verteilerliste-auf-der-webseite-aufbauen",
+          "mit-der-gestaltung-des-anmeldeformulars-mehr-leads-erhalten",
+          "leads-durch-die-newsletter-anmeldung-generieren",
+          "wie-du-unwiderstehliche-lead-magneten-fuer-dein-marketing-erstellst",
+          "wie-du-deine-bestehenden-leads-fuer-dein-e-mail-marketing-nutzt",
+          "externe-quellen-fuer-neue-anmeldungen",
+          "extern-neue-adressen-generieren-fuer-deinen-e-mail-verteiler",
+          "warum-der-kauf-von-e-mail-listen-immer-eine-schlechte-idee-ist",
+          "12-gruende-fuer-abmeldungen-und-wie-du-diese-verhindern-kannst",
+          "bereinigung-des-verteilers",
+          "profilverwaltung-mit-dem-preference-center"
+        ]
+      },
+      {
+        "titel": "Segmentierung und Personalisierung",
+        "text": "Wie du Empfänger in Gruppen einteilst und jede Mail passend zuschneidest.",
+        "artikel": [
+          "segmentierung-vorgehen-und-vorteile",
+          "customer-lifecycle-clc",
+          "die-bedeutung-der-e-mail-personalisierung",
+          "e-mail-personalisierung-wie-du-deine-kunden-wirklich-erreichst",
+          "was-du-ueber-personalisierte-e-mails-wissen-musst",
+          "open-time-marketing-der-schluessel-zu-personalisierter-kundenansprache"
+        ]
+      },
+      {
+        "titel": "Kampagnen und Automatisierung",
+        "text": "Newsletter, Trigger-Mails, Willkommensstrecken und wie du Kampagnen planst.",
+        "artikel": [
+          "kampagnen-und-automatisierungen",
+          "das-vorgehen-beim-newsletter-versand",
+          "autoresponder-so-automatisierst-du-dein-e-mail-marketing",
+          "trigger-mails-sind-der-ausloeser-fuer-deinen-e-mail-erfolg",
+          "vorgehen-automatisierte-triggermails",
+          "17-ideen-fur-trigger-mails-kostenloses-whitepaper",
+          "negative-trigger-im-e-mail-marketing",
+          "mehrstufige-e-mail-kampagnen",
+          "so-gestaltest-du-effektive-willkommens-e-mails",
+          "mailstrecke-nach-dem-kauf",
+          "transaktions-e-mails-dein-schluessel-zu-effektiver-kundenkommunikation",
+          "vier-quick-wins-fuer-die-marketing-automation",
+          "automatisierung-rss-feeds-neuer-inhalte",
+          "instant-mails",
+          "redaktionsplan-erstellen",
+          "kampagnenplanung-verschafft-dir-planungssicherheit-fuer-dein-e-mail-marketing"
+        ]
+      },
+      {
+        "titel": "Kampagnenideen",
+        "text": "Konkrete Mailings rund um Warenkorb, Merkzettel, Bewertungen und persönliche Anlässe.",
+        "artikel": [
+          "warenkorbabbruch-mit-simplen-mails-senken",
+          "warenkorbabbruch-verhindern-und-conversions-steigern",
+          "3-merkzettel-kampagnen-die-deine-mitbewerber-nicht-machen",
+          "dank-der-produktverfuegbarkeit-kommen-deine-besucher-wieder",
+          "mehr-bewertungen-generieren-mit-e-mail-marketing",
+          "mit-der-zufriedenheitsumfrage-gewinnst-du-neue-erkenntnisse",
+          "geburtstagskampagnen-fuer-dein-e-mail-marketing",
+          "namenstag-kampagnen-machst-du-garantiert-noch-nicht",
+          "jubilaeum-email-kampagnen",
+          "e-mail-kampagnen-horoskop"
+        ]
+      },
+      {
+        "titel": "Saisonale Kampagnen",
+        "text": "Mailings für die wichtigsten Anlässe im Jahr, vom Valentinstag bis Silvester.",
+        "artikel": [
+          "wie-du-den-warenkorb-am-valentinstag-erhoehen-kannst",
+          "e-mail-kampagnen-fuer-den-super-bowl",
+          "e-mail-kampagnen-zu-ostern",
+          "e-mail-kampagnen-zum-muttertag-und-halloween",
+          "e-mail-kampagnen-zum-vatertag",
+          "kampagnen-zur-einschulung",
+          "mailkampagnen-fuer-black-friday-und-cyber-monday",
+          "e-mail-kampagnen-zu-weihnachten",
+          "silvester-mailkampagnen"
+        ]
+      },
+      {
+        "titel": "Design",
+        "text": "Gestaltung für Smartphone und Desktop, Bilder, Schriften und das Verhältnis von Bild und Text.",
+        "artikel": [
+          "mobile-ansicht-optimieren",
+          "mobile-first-fuer-dein-e-mail-marketing",
+          "optimale-bilder-fuer-deine-e-mails",
+          "stop-keine-blockierten-bilder",
+          "warum-alt-texte-wichtig-fuer-dein-e-mail-marketing-sind",
+          "was-ist-das-richtige-bild-text-verhaeltnis-in-e-mails",
+          "schriftarten-fuer-dein-e-mail-marketing",
+          "text-mail-vs-html-mail",
+          "e-mail-design-trends-2022-fuer-dein-marketing"
+        ]
+      },
+      {
+        "titel": "Datenschutz",
+        "text": "Einwilligung, Double Opt-in, Abmeldung und Tracking im Rahmen der DSGVO.",
+        "artikel": [
+          "was-du-ueber-das-double-opt-in-verfahren-wissen-musst",
+          "abmeldung-vom-newsletter",
+          "richtig-daten-sammeln-beim-e-mail-tracking",
+          "worauf-du-noch-achten-musst-beim-datenschutz",
+          "trotz-dsgvo-im-e-mail-marketing-wachsen"
+        ]
+      },
+      {
+        "titel": "Zustellbarkeit",
+        "text": "Wie deine Mails im Posteingang statt im Spam landen.",
+        "artikel": [
+          "zustellbarkeit-deiner-mails-verbessern",
+          "so-kommen-deine-e-mails-bei-den-e-mail-clients-garantiert-an",
+          "funf-fehler-die-man-bei-der-e-mail-zustellung-vermeiden-sollte",
+          "hard-bounces-und-soft-bounces",
+          "kennst-du-die-bounce-rate",
+          "kein-spam-fuer-deine-mails",
+          "allergische-reaktion-des-outlook-spamfilters",
+          "die-groesse-deiner-e-mail-entscheidet-ueber-die-zustellung",
+          "warum-sich-eine-dedizierte-ip-adresse-fuer-dein-e-mail-marketing-lohnen-kann",
+          "was-sind-wegwerf-adressen-im-e-mail-marketing",
+          "so-geht-die-e-mail-adressen-verifizierung"
+        ]
+      },
+      {
+        "titel": "Versandzeit und Häufigkeit",
+        "text": "Wann und wie oft du deine Empfänger anschreiben solltest.",
+        "artikel": [
+          "wann-ist-die-beste-versandzeit-fuer-deine-newsletter",
+          "optimierung-der-versandzeit-eine-case-study",
+          "wochenende-erfolgreichster-versandpunkt-fur-e-mails",
+          "e-mail-marketing-wie-viel-ist-zu-viel"
+        ]
+      },
+      {
+        "titel": "Kennzahlen und Tests",
+        "text": "Öffnungsrate, Klickrate, CTOR, Conversions, Tracking und A/B-Tests.",
+        "artikel": [
+          "kennzahlen-im-e-mail-marketing",
+          "oeffnungsrate-der-e-mails-steigern",
+          "warum-nicht-nur-die-oeffnungsrate-betrachtet-werden-sollte",
+          "23-tipps-um-deine-e-mail-klickrate-zu-verbessern",
+          "click-to-open-rate-ctor-fuer-erfolgreiches-e-mail-marketing",
+          "ctr-vs-cto-im-e-mail-marketing",
+          "ctr-vs-ctor",
+          "10-tipps-fuer-bessere-e-mail-konversionen",
+          "e-mail-tracking-mit-google-analytics",
+          "a-b-test-im-e-mail-marketing"
+        ]
+      },
+      {
+        "titel": "Tipps, Trends und Erfahrungen",
+        "text": "Sammlungen von Tipps, Checklisten und Rückblicke auf die Entwicklung des Kanals.",
+        "artikel": [
+          "5-tipps-fuer-das-e-mail-marketing",
+          "5-tips-fur-erfolgreiches-e-mail-marketing",
+          "e-mail-marketing-strategien-25-taktiken",
+          "checkliste-e-mail-versand",
+          "marktbeobachtung-im-e-mail-marketing",
+          "e-mail-marketing-auf-dem-naechsten-level-wie-ich-den-selligent-e-mail-marketing-award-gewonnen-habe",
+          "kostenloses-whitepaper-fur-online-handler-e-mail-marketing",
+          "e-mail-marketing-2022",
+          "e-mail-studie-2009"
+        ]
+      }
+    ]
   }
 ]
