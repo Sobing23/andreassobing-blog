@@ -1,5 +1,227 @@
 [
   {
+    "key": "grundlagen",
+    "name": "Marketing-Grundlagen",
+    "titel": "Marketing-Grundlagen: Der Überblick über alle Artikel",
+    "seoTitel": "Marketing-Grundlagen: Marketing-Mix, 4Ps, STP, Zielgruppen und AIDA einfach erklärt",
+    "beschreibung": "Die Grundlagen des Marketings an einem Ort: was Marketing ist, Marketing-Mix und 4Ps, Marketingplanung, Zielgruppen und Segmentierung, AIDA und die Customer Journey.",
+    "kurz": "Was Marketing ist, Marketing-Mix und 4Ps, Planung, Zielgruppen und Segmentierung, AIDA und Customer Journey.",
+    "intro": [
+      "Marketing ist mehr als Werbung. Es beginnt mit der Frage, was Kunden brauchen, und reicht vom Produkt über den Preis und den Vertrieb bis zur Kommunikation. Wer die Grundlagen kennt, kann jede neue Methode und jedes neue Tool einordnen.",
+      "In diesem Kapitel findest du alle meine Artikel zu den Grundbegriffen des Marketings: vom Marketing-Mix über die Planung und die Wahl der Zielgruppe bis zu den Modellen, die beschreiben, wie Kunden zu einer Kaufentscheidung kommen.",
+      "Wenn du neu im Marketing bist, ist dieses Kapitel der richtige Einstieg ins Handbuch. Danach bieten sich die Kapitel [Marke](/thema/marke/) und [Strategie und Planung](/thema/strategie/) an."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Was ist Marketing?",
+        "text": "Definition, Geschichte und Aufgaben des Marketings und wie es sich von Werbung und Vertrieb unterscheidet.",
+        "artikel": [
+          "grundlagen-des-marketings-was-steckt-dahinter",
+          "marketing-grundlagen-der-perfekte-einstieg-fuer-deinen-erfolg",
+          "definition-und-evolution-des-marketings-eine-reise-durch-die-zeit",
+          "unterschied-marketing-und-werbung-mehr-als-nur-begrifflichkeiten",
+          "die-entscheidende-rolle-des-marketings-in-unternehmen",
+          "tauch-ein-in-die-vielseitigen-bereiche-des-marketings",
+          "die-rolle-des-marketings-in-verschiedenen-branchen",
+          "absatz-marketing-definition",
+          "marketing-vs-verkaufsorientierung-ein-kampf-der-giganten",
+          "was-bedeutet-wert-im-marketing",
+          "b2b-marketing-im-fokus",
+          "entdecke-die-welt-des-b2c-marketings"
+        ]
+      },
+      {
+        "titel": "Marketing-Mix und Instrumente",
+        "text": "Die 4Ps, ihre Erweiterungen und die Werkzeuge, mit denen Marketing arbeitet.",
+        "artikel": [
+          "marketing-mix-einfach-erklaert",
+          "die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger",
+          "die-4ps-fuer-deinen-marketing-mix",
+          "4ps-marketing-beispiele",
+          "7ps-des-marketings-eine-erweiterung-des-klassischen-4ps-modells",
+          "booms-bitner-7p-service-marketing",
+          "das-4c-modell-im-marketing",
+          "was-sind-marketinginstrumente",
+          "die-5-wichtigsten-online-marketing-instrumente-die-du-kennen-solltest",
+          "marketingmassnahmen-beispiele-der-effektive-weg-zu-mehr-sichtbarkeit-und-erfolg"
+        ]
+      },
+      {
+        "titel": "Marketingplanung und Management",
+        "text": "Vom Marketingkonzept über Ziele und Strategie bis zu den operativen Maßnahmen.",
+        "artikel": [
+          "dein-leitfaden-zur-definition-von-marketing-management",
+          "marketing-management-planung-dein-fahrplan",
+          "der-marketingprozess-und-seine-stufen",
+          "marketing-konzepte-wie-du-dein-unternehmen-richtig-positionierst",
+          "die-kunst-einer-effektiven-strategie-im-marketing",
+          "der-unterschied-zwischen-strategischem-und-taktischem-marketing",
+          "operatives-marketing-einfach-erklaert-deine-praxisanleitung-mit-beispielen",
+          "marketingstrategien-beispiele-so-bringst-du-dein-unternehmen-auf-erfolgskurs",
+          "so-erstellst-du-deine-online-marketing-strategie",
+          "das-sostac-modell-dein-leitfaden-fuer-effektives-marketing",
+          "das-race-modell-im-marketing",
+          "marketing-umgebung-definition-elemente-und-ihre-bedeutung",
+          "die-fuenf-kriterien-von-smart-zielen",
+          "wie-du-ein-effektives-marketingsystem-aufbaust",
+          "kommunikationsplan-erstellen"
+        ]
+      },
+      {
+        "titel": "Zielgruppen und Segmentierung",
+        "text": "Wen du ansprichst, wie du Kunden in Gruppen einteilst und ihre Bedürfnisse verstehst.",
+        "artikel": [
+          "stp-modell-segmentieren-zielen-positionieren",
+          "kundensegmentierung-und-zielgruppenbildung",
+          "verstehen-deiner-zielgruppe-5-effektive-strategien",
+          "ideal-customer-profile-icp-definition-erstellung-und-vorteile",
+          "wie-du-deinen-ideal-kunden-avatar-identifizierst",
+          "warum-du-nur-drei-personas-fuer-dein-b2b-marketing-brauchst",
+          "warum-der-lebensstil-besser-ist-als-die-zielgruppe",
+          "sinus-milieus-im-marketing-was-du-wissen-musst",
+          "das-yr-4c-zielgruppenmodell",
+          "was-ist-ein-nischenmarkt-vorteile-und-wie-man-einen-findet",
+          "jobs-to-be-done-jtbd-fuer-die-kundenbeduerfnisse",
+          "mit-dem-jobs-to-be-done-modell-kundenbeduerfnisse-besser-verstehen",
+          "mit-dem-value-proposition-canvas-besser-kunden-gewinnen",
+          "die-maslowsche-beduerfnishierarchie-im-marketing"
+        ]
+      },
+      {
+        "titel": "Werbewirkung und Customer Journey",
+        "text": "Wie Menschen vom ersten Kontakt bis zum Kauf gelangen, von AIDA bis zur Customer Journey.",
+        "artikel": [
+          "die-aida-formel-dein-schluessel-zum-erfolgreichen-marketing",
+          "die-aidca-formel-dein-schluessel-zu-erfolgreichem-marketing",
+          "das-aidas-modell-die-weiterentwicklung-eines-bekannten-modells",
+          "das-aidcas-modell-der-ultimative-marketing-leitfaden",
+          "aisdalslove-die-weiterentwicklung-des-aida-modells",
+          "das-dagmar-modell-dein-marketing-navigator",
+          "das-siva-modell-im-marketing",
+          "das-stepppa-modell-dein-wegweiser-fuer-effektives-marketing",
+          "einfuehrung-in-das-see-think-do-care-modell",
+          "die-customer-journey",
+          "phasen-der-customer-journey",
+          "customer-journey-mapping-dein-wegweiser-zum-kundenverstaendnis",
+          "die-buyers-journey-ein-schluessel-zu-deinem-marketingerfolg",
+          "touchpoints-schluesselstellen-der-kundeninteraktion",
+          "der-produktlebenszyklus"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "marke",
+    "name": "Marke",
+    "titel": "Marke: Der Überblick über alle Artikel",
+    "seoTitel": "Marke und Branding: Markenmodelle, Positionierung, USP und Markenidentität",
+    "beschreibung": "Alles zu Marke und Branding an einem Ort: Grundlagen, Markenmodelle von Aaker bis Kapferer, Markenidentität und Purpose, Positionierung und USP, Markenwert, Gestaltung sowie Employer und Personal Branding.",
+    "kurz": "Branding-Grundlagen, Markenmodelle von Aaker bis Kapferer, Identität, Positionierung, USP und Markenwert.",
+    "intro": [
+      "Eine Marke ist mehr als ein Logo. Sie ist das Bild, das Menschen von einem Unternehmen oder Produkt im Kopf haben, und das Versprechen, das dahintersteht. Starke Marken machen Entscheidungen leichter, für Kunden genauso wie für Mitarbeitende.",
+      "In diesem Kapitel findest du alle meine Artikel zu Marke und Branding: die Grundlagen, die wichtigsten Markenmodelle, mit denen du eine Marke beschreibst und steuerst, Positionierung und Differenzierung sowie die Gestaltung im Alltag.",
+      "Wenn du einsteigst, beginne mit den Grundlagen und wähle dann eines der Markenmodelle. Wie Vision, Mission und Purpose mit der Marke zusammenhängen, findest du auch im Kapitel [Strategie und Planung](/thema/strategie/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen des Brandings",
+        "text": "Was eine Marke ausmacht, warum Branding sich lohnt und wie du eine Marke aufbaust.",
+        "artikel": [
+          "das-a-und-o-des-brandings",
+          "die-4-groessten-vorteile-des-branding-fuer-deine-marke",
+          "branding-warum-eine-marke-alleine-nicht-reicht",
+          "die-macht-der-zielgerichteten-markenbildung-warum-sie-so-wichtig-ist",
+          "was-erfolgreiche-marken-auszeichnet-4-erfolgsfaktoren-fuer-starkes-branding",
+          "wie-du-in-5-schritten-eine-erfolgreiche-marke-aufbaust",
+          "branding-checkliste-in-4-schritten-zur-erfolgreichen-markenstrategie",
+          "markenmanagement-fuer-deine-markenbildung",
+          "minimal-viable-brand-als-effektive-markenstrategie",
+          "7-fragen-fuer-dein-rebranding",
+          "branding-fuer-baumeister-die-netflix-erfahrung"
+        ]
+      },
+      {
+        "titel": "Markenmodelle",
+        "text": "Bewährte Modelle, mit denen du eine Marke beschreibst, entwickelst und steuerst.",
+        "artikel": [
+          "mit-dem-aaker-modell-baust-du-eine-starke-marke-auf",
+          "aakers-5-dimensionen-modell",
+          "customer-based-brand-equity-cbbe",
+          "das-identitaetsprisma-von-kapferer",
+          "das-kapferer-identitaetsprisma",
+          "die-markenidentitaet-nach-meffert-und-burmann",
+          "das-erweiterte-markensteuerrad-von-esch",
+          "bates-brand-wheel-fuer-dein-markenmanagement",
+          "unilever-brand-key-fuer-erfolgreiches-markenmanagement",
+          "brand-bios-das-think-moto-markenmodell",
+          "spies-brand-bios-fuer-effektives-markenmanagement",
+          "das-brand-holosphere-model-fuer-ganzheitliches-markenmanagement",
+          "der-markenleuchtturm-fuer-eine-starke-markenfuehrung",
+          "der-markenfilter-fuer-eine-klare-markenstrategie"
+        ]
+      },
+      {
+        "titel": "Markenkern, Identität und Purpose",
+        "text": "Wofür eine Marke steht, wie sie sich verhält und warum ein klarer Zweck sie stärkt.",
+        "artikel": [
+          "die-essenz-der-marke",
+          "brand-mantras-wie-du-deine-marke-mit-herz-und-seele-auflaedst",
+          "das-markenbild-wie-du-eine-starke-markenidentitaet-aufbaust",
+          "markenidentitaet-gestalten-die-wichtigsten-branding-elemente",
+          "markenverhalten-der-schluessel-zu-einer-erfolgreichen-markenstrategie",
+          "der-purpose-der-schluessel-zu-einer-erfolgreichen-markenstrategie",
+          "der-power-purpose-fuehrt-zum-unternehmenserfolg",
+          "entdecke-den-golden-circle-warum-der-schluessel-zum-erfolg-ist"
+        ]
+      },
+      {
+        "titel": "Positionierung und Differenzierung",
+        "text": "Wie du dich vom Wettbewerb abhebst und einen klaren Platz im Kopf deiner Kunden besetzt.",
+        "artikel": [
+          "markenpositionierung-und-persoenlichkeit-wie-du-deine-marke-in-den-koepfen-deiner-kunden-verankerst",
+          "marktpositionierung-erfolg-planen",
+          "marktpositionierung-konkurrenz-schlagen",
+          "internationale-marktpositionierung-dein-wegweiser-zum-globalen-erfolg",
+          "produkt-positionierung-strategien-beispiele-und-erfolgsfaktoren",
+          "produkt-differenzierung-strategien-beispiele-vorteile",
+          "warum-du-einen-usp-benoetigst",
+          "uvp-hilft-dir-dich-von-der-konkurrenz-abzuheben",
+          "kuckucksmarken-und-das-spiel-mit-der-wahrnehmung-wie-foreign-branding-funktioniert"
+        ]
+      },
+      {
+        "titel": "Markenwert und Markentreue",
+        "text": "Wie bekannt und wertvoll eine Marke ist und wie Kunden ihr treu bleiben.",
+        "artikel": [
+          "der-markenwert-ein-leitfaden-zur-steigerung-und-messung",
+          "brand-awareness-steigern-und-beispiele",
+          "der-ultimative-leitfaden-zur-schaffung-von-markentreue-die-bestand-hat"
+        ]
+      },
+      {
+        "titel": "Gestaltung und Kommunikation",
+        "text": "Wie eine Marke aussieht, klingt und spricht.",
+        "artikel": [
+          "visual-styleguide-ein-unverzichtbares-werkzeug-fuer-konsistentes-branding",
+          "verpackungsdesign-wie-du-mit-dem-richtigen-design-deine-produkte-in-den-koepfen-deiner-kunden-verankerst",
+          "farblehre",
+          "wie-du-den-richtigen-ton-fuer-deine-marke-findest",
+          "was-du-ueber-die-message-map-wissen-musst",
+          "silence-is-the-new-pr-wann-schweigen-wirkt"
+        ]
+      },
+      {
+        "titel": "Employer und Personal Branding",
+        "text": "Die Marke als Arbeitgeber und die Marke als Person.",
+        "artikel": [
+          "employer-branding-wie-du-dein-unternehmen-als-attraktiven-arbeitgeber-positionierst",
+          "personal-branding-aufbauen",
+          "personal-branding-canvas-9-elemente-fuer-deine-erfolgreiche-marke"
+        ]
+      }
+    ]
+  },
+  {
     "key": "okr",
     "name": "OKR",
     "titel": "OKR: Der Überblick über alle Artikel",

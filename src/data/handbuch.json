@@ -6,6 +6,14 @@
   ],
   "teile": [
     {
+      "titel": "Marketing-Grundlagen und Marke",
+      "text": "Das Fundament: was Marketing ist, wie du Zielgruppen findest und eine starke Marke aufbaust.",
+      "kapitel": [
+        "grundlagen",
+        "marke"
+      ]
+    },
+    {
       "titel": "Strategie und Unternehmen",
       "text": "Wohin ein Unternehmen will, wie es dorthin kommt und welche wirtschaftlichen Gesetze dabei wirken.",
       "kapitel": [
@@ -33,9 +41,11 @@
     }
   ],
   "geplant": [
-    "Marke",
-    "Marketing-Grundlagen",
+    "Kunden und CRM",
     "Preisgestaltung",
+    "Content, SEO und Social Media",
+    "Growth Marketing",
+    "Marktforschung",
     "Psychologie im Marketing",
     "Agiles Arbeiten",
     "Arbeitsweisen und Produktivität"
