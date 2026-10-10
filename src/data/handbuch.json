@@ -1,15 +1,17 @@
 {
   "titel": "Das Marketing-Handbuch",
   "intro": [
-    "Seit 2009 schreibe ich in diesem Blog über Marketing, Strategie und Führung. Aus fast 1.000 Artikeln entsteht nach und nach ein Handbuch: Die Artikel sind in Kapitel geordnet, jedes Kapitel führt vom Einstieg bis in die Tiefe.",
+    "Seit 2009 schreibe ich in diesem Blog über Marketing, Strategie und Führung. Aus fast 1.000 Artikeln ist ein Handbuch geworden: Die Artikel sind in Kapitel geordnet, jedes Kapitel führt vom Einstieg bis in die Tiefe.",
     "Du kannst das Handbuch von vorne lesen oder direkt in das Kapitel springen, das dich gerade interessiert. Begriffe, die dir unterwegs begegnen, findest du im [Marketing-Glossar](/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/)."
   ],
   "teile": [
     {
-      "titel": "Marketing-Grundlagen und Marke",
-      "text": "Das Fundament: was Marketing ist, wie du Zielgruppen findest und eine starke Marke aufbaust.",
+      "titel": "Grundlagen: Marketing, Menschen und Marken",
+      "text": "Das Fundament: was Marketing ist, wie Menschen entscheiden, wie du Märkte erforschst und eine starke Marke aufbaust.",
       "kapitel": [
         "grundlagen",
+        "psychologie",
+        "marktforschung",
         "marke"
       ]
     },
@@ -25,29 +27,26 @@
     },
     {
       "titel": "Marketing in der Praxis",
-      "text": "Kunden gewinnen und halten, Kanäle und Werkzeuge für die tägliche Arbeit im Marketing.",
+      "text": "Kunden gewinnen und halten, Preise setzen, Inhalte, Kanäle und Werkzeuge für die tägliche Arbeit.",
       "kapitel": [
         "kunden",
         "preise",
+        "content",
         "e-mail-marketing",
+        "growth",
         "ki"
       ]
     },
     {
-      "titel": "Führung und Zusammenarbeit",
-      "text": "Wie du Menschen führst und Veränderungen im Unternehmen begleitest.",
+      "titel": "Führung, Zusammenarbeit und Arbeitsweisen",
+      "text": "Wie du Menschen führst, Veränderungen begleitest, im Team agil arbeitest und deine eigene Arbeit organisierst.",
       "kapitel": [
         "fuehrung",
-        "change"
+        "change",
+        "agil",
+        "produktivitaet"
       ]
     }
   ],
-  "geplant": [
-    "Content, SEO und Social Media",
-    "Growth Marketing",
-    "Marktforschung",
-    "Psychologie im Marketing",
-    "Agiles Arbeiten",
-    "Arbeitsweisen und Produktivität"
-  ]
+  "geplant": []
 }

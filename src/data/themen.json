@@ -47,6 +47,20 @@
         ]
       },
       {
+        "titel": "Produkt und Angebot",
+        "text": "Wie Produkte eingeordnet, entwickelt und über ihren Lebenszyklus geführt werden.",
+        "artikel": [
+          "der-produktlebenszyklus",
+          "strategien-zur-verlaengerung-des-produktlebenszyklus",
+          "produktklassifikationen-und-produktlinienmanagement-eine-einfuehrung",
+          "themen-in-der-produktentwicklung-ein-leitfaden-fuer-effektives-marketing",
+          "wie-man-eine-unwiderstehliche-wertproposition-fuer-e-commerce-erstellt",
+          "mehr-wert-bieten-ein-neuer-blick-auf-marketingstrategien",
+          "supply-chain-management-im-marketing",
+          "gruenes-marketing-nachhaltigkeit-als-erfolgsfaktor"
+        ]
+      },
+      {
         "titel": "Marketingplanung und Management",
         "text": "Vom Marketingkonzept über Ziele und Strategie bis zu den operativen Maßnahmen.",
         "artikel": [
@@ -104,8 +118,7 @@
           "phasen-der-customer-journey",
           "customer-journey-mapping-dein-wegweiser-zum-kundenverstaendnis",
           "die-buyers-journey-ein-schluessel-zu-deinem-marketingerfolg",
-          "touchpoints-schluesselstellen-der-kundeninteraktion",
-          "der-produktlebenszyklus"
+          "touchpoints-schluesselstellen-der-kundeninteraktion"
         ]
       }
     ]
@@ -810,6 +823,18 @@
           "amazon-prime-ist-eine-der-ungewoehnlichsten-geschaeftsideen-aller-zeiten",
           "1-000-wahre-fans"
         ]
+      },
+      {
+        "titel": "Internationales Marketing",
+        "text": "Was du beachten musst, wenn du mit Produkten und Kampagnen in andere Länder gehst.",
+        "artikel": [
+          "globale-marketingstrategien-erfolgreich-international-wachsen",
+          "internationale-marktsegmentierung-im-marketing",
+          "anpassung-von-produkten-und-werbung-fuer-verschiedene-maerkte",
+          "erfolgreiche-internationale-marketingkampagnen",
+          "risiken-und-herausforderungen-im-internationalen-marketing",
+          "handelsabkommen-und-zoelle"
+        ]
       }
     ],
     "kurz": "Vision und Mission, SWOT, PESTEL und Porter, strategische Planung, Wachstum und Geschäftsmodelle."
@@ -860,6 +885,7 @@
           "6-mindsets-fuer-starke-marketing-teams",
           "radikale-transparenz-erfolg-durch-ideen-meritokratie",
           "ueberwindung-der-schwarmdummheit-ein-genial-einfacher-ansatz",
+          "wie-nutzt-du-den-hive-mind-im-marketing",
           "die-holokratie-als-neue-organisationsform-im-unternehmen",
           "organisationsstrukturen-der-big-six",
           "qualitaetsmanagement-was-steckt-wirklich-dahinter"
@@ -876,6 +902,14 @@
           "googles-erfolgsgeheimnisse-einblicke-in-die-arbeitsweise",
           "steve-jobs-ein-visionaer-und-sein-reality-distortion-field",
           "checklist-10-rockefeller-regeln"
+        ]
+      },
+      {
+        "titel": "Personal gewinnen",
+        "text": "Wie du gute Leute findest und deine Mitarbeitenden dabei einbindest.",
+        "artikel": [
+          "mitarbeiterempfehlungen-sparen-geld",
+          "personalsuche-2-0-5-recruiting-tipps"
         ]
       }
     ],
@@ -1173,6 +1207,553 @@
           "koennen-designer-von-restaurants-die-besten-preisgestaltungstechniken-lernen",
           "der-veblen-effekt-luxusgueter-und-das-phaenomen-des-konsums",
           "preisverhandlung-jede-sekunde-zaehlt"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "content",
+    "name": "Content, SEO und Social Media",
+    "titel": "Content, SEO und Social Media: Der Überblick über alle Artikel",
+    "seoTitel": "Content-Marketing, SEO und Social Media: Texte, Storytelling, Werbung und Website",
+    "beschreibung": "Alles zu Inhalten und Sichtbarkeit an einem Ort: Content-Marketing, Texte und Storytelling, SEO und Suchmaschinenwerbung, Social Media und Werbung sowie Website, UX und Conversion.",
+    "kurz": "Content-Marketing, Texte und Storytelling, SEO und Google Ads, Social Media, Werbung, Website und UX.",
+    "intro": [
+      "Gute Inhalte sind die Grundlage fast jedes Marketings: Sie werden gefunden, geteilt und verlinkt und bringen Menschen auf deine Website. Damit das klappt, müssen Text, Suchmaschinenoptimierung, Kanäle und Website zusammenspielen.",
+      "In diesem Kapitel findest du alle meine Artikel dazu: wie du Content planst und mehrfach nutzt, Texte schreibst, die gelesen werden, bei Google sichtbar wirst, Social Media und Werbung einsetzt und deine Website so gestaltest, dass Besucher zu Kunden werden.",
+      "Einige ältere Artikel zu Social Media aus den Jahren 2009 bis 2013 sind bewusst nicht Teil des Kapitels, du findest sie im [Archiv](/archiv/). Wie du KI für Texte und Recherche nutzt und in KI-Antworten sichtbar wirst, steht im Kapitel [KI im Marketing](/thema/ki/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Content-Marketing",
+        "text": "Inhalte planen, erstellen, mehrfach verwerten und ihren Erfolg messen.",
+        "artikel": [
+          "das-content-marketing-modell",
+          "der-schluessel-zum-erfolgreichen-digitalen-marketing-content-creation",
+          "wie-man-grossartigen-content-schreibt",
+          "evergreen-content",
+          "content-recycling-so-nutzt-du-deinen-content-optimal-aus",
+          "wasserfall-prinzip-macht-mehr-aus-deinem-content",
+          "redaktionsplan-blogartikel-planen",
+          "dein-ultimativer-guide-zu-content-marketing-kpis",
+          "audience-development-entschluesselt",
+          "unterschiede-zwischen-paid-owned-und-earned-media",
+          "was-ist-shoppable-content-wie-erstellt-man-ihn",
+          "zero-click-content-meistern"
+        ]
+      },
+      {
+        "titel": "Texte schreiben",
+        "text": "Überschriften, Lesbarkeit, Aufbau und Copywriting-Formeln für Texte, die wirken.",
+        "artikel": [
+          "wie-schreibe-ich-bessere-texte",
+          "14-kategorien-fuer-perfekte-ueberschriften",
+          "die-drei-grundregeln-der-lesbarkeit",
+          "die-4-felder-der-umgekehrten-pyramide",
+          "ernest-hemingway-und-die-eisberg-theorie-einfachheit-mit-tiefe",
+          "blogposts-wie-ein-profi-schreiben-tipps-von-seth-godin",
+          "von-apple-lernen-so-schreibst-du-ueberzeugende-marketingtexte",
+          "produktbeschreibungen-die-verkaufen-ein-leitfaden-fuer-effektives-marketing",
+          "pas-formel-copywriting-das-verkauft",
+          "pastor-formel-so-verkaufst-du-klug",
+          "die-piazza-formel-im-marketing",
+          "die-vier-hauptkategorien-von-pain-point-marketing",
+          "cta-beispiele-15-ideen-perfekte-formel",
+          "die-macht-der-marketingaussagen",
+          "die-kraft-der-advertising-proposition",
+          "das-marketing-angle-system"
+        ]
+      },
+      {
+        "titel": "Storytelling",
+        "text": "Wie Geschichten Aufmerksamkeit wecken und Botschaften im Gedächtnis verankern.",
+        "artikel": [
+          "die-magie-des-geschichtenerzaehlens-pixars-22-goldene-regeln",
+          "die-magie-des-storytellings-lerne-von-disney",
+          "storytelling-thats-what-it-is-all-about",
+          "die-perfekte-produktgeschichte-schreiben"
+        ]
+      },
+      {
+        "titel": "SEO und Suchmaschinenwerbung",
+        "text": "Wie du bei Google gefunden wirst, organisch und mit Anzeigen.",
+        "artikel": [
+          "aufbau-einer-seo-strategie",
+          "die-drei-saeulen-von-e-a-t",
+          "effektive-inhalte-mit-pillar-seiten",
+          "warum-du-eine-pillar-page-auf-deiner-webseite-brauchst",
+          "grundlagen-der-suchmaschinenoptimierung",
+          "suchen-und-gefunden-werden-google-einfuhrung-in-seo",
+          "einfuehrung-in-die-suchmaschinenwerbung-google-ads",
+          "single-keyword-ad-groups-skags"
+        ]
+      },
+      {
+        "titel": "Social Media, Werbung und Kampagnen",
+        "text": "Kanäle, Werbeformen und besondere Kampagnenideen.",
+        "artikel": [
+          "social-media-plattformen-und-ihre-verwendung-fuer-das-marketing",
+          "erstellung-einer-werbekampagne",
+          "durch-ad-awareness-die-aufmerksamkeit-deiner-zielgruppe-gewinnen",
+          "die-macht-der-werbung-17-ikonische-kampagnen-die-die-welt-veraendert-haben",
+          "buzz-marketing-verleiht-deiner-marke-fluegel",
+          "ambush-marketing-ein-cleverer-zug-oder-ein-riskanter-schachzug",
+          "spannungsmarketing-wie-spannung-kauflust-weckt",
+          "vibe-marketing-zukunft-der-markenbindung",
+          "micro-moments-im-marketing",
+          "marketing-strategien-fuer-die-feiertage",
+          "duftmarketing-als-unterschaetztes-werkzeug",
+          "einfuehrung-in-das-affiliate-marketing",
+          "so-meisterst-du-affiliate-marketing",
+          "die-rolle-der-oeffentlichkeitsarbeit-in-krisensituationen"
+        ]
+      },
+      {
+        "titel": "Website, UX und Conversion",
+        "text": "Wie du eine Website gestaltest, die verständlich ist und Besucher zum Handeln bringt.",
+        "artikel": [
+          "website-design-die-wichtigsten-prinzipien-fuer-eine-erfolgreiche-webseite",
+          "dont-make-me-think-so-gestaltest-du-deine-seite-benutzerfreundlicher",
+          "user-experience-ux-warum-sie-so-wichtig-ist",
+          "warum-eine-gute-user-experience-zu-mehr-conversions-fuehrt",
+          "ux-writing-fuer-eine-bessere-nutzererfahrung",
+          "ux-writing-in-zahlen-fuer-mehr-erfolg",
+          "teslers-gesetz-komplexitaet-im-ux-design",
+          "visual-stacking-so-funktioniert-das-prinzip-der-visuellen-hierarchie",
+          "warum-above-the-fold-immer-noch-wichtig-ist",
+          "kontextmenues-richtig-nutzen-guidelines",
+          "formularoptimierung-ein-leitfaden-fuer-mehr-konversionen",
+          "conversions-im-checkout-optimieren",
+          "black-friday-landingpage-das-ganze-jahr"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "growth",
+    "name": "Growth Marketing",
+    "titel": "Growth Marketing: Der Überblick über alle Artikel",
+    "seoTitel": "Growth Marketing: AARRR, Flywheel, Product-Led Growth, Experimente und Attribution",
+    "beschreibung": "Alles zu Wachstum an einem Ort: Growth Marketing und Growth Hacking, AARRR und Flywheel, Product-Led Growth, Experimente und ihre Priorisierung, Leads und Vertrieb sowie Erfolgsmessung und Attribution.",
+    "kurz": "AARRR, Flywheel, Product-Led Growth, Experimente priorisieren, Leads, Vertrieb und Attribution.",
+    "intro": [
+      "Growth Marketing betrachtet den ganzen Weg eines Kunden, vom ersten Kontakt bis zur Weiterempfehlung, und sucht systematisch nach den Stellen, an denen sich Wachstum am stärksten beschleunigen lässt. Statt auf einzelne große Kampagnen setzt es auf viele kleine Experimente und klare Kennzahlen.",
+      "In diesem Kapitel findest du alle meine Artikel dazu: die Grundmodelle wie AARRR und Flywheel, Product-Led Growth, wie du Experimente findest und priorisierst, wie du Leads gewinnst und den Vertrieb aufstellst und wie du den Erfolg deiner Maßnahmen misst.",
+      "Wie du Wachstumsziele mit OKRs steuerst, findest du im Kapitel [OKR](/thema/okr/), wie du Kunden hältst, im Kapitel [Kunden und CRM](/thema/kunden/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen und Modelle",
+        "text": "Was Growth Marketing ist und mit welchen Modellen du Wachstum beschreibst.",
+        "artikel": [
+          "die-essenz-des-growth-marketings-ein-umfassender-leitfaden",
+          "der-7-stufige-growth-marketing-prozess",
+          "entdecke-die-macht-des-growth-hackings",
+          "mit-dem-aarrr-modell-zum-erfolg-fuer-produktmanager",
+          "das-flywheel-bringt-schwung-in-dein-marketing",
+          "loop-marketing-wachstum-mit-system",
+          "die-macht-des-north-star-metric-im-marketing"
+        ]
+      },
+      {
+        "titel": "Product-Led Growth",
+        "text": "Wenn das Produkt selbst Kunden gewinnt.",
+        "artikel": [
+          "starte-deine-plg-bewegung-in-fuenf-schritten",
+          "product-led-growth-flywheel-mehr-wachstum",
+          "wie-du-productize-in-deinem-marketing-nutzt"
+        ]
+      },
+      {
+        "titel": "Experimente und Priorisierung",
+        "text": "Ideen für Wachstumsexperimente finden und entscheiden, welche zuerst kommen.",
+        "artikel": [
+          "wie-du-hochwertige-wachstumsexperimentideen-generierst",
+          "wie-coca-cola-marketing-experimente-als-superkraft-nutzt",
+          "wie-du-die-richtigen-priorisierungs-frameworks-fuer-dein-marketing-auswaehlst",
+          "priorisieren-mit-der-ice-bewertungsmethode",
+          "so-formulierst-du-ideen-mit-dem-pie-framework",
+          "priorisieren-mit-dem-pxl-framework",
+          "wie-hipe-hilft-ressourcen-optimal-zu-nutzen"
+        ]
+      },
+      {
+        "titel": "Leads, Vertrieb und E-Commerce",
+        "text": "Nachfrage erzeugen, Leads gewinnen und die passenden Vertriebswege wählen.",
+        "artikel": [
+          "demand-gen-dein-leitfaden-zur-nachfragesteigerung-im-marketing",
+          "die-evolution-der-demand-generation-der-neue-weg-im-b2b-marketing",
+          "wie-du-leads-generieren-kannst",
+          "11-strategien-zur-optimierung-verkaufstrichter",
+          "effektive-vertriebsplanung-und-steuerung-im-marketing",
+          "direktvertrieb-vs-indirekter-vertrieb-welcher-vertriebsweg-ist-der-richtige-fuer-dich",
+          "multi-channel-vertrieb-im-marketing",
+          "direkt-zum-kunden-das-erfolgsrezept-von-direct-to-consumer-d2c",
+          "direktmarketing-und-online-marketing",
+          "e-commerce-marketingstrategien",
+          "bopis-prinzip-die-zukunft-des-einzelhandels",
+          "einzelhandelsmarketing",
+          "composable-commerce-dein-baukasten-fuer-den-modernen-e-commerce"
+        ]
+      },
+      {
+        "titel": "Erfolg messen und steuern",
+        "text": "Welche Maßnahme wie viel bringt und wie du Budgets richtig verteilst.",
+        "artikel": [
+          "attribution-so-kannst-du-den-erfolg-deiner-marketing-kampagnen-messen",
+          "marketing-mix-modeling",
+          "digital-analytics-kpis-tools-praxis",
+          "brass-modell-fuer-dein-erfolgreiches-marketing",
+          "brice-fuer-nachhaltigen-erfolg-im-marketing",
+          "business-value-based-marketing-dein-schluessel-zum-erfolg",
+          "40-40-20-regel-fuer-eine-effektive-marketingstrategie",
+          "die-theory-of-constraints-im-marketing"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "marktforschung",
+    "name": "Marktforschung",
+    "titel": "Marktforschung: Der Überblick über alle Artikel",
+    "seoTitel": "Marktforschung: Desk und Field Research, Fragebögen, Statistik und Datenanalyse",
+    "beschreibung": "Alles zur Marktforschung an einem Ort: Desk und Field Research, qualitative und quantitative Methoden, Forschungsdesign, Fragebögen, Statistik und Datenanalyse.",
+    "kurz": "Desk und Field Research, qualitative und quantitative Methoden, Fragebögen, Statistik und Datenanalyse.",
+    "intro": [
+      "Gute Marketingentscheidungen beruhen auf Wissen über Markt, Kunden und Wettbewerb. Marktforschung liefert dieses Wissen, mal mit vorhandenen Daten vom Schreibtisch aus, mal mit eigenen Befragungen und Experimenten.",
+      "In diesem Kapitel findest du alle meine Artikel dazu: die wichtigsten Methoden, wie du eine Untersuchung planst und einen Fragebogen baust, welche statistischen Kennzahlen du kennen solltest und wie du Daten auswertest und verständlich präsentierst.",
+      "Wie du Kunden in Gruppen einteilst und Zielgruppen bildest, findest du im Kapitel [Marketing-Grundlagen](/thema/grundlagen/), Werkzeuge zur Wettbewerbsanalyse im Kapitel [Strategie und Planung](/thema/strategie/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Methoden und Forschungsdesign",
+        "text": "Welche Arten von Marktforschung es gibt und wie du eine Untersuchung aufbaust.",
+        "artikel": [
+          "desk-research-und-field-research-im-vergleich",
+          "qualitative-und-quantitative-forschung",
+          "forschungsdesign-und-datenquellen",
+          "verwendung-von-sekundaerdaten-in-der-marktforschung",
+          "experimentelles-design-in-der-marktforschung",
+          "erstellung-von-frageboegen-dein-leitfaden-fuer-erfolgreiche-umfragen"
+        ]
+      },
+      {
+        "titel": "Statistik und Datenanalyse",
+        "text": "Kennzahlen, Methoden und Werkzeuge, mit denen du Daten auswertest.",
+        "artikel": [
+          "die-macht-der-zahlen-statistik-in-der-marktforschung",
+          "varianz-und-standardabweichung-warum-diese-statistischen-kennzahlen-wichtig-sind",
+          "analyse-und-interpretation-von-daten",
+          "die-relative-weight-methode",
+          "einfuehrung-in-datenanalysetools-dein-leitfaden-zu-spss",
+          "die-rolle-von-big-data-und-predictive-analytics-im-marketing",
+          "daten-fuer-die-segmentrierung",
+          "die-besten-tools-zur-analyse-deiner-online-marketing-konkurrenz",
+          "data-storytelling-impactvolle-botschaften"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "psychologie",
+    "name": "Psychologie im Marketing",
+    "titel": "Psychologie im Marketing: Der Überblick über alle Artikel",
+    "seoTitel": "Psychologie im Marketing: Konsumentenverhalten, Denkfehler, Überzeugung und Verkaufspsychologie",
+    "beschreibung": "Alles zur Psychologie im Marketing an einem Ort: Konsumentenverhalten und Kaufentscheidung, Effekte und Denkfehler, Prinzipien des Überzeugens, Neuromarketing, Verkaufen und Verhandeln sowie Persönlichkeitsmodelle.",
+    "kurz": "Kaufentscheidung, Denkfehler und Effekte, Überzeugen nach Cialdini, Neuromarketing, Verkaufen und Verhandeln.",
+    "intro": [
+      "Menschen entscheiden selten so rational, wie sie selbst glauben. Gewohnheiten, Gefühle, das Verhalten anderer und viele kleine Denkfehler beeinflussen, was wir kaufen und wem wir vertrauen. Wer diese Mechanismen kennt, versteht seine Kunden besser und kommuniziert wirksamer.",
+      "In diesem Kapitel findest du alle meine Artikel dazu: wie Kaufentscheidungen entstehen, welche Effekte und Verzerrungen dabei wirken, wie Überzeugung funktioniert, was Neuromarketing beiträgt und wie du die Erkenntnisse im Verkauf und in Verhandlungen nutzt.",
+      "Ein Hinweis zur Verantwortung: Die beschriebenen Prinzipien wirken, und genau deshalb solltest du sie fair einsetzen. Wie Preise im Kopf wirken, findest du im Kapitel [Preisgestaltung](/thema/preise/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Konsumentenverhalten und Kaufentscheidung",
+        "text": "Welche Faktoren Kaufentscheidungen prägen und wie der Weg zum Kauf verläuft.",
+        "artikel": [
+          "faktoren-die-das-konsumentenverhalten-beeinflussen",
+          "psychologische-einfluesse-auf-das-konsumentenverhalten",
+          "soziokulturelle-faktoren-auf-das-konsumentenverhalten",
+          "die-rolle-von-emotionen-und-einstellungen-im-konsumentenverhalten",
+          "die-auswirkungen-von-online-bewertungen-und-sozialen-medien-auf-das-konsumentenverhalten",
+          "der-kaufentscheidungsprozess",
+          "kaufentscheidungsprozess-so-ticken-kunden",
+          "die-unsichtbaren-faeden-im-kopf-warum-dein-gehirn-laengst-gekauft-hat-bevor-du-warenkorb-klickst",
+          "wie-du-die-kaufmotivation-deiner-kunden-verstehst-und-nutzt",
+          "was-kunden-wirklich-wollen-ein-tiefgreifender-blick-in-die-online-kaufgewohnheiten",
+          "country-of-origin-effekt-wie-das-herkunftsland-die-kaufentscheidung-beeinflusst",
+          "die-sozialen-charaktertypen-von-riesman-im-marketing",
+          "die-verschiedenen-spieler-typen-erreichen",
+          "5-tipps-zur-erleichterung-der-kundenkaufe"
+        ]
+      },
+      {
+        "titel": "Effekte und Denkfehler",
+        "text": "Typische Verzerrungen und Effekte, die unser Urteil beeinflussen.",
+        "artikel": [
+          "kognitive-verzerrungen-dein-schluessel-zum-kundenhirn",
+          "status-quo-verzerrung-warum-wir-so-oft-beim-altbekannten-bleiben",
+          "sunk-cost-fallacy-erkennen-vermeiden",
+          "das-paradox-of-choice-und-die-kunst-der-beschraenkung",
+          "spring-auf-den-zug-auf-der-bandwagon-effekt-im-marketing",
+          "exklusivitaet-und-prestige-der-snobeffekt-in-der-marketingwelt",
+          "kognitive-leichtigkeit-steigert-die-wirkung-deiner-botschaften",
+          "die-fuenf-dimensionen-von-neugier",
+          "die-magie-der-drei-worte",
+          "der-reaktanz-effekt-wie-du-widerstand-in-zustimmung-verwandelst",
+          "verkaufspsychologie-wie-reaktanz-deine-kunden-beeinflusst"
+        ]
+      },
+      {
+        "titel": "Überzeugen und Einfluss",
+        "text": "Die Prinzipien des Überzeugens und bekannte Techniken der Einflussnahme.",
+        "artikel": [
+          "die-sieben-prinzipien-des-ueberzeugens",
+          "das-prinzip-der-knappheit-mehr-als-nur-ein-verkaufstrick",
+          "social-proof-der-unsichtbare-einfluss-auf-deine-kundenentscheidungen",
+          "reziprozitaet-mehr-umsatz-durch-kostenlose-proben",
+          "die-door-in-the-face-technik",
+          "die-foot-in-the-door-technik",
+          "die-thats-not-all-technik",
+          "wie-du-mit-dem-hooked-modell-deine-nutzer-an-dein-produkt-bindest"
+        ]
+      },
+      {
+        "titel": "Neuromarketing und Gestaltung",
+        "text": "Was Hirnforschung und Farbpsychologie über wirksame Gestaltung sagen.",
+        "artikel": [
+          "neuromarketing-2-0-ein-umfassender-leitfaden",
+          "neurorhetorik-dein-schweizer-taschenmesser-fuer-effektive-websites",
+          "die-psychologie-der-farben",
+          "rot-gegen-gruen-welche-schaltflaechenfarbe-ist-der-gewinner"
+        ]
+      },
+      {
+        "titel": "Verkaufen und Verhandeln",
+        "text": "Verkaufspsychologie, Gesprächsführung, Einwandbehandlung und Verhandlungstechnik.",
+        "artikel": [
+          "die-kunst-der-verkaufspsychologie-wie-du-das-menschliche-gehirn-zu-deinem-vorteil-nutzt",
+          "kundenverstaendnis-im-vertrieb",
+          "wie-man-alles-jederzeit-an-jeden-verkauft-ein-tiefer-einblick",
+          "straight-line-system-verkaufe-jeden-deal",
+          "das-setter-closer-prinzip-revolutioniere-deinen-verkaufsprozess",
+          "den-verkaufsprozess-reverse-engineern",
+          "assumptive-close-ein-effektiver-verkaufstrick",
+          "meistere-die-kunst-der-einwandbehandlung-6-methoden-fuer-effektiveres-verkaufen",
+          "objections-meistern-im-sales",
+          "das-harvard-konzept-verhandeln-mit-erfolg"
+        ]
+      },
+      {
+        "titel": "Persönlichkeitsmodelle",
+        "text": "Modelle, die Unterschiede zwischen Menschen beschreiben.",
+        "artikel": [
+          "myers-briggs-typenindikator-verstehen-und-nutzen",
+          "disg-was-du-aus-dem-persoenlichkeitstest-lernst"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "agil",
+    "name": "Agiles Arbeiten",
+    "titel": "Agiles Arbeiten: Der Überblick über alle Artikel",
+    "seoTitel": "Agiles Arbeiten: Scrum, Kanban, Spotify-Modell, Design Thinking und Lean",
+    "beschreibung": "Alles zu agilem Arbeiten an einem Ort: Agiles Manifest und Kanban, Scrum und seine Rollen, agile Organisation und Skalierung, Produktentwicklung mit Design Thinking und Priorisierung sowie Lean.",
+    "kurz": "Agiles Manifest, Scrum, Kanban, Spotify-Modell und SAFe, Design Thinking, Priorisierung und Lean.",
+    "intro": [
+      "Agiles Arbeiten ist in der Softwareentwicklung entstanden und hat sich längst auch im Marketing durchgesetzt. Die Idee: in kurzen Zyklen arbeiten, früh Ergebnisse zeigen, aus Rückmeldungen lernen und den Plan regelmäßig anpassen, statt monatelang auf ein fertiges Ergebnis hinzuarbeiten.",
+      "In diesem Kapitel findest du alle meine Artikel dazu: die Grundlagen von Agilität und Kanban, Scrum mit seinen Rollen, wie sich größere Organisationen agil aufstellen, wie agile Produktentwicklung funktioniert und was Lean beiträgt.",
+      "Wie agile Teams Ziele setzen, findest du im Kapitel [OKR](/thema/okr/), wie du Veränderungen in der Organisation begleitest, im Kapitel [Change Management](/thema/change/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen und Kanban",
+        "text": "Was Agilität bedeutet, wie Kanban funktioniert und wie Prozesse sich ständig verbessern.",
+        "artikel": [
+          "agiles-manifest-dein-erfolg-im-marketing",
+          "agiles-marketing-eine-veraenderung-fuer-dein-marketingteam",
+          "kanban-optimiert-deinen-arbeitsfluss",
+          "work-in-progress-wip-meistern",
+          "der-pdca-zyklus-ein-rundgang-durch-kontinuierliche-verbesserung",
+          "die-kunst-der-prozessverbesserung-empirische-prozesssteuerung",
+          "devops-ein-game-changer-fuer-unternehmen"
+        ]
+      },
+      {
+        "titel": "Scrum",
+        "text": "Das bekannteste agile Framework mit seinen Rollen und Ritualen.",
+        "artikel": [
+          "scrum-steht-fuer-effektive-zusammenarbeit",
+          "scrum-methode-wie-startest-du",
+          "die-rolle-des-product-owners-im-scrum",
+          "die-rolle-des-scrum-masters-im-detail-ein-coach-fuer-das-team",
+          "daily-standup-der-kickstart-fuer-deinen-arbeitstag"
+        ]
+      },
+      {
+        "titel": "Agile Organisation und Projekte",
+        "text": "Wie Teams und größere Organisationen sich agil aufstellen und Projekte steuern.",
+        "artikel": [
+          "das-spotify-modell-wie-du-dein-team-agil-machst-ohne-im-chaos-zu-versinken",
+          "agile-teamorganisation-wie-das-tribe-modell-die-arbeitswelt-revolutioniert",
+          "safe-das-skalierbare-agile-framework-verstehen",
+          "crossfunktionale-teams-vs-komponententeams-neuer-ansatz-fuer-effektives-arbeiten",
+          "raci-im-team-klarheit-in-projekten",
+          "dein-wegweiser-zum-projekterfolg-prince2"
+        ]
+      },
+      {
+        "titel": "Produktentwicklung und Priorisierung",
+        "text": "Nutzerzentriert entwickeln, schnell Prototypen bauen und entscheiden, was zuerst kommt.",
+        "artikel": [
+          "wie-funktioniert-design-thinking",
+          "mit-dem-google-design-sprint-in-5-tagen-zum-prototyp",
+          "human-centered-design-produkte-die-den-kundenbeduerfnissen-entsprechen",
+          "walking-skeleton-ein-effektives-werkzeug-fuer-agile-produktentwicklung",
+          "produktvision-erstellen-im-team",
+          "die-kunst-der-priorisierung-im-produktmanagement-ice-und-gist",
+          "die-vier-faktoren-von-rice-scoring",
+          "die-moscow-methode-zur-effizienten-priorisierung-im-marketing"
+        ]
+      },
+      {
+        "titel": "Lean",
+        "text": "Verschwendung erkennen und dort hinschauen, wo die Arbeit passiert.",
+        "artikel": [
+          "die-7-muda-wie-du-verschwendung-im-marketing-vermeidest",
+          "der-gemba-walk-ein-tiefer-einblick-in-den-tatsaechlichen-arbeitsplatz"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "produktivitaet",
+    "name": "Arbeitsweisen und Produktivität",
+    "titel": "Arbeitsweisen und Produktivität: Der Überblick über alle Artikel",
+    "seoTitel": "Arbeitsweisen und Produktivität: Zeitmanagement, Fokus, Kreativitätstechniken, Lernen und Meetings",
+    "beschreibung": "Alles zu persönlichen Arbeitsweisen an einem Ort: Zeitmanagement und Priorisierung, Fokus, Kreativitätstechniken, Lernmethoden, Meetings und Kommunikation, Präsentieren und persönliche Entwicklung.",
+    "kurz": "Zeitmanagement, Fokus, Kreativitätstechniken, Lernmethoden, Meetings, Präsentieren und persönliche Entwicklung.",
+    "intro": [
+      "Die besten Methoden im Marketing helfen wenig, wenn der Arbeitstag in Meetings, Mails und Unterbrechungen zerfällt. Wie du deine Zeit planst, Prioritäten setzt, auf Ideen kommst und Neues lernst, entscheidet am Ende darüber, was du wirklich umsetzt.",
+      "In diesem Kapitel findest du alle meine Artikel zu persönlichen Arbeitsweisen: Methoden für Zeitmanagement und Fokus, Kreativitätstechniken, wie du schneller lernst, bessere Meetings machst, überzeugend präsentierst und was dir Orientierung für die eigene Entwicklung gibt.",
+      "Wie Teams gemeinsam agil arbeiten, findest du im Kapitel [Agiles Arbeiten](/thema/agil/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Zeitmanagement und Priorisierung",
+        "text": "Methoden, mit denen du deinen Tag und deine Woche planst und das Wichtige zuerst erledigst.",
+        "artikel": [
+          "10-praktische-tipps-fuer-ein-erfolgreiches-zeitmanagement",
+          "zeitmanagement-wie-die-besten-ceos-das-meiste-aus-jedem-tag-herausholen",
+          "priorisieren-wie-ein-praesident-ein-leitfaden-zur-eisenhower-matrix",
+          "produktiver-mit-der-ivy-lee-methode",
+          "befreie-deinen-tag-mit-der-eat-the-frog-technik",
+          "mit-der-alpen-methode-hast-du-die-zeit-im-blick",
+          "pomodoro-sorgt-fuer-produktives-arbeiten",
+          "timeboxing-dein-schluessel-zu-effektiverem-zeitmanagement",
+          "maximiere-deine-produktivitaet-mit-time-blocking",
+          "zeitblockierung-zur-steigerung-der-produktivitaet",
+          "erledige-mehr-in-weniger-zeit-mit-getting-things-done",
+          "woechentlich-reflektieren-taeglich-verbessern-weekly-review",
+          "mit-ppp-planst-du-optimal-die-woche",
+          "der-unterschied-zwischen-to-do-listen-und-kalenderplanung",
+          "rocks-pebbles-und-sand-so-priorisierst-du-deine-marketing-aktivitaeten-effektiv",
+          "die-3x3-strategie-fuer-mehr-fokus",
+          "die-90-90-1-regel",
+          "was-ist-die-10-bis-12-regel"
+        ]
+      },
+      {
+        "titel": "Fokus und Produktivität",
+        "text": "Warum Arbeit sich ausdehnt, wie du Unterbrechungen begegnest und produktiv bleibst.",
+        "artikel": [
+          "wie-du-deine-produktivitaet-verdoppeln-kannst-ohne-mehr-zu-arbeiten",
+          "5-regeln-zur-neuen-produktivitat",
+          "die-parkinsonschen-gesetze-warum-arbeit-sich-immer-ausdehnt",
+          "zeitmanagement-101-das-parkinsonsche-gesetz-verstehen-und-nutzen",
+          "kidlins-gesetz-wie-klares-denken-zu-besseren-entscheidungen-fuehrt",
+          "jeff-bezos-1-stunden-regel-digital-detox-fuer-kluegere-entscheidungen",
+          "produktives-aufschieben-wie-man-es-strategisch-fuer-den-geschaeftserfolg-nutzt",
+          "herausforderung-oder-chance-unterbrechungsorientiertes-arbeiten-im-modernen-marketing",
+          "8-wege-die-analyse-paralyse-zu-ueberwinden",
+          "das-geheimnis-optimaler-leistung-die-yerkes-dodson-kurve",
+          "die-1-regel-von-james-clears-atomic-habits",
+          "der-analoge-und-der-digitale-schreibtisch",
+          "der-kampf-gegen-die-mailflut-bzw-gegen-windmuhlen"
+        ]
+      },
+      {
+        "titel": "Kreativität und Problemlösung",
+        "text": "Techniken, mit denen du auf neue Ideen kommst und Probleme strukturiert löst.",
+        "artikel": [
+          "kreativitaetstechnik-scamper",
+          "die-scamper-methode-kreativitaet-trifft-strategie",
+          "kreativ-dank-der-6-huete-methode",
+          "osborn-checkliste",
+          "unterschiedliche-perspektiven-mit-der-walt-disney-methode",
+          "lateral-thinking-der-kreative-ansatz-im-marketing",
+          "die-kraft-der-provokation-wie-man-kreativitaet-befreit",
+          "extreme-brainstorming-fragen-die-zu-neuen-besseren-ideen-fuehren",
+          "6-fragen-um-die-regeln-zu-brechen",
+          "kill-your-darlings-ein-unerlaesslicher-schritt-im-kreativen-prozess",
+          "moodboards-ein-kraftvolles-werkzeug-fuer-kreative-projekte",
+          "ein-scribble-sagt-mehr-als-tausend-worte",
+          "was-ist-first-principle-thinking-und-wie-nutzt-du-es",
+          "das-s-c-o-r-e-modell-fuer-effektive-problemloesung"
+        ]
+      },
+      {
+        "titel": "Lernen",
+        "text": "Methoden, mit denen du schneller lernst und mehr behältst.",
+        "artikel": [
+          "active-recall-lernen-das-bleibt",
+          "die-feynman-methode-lerne-wie-ein-genie",
+          "interleaving-der-turbo-fuer-dein-lernen",
+          "schneller-lernen-7-strategien-im-alltag",
+          "speed-reading-wie-du-deine-lesegeschwindigkeit-steigerst-ohne-das-verstaendnis-zu-verlieren",
+          "die-lerntypen-nach-vester-ein-schluessel-zur-effektiven-kommunikation"
+        ]
+      },
+      {
+        "titel": "Meetings und Kommunikation",
+        "text": "Bessere Meetings, klare Botschaften und transparente Zusammenarbeit.",
+        "artikel": [
+          "tipps-fuer-effektive-meetings",
+          "kiss-fuer-meetings-3-regeln-die-zeit-sparen",
+          "zeitfresser-meeting-und-9-gegenmassnahmen",
+          "zwei-pizza-regel-der-schluessel-zu-effektiven-teammeetings",
+          "stille-meetings-eine-revolution-in-der-teamkommunikation",
+          "das-6-page-memo-von-amazon",
+          "unternehmensmemo-auf-einer-seite",
+          "mit-working-out-loud-transparent-kommunizieren",
+          "das-kiss-prinzip-dein-weg-zu-effektiver-kommunikation-und-marketing",
+          "wie-du-deine-botschaft-noch-einfacher-gestaltest",
+          "das-ccc-modell-ein-schluessel-zum-verstaendnis-kultureller-unterschiede"
+        ]
+      },
+      {
+        "titel": "Präsentieren und Reden",
+        "text": "Vorträge, Präsentationen und Reden, die im Gedächtnis bleiben.",
+        "artikel": [
+          "10-tipps-fuer-eine-unvergessliche-praesentation",
+          "zehn-tipps-fuer-deine-praesentation-im-stil-der-ted-talks",
+          "erfolgreiche-vortraege-halten",
+          "effektive-selbstpraesentation",
+          "die-kunst-des-redenschreibens"
+        ]
+      },
+      {
+        "titel": "Persönliche Entwicklung",
+        "text": "Sinn, Ziele und Orientierung für den eigenen Weg.",
+        "artikel": [
+          "ikigai-framework-kamiya-mogi",
+          "ikigai-verbindet-sinn-und-erfolg",
+          "autonomie-schafft-eine-erfuellende-existenz",
+          "visionboard-dein-persoenlicher-kompass-fuer-erfolg",
+          "die-richtigen-ziele-setzen",
+          "wie-du-einen-mentor-findest",
+          "arnold-schwarzenegger-lifes-six-rules"
         ]
       }
     ]
