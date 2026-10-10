@@ -3540,6 +3540,18 @@
   "buchstabe": "M"
  },
  {
+  "begriff": "Moonshot und Roofshot",
+  "definition": "Moonshots sind sehr ehrgeizige Ziele, bei denen eine vollständige Erreichung nicht erwartet wird. Roofshots sind ehrgeizige, aber gut erreichbare Ziele. Bei OKRs empfiehlt es sich, beide zu kombinieren, damit Teams mutig bleiben, ohne ständig zu scheitern.",
+  "artikel": [
+   {
+    "slug": "okrs-und-leistungsbeurteilung",
+    "titel": "OKRs und Leistungsbeurteilung: Vier Prinzipien, damit beides zusammenpasst"
+   }
+  ],
+  "anker": "moonshot-und-roofshot",
+  "buchstabe": "M"
+ },
+ {
   "begriff": "MoSCoW-Methode",
   "definition": "Die MoSCoW-Methode ist eine Priorisierungstechnik, mit der Aufgaben oder Anforderungen in vier Stufen eingeteilt werden: Must have, Should have, Could have und Won't have. Sie stammt ursprünglich aus der Softwareentwicklung und wird heute auch im Marketing eingesetzt.",
   "artikel": [
@@ -4392,6 +4404,18 @@
   "buchstabe": "P"
  },
  {
+  "begriff": "Psychologische Sicherheit",
+  "definition": "Psychologische Sicherheit bedeutet, dass sich Menschen in einem Team trauen, Probleme anzusprechen, Fehler zuzugeben und Ideen einzubringen, ohne Nachteile zu fürchten. Googles Studie Project Aristotle hat sie als wichtigsten Faktor für erfolgreiche Teams identifiziert.",
+  "artikel": [
+   {
+    "slug": "okrs-und-leistungsbeurteilung",
+    "titel": "OKRs und Leistungsbeurteilung: Vier Prinzipien, damit beides zusammenpasst"
+   }
+  ],
+  "anker": "psychologische-sicherheit",
+  "buchstabe": "P"
+ },
+ {
   "begriff": "Purpose (Unternehmenszweck)",
   "definition": "Der Purpose ist ein grundlegendes Element der Marketingstrategie, das einer Marke ihre Identität gibt und definiert, wer sie ist, was sie tut und warum. Er verkörpert Vision, Mission und Werte eines Unternehmens und hebt es von anderen Marken ab.",
   "artikel": [
@@ -4741,6 +4765,18 @@
    }
   ],
   "anker": "safe",
+  "buchstabe": "S"
+ },
+ {
+  "begriff": "Sandbagging",
+  "definition": "Sandbagging bedeutet, sich bewusst vorsichtige Ziele zu setzen, die man sicher erreicht. Es entsteht oft, wenn Bonus oder Beförderung an die Zielerreichung gekoppelt sind, und nimmt OKRs ihren Ehrgeiz.",
+  "artikel": [
+   {
+    "slug": "okrs-und-leistungsbeurteilung",
+    "titel": "OKRs und Leistungsbeurteilung: Vier Prinzipien, damit beides zusammenpasst"
+   }
+  ],
+  "anker": "sandbagging",
   "buchstabe": "S"
  },
  {
@@ -5346,6 +5382,10 @@
    {
     "slug": "strategy-choice-cascade-klarer-weg-zum-erfolg",
     "titel": "Strategy Choice Cascade: Klarer Weg zum Erfolg"
+   },
+   {
+    "slug": "okrs-strategie-zum-leben-erwecken",
+    "titel": "OKRs bringen die Strategie zum Leben: In sechs Schritten von der Strategie zu OKRs"
    }
   ],
   "anker": "strategy-choice-cascade",
