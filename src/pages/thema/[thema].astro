@@ -1,7 +1,7 @@
 ---
 // Themenseite: Überblick über alle Artikel eines Themas, nach Abschnitten geordnet
 import Base from '../../layouts/Base.astro';
-import { THEMEN, allePosts, postUrl, anriss } from '../../lib/blog';
+import { THEMEN, allePosts, postUrl, anriss, kapitelNummer, mitLinks, HANDBUCH_URL } from '../../lib/blog';
 
 export async function getStaticPaths() {
   return THEMEN.map((thema) => ({ params: { thema: thema.key }, props: { thema } }));
@@ -14,15 +14,11 @@ const abschnitte = thema.abschnitte.map((a) => ({
   id: a.titel.toLowerCase().replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''),
   posts: a.artikel.map((s) => bySlug.get(s)).filter(Boolean) as typeof posts,
 }));
-// Einleitung: Text escapen, interne Links im Format [Text](/pfad/) erlauben
-const mitLinks = (t: string) =>
-  t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
-   .replace(/\[([^\]]+)\]\((\/[a-z0-9\/-]*)\)/g, '<a href="$2">$1</a>');
 const anzahl = abschnitte.reduce((n, a) => n + a.posts.length, 0);
 ---
 <Base title={thema.seoTitel} description={thema.beschreibung}>
   <main class="wrap simple thema">
-    <span class="kicker">Thema</span>
+    <a href={HANDBUCH_URL} class="kicker">Marketing-Handbuch · Kapitel {kapitelNummer(thema.key)}</a>
     <h1>{thema.titel}</h1>
     <div class="thema-intro">
       {thema.intro.map((p) => <p set:html={mitLinks(p)} />)}

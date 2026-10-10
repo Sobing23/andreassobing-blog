@@ -1,0 +1,66 @@
+---
+// Handbuch-Startseite: Inhaltsverzeichnis aller Kapitel (Themenseiten), nach Teilen geordnet
+import Base from '../layouts/Base.astro';
+import { HANDBUCH, THEMEN, themaUrl, kapitelNummer, mitLinks } from '../lib/blog';
+
+const kapitel = (key: string) => {
+  const t = THEMEN.find((x) => x.key === key)!;
+  return { ...t, nr: kapitelNummer(key), anzahl: t.abschnitte.reduce((n, a) => n + a.artikel.length, 0) };
+};
+const teile = HANDBUCH.teile.map((teil, i) => ({ ...teil, nr: i + 1, kapitel: teil.kapitel.map(kapitel) }));
+const artikelGesamt = teile.flatMap((t) => t.kapitel).reduce((n, k) => n + k.anzahl, 0);
+const kapitelGesamt = teile.reduce((n, t) => n + t.kapitel.length, 0);
+const roemisch = ['I', 'II', 'III', 'IV', 'V', 'VI'];
+---
+<Base title={HANDBUCH.titel} description={`Das Marketing-Handbuch: ${kapitelGesamt} Kapitel mit ${artikelGesamt} Artikeln zu Strategie, OKR, E-Mail-Marketing, KI, Führung und mehr.`}>
+  <main class="wrap simple handbuch">
+    <span class="kicker">Inhaltsverzeichnis</span>
+    <h1>{HANDBUCH.titel}</h1>
+    <div class="thema-intro">
+      {HANDBUCH.intro.map((p) => <p set:html={mitLinks(p)} />)}
+    </div>
+    <p class="handbuch-zahlen"><strong>{kapitelGesamt}</strong> Kapitel · <strong>{artikelGesamt}</strong> Artikel · <strong>{teile.length}</strong> Teile</p>
+
+    {teile.map((teil) => (
+      <section class="handbuch-teil" aria-labelledby={`teil-${teil.nr}`}>
+        <div class="section-head"><h2 id={`teil-${teil.nr}`}><span class="teil-nr">Teil {roemisch[teil.nr - 1]}</span>{teil.titel}</h2></div>
+        <p class="thema-text">{teil.text}</p>
+        <ol class="kapitel-liste">
+          {teil.kapitel.map((k) => (
+            <li>
+              <a href={themaUrl(k.key)} class="kapitel">
+                <span class="kapitel-nr">{k.nr}</span>
+                <span class="kapitel-body">
+                  <span class="kapitel-titel">{k.name}</span>
+                  <span class="kapitel-kurz">{k.kurz}</span>
+                  <span class="kapitel-meta">{k.anzahl} Artikel · {k.abschnitte.length} Abschnitte</span>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))}
+
+    <section class="handbuch-teil" aria-labelledby="anhang">
+      <div class="section-head"><h2 id="anhang"><span class="teil-nr">Anhang</span>Nachschlagen</h2></div>
+      <ul class="kapitel-liste">
+        <li><a href="/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/" class="kapitel">
+          <span class="kapitel-nr">A</span>
+          <span class="kapitel-body"><span class="kapitel-titel">Marketing-Glossar</span><span class="kapitel-kurz">Alle Fachbegriffe von A bis Z, kurz erklärt und mit dem passenden Artikel verlinkt.</span></span>
+        </a></li>
+        <li><a href="/archiv/" class="kapitel">
+          <span class="kapitel-nr">B</span>
+          <span class="kapitel-body"><span class="kapitel-titel">Archiv</span><span class="kapitel-kurz">Alle Artikel seit 2009 nach Jahren, auch die, die keinem Kapitel angehören.</span></span>
+        </a></li>
+      </ul>
+    </section>
+
+    {HANDBUCH.geplant.length > 0 && (
+      <aside class="handbuch-geplant">
+        <span class="label">In Arbeit</span>
+        <p>Diese Kapitel kommen als Nächstes dazu: {HANDBUCH.geplant.join(', ')}.</p>
+      </aside>
+    )}
+  </main>
+</Base>

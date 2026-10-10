@@ -3,7 +3,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Card from '../components/Card.astro';
-import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss, themaFuer, themaUrl } from '../lib/blog';
+import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss, themaFuer, themaUrl, kapitelNummer } from '../lib/blog';
 
 export async function getStaticPaths() {
   const posts = await allePosts();
@@ -48,7 +48,7 @@ if (thema) {
       {isPost && (toc.length >= 3 || d.tags.length > 0 || thema) && (
         <aside class="post-aside">
           {thema && (
-            <a class="thema-chip" href={themaUrl(thema.thema.key)}><span class="label">Thema</span>{thema.thema.name}: alle {thema.anzahl} Artikel</a>
+            <a class="thema-chip" href={themaUrl(thema.thema.key)}><span class="label">Handbuch · Kapitel {kapitelNummer(thema.thema.key)}</span>{thema.thema.name}: alle {thema.anzahl} Artikel</a>
           )}
           {toc.length >= 3 && (
             <nav class="toc" aria-label="Inhaltsverzeichnis">
@@ -67,10 +67,10 @@ if (thema) {
     </div>
     {thema && (
       <section class="thema-box" aria-labelledby="thema-box-titel" data-pagefind-ignore>
-        <span class="kicker">Teil des Themas {thema.thema.name}</span>
+        <span class="kicker">Marketing-Handbuch · Kapitel {kapitelNummer(thema.thema.key)}: {thema.thema.name}</span>
         <h2 id="thema-box-titel">Weiterlesen: {thema.abschnitt.titel}</h2>
         <ul>{nachbarn.map((p) => <li><a href={`/${p.data.slug}/`}>{p.data.title}</a></li>)}</ul>
-        <a class="thema-alle" href={themaUrl(thema.thema.key)}>Alle {thema.anzahl} Artikel zu {thema.thema.name} im Überblick →</a>
+        <a class="thema-alle" href={themaUrl(thema.thema.key)}>Zum Kapitel {thema.thema.name} mit allen {thema.anzahl} Artikeln →</a>
       </section>
     )}
     {related.length > 0 && (

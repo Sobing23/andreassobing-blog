@@ -103,3 +103,17 @@ export function themaFuer(slug: string) {
   }
   return undefined;
 }
+
+// Handbuch: Reihenfolge der Kapitel (Teile aus handbuch.json), Kapitelnummer je Thema
+import handbuchDaten from '../data/handbuch.json';
+export const HANDBUCH = handbuchDaten;
+export const KAPITEL_REIHENFOLGE: string[] = [
+  ...handbuchDaten.teile.flatMap((t) => t.kapitel),
+  ...THEMEN.map((t) => t.key).filter((k) => !handbuchDaten.teile.some((t) => t.kapitel.includes(k))),
+];
+export const kapitelNummer = (key: string) => KAPITEL_REIHENFOLGE.indexOf(key) + 1;
+export const HANDBUCH_URL = '/handbuch/';
+/** Einfache Inline-Links [Text](/pfad/) in sonst reinem Text, HTML wird escaped */
+export const mitLinks = (t: string) =>
+  t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+   .replace(/\[([^\]]+)\]\((\/[a-z0-9\/-]*)\)/g, '<a href="$2">$1</a>');

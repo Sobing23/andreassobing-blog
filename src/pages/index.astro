@@ -3,12 +3,13 @@
 import Base from '../layouts/Base.astro';
 import Card from '../components/Card.astro';
 import PlainList from '../components/PlainList.astro';
-import { allePosts, RUBRIKEN, rubrik, rubrikUrl, postUrl, datum, lesezeit, anriss } from '../lib/blog';
+import { allePosts, RUBRIKEN, rubrik, rubrikUrl, postUrl, datum, lesezeit, anriss, THEMEN, KAPITEL_REIHENFOLGE, themaUrl } from '../lib/blog';
 
 const posts = await allePosts();
 const [lead, ...rest] = posts;
 const neu = rest.slice(0, 6);
 const gezeigt = new Set([lead, ...neu].map((p) => p.id));
+const kapitel = KAPITEL_REIHENFOLGE.map((k, i) => ({ nr: i + 1, ...THEMEN.find((t) => t.key === k)! }));
 const bloecke = RUBRIKEN.map((r) => {
   const alle = posts.filter((p) => p.data.category === r.key);
   return { ...r, anzahl: alle.length, artikel: alle.filter((p) => !gezeigt.has(p.id)).slice(0, r.key === 'fundstuecke' ? 5 : 3) };
@@ -36,6 +37,15 @@ const bloecke = RUBRIKEN.map((r) => {
           ))}
         </ul>
       </aside>
+    </section>
+    <section class="handbuch-teaser" aria-labelledby="handbuch-teaser">
+      <div class="section-head">
+        <h2 id="handbuch-teaser">Das Marketing-Handbuch</h2>
+        <a href="/handbuch/">Inhaltsverzeichnis →</a>
+      </div>
+      <ol class="teaser-kapitel">
+        {kapitel.map((k) => <li><a href={themaUrl(k.key)}><span class="kapitel-nr">{k.nr}</span>{k.name}</a></li>)}
+      </ol>
     </section>
     {bloecke.map((b) => (
       <section aria-labelledby={`r-${b.key}`}>

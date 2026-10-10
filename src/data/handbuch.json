@@ -1,0 +1,43 @@
+{
+  "titel": "Das Marketing-Handbuch",
+  "intro": [
+    "Seit 2009 schreibe ich in diesem Blog über Marketing, Strategie und Führung. Aus fast 1.000 Artikeln entsteht nach und nach ein Handbuch: Die Artikel sind in Kapitel geordnet, jedes Kapitel führt vom Einstieg bis in die Tiefe.",
+    "Du kannst das Handbuch von vorne lesen oder direkt in das Kapitel springen, das dich gerade interessiert. Begriffe, die dir unterwegs begegnen, findest du im [Marketing-Glossar](/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/)."
+  ],
+  "teile": [
+    {
+      "titel": "Strategie und Unternehmen",
+      "text": "Wohin ein Unternehmen will, wie es dorthin kommt und welche wirtschaftlichen Gesetze dabei wirken.",
+      "kapitel": [
+        "strategie",
+        "okr",
+        "wirtschaft",
+        "startups"
+      ]
+    },
+    {
+      "titel": "Marketing in der Praxis",
+      "text": "Kanäle und Werkzeuge für die tägliche Arbeit im Marketing.",
+      "kapitel": [
+        "e-mail-marketing",
+        "ki"
+      ]
+    },
+    {
+      "titel": "Führung und Zusammenarbeit",
+      "text": "Wie du Menschen führst und Veränderungen im Unternehmen begleitest.",
+      "kapitel": [
+        "fuehrung",
+        "change"
+      ]
+    }
+  ],
+  "geplant": [
+    "Marke",
+    "Marketing-Grundlagen",
+    "Preisgestaltung",
+    "Psychologie im Marketing",
+    "Agiles Arbeiten",
+    "Arbeitsweisen und Produktivität"
+  ]
+}

@@ -95,7 +95,8 @@
           "strategy-choice-cascade-klarer-weg-zum-erfolg"
         ]
       }
-    ]
+    ],
+    "kurz": "Ziele mit Objectives and Key Results setzen, formulieren, einführen und mit der Strategie verbinden."
   },
   {
     "key": "e-mail-marketing",
@@ -327,7 +328,8 @@
           "e-mail-studie-2009"
         ]
       }
-    ]
+    ],
+    "kurz": "Verteiler, Kampagnen und Automatisierung, Design, Datenschutz, Zustellbarkeit und Kennzahlen."
   },
   {
     "key": "ki",
@@ -483,7 +485,8 @@
           "nvidia-computex-keynote-2024-in-15-minuten"
         ]
       }
-    ]
+    ],
+    "kurz": "ChatGPT, gute Prompts, GPTs und der Einsatz von KI für Texte, Bilder, Videos und Kampagnen."
   },
   {
     "key": "strategie",
@@ -586,7 +589,8 @@
           "1-000-wahre-fans"
         ]
       }
-    ]
+    ],
+    "kurz": "Vision und Mission, SWOT, PESTEL und Porter, strategische Planung, Wachstum und Geschäftsmodelle."
   },
   {
     "key": "fuehrung",
@@ -652,7 +656,8 @@
           "checklist-10-rockefeller-regeln"
         ]
       }
-    ]
+    ],
+    "kurz": "Führungsstile, Coaching-Modelle, Unternehmenskultur und was du von bekannten Managern lernen kannst."
   },
   {
     "key": "change",
@@ -686,7 +691,8 @@
           "das-pinguin-prinzip-wie-du-veraenderungen-erfolgreich-umsetzt"
         ]
       }
-    ]
+    ],
+    "kurz": "Veränderungen planen und begleiten mit Kotter, Lewin, ADKAR und anderen Modellen."
   },
   {
     "key": "wirtschaft",
@@ -735,7 +741,8 @@
           "tulpenkrise-die-erste-spekulationsblase-der-geschichte"
         ]
       }
-    ]
+    ],
+    "kurz": "Angebot und Nachfrage, Grenznutzen, Ertragsgesetz, Skaleneffekte und andere Grundbegriffe einfach erklärt."
   },
   {
     "key": "startups",
@@ -787,6 +794,7 @@
           "was-wuerde-ich-machen-wenn-ich-flaschenpost-waere"
         ]
       }
-    ]
+    ],
+    "kurz": "Geschäftsidee finden, nebenberuflich gründen, mit Lean Startup und MVP testen, von Gründern lernen."
   }
 ]

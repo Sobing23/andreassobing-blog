@@ -196,3 +196,25 @@ h1, h2, h3, .t, .prose { hyphens: auto; -webkit-hyphens: auto; overflow-wrap: br
 .thema-alle { font-weight: 600; color: var(--accent); }
 @media (max-width: 700px) { .thema-nav ol { columns: 1; } }
 .thema-intro a { color: var(--accent); text-decoration: underline; }
+
+/* Handbuch */
+.nav-handbuch { color: var(--accent); font-weight: 600; }
+.handbuch-zahlen { font-family: var(--sans); color: var(--text-2); margin: 0 0 40px; }
+.handbuch-teil { margin-bottom: 48px; }
+.teil-nr { display: block; font-family: var(--sans); font-size: 13px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
+.kapitel-liste { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+.kapitel { display: flex; gap: 16px; height: 100%; padding: 18px 20px; border: 1px solid var(--line); background: var(--bg); transition: border-color .15s; }
+.kapitel:hover { border-color: var(--accent); }
+.kapitel-nr { flex: none; font-family: var(--serif); font-size: 34px; font-weight: 700; line-height: 1; color: var(--accent); min-width: 34px; }
+.kapitel-body { display: flex; flex-direction: column; gap: 6px; }
+.kapitel-titel { font-family: var(--serif); font-size: 21px; font-weight: 700; color: var(--text); }
+.kapitel-kurz { color: var(--text-2); font-size: 15px; line-height: 1.5; }
+.kapitel-meta { color: var(--muted); font-size: 13px; line-height: 1.5; }
+.handbuch-geplant { border-top: 2px solid var(--line-strong); padding-top: 12px; max-width: 760px; color: var(--text-2); }
+.handbuch-geplant p { margin: 8px 0 0; }
+.handbuch-teaser { margin-bottom: 48px; }
+.teaser-kapitel { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px 24px; }
+.teaser-kapitel a { display: flex; align-items: baseline; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--line); font-family: var(--serif); font-size: 18px; font-weight: 700; color: var(--text); }
+.teaser-kapitel a:hover { color: var(--accent); }
+.teaser-kapitel .kapitel-nr { font-size: 22px; min-width: 24px; }
+@media (max-width: 700px) { .kapitel-liste { grid-template-columns: 1fr; } .kapitel-nr { font-size: 28px; } }
