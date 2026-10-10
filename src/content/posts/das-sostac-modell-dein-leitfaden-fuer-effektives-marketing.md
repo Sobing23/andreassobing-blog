@@ -37,7 +37,7 @@ Die Anwendung ist denkbar einfach und dennoch effektiv:
 4. Setze [SMARTe Ziele](/smart-ziele-und-okrs/): Aufgrund der Messbarkeit des digitalen Marketings solltest du deine Ziele so spezifisch wie möglich formulieren. Nutze zum Beispiel Google Analytics, um konkrete Ziele zu definieren.
 5. Integriere die Elemente deiner SWOT: Eine klare Struktur und ein roter Faden sind entscheidend. Fasse deinen gesamten SOSTAC-Plan in einer Tabelle zusammen, die die Strategien, die Situation und die Ziele enthält.
 
-![](/wp-content/uploads/2023/09/sostac-marketing-growth-wheel-550x6141-1.png)
+![Kreisdiagramm: Multichannel Marketing Growth Wheel mit SOSTAC-Phasen und RACE-Zielen im Zentrum](/wp-content/uploads/2023/09/sostac-marketing-growth-wheel-550x6141-1.png)
 
 ## Eigene Beispiele für die Anwendung
 

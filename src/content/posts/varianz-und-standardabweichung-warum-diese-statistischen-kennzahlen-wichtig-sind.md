@@ -42,7 +42,7 @@ Wenn du die durchschnittlichen Verkaufszahlen deines Online-Shops kennst, kann d
 
 ## Formeln und Berechnungen
 
-![](/wp-content/uploads/2023/08/Unbenannt.png)
+![Formeln für Varianz und Standardabweichung mit Rechenbeispiel aus täglichen Verkaufszahlen](/wp-content/uploads/2023/08/Unbenannt.png)
 
 ## Fazit: Varianz und Standardabweichung als Werkzeuge im Marketing
 

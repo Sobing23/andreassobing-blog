@@ -46,7 +46,7 @@ Lerneffekte treten auf, wenn Menschen oder Organisationen durch Wiederholung ler
 
 Lerneffekte werden oft mithilfe der **Erfahrungskurve** dargestellt. Eine vereinfachte Formel lautet:
 
-![](/wp-content/uploads/2025/07/Unbenannt.jpg)
+![Formel der Lernkurve: Kosten gleich Anfangskosten mal Output hoch log2 der Lernrate](/wp-content/uploads/2025/07/Unbenannt.jpg)
 
 Beispiel:  
 Wenn die Lernrate bei 80 % liegt, dann halbieren sich die Produktionskosten bei jeder Verdopplung der Stückzahl um 20 %.

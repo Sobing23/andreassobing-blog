@@ -23,7 +23,7 @@ In Zusammenarbeit mit den Produktmanagern kann man die Verfügbarkeit von Produk
 
 Am Anfang reicht es völlig aus einen einfachen Redaktionsplan in Excel zu erstellen. Später solltest du auf eine Lösung setzen die online von allen Mitarbeitern eingesehen werden kann. Und dies sollte keine Excel Liste zum mehrmaligen Versenden sein. Zum Start geht es aber erstmal um die Planung und ein Gefühl für den Jahresplan für die Newsletter Inhalte.
 
-[![](/wp-content/uploads/2022/09/Newsletter-Redaktionsplan-2021-Vorlage-1568x4121-1.png)](/wp-content/uploads/2022/09/Newsletter-Redaktionsplan-2021-Vorlage-1568x4121-1.png)
+[![Tabelle: Newsletter-Redaktionsplan 2021 mit Themen, Zielgruppen, Versandterminen, Status und Öffnungsraten](/wp-content/uploads/2022/09/Newsletter-Redaktionsplan-2021-Vorlage-1568x4121-1.png)](/wp-content/uploads/2022/09/Newsletter-Redaktionsplan-2021-Vorlage-1568x4121-1.png)
 
 Für die Inhalts- und Versandplanung solltest du dir folgende Tool  Fragen stellen:
 

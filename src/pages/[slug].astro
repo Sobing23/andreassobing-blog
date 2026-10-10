@@ -3,7 +3,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Card from '../components/Card.astro';
-import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss, themaFuer, themaUrl, kapitelNummer } from '../lib/blog';
+import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss, themaFuer, themaUrl, kapitelNummer, PERSON, SITE_URL, AUTOR_FOTO, brotkrumen, HANDBUCH_URL } from '../lib/blog';
 
 export async function getStaticPaths() {
   const posts = await allePosts();
@@ -20,6 +20,19 @@ const d = entry.data as any;
 const toc = headings.filter((h) => h.depth === 2);
 const related = isPost ? await aehnliche(entry as any, 3) : [];
 const beschreibung = anriss(entry as any);
+const url = `${SITE_URL}/${d.slug}/`;
+const jsonld: object[] = [];
+if (isPost) {
+  jsonld.push({
+    '@context': 'https://schema.org', '@type': 'BlogPosting', '@id': `${url}#artikel`, mainEntityOfPage: url, url,
+    headline: d.title, description: beschreibung, inLanguage: 'de-DE',
+    datePublished: d.date.toISOString(), dateModified: (d.updated || d.date).toISOString(),
+    ...(d.image ? { image: new URL(d.image, SITE_URL).toString() } : {}),
+    author: PERSON, publisher: PERSON,
+    ...(d.tags.length ? { keywords: d.tags.join(', ') } : {}),
+  });
+}
+if (d.slug === 'ueber-mich') jsonld.push({ '@context': 'https://schema.org', '@type': 'ProfilePage', url, mainEntity: PERSON });
 const thema = isPost ? themaFuer(d.slug) : undefined;
 let nachbarn: any[] = [];
 if (thema) {
@@ -30,8 +43,13 @@ if (thema) {
   const andere = [...liste.slice(i + 1), ...liste.slice(0, i)].slice(0, 4);
   nachbarn = andere.map((s) => alle.find((p) => p.data.slug === s)).filter(Boolean);
 }
+if (isPost) {
+  jsonld.push(brotkrumen(thema
+    ? [{ name: 'Marketing-Handbuch', url: HANDBUCH_URL }, { name: thema.thema.name, url: themaUrl(thema.thema.key) }, { name: d.title, url: `/${d.slug}/` }]
+    : [{ name: 'Startseite', url: '/' }, { name: rubrik(d.category).name, url: rubrikUrl(d.category) }, { name: d.title, url: `/${d.slug}/` }]));
+}
 ---
-<Base title={d.seoTitle || d.title} description={beschreibung} image={d.image} type={isPost ? 'article' : 'website'} kompakt>
+<Base jsonld={jsonld} title={d.seoTitle || d.title} description={beschreibung} image={d.image} type={isPost ? 'article' : 'website'} kompakt>
   <main class="wrap post">
     <div class="post-head">
       {isPost && <a href={rubrikUrl(d.category)} class="kicker">{rubrik(d.category).name}</a>}
@@ -65,6 +83,12 @@ if (thema) {
         </aside>
       )}
     </div>
+    {isPost && (
+      <aside class="autor-box" aria-label="Über den Autor" data-pagefind-ignore>
+        <img src={AUTOR_FOTO} alt="Andreas Sobing" width="72" height="72" loading="lazy">
+        <p><strong>Andreas Sobing</strong> arbeitet seit über 20 Jahren im Marketing, online wie offline, und teilt sein Wissen hier seit 2009. Seine Schwerpunkte sind Marketingstrategie, Branding, E-Mail-Marketing und CRM. <a href="/ueber-mich/">Mehr über Andreas Sobing</a></p>
+      </aside>
+    )}
     {thema && (
       <section class="thema-box" aria-labelledby="thema-box-titel" data-pagefind-ignore>
         <span class="kicker">Marketing-Handbuch · Kapitel {kapitelNummer(thema.thema.key)}: {thema.thema.name}</span>

@@ -120,13 +120,13 @@ Ein Unternehmen könnte Studien über das Kaufverhalten von Konsumenten in Bezug
 
 Häufig sind bei der Verwendung von Sekundärdaten keine komplexen Formeln erforderlich, aber es gibt Situationen, in denen einfache Berechnungen helfen können, die Daten besser zu verstehen. Ein Beispiel hierfür ist die Berechnung von Marktanteilen.
 
-![](/wp-content/uploads/2024/09/Unbenannt.png)
+![Formel: Marktanteil gleich eigener Umsatz durch Gesamtumsatz des Marktes mal 100](/wp-content/uploads/2024/09/Unbenannt.png)
 
 **Beispiel**:
 
 Angenommen, der Gesamtumsatz auf dem Markt für nachhaltige Produkte in Deutschland beträgt 1 Milliarde Euro. Dein Unternehmen setzt 50 Millionen Euro um. Dein Marktanteil beträgt also
 
-![](/wp-content/uploads/2024/09/Unbenannt2.png)
+![Rechenbeispiel: 50 Mio. Euro Umsatz bei 1.000 Mio. Euro Marktvolumen ergibt 5 Prozent Marktanteil](/wp-content/uploads/2024/09/Unbenannt2.png)
 
 Diese einfache Formel gibt einen Überblick über die eigene Position im Markt.
 

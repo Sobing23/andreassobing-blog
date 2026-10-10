@@ -56,7 +56,7 @@ Q=f(L,K)Q = f(L, K)Q=f(L,K)
 
 Der **Grenzertrag** eines variablen Inputs ist die Ableitung der Produktionsfunktion nach LLL:
 
-![](/wp-content/uploads/2025/01/Unbenannt.png)
+![Formel: Grenzprodukt der Arbeit als partielle Ableitung von Q nach L](/wp-content/uploads/2025/01/Unbenannt.png)
 
 Sinkt diese Ableitung, zeigen sich die **abnehmenden Erträge**.
 

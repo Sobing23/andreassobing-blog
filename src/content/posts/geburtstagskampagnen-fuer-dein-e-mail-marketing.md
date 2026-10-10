@@ -46,7 +46,7 @@ Auch der Absender der Nachricht kann diese persönlicher wirken lassen. Der Abse
 
 Aber was machst du wenn du das Geburtstagsdatum nicht kennst? Hier benötigst du eine sogenannte Nachprofilierungskampagnen um deine Daten zu veredeln. Du kannst z.B. dem Kunden zum „Nichtgeburtstag“ in einer Mail gratulieren. Leider kennen wir dein Geburtsdatum nicht. Verrate uns doch wann dein Ehrentag ist. Dafür erhältst du 10% Rabatt. Den Code erhältst du direkt im Anschluss nachdem du deinen Geburtsdatum eingegeben hast.
 
-![](/wp-content/uploads/2022/08/7.16._Nachprofilierung-Douglas.png)
+![Textbeispiel einer Nachprofilierung: Kunden erhalten 10 Prozent Rabatt für ihr Geburtsdatum](/wp-content/uploads/2022/08/7.16._Nachprofilierung-Douglas.png)
 
 Allerdings habe ich auch schon häufig die Erfahrung gemacht das man diese Daten kostenlos erhält sofern man den Grund nennt, also den Kunden mit einem exklusiven Geschenk zu überraschen. Das reicht in der Regel. Sofern du einen flexiblen Platz auf der Webseite im Kundenkonto oder im Mailing hast, kannst du den Empfänger von Zeit zu Zeit fragen und erinnern.
 

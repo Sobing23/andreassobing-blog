@@ -1,5 +1,5 @@
 ---
-title: "Commercial Masterpieces"
+title: "Commercial Masterpieces (Teil 2)"
 slug: "commercial-masterpieces-2"
 date: 2009-10-25T20:53:56
 category: "fundstuecke"

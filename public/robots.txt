@@ -1,0 +1,6 @@
+# robots.txt für andreassobing.de
+# Alle Suchmaschinen und KI-Dienste (Suche und Training) dürfen den Blog lesen.
+User-agent: *
+Allow: /
+
+Sitemap: https://andreassobing.de/sitemap-index.xml

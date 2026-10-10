@@ -24,7 +24,7 @@ Das Flywheel nutzt diesen Effekt, um die Kundengewinnung anzutreiben. Diese Impu
 
 Der Management Experte [Jim Collins](https://de.wikipedia.org/wiki/Jim_Collins) entwickelte 2001 das Konzept für das Flywheel. Zu einem späteren Zeitpunkt entwickelte er es gemeinsam mit dem Amazon Gründer [Jeff Bezos](https://de.wikipedia.org/wiki/Jeff_Bezos) weiter. Im Mittelpunkt des Schwungrads stand das Wachstum.
 
-<figure><img src="https://s3-us-west-2.amazonaws.com/amazon.job-cms-website.paperclip.prod/global_images/29/images/Cycle.jpg?1531982346" alt="" loading="lazy"><figcaption>Quelle: Amazon Jobs</figcaption></figure>
+<figure><img src="https://s3-us-west-2.amazonaws.com/amazon.job-cms-website.paperclip.prod/global_images/29/images/Cycle.jpg?1531982346" alt="Kreislaufdiagramm: Amazon Flywheel mit Kundenerfahrung, Besuchern, Händlern, Sortiment und niedrigeren Preisen" loading="lazy"><figcaption>Quelle: Amazon Jobs</figcaption></figure>
 
 Die positive Kundenerfahrung dient dazu das Wachstum in Bewegung zu setzen. Damit steigt die Zahl der Besucher. Dies macht Amazon für externe Händler interessant. Durch mehr Händler und deren Angebote wächst das Sortiment. Ein größeres Sortiment verbessert das Kundenerlebnis. Durch das so zusätzliche Wachstum kann Amazon die eigenen Kosten und somit auch den Preis für die Kunden senken. Diese Maßnahmen zahlen auf die Kundenerfahrung ein.
 
@@ -56,7 +56,7 @@ Drei Faktoren beeinflußen die Dynamik des Kreislaufmodells:
 - Reibung
 - Größe
 
-<figure><img src="https://www.hubspot.de/hs-fs/hubfs/Germany/Allgemein/HubSpot-Inbound-Methodik-Lifecycle.png?width=1500&name=HubSpot-Inbound-Methodik-Lifecycle.png" alt="" loading="lazy"><figcaption>Quelle: HubSpot</figcaption></figure>
+<figure><img src="https://www.hubspot.de/hs-fs/hubfs/Germany/Allgemein/HubSpot-Inbound-Methodik-Lifecycle.png?width=1500&name=HubSpot-Inbound-Methodik-Lifecycle.png" alt="Kreislaufdiagramm: HubSpot Flywheel der Inbound-Methodik mit Anziehen, Interagieren und Begeistern" loading="lazy"><figcaption>Quelle: HubSpot</figcaption></figure>
 
 Die erfolgreichsten Unternehmen beachten strategisch alle drei Faktoren. Dies kann erreicht werden durch zusätzliche Investitionen in bestimmte Abteilungen. Die Stärkung der Kundenzufriedenheit sorgt besonders für Dynamik, z.B. durch [Inbound-Marketing-Kampagnen](https://www.hubspot.de/inbound-marketing), Freemium-Angebote oder ein Kundenempfehlungsprogramm.
 
@@ -74,7 +74,7 @@ Wendet man das Kreislaufmodell auf die [Inbound-Methodik](https://www.hubspot.de
 - Interagieren
 - Begeistern
 
-<figure><img src="https://www.hubspot.de/hs-fs/hubfs/Germany/Allgemein/HubSpot-Inbound-Methodik-Lifecycle.png?width=1500&name=HubSpot-Inbound-Methodik-Lifecycle.png" alt="" loading="lazy"><figcaption>Quelle: HubSpot</figcaption></figure>
+<figure><img src="https://www.hubspot.de/hs-fs/hubfs/Germany/Allgemein/HubSpot-Inbound-Methodik-Lifecycle.png?width=1500&name=HubSpot-Inbound-Methodik-Lifecycle.png" alt="Kreislaufdiagramm: HubSpot Flywheel der Inbound-Methodik mit Anziehen, Interagieren und Begeistern" loading="lazy"><figcaption>Quelle: HubSpot</figcaption></figure>
 
 In der ersten Phase, **Anziehen**, geht es darum, Kunden mit interessanten, hilfreichen Inhalten anzuziehen und dafür zu sorgen, dass sie einfach und schnell auf sämtliche Informationen zugreifen können. Für Unternehmen ist es viel effektiver, sich Kunden nicht aufzudrängen, sondern dafür zu sorgen, dass sie von sich aus aufmerksam werden. Suchmaschinenoptimierung SEO), [Content-Marketing](https://de.wikipedia.org/wiki/Content-Marketing) und Optimierung der Konversionsrate sind Faktoren, mit denen du Dynamik in den Kreislauf bringst.
 

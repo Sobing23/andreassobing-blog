@@ -1,7 +1,7 @@
 ---
 // Themenseite: Überblick über alle Artikel eines Themas, nach Abschnitten geordnet
 import Base from '../../layouts/Base.astro';
-import { THEMEN, allePosts, postUrl, anriss, kapitelNummer, mitLinks, HANDBUCH_URL } from '../../lib/blog';
+import { THEMEN, allePosts, postUrl, anriss, kapitelNummer, mitLinks, HANDBUCH_URL, brotkrumen, SITE_URL, PERSON } from '../../lib/blog';
 
 export async function getStaticPaths() {
   return THEMEN.map((thema) => ({ params: { thema: thema.key }, props: { thema } }));
@@ -14,9 +14,13 @@ const abschnitte = thema.abschnitte.map((a) => ({
   id: a.titel.toLowerCase().replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''),
   posts: a.artikel.map((s) => bySlug.get(s)).filter(Boolean) as typeof posts,
 }));
+const jsonld = [
+  brotkrumen([{ name: 'Marketing-Handbuch', url: HANDBUCH_URL }, { name: thema.name, url: `/thema/${thema.key}/` }]),
+  { '@context': 'https://schema.org', '@type': 'CollectionPage', name: thema.titel, description: thema.beschreibung, url: `${SITE_URL}/thema/${thema.key}/`, inLanguage: 'de-DE', author: PERSON },
+];
 const anzahl = abschnitte.reduce((n, a) => n + a.posts.length, 0);
 ---
-<Base title={thema.seoTitel} description={thema.beschreibung}>
+<Base jsonld={jsonld} title={thema.seoTitel} description={thema.beschreibung}>
   <main class="wrap simple thema">
     <a href={HANDBUCH_URL} class="kicker">Marketing-Handbuch · Kapitel {kapitelNummer(thema.key)}</a>
     <h1>{thema.titel}</h1>

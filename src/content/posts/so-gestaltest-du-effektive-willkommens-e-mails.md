@@ -35,9 +35,9 @@ Personalisierung und das Setzen klarer Erwartungen sind entscheidend. Personalis
 
 Sehen Sie sich Beispiele von Unternehmen an, die ihre Begrüßungs-E-Mails sowohl im B2B- als auch im B2C-Bereich hervorragend gestalten. Wistia und Coach sind gute Beispiele.
 
-![](/wp-content/uploads/2023/12/Plan-Execute-Welcome_11.webp)
+![Willkommens-E-Mail von Wistia mit Hinweis auf das Learning Center und Start-Button](/wp-content/uploads/2023/12/Plan-Execute-Welcome_11.webp)
 
-<figure><img src="/wp-content/uploads/2023/12/Plan-Execute-Welcome_2.webp" alt="" loading="lazy"><figcaption>Quelle: Hubspot</figcaption></figure>
+<figure><img src="/wp-content/uploads/2023/12/Plan-Execute-Welcome_2.webp" alt="Willkommens-E-Mail von Coach mit Welcome-Text, Modefoto und Links zu Neuheiten" loading="lazy"><figcaption>Quelle: Hubspot</figcaption></figure>
 
 ## 
 

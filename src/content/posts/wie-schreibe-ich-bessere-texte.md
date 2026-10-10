@@ -11,7 +11,7 @@ tags:
 wpId: 1508
 ---
 
-![](/wp-content/uploads/2018/04/img_9566.jpg)
+![Stifte in einem Betonbecher neben einem Stapel Zeitschriften und einer Kamera](/wp-content/uploads/2018/04/img_9566.jpg)
 
 Wir schreiben jeden Tag eine Vielzahl von unterschiedlichen Texten. Dies können Produktbeschreibungen, Imagetexte oder auch Artikel für den Blog sein. Ein paar Grundregeln sollen Dir beim nächsten Text helfen.
 

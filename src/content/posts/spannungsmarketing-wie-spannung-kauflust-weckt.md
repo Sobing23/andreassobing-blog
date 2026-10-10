@@ -35,7 +35,7 @@ Das Gehirn schüttet in spannenden Situationen **Dopamin** aus. Hohe Dopaminnive
 2. erhöhen Gedächtnisbildung,
 3. verkürzen Entscheidungszeiten.
 
-![](/wp-content/uploads/2025/06/Screenshot-2025-06-13-155523.png)
+![Formel: Conversion-Rate abhängig vom Arousal-Index im vereinfachten Arousal-Konversions-Modell](/wp-content/uploads/2025/06/Screenshot-2025-06-13-155523.png)
 
 ## Die fünf Stufen des Spannungsmarketings
 

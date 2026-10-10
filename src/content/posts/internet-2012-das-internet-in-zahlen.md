@@ -7,4 +7,4 @@ category: "fundstuecke"
 wpId: 793
 ---
 
-<figure><img src="http://karrierebibel.de/wp-content/uploads/2012/08/InternetInfografik.gif" alt="" loading="lazy"><figcaption>Created by Bestedsites.com</figcaption></figure>
+<figure><img src="http://karrierebibel.de/wp-content/uploads/2012/08/InternetInfografik.gif" alt="Infografik: Das Internet im Jahr 2012 in Zahlen" loading="lazy"><figcaption>Created by Bestedsites.com</figcaption></figure>

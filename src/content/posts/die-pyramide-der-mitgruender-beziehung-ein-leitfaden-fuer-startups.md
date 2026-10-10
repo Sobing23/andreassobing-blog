@@ -25,7 +25,7 @@ Es wurde viel darüber geschrieben, wie man den richtigen Mitgründer findet. Ab
 2. Klare Verantwortlichkeiten: Es ist wichtig, klare Zuständigkeiten zu haben, damit man sich nicht ständig in die Quere kommt und wertvolle Zeit verliert.
 3. Abstimmung der Vision: Klärt frühzeitig die Vision, die Mission und den persönlichen Zweck der Unternehmensgründung.
 
-[![](/wp-content/uploads/2023/10/Final-OG-V2-scaled1.webp)](https://www.nfx.com/post/the-pyramid-of-cofounder-success)
+[![Pyramide des Co-Founder-Erfolgs mit Werten, Operating Principles und Failure Modes](/wp-content/uploads/2023/10/Final-OG-V2-scaled1.webp)](https://www.nfx.com/post/the-pyramid-of-cofounder-success)
 
 ## 5 Handlungsprinzipien zur Stärkung deiner Werte
 

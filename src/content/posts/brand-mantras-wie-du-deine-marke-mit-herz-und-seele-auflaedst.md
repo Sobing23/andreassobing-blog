@@ -40,7 +40,7 @@ Beispiele für gelungene Brand Mantras
 
 Diese Mantras fassen nicht nur zusammen, wofür die Marken stehen, sondern dienen auch als Leitfaden für alle Entscheidungen im Marketing und Produktmanagement.
 
-![](/wp-content/uploads/2024/03/Brand-positioning-bullseye_Brand-Mantra-Keller-1536x8641-1.png)
+![Diagramm: Brand Positioning Bullseye nach Keller mit Brand Mantra im Zentrum](/wp-content/uploads/2024/03/Brand-positioning-bullseye_Brand-Mantra-Keller-1536x8641-1.png)
 
 ## 
 
@@ -56,7 +56,7 @@ Diese Mantras fassen nicht nur zusammen, wofür die Marken stehen, sondern diene
 - **Markenkommunikation**: Das Brand Mantra sollte als Grundlage für die Entwicklung aller Marketing- und Kommunikationsstrategien dienen. Es hilft, die Botschaften konsistent zu halten und die Markenidentität in jeder Kampagne zu stärken.
 - **Produktentwicklung**: Auch bei der Entwicklung neuer Produkte oder Dienstleistungen sollte das Brand Mantra berücksichtigt werden. Es dient als Richtschnur, um sicherzustellen, dass neue Angebote mit der Markenidentität und den Kernwerten übereinstimmen.
 
-![](/wp-content/uploads/2024/03/Brand-Mantra-Structure1.jpg)
+![Tabelle: Brand Mantras von Nike, McDonald's, Disney, BMW, Muji und Fanta](/wp-content/uploads/2024/03/Brand-Mantra-Structure1.jpg)
 
 ## 
 

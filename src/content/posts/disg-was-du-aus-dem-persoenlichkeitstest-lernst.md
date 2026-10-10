@@ -20,7 +20,7 @@ Es ist eine Tatsache des Lebens, dass wir nicht mit jedem auskommen. Aber warum 
 
 DISG ist ein Modell, das menschliches Verhalten analysiert und in vier verschiedene Typen einteilt: Dominant (rot), Initiativ (gelb), Beständig (grün) und Gewissenhaft (blau). Jeder von uns hat Merkmale aller vier Typen, aber einige sind stärker ausgeprägt als andere.
 
-<figure><img src="/wp-content/uploads/2023/10/DISG-Dimensions_DE.webp" alt="" loading="lazy"><figcaption>Quelle: Greator.com</figcaption></figure>
+<figure><img src="/wp-content/uploads/2023/10/DISG-Dimensions_DE.webp" alt="DISG-Modell mit den vier Typen dominant, initiativ, stetig und gewissenhaft" loading="lazy"><figcaption>Quelle: Greator.com</figcaption></figure>
 
 **Beispiel**: Stellen Sie sich vor, Sie arbeiten mit einem Kollegen an einem Projekt. Sie sind der dominante Typ, der Entscheidungen trifft und Herausforderungen liebt. Ihr Kollege ist der initiative Typ, der gerne kommuniziert und Menschen begeistert. Wenn Sie beide Ihre Stärken nutzen, können Sie ein erfolgreiches Team bilden. Sie treffen die Entscheidungen, Ihr Kollege präsentiert sie.
 

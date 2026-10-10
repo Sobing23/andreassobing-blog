@@ -11,7 +11,7 @@ export async function getStaticPaths() {
 }
 const { tag, posts } = Astro.props;
 ---
-<Base title={`Schlagwort: ${tag}`} description={`Artikel zum Thema ${tag} im Blog it Marketing.`}>
+<Base title={`Schlagwort: ${tag}`} description={`Artikel zum Thema ${tag} im Blog it Marketing.`} noindex={posts.length <= 2}>
   <main class="wrap simple">
     <p class="kicker">Schlagwort</p>
     <h1>{tag}</h1>

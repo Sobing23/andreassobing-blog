@@ -9,7 +9,7 @@ vgwort: "https://vg06.met.vgwort.de/na/48e2c3bee37b45f281ac16f7a8b38fd4"
 wpId: 2218
 ---
 
-[![](/wp-content/uploads/2019/07/feedback-3240007_1280.jpg)](/wp-content/uploads/2019/07/feedback-3240007_1280.jpg)
+[![Illustration: Finger wählt neutralen Smiley auf einer Bewertungsskala, daneben Kaffeetasse](/wp-content/uploads/2019/07/feedback-3240007_1280.jpg)](/wp-content/uploads/2019/07/feedback-3240007_1280.jpg)
 
 Immer mehr Unternehmen fragen heute die Zufriedenheit an den unterschiedlichsten Stellen ab. Ob im Bumarkt hinter der Kasse, bei der Bahnfahrt per QR Code am Vordersitz oder per Mail nach dem Kauf im Online-Shop wird ein Feedback des Kunden eingeholt. Mit dem Kano-Modell hast du ein weiteres Tool um neue Erkenntnisse in dem Bereich zu gewinnen.
 

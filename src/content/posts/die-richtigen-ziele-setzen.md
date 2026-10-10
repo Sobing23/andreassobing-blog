@@ -9,7 +9,7 @@ vgwort: "https://vg06.met.vgwort.de/na/08110660768e476681e6b7b5e56e96b6"
 wpId: 1492
 ---
 
-![](/wp-content/uploads/2017/12/img_7567.jpg)
+![Illustration: Baum mit Begriffen wie Goals, Strategy, Marketing, Business und Plan](/wp-content/uploads/2017/12/img_7567.jpg)
 
 Es hilft Dir Ziele zu setzen um diese zu erreichen. Dies hört sich zuerst einfach an. Aber es gibt auch hier einige hilfreiche Tipps zur richtigen Zielsetzung.
 

@@ -12,7 +12,7 @@ tags:
 wpId: 2202
 ---
 
-[![](/wp-content/uploads/2019/07/Bill_Campbell-1.jpg)](/wp-content/uploads/2019/07/Bill_Campbell-1.jpg)
+[![Lächelnder Bill Campbell mit Schriftzug The Ultimate Coach und Logos von Apple, Google, Amazon](/wp-content/uploads/2019/07/Bill_Campbell-1.jpg)](/wp-content/uploads/2019/07/Bill_Campbell-1.jpg)
 
 Kennst Du bereits Bill Campbell? Viele Leute haben noch nie von ihm und vor allem dem Coaching gehört. Und wenn Google Mastermind und langjähriger CEO Eric Schmidt ein Buch über ihn und seine Lektionen schreibt, dann sagt das eine Menge aus. Daher sehen wir uns einmal genauer seine Verdienste für viele der größten Unternehmen und deren bedeutenden Führungspersönlichkeiten an.
 

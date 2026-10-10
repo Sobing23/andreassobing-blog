@@ -49,7 +49,7 @@ Im Kontext des MBV sind direkte Formeln oder Berechnungen weniger verbreitet als
 
 - **Marktanteilsanalyse**: Eine grundlegende Berechnung, die oft im Rahmen des MBV verwendet wird, ist die Bestimmung des Marktanteils. Der Marktanteil eines Unternehmens wird typischerweise als Prozentsatz des Gesamtumsatzes in einem Markt berechnet, den das Unternehmen im Verhältnis zum Gesamtmarktumsatz hält.
 
-![](/wp-content/uploads/2024/02/Unbenannt-1.png)
+![Formel: Marktanteil gleich Umsatz des Unternehmens geteilt durch Gesamtumsatz des Marktes mal 100](/wp-content/uploads/2024/02/Unbenannt-1.png)
 
 - **Branchenattraktivitätsanalyse**: Ein weiteres Werkzeug ist die Branchenattraktivitätsanalyse, die häufig in Verbindung mit Porters Fünf-Kräfte-Modell verwendet wird, um die Attraktivität und das Gewinnpotential einer Branche zu bewerten. Diese Analyse kann qualitative Bewertungen beinhalten, aber auch quantitative Maße wie Wachstumsraten, Profitmargen und Marktgröße.
 - **SWOT-Analyse**: Obwohl die [SWOT-Analyse](/swot-analyse-dein-werkzeug-zur-strategischen-unternehmensplanung/) (Strengths, Weaknesses, Opportunities, Threats) hauptsächlich qualitativ ist, kann sie durch quantitative Daten wie Marktforschungsergebnisse, finanzielle Kennzahlen und Wettbewerbsanalysen unterstützt werden.

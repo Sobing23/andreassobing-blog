@@ -46,7 +46,7 @@ Während du das Identitätsprisma verwendest, um deine Marke zu definieren, kann
 **Apple**: Die Marke Apple zeichnet sich durch ein klares Erscheinungsbild (minimalistisches Design), eine charismatische Persönlichkeit, eine Kultur der Innovation, enge Kundenbeziehungen, eine Reflexion von Erfolg und Exklusivität sowie ein Selbstbild aus, das die Nutzer als Teil einer Elite sieht.
 **Nike**: Nike verkörpert eine motivierende Persönlichkeit, eine Kultur des Sports und der Leistung, inspiriert Menschen zu persönlichen Höchstleistungen (Beziehung), spiegelt das Selbstbild aktiver und ehrgeiziger Individuen wider und fördert ein starkes Selbstbild als Sportler.
 
-<figure><img src="/wp-content/uploads/2024/02/Kapferer-Identitaetsprisma1.png" alt="" loading="lazy"><figcaption>Screenshot c-hochzwei.com</figcaption></figure>
+<figure><img src="/wp-content/uploads/2024/02/Kapferer-Identitaetsprisma1.png" alt="Diagramm: Markenidentitätsprisma nach Kapferer mit sechs Facetten zwischen Sender und Rezipient" loading="lazy"><figcaption>Screenshot c-hochzwei.com</figcaption></figure>
 
 ### 
 

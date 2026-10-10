@@ -38,7 +38,7 @@ Die Human Brand Identity nach Meffert und Burmann ist ein Ansatz, der darauf abz
 
 **Storytelling**: Nutze Geschichten, um die menschlichen Aspekte Deiner Marke hervorzuheben. Gute Geschichten bleiben im Gedächtnis und fördern die emotionale Bindung.
 
-<figure><img src="/wp-content/uploads/2024/02/Burmann-Gabler-Identitaet1.png" alt="" loading="lazy"><figcaption>Screenshot: c-hochzwei.com</figcaption></figure>
+<figure><img src="/wp-content/uploads/2024/02/Burmann-Gabler-Identitaet1.png" alt="Modell nach Meffert und Burmann: Markenidentität und Markenimage verbunden über Brand Touch Points" loading="lazy"><figcaption>Screenshot: c-hochzwei.com</figcaption></figure>
 
 ## SEO-Strategien für eine menschliche Markenidentität
 

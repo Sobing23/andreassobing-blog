@@ -30,7 +30,7 @@ Die Methode basiert auf einer direkten Preisbefragung potenzieller Kunden. Dabei
 
 Stell Dir vor, Du möchtest einen neuen Smoothie auf den Markt bringen. Du bist Dir aber nicht sicher, welchen Preis Du dafür verlangen solltest. Mit der Van-Westendorp-Methode könntest Du herausfinden, dass die meisten Kunden bereit wären, zwischen 2,50 € und 4,00 € für den Smoothie zu bezahlen. Der Indifferenzpreis könnte bei 3,25 € liegen, der optimale Preis bei 3,00 €.
 
-<figure><img src="/wp-content/uploads/2023/11/mittels-price-sensitivity-meter-ermittelte-preiskurven-und-preispunkte1.png" alt="" loading="lazy"><figcaption>Quelle: https://www.befragung-und-analyse.de/van-westendorp/</figcaption></figure>
+<figure><img src="/wp-content/uploads/2023/11/mittels-price-sensitivity-meter-ermittelte-preiskurven-und-preispunkte1.png" alt="Diagramm: Van-Westendorp-Preiskurven mit akzeptierter Preisspanne und Preispunkten PMC, OPP, IDP, PME" loading="lazy"><figcaption>Quelle: https://www.befragung-und-analyse.de/van-westendorp/</figcaption></figure>
 
 ## Erweiterung der Methode
 

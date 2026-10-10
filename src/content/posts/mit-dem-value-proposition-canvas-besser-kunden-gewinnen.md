@@ -48,7 +48,7 @@ Erstelle die Value Map, indem du die Produkte, Dienstleistungen, Problemlösunge
 
 Vergleiche das Kundenprofil und die Value Map und stelle sicher, dass sie übereinstimmen. Wenn du das Kundenprofil und die Value Map aufeinander abstimmen kannst, hast du ein erfolgreiches Wertangebot.
 
-![](/wp-content/uploads/2023/04/value-proposition-canvas1.gif)
+![Value Proposition Canvas: Wertangebot mit Gain Creators und Pain Relievers, Kundenprofil mit Gains, Pains, Jobs](/wp-content/uploads/2023/04/value-proposition-canvas1.gif)
 
 ### Das Kundenprofil
 

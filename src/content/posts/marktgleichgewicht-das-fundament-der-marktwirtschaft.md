@@ -67,7 +67,7 @@ Das Marktgleichgewicht wird grafisch durch das **Angebots-Nachfrage-Diagramm** d
 
 Angenommen, folgende Gleichungen gelten:
 
-![](/wp-content/uploads/2024/12/Unbenannt1-1.png)
+![Rechenbeispiel Marktgleichgewicht: Preis 33,33 Euro und Menge 66,66 Einheiten](/wp-content/uploads/2024/12/Unbenannt1-1.png)
 
 ## Marktgleichgewicht in der Praxis
 

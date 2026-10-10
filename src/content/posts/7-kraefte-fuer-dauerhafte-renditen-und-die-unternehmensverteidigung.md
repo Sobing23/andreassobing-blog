@@ -89,7 +89,7 @@ Wenn die Anbieter erst einmal ihre Kunden an sich gebunden haben, ist die Wahrsc
 
 **Frage**: Wie kannst du die Wechselkosten für deine Kunden erhöhen?
 
-<figure><img src="/wp-content/uploads/2021/09/OG-V5-1-1024x576-1.jpg" alt="" loading="lazy"><figcaption>Screenshot von NFX.com</figcaption></figure>
+<figure><img src="/wp-content/uploads/2021/09/OG-V5-1-1024x576-1.jpg" alt="Tabelle: Die 7 Powers mit Nutzen und Barrieren, daneben Beispielunternehmen wie Tesla und Netflix" loading="lazy"><figcaption>Screenshot von NFX.com</figcaption></figure>
 
 ## 5. Gegenpositionierung (Counter Positioning)
 
@@ -130,7 +130,7 @@ Nehmen wir Apple als Beispiel. Das Ergebnis war ein sehr langer Prozesses, in de
 
 **Frage**: Wie kannst du die Markenbildung deines Unternehmens bzw. Produkts verbessern?
 
-<figure><img src="/wp-content/uploads/2021/09/final-podcast-art@2x.jpg" alt="" loading="lazy"><figcaption>Screenshot NFX.com</figcaption></figure>
+<figure><img src="/wp-content/uploads/2021/09/final-podcast-art@2x.jpg" alt="Podcast-Cover The 7 Powers mit Jeff Lawson und Hamilton Helmer" loading="lazy"><figcaption>Screenshot NFX.com</figcaption></figure>
 
 ## 7. Prozessleistung (Process Power)
 

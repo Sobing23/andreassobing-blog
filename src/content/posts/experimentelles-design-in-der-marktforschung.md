@@ -103,7 +103,7 @@ Nach Abschluss des Experiments werden die Daten analysiert. Dabei können statis
 
 Eine einfache Methode zur Analyse von Experimenten ist der Mittelwertvergleich. Wenn du zum Beispiel zwei Gruppen hast (eine, die den alten Preis sieht, und eine, die den neuen Preis sieht), kannst du den durchschnittlichen Verkauf für jede Gruppe berechnen und vergleichen.
 
-![](/wp-content/uploads/2024/09/Unbenannt3.png)
+![Formel für den Mittelwert: Summe der Verkäufe geteilt durch Anzahl der Beobachtungen](/wp-content/uploads/2024/09/Unbenannt3.png)
 
 ### Beispiel:
 

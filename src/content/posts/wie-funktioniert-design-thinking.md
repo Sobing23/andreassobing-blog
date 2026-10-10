@@ -12,7 +12,7 @@ tags:
 wpId: 2105
 ---
 
-![](/wp-content/uploads/2019/04/img_4523.jpg)
+![Haftnotizen mit handschriftlichen Stichworten und ein Stift auf einem Tisch](/wp-content/uploads/2019/04/img_4523.jpg)
 
 Der Ansatz vom Design Thinking ist es Probleme zu lösen und vor allem neue Ideen zu entwickeln. Hierbei gilt es sich in die Rolle des Nutzers zu begeben um Lösungen zu finden. Die Methode geht weit über die klassischen Design-Disziplinen hinaus. Design Thinking hilft dabei, mehr Ideen in kürzerer Zeit zu erforschen.
 
@@ -26,7 +26,7 @@ Beim Design Thinking werden die Abläufe und Verhaltensweisen des Endnutzer anal
 
 ## Die drei Komponenten der Innovationen und Problemlösungen
 
-![](/wp-content/uploads/2019/04/img_4531.jpg)
+![Skizze: Innovation in der Schnittmenge von Human Values, Technology und Business](/wp-content/uploads/2019/04/img_4531.jpg)
 
 - (technologische) Machbarkeit
 - (wirtschaftliche) Tragfähigkeit
@@ -48,7 +48,7 @@ Für den größtmöglichen Lerneffekt wird immer auf greifbare und konkrete Erge
 
 ### Design Thinking Prozess
 
-![](/wp-content/uploads/2019/04/img_4530.png)
+![Grafik: Design-Thinking-Phasen Understand, Observe, Synthesis, Ideation, Prototyping Testing, Implementing](/wp-content/uploads/2019/04/img_4530.png)
 
 Er führt Teams in iterativen Schleifen durch sechs verschiedene Phasen. Die einzelnen Schritte müssen nicht unbedingt nacheinander angegangen werden. Das Vor- und Zurückspringen in andere Phasen an einem beliebigen Zeitpunkt ist durchaus erwünscht. Das „frühe scheitern“ wirkt sich positiv auf das Ergebnis des Prozesses aus und spart dem Unternehmen wertvolle Ressourcen. (Prototyping - Fail often and early)
 

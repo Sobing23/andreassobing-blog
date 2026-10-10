@@ -45,7 +45,7 @@ Auch die Differenzierungspunkte sind ein wichtiger Faktor: Was unterscheidet dei
 
 Um es besser zu verdeutlichen findest Du einmal eine Abbildung am Beispiel eines Virgin Hotels.
 
-<figure><img src="https://crystalclearcomms.com/wp-content/uploads/2014/10/Virgin-Hotel-MM-2.png" alt="" loading="lazy"><figcaption>Bespiel The Virgin Chicago Hotel von Crystal Clear Communications</figcaption></figure>
+<figure><img src="https://crystalclearcomms.com/wp-content/uploads/2014/10/Virgin-Hotel-MM-2.png" alt="Beispiel einer Message Map für das Virgin Hotel Chicago" loading="lazy"><figcaption>Bespiel The Virgin Chicago Hotel von Crystal Clear Communications</figcaption></figure>
 
 Eine Message Map kann bis zu 40 Nachrichtenelemente enthalten
 
@@ -56,7 +56,7 @@ Eine Message Map kann bis zu 40 Nachrichtenelemente enthalten
 
 Berücksichtige Differenzierungspunkte - Dinge, die die Mitbewerber nicht sagen können. Hier einmal die gesamt Message Map
 
-<figure><img src="https://crystalclearcomms.com/wp-content/uploads/2014/10/Message-Map-Anatomy-6.png" alt="" loading="lazy"><figcaption>Aufbau einer Message Map von Crystal Clear Communications</figcaption></figure>
+<figure><img src="https://crystalclearcomms.com/wp-content/uploads/2014/10/Message-Map-Anatomy-6.png" alt="Schema: Aufbau einer Message Map mit Hauptbotschaft, positiven Punkten, Prüfpunkten und Beispielen" loading="lazy"><figcaption>Aufbau einer Message Map von Crystal Clear Communications</figcaption></figure>
 
 10 Ways to test a marketing message, um die Relevanz und die Resonanz beim Publikum sicherzustellen.
 

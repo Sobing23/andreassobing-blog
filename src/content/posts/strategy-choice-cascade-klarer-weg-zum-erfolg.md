@@ -162,7 +162,7 @@ Doch Interviews mit P&G-Managern zeigen, dass gerade die Simplizität schnelles 
 
 ## Kurze Formel zur Bewertung des Cascade-Fits
 
-![](/wp-content/uploads/2025/06/Unbenannt.jpg)
+![Formel: Fit Score als gewichtete Summe von fünf Antworten, Score über 35 bedeutet hohe Kohärenz](/wp-content/uploads/2025/06/Unbenannt.jpg)
 
 ## Zusammenfassungstabelle Strategy Choice Cascade-Modell
 

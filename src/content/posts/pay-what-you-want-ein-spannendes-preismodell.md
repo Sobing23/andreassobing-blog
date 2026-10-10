@@ -69,7 +69,7 @@ Wie bei jedem Preismodell gibt es auch bei PWYW Vor- und Nachteile, die abgewoge
 
 Wie kann man berechnen, ob PWYW für ein Unternehmen profitabel ist? Hier kommt der „Break-Even-Point“ ins Spiel, also der Punkt, an dem Einnahmen und Ausgaben gleich hoch sind. Im PWYW-Modell ist es wichtig, dass der durchschnittliche gezahlte Preis (P) hoch genug ist, um die Kosten (C) zu decken.
 
-![](/wp-content/uploads/2024/08/Unbenannt2.png)
+![Formel: Durchschnittspreis P mindestens Gesamtkosten C geteilt durch verkaufte Einheiten N](/wp-content/uploads/2024/08/Unbenannt2.png)
 
 Wenn der durchschnittliche Preis (P) die Kosten pro Einheit (C/N) deckt oder übersteigt, ist das Modell profitabel. Liegt der Preis darunter, macht das Unternehmen Verluste.
 
@@ -77,7 +77,7 @@ Wenn der durchschnittliche Preis (P) die Kosten pro Einheit (C/N) deckt oder üb
 
 Angenommen, die Gesamtkosten für die Herstellung und den Vertrieb eines Produkts betragen 1.000 Euro. Das Unternehmen verkauft 100 Einheiten im PWYW-Modell. Der Break-Even-Preis beträgt also:
 
-![](/wp-content/uploads/2024/08/Unbenannt3.png)
+![Rechenbeispiel: 1.000 Euro Kosten geteilt durch 100 Einheiten ergibt 10 Euro](/wp-content/uploads/2024/08/Unbenannt3.png)
 
 Das bedeutet, dass der durchschnittliche Preis, den die Kunden zahlen, mindestens 10 Euro betragen muss, um die Kosten zu decken. Zahlen die Kunden im Durchschnitt mehr als 10 Euro, macht das Unternehmen Gewinn.
 

@@ -11,7 +11,7 @@ tags:
 wpId: 1511
 ---
 
-![](/wp-content/uploads/2018/04/img_9608.jpg)
+![Zusammengerollte Zeitungen vor schwarzem Hintergrund mit Spiegelung](/wp-content/uploads/2018/04/img_9608.jpg)
 
 Kennst Du die 4 Felder der umgekehrten Pyramide? Journalisten gewinnen dadurch die Aufmerksamkeit ihrer Leser und fesseln sie. Lass uns einmal den Aufbau von Nachrichtentexten ansehen.
 

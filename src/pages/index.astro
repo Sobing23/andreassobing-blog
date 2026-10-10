@@ -3,19 +3,24 @@
 import Base from '../layouts/Base.astro';
 import Card from '../components/Card.astro';
 import PlainList from '../components/PlainList.astro';
-import { allePosts, RUBRIKEN, rubrik, rubrikUrl, postUrl, datum, lesezeit, anriss, THEMEN, KAPITEL_REIHENFOLGE, themaUrl } from '../lib/blog';
+import { allePosts, RUBRIKEN, rubrik, rubrikUrl, postUrl, datum, lesezeit, anriss, THEMEN, KAPITEL_REIHENFOLGE, themaUrl, PERSON, SITE_URL } from '../lib/blog';
 
 const posts = await allePosts();
 const [lead, ...rest] = posts;
 const neu = rest.slice(0, 6);
 const gezeigt = new Set([lead, ...neu].map((p) => p.id));
 const kapitel = KAPITEL_REIHENFOLGE.map((k, i) => ({ nr: i + 1, ...THEMEN.find((t) => t.key === k)! }));
+const websiteLd = {
+  '@context': 'https://schema.org', '@type': 'WebSite', name: 'Blog it Marketing', url: `${SITE_URL}/`, inLanguage: 'de-DE',
+  author: PERSON, publisher: PERSON,
+  potentialAction: { '@type': 'SearchAction', target: `${SITE_URL}/suche/?q={search_term_string}`, 'query-input': 'required name=search_term_string' },
+};
 const bloecke = RUBRIKEN.map((r) => {
   const alle = posts.filter((p) => p.data.category === r.key);
   return { ...r, anzahl: alle.length, artikel: alle.filter((p) => !gezeigt.has(p.id)).slice(0, r.key === 'fundstuecke' ? 5 : 3) };
 });
 ---
-<Base title="Blog it Marketing" description="Mein digitales Notizbuch: Methoden, Modelle und Werkzeuge aus Marketing, Strategie und Führung – fast 1.000 Artikel seit 2009.">
+<Base jsonld={[websiteLd]} title="Blog it Marketing" description="Mein digitales Notizbuch: Methoden, Modelle und Werkzeuge aus Marketing, Strategie und Führung – fast 1.000 Artikel seit 2009.">
   <main class="wrap home">
     <section class="lead-row">
       <article class="lead">

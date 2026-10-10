@@ -90,7 +90,7 @@ Das Verständnis des Produktlebenszyklus ist für Unternehmen entscheidend, um i
 
 Eine einfache Formel zur Berechnung des Marktwachstums, das häufig in der Wachstumsphase analysiert wird, lautet
 
-![](/wp-content/uploads/2024/09/Unbenannt-2.png)
+![Formel für Marktwachstum in Prozent mit Rechenbeispiel, Ergebnis 20 Prozent Wachstum](/wp-content/uploads/2024/09/Unbenannt-2.png)
 
 Dies zeigt, dass der Markt um 20% gewachsen ist, was auf eine starke Wachstumsphase hindeutet.
 Wie Unternehmen den Produktlebenszyklus beeinflussen können

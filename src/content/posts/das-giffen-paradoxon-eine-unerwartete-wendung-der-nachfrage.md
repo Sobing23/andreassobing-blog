@@ -43,7 +43,7 @@ In der Modeindustrie könnte ein ähnliches Phänomen auftreten, wenn der Preis 
 
 Das Giffen-Paradoxon lässt sich nicht direkt durch eine einfache Formel erklären, da es von der spezifischen Elastizität der Nachfrage abhängt, die wiederum von vielen Faktoren beeinflusst wird. Die Preiselastizität der Nachfrage (PED) ist ein Maß dafür, wie die Menge der nachgefragten Güter auf eine Preisänderung reagiert. Sie wird allgemein wie folgt berechnet:
 
-![](/wp-content/uploads/2024/02/Unbenannt.png)
+![Formel: Preiselastizität der Nachfrage als prozentuale Mengenänderung geteilt durch prozentuale Preisänderung](/wp-content/uploads/2024/02/Unbenannt.png)
 
 Für Giffen-Güter wäre die Preiselastizität der Nachfrage positiv, was ungewöhnlich ist, da sie normalerweise negativ ist (was bedeutet, dass die nachgefragte Menge sinkt, wenn der Preis steigt). Die Identifizierung eines Giffen-Gutes erfordert daher eine sorgfältige Beobachtung und Analyse des spezifischen Marktes und der Verhaltensweisen der Verbraucher.
 

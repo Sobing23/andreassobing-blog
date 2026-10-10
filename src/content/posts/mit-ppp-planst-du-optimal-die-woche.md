@@ -9,7 +9,7 @@ vgwort: "https://vg06.met.vgwort.de/na/09222bdbe0234f2cab3d2e4909cf7557"
 wpId: 2247
 ---
 
-![](/wp-content/uploads/2019/08/img_7087.jpg)
+![Mann betrachtet eine Wand voller Skizzen, Entwürfe und Notizen](/wp-content/uploads/2019/08/img_7087.jpg)
 
 [PPP](http://en.wikipedia.org/wiki/Progress,_plans,_problems) steht für Progress, Plans, Problems. Dies ist eine Methodik für wöchentliche Planung und Statusberichte. Dank PPP erhältst du und dein Team einem optimalen Überblick über alle wichtigen Aufgaben. Unter anderem wird es eingesetzt bei EBay, Skype und Facebook.
 
@@ -23,7 +23,7 @@ Der erstellte wöchentliche Bericht wird dann im Team geteilt. PPP wird eingeset
 
 <div class="video" data-provider="youtube" data-id="sxDjAKjFcc0"></div>
 
-<figure><img src="/wp-content/uploads/2019/08/img_7088.png" alt="" loading="lazy"><figcaption>Source: Wikipedia</figcaption></figure>
+<figure><img src="/wp-content/uploads/2019/08/img_7088.png" alt="Grafik: PPP-Methode mit Plans, Progress und Problems im wöchentlichen Kreislauf" loading="lazy"><figcaption>Source: Wikipedia</figcaption></figure>
 
 # Wie ist die Struktur von PPP?
 

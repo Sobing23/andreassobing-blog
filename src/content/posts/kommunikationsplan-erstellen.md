@@ -122,7 +122,7 @@ Nutze Tools wie Google Looker Studio. Zeige dort:
 
 Berechne ROMI so:
 
-![](/wp-content/uploads/2025/07/Unbenannt-1.jpg)
+![Formel: ROMI gleich Umsatz minus Kosten geteilt durch Kosten mal 100](/wp-content/uploads/2025/07/Unbenannt-1.jpg)
 
 ### H3 Lernschleifen etablieren
 

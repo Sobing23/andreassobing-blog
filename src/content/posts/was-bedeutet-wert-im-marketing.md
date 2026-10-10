@@ -28,7 +28,7 @@ David schlägt vor, dass es drei Hauptarten gibt:
 Um zu visualisieren, wie Marketing diese Werte schafft, hat David das "Marketing Value Wheel" entwickelt. Dieses Rad zeigt die Haupttreiber des Unternehmens- und Verbraucherwerts sowie die Strategien, die diese Treiber beeinflussen. Es bietet auch taktische Ansätze, um diese Strategien zu aktivieren.
 Sprachbarrieren überwinden.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:4768/1*5JQaN8h3FSpzth5GMhFRuw.png" alt="" loading="lazy"><figcaption>A Marketing Value Wheel with Drivers, Strategies and Value Creation Tactics to increase Business, Consumer and Cultural Value by David J. Carr</figcaption></figure>
+<figure><img src="https://miro.medium.com/v2/resize:fit:4768/1*5JQaN8h3FSpzth5GMhFRuw.png" alt="Marketing Value Wheel: Treiber, Strategien und Taktiken für Geschäfts-, Verbraucher- und Kulturwert" loading="lazy"><figcaption>A Marketing Value Wheel with Drivers, Strategies and Value Creation Tactics to increase Business, Consumer and Cultural Value by David J. Carr</figcaption></figure>
 
 Ein weiterer interessanter Punkt, den David anspricht, ist die Sprachbarriere im Marketing. Marketingexperten verwenden häufig Begriffe wie "[Engagement](/ziele-umsatz-vs-engagement/)", die im Geschäftsumfeld eine völlig andere Bedeutung haben können. Es ist wichtig, dass Marketing und Management dieselbe Sprache sprechen und sich auf das konzentrieren, was wirklich zählt: Wert zu schaffen.
 

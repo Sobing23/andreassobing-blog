@@ -45,7 +45,7 @@ Der **Myers-Briggs-Typenindikator** (MBTI) fasziniert seit Jahrzehnten Fachleute
 
 Die Kombination deiner Präferenzen bildet einen Vier-Buchstaben-Code, z. B. **ENTJ**.
 
-![](/wp-content/uploads/2025/06/Screenshot-2025-06-13-152953.png)
+![Formel: Typenanzahl gleich 2 hoch 4 Dichotomien ergibt 16 Typen](/wp-content/uploads/2025/06/Screenshot-2025-06-13-152953.png)
 
 ## Kurzporträts der 16 MBTI-Typen
 

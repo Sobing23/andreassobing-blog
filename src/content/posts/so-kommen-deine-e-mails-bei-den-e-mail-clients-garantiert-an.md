@@ -22,7 +22,7 @@ Das Testen deiner Mail für die verschiedenen E-Mail Clients als auch für die 
 
 Hier siehst du einmal wie so eine Vorschau aussehen kann
 
-![](/wp-content/uploads/2022/09/Bild11.png)
+![Screenshot: Vorschau eines Newsletters in verschiedenen E-Mail-Clients wie Apple Mail und Outlook](/wp-content/uploads/2022/09/Bild11.png)
 
 Weißt du schon wie die [E-Mail entstanden ist](/die-entstehung-der-e-mail-und-dem-e-mail-marketing/)?
 

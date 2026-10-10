@@ -23,7 +23,7 @@ Die Laffer-Kurve hat eine bogenförmige Struktur. Auf der linken Seite steigen d
 
 **Hier ist eine einfache grafische Darstellung**
 
-![](/wp-content/uploads/2024/09/laffer.png)
+![Skizze der Laffer-Kurve: Staatseinnahmen steigen und fallen mit zunehmendem Steuersatz](/wp-content/uploads/2024/09/laffer.png)
 
 Die linke Seite der Kurve zeigt, dass bei niedrigen Steuersätzen eine Erhöhung der Steuersätze zu mehr Einnahmen führt. Die rechte Seite der Kurve zeigt jedoch, dass ab einem gewissen Punkt höhere Steuersätze die Wirtschaftstätigkeit hemmen und die Staatseinnahmen sinken.
 

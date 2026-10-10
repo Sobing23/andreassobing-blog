@@ -62,7 +62,7 @@ Referenzpreise sind die Preise, die Konsumenten für ein Produkt oder eine Diens
 
 #### Formel für den relativen Referenzpreis:
 
-![](/wp-content/uploads/2024/09/Unbenannt-3.png)
+![Formel zur relativen Preisänderung mit Beispiel: Shampoo von 5 auf 9 Euro ergibt 80 Prozent](/wp-content/uploads/2024/09/Unbenannt-3.png)
 
 Eine Erhöhung um 80 % könnte als unattraktiv empfunden werden, daher hilft das Unternehmen, dies durch den Vergleich zu einem Premium-Produkt zu relativieren.
 
@@ -74,7 +74,7 @@ Rabatte wirken oft attraktiver, als sie tatsächlich sind. Unternehmen nutzen di
 
 #### Rabatt-Berechnungsformel:
 
-![](/wp-content/uploads/2024/09/Unbenannt1-1.png)
+![Formel für den Preis nach Rabatt, Beispiel: 30 Prozent auf 100 Euro ergibt 70 Euro](/wp-content/uploads/2024/09/Unbenannt1-1.png)
 
 ## Psychologische Effekte bei der Preisgestaltung
 

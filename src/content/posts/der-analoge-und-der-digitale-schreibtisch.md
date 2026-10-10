@@ -11,7 +11,7 @@ tags:
 wpId: 1445
 ---
 
-![](/wp-content/uploads/2017/11/img_7250.jpg)
+![Holzschreibtisch von oben mit Schreibmaschine, Notizbuch, Buch, Brille und Tannenzapfen](/wp-content/uploads/2017/11/img_7250.jpg)
 
 Wir verbringen Zehntausende von Stunden an unserem Schreibtisch. Während dieser meist produktiven Zeit werden wir auch immer wieder abgelenkt. Wir erstellen Konzepte, optimieren, verändern oder verwerfen diese wieder. Aber wie können wir noch produktiver und effizienter arbeiten?
 

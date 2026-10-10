@@ -12,7 +12,7 @@ tags:
 wpId: 2232
 ---
 
-[![](/wp-content/uploads/2019/07/hack.jpg)](/wp-content/uploads/2019/07/hack.jpg)
+[![Isometrische Grafik: Laptop steuert Arduino mit LED-Matrix, die HACK! anzeigt](/wp-content/uploads/2019/07/hack.jpg)](/wp-content/uploads/2019/07/hack.jpg)
 
 Häufig wird eine lange Zeit für Konzepte verwendet und Cases erstellt. Allerdings fehlen hier Live-Daten sowie das Feedback der User. Daher möchte ich dir heute eine Alternative, nämlich den Design Sprint von Google, vorstellen. Damit ist es möglich in fünf Tagen einen Prototyp zu erstellen und Benutzer diesen testen zu lassen.
 

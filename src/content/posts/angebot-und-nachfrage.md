@@ -62,7 +62,7 @@ Die Beziehung zwischen Angebot und Nachfrage wird oft in einem Diagramm dargeste
 - **Nachfragekurve:** Fällt mit höherem Preis (weniger Käufer wollen kaufen).
 - **Marktgleichgewicht:** Schnittpunkt der Kurven.
 
-![](/wp-content/uploads/2024/12/Unbenannt1.png)
+![Beispielrechnung zum Marktgleichgewicht: Preis 33,33 Euro bei 66,66 Einheiten](/wp-content/uploads/2024/12/Unbenannt1.png)
 
 ## Beispiele aus der Praxis
 

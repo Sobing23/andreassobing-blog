@@ -25,7 +25,7 @@ Das Brand Bios Modell bietet zahlreiche Vorteile:
 - **Vertrauen:** Eine starke und konsistente Marke baut Vertrauen bei den Kunden auf.
 - **Differenzierung:** Es hebt deine Marke von der Konkurrenz ab.
 
-<figure><img src="/wp-content/uploads/2024/07/1_Y_rYx04HCypeaB_APZurJQ.webp" alt="" loading="lazy"><figcaption>Marco Spies (think moto)</figcaption></figure>
+<figure><img src="/wp-content/uploads/2024/07/1_Y_rYx04HCypeaB_APZurJQ.webp" alt="Brand Bios Modell: Behaviour, Image, Offering und Story ergeben gemeinsam Meaning" loading="lazy"><figcaption>Marco Spies (think moto)</figcaption></figure>
 
 ## 
 

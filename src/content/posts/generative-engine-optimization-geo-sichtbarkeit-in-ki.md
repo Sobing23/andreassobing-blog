@@ -101,7 +101,7 @@ Seit 2024 zeigen große Plattformen wie Google, Microsoft und OpenAI generative 
 
 ### Messen, was wirklich zählt
 
-![](/wp-content/uploads/2025/07/Unbenannt-3.jpg)
+![Formeln für Reference Rate und Visibility Share zur Messung von KI-Sichtbarkeit](/wp-content/uploads/2025/07/Unbenannt-3.jpg)
 **Content Confidence Score** (aus Tools wie Wix AI Visibility) bewertet Häufigkeit + Sentiment deiner Erwähnungen.
 
 ### Praxis-Roadmap für 30 Tage

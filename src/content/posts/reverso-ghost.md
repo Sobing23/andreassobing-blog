@@ -11,7 +11,7 @@ tags:
 wpId: 1424
 ---
 
-[![](/wp-content/uploads/2017/11/img_6912.jpg)](/wp-content/uploads/2017/11/img_6912.jpg)
+[![Zitat von Seth Godin: Waiting for perfect is never as smart as making progress](/wp-content/uploads/2017/11/img_6912.jpg)](/wp-content/uploads/2017/11/img_6912.jpg)
 Heute möchte ich Euch das Lieblingsspiel von [Seth Godin](https://de.wikipedia.org/wiki/Seth_Godin) vorstellen. Als Autor verfasste Godin Sachbücher zu Internet- und Marketing-Themen. Sein Buch Free Prize Inside war 2004 auf der Liste der 10 Business Books of the Year des Wirtschaftsmagazins Forbes Magazine.
 
 Zusätzlich empfehle ich Euch [Seth's Blog](http://sethgodin.typepad.com). Seth veröffentlicht hier jeden Tag einen Eintrag rund ums Marketing aber auch anderen Themen. Die Einträge sind meist sehr kurz und somit schnell zu erfassen.

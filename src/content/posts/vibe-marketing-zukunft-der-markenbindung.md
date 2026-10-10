@@ -105,7 +105,7 @@ Dieser Sprint liefert in einer Woche einen valideren Vibe als manch klassischer 
 - **Engagement-Lift**: Vergleich emotion-fokussierter Posts vs. demografie-targetierter Posts.
 - **Return on Marketing Invest (ROMI)**
 
-![](/wp-content/uploads/2025/07/Unbenannt-2.jpg)
+![Formel: ROMI gleich Umsatz minus Marketingkosten durch Marketingkosten mal 100](/wp-content/uploads/2025/07/Unbenannt-2.jpg)
 
 Die Kombination aus hartem Umsatz-ROI und weichem Sentiment liefert ein ganzheitliches Bild.
 

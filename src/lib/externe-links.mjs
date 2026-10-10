@@ -21,6 +21,11 @@ async function* htmlDateien(dir) {
   }
 }
 
+// Bilder ohne loading-Attribut erst beim Scrollen laden (Titelbilder mit fetchpriority und Zählpixel ausgenommen)
+export function bilderLazy(html) {
+  return html.replace(/<img\b(?![^>]*\bloading=)(?![^>]*fetchpriority)(?![^>]*class="vgwort")([^>]*)>/gi, '<img loading="lazy" decoding="async"$1>');
+}
+
 export default function externeLinks() {
   return {
     name: 'externe-links-neuer-tab',
@@ -28,7 +33,7 @@ export default function externeLinks() {
       'astro:build:done': async ({ dir }) => {
         for await (const f of htmlDateien(fileURLToPath(dir))) {
           const alt = await readFile(f, 'utf8');
-          const neu = markiereExterneLinks(alt);
+          const neu = bilderLazy(markiereExterneLinks(alt));
           if (neu !== alt) await writeFile(f, neu);
         }
       },

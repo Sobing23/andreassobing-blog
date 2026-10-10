@@ -117,3 +117,21 @@ export const HANDBUCH_URL = '/handbuch/';
 export const mitLinks = (t: string) =>
   t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
    .replace(/\[([^\]]+)\]\((\/[a-z0-9\/-]*)\)/g, '<a href="$2">$1</a>');
+
+// Strukturierte Daten (schema.org): Autor und Website
+export const SITE_URL = 'https://andreassobing.de';
+export const AUTOR_FOTO = '/wp-content/uploads/2021/12/andreas-sobing.1024x1024.jpg';
+export const PERSON = {
+  '@type': 'Person',
+  '@id': `${SITE_URL}/ueber-mich/#person`,
+  name: 'Andreas Sobing',
+  url: `${SITE_URL}/ueber-mich/`,
+  image: `${SITE_URL}${AUTOR_FOTO}`,
+  sameAs: ['https://www.youtube.com/channel/UC3dMCOsiWBJyhxW8bMaGTmA'],
+  knowsAbout: ['Marketingstrategie', 'Branding', 'E-Mail-Marketing', 'CRM', 'OKR', 'Führung'],
+};
+export const brotkrumen = (stufen: { name: string; url: string }[]) => ({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: stufen.map((s, i) => ({ '@type': 'ListItem', position: i + 1, name: s.name, item: new URL(s.url, SITE_URL).toString() })),
+});

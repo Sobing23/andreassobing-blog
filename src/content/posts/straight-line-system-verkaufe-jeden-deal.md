@@ -116,7 +116,7 @@ Ohne spürbaren Schmerz gibt es wenig Bewegung. Frage:
 
 ## Formel-Teil: Rechne dir deine Deals aus
 
-![](/wp-content/uploads/2025/09/Screenshot-2025-09-24-at-16-11-58-ChatGPT-BloggA-Content-GPT.png)​
+![Formeln für erwarteten Umsatz, Provision pro Gespräch und Break-even-Leads](/wp-content/uploads/2025/09/Screenshot-2025-09-24-at-16-11-58-ChatGPT-BloggA-Content-GPT.png)​
 
 **Beispiel:**  
 q = 20 %, P = 800 €, r = 15 % → Provision/Call = 0,2 × 800 × 0,15 = **24 €**.  
