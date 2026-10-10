@@ -587,5 +587,206 @@
         ]
       }
     ]
+  },
+  {
+    "key": "fuehrung",
+    "name": "Führung und Organisation",
+    "titel": "Führung und Organisation: Der Überblick über alle Artikel",
+    "seoTitel": "Führung und Organisation: Führungsstile, Coaching-Modelle und Unternehmenskultur",
+    "beschreibung": "Alles zu Führung an einem Ort: Führungsstile, Coaching-Modelle wie GROW und CLEAR, Unternehmenskultur, neue Organisationsformen und was du von bekannten Managern lernen kannst.",
+    "intro": [
+      "Gute Führung entscheidet darüber, ob aus einer Strategie Ergebnisse werden. Sie zeigt sich im Alltag: wie du Gespräche führst, Feedback gibst, Entscheidungen triffst und welche Kultur in deinem Team entsteht.",
+      "Auf dieser Seite findest du alle meine Artikel dazu, von klassischen Führungsstilen über Coaching-Modelle für das Mitarbeitergespräch bis zu Unternehmenskultur und neuen Organisationsformen. Dazu kommen Porträts von Managern, deren Prinzipien bis heute nachwirken.",
+      "Wie du Veränderungen im Team begleitest, findest du im Kapitel [Change Management](/thema/change/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Führungsstile",
+        "text": "Welche Arten zu führen es gibt und wann welcher Stil passt.",
+        "artikel": [
+          "die-verschiedenen-fuehrungsstile",
+          "6-goleman-leadership-styles-fuer-effektive-fuehrung",
+          "transaktionale-fuehrung-im-marketing",
+          "transformativer-fuehrungsstil-im-marketing",
+          "die-zukunft-der-kreativen-fuehrung-leitfaden-fuer-moderne-leader",
+          "emotionale-intelligenz-im-marketing-und-in-der-fuehrung",
+          "ruth-seligers-leadership-map-ein-leitfaden-fuer-effektive-fuehrung",
+          "management-by-walking-around-eine-direkte-art-der-fuehrung"
+        ]
+      },
+      {
+        "titel": "Coaching-Modelle",
+        "text": "Strukturen für Mitarbeitergespräche und Coaching, von GROW bis OSKAR.",
+        "artikel": [
+          "das-grow-modell-dein-schluessel-zu-effektiven-marketingstrategien",
+          "der-turbo-fuer-deine-kommunikation-das-fuel-coaching-modell",
+          "klare-kommunikation-das-clear-coaching-modell",
+          "navigiere-mit-klarheit-das-clear-modell",
+          "die-oskar-coaching-methode-2"
+        ]
+      },
+      {
+        "titel": "Kultur und Organisation",
+        "text": "Wie Teams zusammenarbeiten, welche Kultur trägt und wie sich Organisationen aufstellen.",
+        "artikel": [
+          "kulturmanagement-in-organisationen",
+          "wir-kultur-in-der-arbeitswelt-nutzen",
+          "6-mindsets-fuer-starke-marketing-teams",
+          "radikale-transparenz-erfolg-durch-ideen-meritokratie",
+          "ueberwindung-der-schwarmdummheit-ein-genial-einfacher-ansatz",
+          "die-holokratie-als-neue-organisationsform-im-unternehmen",
+          "organisationsstrukturen-der-big-six",
+          "qualitaetsmanagement-was-steckt-wirklich-dahinter"
+        ]
+      },
+      {
+        "titel": "Von Vorbildern lernen",
+        "text": "Was bekannte Manager und Unternehmen über Führung zeigen.",
+        "artikel": [
+          "peter-drucker-der-meister-des-modernen-managements",
+          "der-billionen-dollar-coach-bill-campbell",
+          "amazons-fuehrungsprinzipien-ein-leitfaden-fuer-erfolg",
+          "der-amazon-trainer-jeff-wilke",
+          "googles-erfolgsgeheimnisse-einblicke-in-die-arbeitsweise",
+          "steve-jobs-ein-visionaer-und-sein-reality-distortion-field",
+          "checklist-10-rockefeller-regeln"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "change",
+    "name": "Change Management",
+    "titel": "Change Management: Der Überblick über alle Artikel",
+    "seoTitel": "Change Management: Kotter, Lewin, ADKAR und andere Modelle für Veränderung",
+    "beschreibung": "Alles zu Change Management an einem Ort: warum Veränderungen scheitern, wie du sie planst und welche Modelle helfen, von Kotter über Lewin bis ADKAR.",
+    "intro": [
+      "Veränderungen scheitern selten an der Idee, sondern daran, dass die Menschen nicht mitgehen. Change Management beschreibt, wie du Veränderungen so planst und begleitest, dass sie im Unternehmen ankommen und bleiben.",
+      "Auf dieser Seite findest du alle meine Artikel dazu: die Grundlagen und die bekanntesten Modelle, mit denen du einen Wandel strukturierst. Wie OKRs Veränderungen unterstützen können, steht im Kapitel [OKR](/thema/okr/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen",
+        "text": "Was Change Management ist und wie Veränderungen dauerhaft im Unternehmen verankert werden.",
+        "artikel": [
+          "mit-change-management-steuerst-du-erfolgreich-veraenderungen",
+          "die-change-formel-ein-kompass-fuer-veraenderungen",
+          "so-verankerst-du-veraenderungen-nachhaltig-in-deinem-unternehmen"
+        ]
+      },
+      {
+        "titel": "Modelle für Veränderung",
+        "text": "Bewährte Modelle, die einen Wandel in Phasen oder Schritte gliedern.",
+        "artikel": [
+          "kotters-8-stufen-modell",
+          "kotters-8-schritte-modell-zur-steuerung-der-marketingveraenderungen",
+          "lewins-3-stufen-modell",
+          "kurt-lewins-phasenmodell",
+          "das-adkar-modell",
+          "das-pinguin-prinzip-wie-du-veraenderungen-erfolgreich-umsetzt"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "wirtschaft",
+    "name": "Wirtschaftliche Grundlagen",
+    "titel": "Wirtschaftliche Grundlagen: Der Überblick über alle Artikel",
+    "seoTitel": "Wirtschaftliche Grundlagen: Angebot und Nachfrage, Grenznutzen, Skaleneffekte einfach erklärt",
+    "beschreibung": "Die wichtigsten Begriffe aus der Volks- und Betriebswirtschaft einfach erklärt: Angebot und Nachfrage, Marktgleichgewicht, Grenznutzen, Ertragsgesetz, Skaleneffekte und mehr.",
+    "intro": [
+      "Viele Entscheidungen im Marketing beruhen auf wirtschaftlichen Grundgesetzen: Wie reagiert die Nachfrage auf einen höheren Preis? Wann lohnt sich mehr Aufwand nicht mehr? Warum werden große Unternehmen manchmal schwerfällig?",
+      "Auf dieser Seite findest du alle meine Artikel, die solche Grundlagen aus der Volks- und Betriebswirtschaft einfach erklären, mit Beispielen aus dem Marketing. Dazu kommen einige Theorien und Ereignisse aus der Wirtschaftsgeschichte, die bis heute lehrreich sind."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Markt, Nachfrage und Nutzen",
+        "text": "Wie Preise entstehen, wie Nachfrage reagiert und wie Menschen Nutzen bewerten.",
+        "artikel": [
+          "angebot-und-nachfrage",
+          "marktgleichgewicht-das-fundament-der-marktwirtschaft",
+          "grenznutzen-einfach-erklaert",
+          "das-giffen-paradoxon-eine-unerwartete-wendung-der-nachfrage",
+          "homogenitaet-bedeutung-beispiele-und-anwendung",
+          "heterogenitaet-in-wirtschaft-und-marketing",
+          "big-mac-index-was-zeigt-der-burger"
+        ]
+      },
+      {
+        "titel": "Kosten, Erträge und Größe",
+        "text": "Was mit Kosten und Erträgen passiert, wenn ein Unternehmen wächst.",
+        "artikel": [
+          "ertragsgesetz-grundlagen-und-praktische-bedeutung",
+          "diminishing-returns-das-gesetz-der-abnehmenden-ertraege-erklaert",
+          "skaleneffekte-wie-nutzt-du-sie-effizient",
+          "skalenertraege-bedeutung-und-arten-erklaert",
+          "fallbeispiel-analyse-das-phaenomen-der-skalennachteile",
+          "lerneffekte-wie-du-durch-erfahrung-effizienter-wirst",
+          "der-leverage-effekt-wie-hebelwirkung-den-roi-steigern-kann",
+          "3-financial-statements-erklaert"
+        ]
+      },
+      {
+        "titel": "Theorien und Wirtschaftsgeschichte",
+        "text": "Ideen und Ereignisse, die das wirtschaftliche Denken geprägt haben.",
+        "artikel": [
+          "joseph-schumpeters-theorie-der-wirtschaftlichen-entwicklung",
+          "die-laffer-kurve",
+          "tulpenkrise-die-erste-spekulationsblase-der-geschichte"
+        ]
+      }
+    ]
+  },
+  {
+    "key": "startups",
+    "name": "Gründung und Startups",
+    "titel": "Gründung und Startups: Der Überblick über alle Artikel",
+    "seoTitel": "Gründung und Startups: Geschäftsidee, Lean Startup, MVP und Produkt-Markt-Fit",
+    "beschreibung": "Alles zur Gründung an einem Ort: die richtige Geschäftsidee finden, nebenberuflich starten, mit Lean Startup und MVP schnell lernen, den Produkt-Markt-Fit erreichen und von bekannten Gründern lernen.",
+    "intro": [
+      "Die meisten neuen Geschäftsideen scheitern nicht am Produkt, sondern daran, dass niemand es braucht. Moderne Gründungsmethoden setzen deshalb darauf, früh zu testen, schnell zu lernen und klein anzufangen.",
+      "Auf dieser Seite findest du alle meine Artikel zur Gründung: wie du eine Idee findest und neben dem Job startest, wie du sie mit Lean Startup und einem Minimum Viable Product prüfst und was du aus den Geschichten bekannter Gründer lernen kannst.",
+      "Wie du ein Geschäftsmodell mit dem Business Model Canvas oder dem Lean Canvas aufschreibst, findest du im Kapitel [Strategie und Planung](/thema/strategie/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Idee und Einstieg",
+        "text": "Wie du eine Geschäftsidee findest, Zweifel überwindest und neben dem Job startest.",
+        "artikel": [
+          "die-sieben-schritte-der-ideenfindung-fur-startups",
+          "startup-neben-dem-job-die-richtige-geschaeftsidee-finden-und-klein-anfangen",
+          "startup-neben-dem-job-wie-du-zweifel-ueberwindest-und-endlich-loslegst",
+          "startup-neben-dem-job-wie-du-trotz-vollzeitjob-zeit-und-energie-dafuer-findest",
+          "million-dollar-weekend-von-noah-kagan",
+          "kopf-schlagt-kapital-die-ganz-andere-art-ein-unternehmen-zu-grunden",
+          "die-gruendermentalitaet-ein-schluessel-zum-nachhaltigen-erfolg",
+          "die-pyramide-der-mitgruender-beziehung-ein-leitfaden-fuer-startups"
+        ]
+      },
+      {
+        "titel": "Lean Startup und Validierung",
+        "text": "Ideen schnell und günstig testen, bis Produkt und Markt zusammenpassen.",
+        "artikel": [
+          "lean-startup-die-wichtigsten-prinzipien-aus-dem-buch-von-eric-ries",
+          "das-minimum-viable-product-weniger-ist-mehr",
+          "der-minimum-viable-test-mvt-im-marketing",
+          "fokussiert-bleiben-mit-dem-minimum-viable-segment",
+          "der-weg-zum-produkt-markt-fit",
+          "wann-die-loesung-des-problems-nicht-genug-ist-ein-leitfaden-fuer-startups",
+          "bill-aulets-perspektive-wie-man-ein-erfolgreiches-startup-gruendet"
+        ]
+      },
+      {
+        "titel": "Gründergeschichten",
+        "text": "Was die Geschichten bekannter Unternehmen über das Gründen zeigen.",
+        "artikel": [
+          "12-tipps-fur-ein-erfolgreiches-startup-von-bill-gross",
+          "shoe-dog-eine-geschichte-ueber-die-gruendung-von-nike",
+          "nike-die-geschichte-eines-milliarden-dollar-unternehmens",
+          "die-geschichte-von-slack",
+          "was-wuerde-ich-machen-wenn-ich-flaschenpost-waere"
+        ]
+      }
+    ]
   }
 ]

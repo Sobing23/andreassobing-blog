@@ -57,8 +57,8 @@ npm run dev
 
 Ziel: Der Blog wird langfristig ein Marketing-Handbuch. Jede Themenseite unter `/thema/` ist ein Kapitel.
 
-Bisherige Kapitel: OKR, E-Mail-Marketing, KI im Marketing, Strategie und Planung.
-Mögliche weitere Kapitel (aus der Rubrik Strategie und anderen): Führung und Organisation, Change Management, Wirtschaftliche Grundlagen, Gründung und Startups, Marke, Marketing-Grundlagen, Psychologie, Arbeitsweisen.
+Bisherige Kapitel: OKR, E-Mail-Marketing, KI im Marketing, Strategie und Planung, Führung und Organisation, Change Management, Wirtschaftliche Grundlagen, Gründung und Startups.
+Mögliche weitere Kapitel: Marke, Marketing-Grundlagen, Preisgestaltung, Psychologie, Agiles Arbeiten, Arbeitsweisen und Produktivität.
 
 Für später notiert (Okt. 2026):
 1. **Startseite fürs Handbuch:** Inhaltsverzeichnis mit allen Kapiteln bauen, sobald 6 bis 8 Themen stehen.
