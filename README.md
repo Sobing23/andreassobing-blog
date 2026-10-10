@@ -52,3 +52,15 @@ npm run dev
 ## Themenseiten (Cluster)
 
 Übersichtsseiten pro Thema liegen unter `/thema/<key>/` und werden aus `src/data/themen.json` gebaut (Einleitung, Abschnitte, Artikel-Slugs). Jeder dort eingetragene Artikel bekommt automatisch einen Themenhinweis in der Seitenleiste und eine „Weiterlesen“-Box mit Artikeln aus demselben Abschnitt. Neue Artikel zu einem Thema einfach in den passenden Abschnitt eintragen.
+
+## Fahrplan: Blog als Marketing-Handbuch
+
+Ziel: Der Blog wird langfristig ein Marketing-Handbuch. Jede Themenseite unter `/thema/` ist ein Kapitel.
+
+Bisherige Kapitel: OKR, E-Mail-Marketing, KI im Marketing, Strategie und Planung.
+Mögliche weitere Kapitel (aus der Rubrik Strategie und anderen): Führung und Organisation, Change Management, Wirtschaftliche Grundlagen, Gründung und Startups, Marke, Marketing-Grundlagen, Psychologie, Arbeitsweisen.
+
+Für später notiert (Okt. 2026):
+1. **Startseite fürs Handbuch:** Inhaltsverzeichnis mit allen Kapiteln bauen, sobald 6 bis 8 Themen stehen.
+2. **Nicht alles gehört ins Handbuch:** Fundstücke, alte Nachrichten und Meinungsartikel bleiben Blog und im Archiv, ohne Kapitel.
+3. **Veraltete Artikel:** Ein Handbuch verspricht aktuelle Inhalte. Pro Kapitel eine Liste veralteter oder zu dünner Artikel erstellen und die wichtigsten überarbeiten (Durchschnittsartikel nur rund 460 Wörter; besonders KI und E-Mail betroffen).

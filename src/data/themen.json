@@ -484,5 +484,108 @@
         ]
       }
     ]
+  },
+  {
+    "key": "strategie",
+    "name": "Strategie und Planung",
+    "titel": "Strategie und Planung: Der Überblick über alle Artikel",
+    "seoTitel": "Strategie und Planung: SWOT, Porter, Ansoff, Vision, Geschäftsmodelle",
+    "beschreibung": "Alles zu Unternehmensstrategie an einem Ort: Vision und Mission, strategische Analyse mit SWOT, PESTEL und Porter, Planung und Umsetzung, Wachstumsstrategien und Geschäftsmodelle.",
+    "intro": [
+      "Eine Strategie beantwortet drei Fragen: Wo stehen wir, wohin wollen wir, und wie kommen wir dorthin? Sie hilft dir zu entscheiden, was du tust, und vor allem, was du nicht tust. Ohne Strategie wird jede Marketingmaßnahme zum Einzelstück.",
+      "Auf dieser Seite findest du alle meine Artikel zu Strategie und Planung. Sie folgen dem typischen Weg: Zuerst klärst du Vision und Mission, dann analysierst du Markt und Wettbewerb, planst die Umsetzung und entscheidest, wie du wachsen und Geld verdienen willst.",
+      "Wenn du neu einsteigst, beginne mit den Grundlagen und der SWOT-Analyse. Wie du Ziele aus der Strategie ableitest und messbar machst, findest du ausführlich im Kapitel zu [OKR](/thema/okr/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen der Strategie",
+        "text": "Was eine Geschäftsstrategie ausmacht und warum Fokus und Konzentration so wichtig sind.",
+        "artikel": [
+          "die-kunst-der-geschaeftsstrategie",
+          "welche-business-strategien-helfen-dir",
+          "maximiere-deinen-marktimpact-warum-fokus-den-unterschied-macht",
+          "steve-jobs-und-das-prinzip-der-konzentration-weniger-ist-mehr",
+          "engpasskonzentrierte-strategien-im-marketing",
+          "single-product-strategy-vorteile-und-risiken",
+          "constraint-advantage-dein-schluessel-zum-wettbewerbsvorteil",
+          "die-macht-der-10x-regel"
+        ]
+      },
+      {
+        "titel": "Vision, Mission und Leitbild",
+        "text": "Wohin ein Unternehmen will, wie es dorthin kommt und welche Werte es leiten.",
+        "artikel": [
+          "warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst",
+          "mission-vs-vision-der-wegweiser-fuer-dein-unternehmen",
+          "die-kunst-einer-wirkungsvollen-vision-und-mission",
+          "wieso-du-ein-unternehmensleitbild-benoetigst",
+          "wie-du-ein-effektives-unternehmensleitbild-erstellst",
+          "unternehmensphilosophie-leitbild-des-unternehmens",
+          "zielbilder-der-kompass-fuer-deinen-markterfolg",
+          "purpose-werkzeuge-wie-startest-du",
+          "5-disziplinen-wie-lebst-du-purpose"
+        ]
+      },
+      {
+        "titel": "Strategische Analyse",
+        "text": "Werkzeuge, mit denen du Markt, Wettbewerb und das eigene Unternehmen untersuchst.",
+        "artikel": [
+          "swot-analyse-dein-werkzeug-zur-strategischen-unternehmensplanung",
+          "pestel-analyse",
+          "porters-five-forces",
+          "wettbewerbsanalyse-strategien-methoden-und-beispiele",
+          "competition-demystified-ein-leitfaden-um-den-wettbewerb-zu-verstehen",
+          "7-kraefte-fuer-dauerhafte-renditen-und-die-unternehmensverteidigung",
+          "der-resource-based-view-rbv-im-marketing",
+          "market-based-view-im-marketing",
+          "das-7-s-modell-ein-umfassender-blick-auf-unternehmenserfolg",
+          "das-mckinsey-7-s-modell"
+        ]
+      },
+      {
+        "titel": "Planung und Umsetzung",
+        "text": "Wie aus einer Strategie ein Plan wird und wie du die Umsetzung steuerst und misst.",
+        "artikel": [
+          "7-schluesselschritte-im-strategischen-planungsprozess",
+          "top-down-strategic-planning-ein-effektiver-weg-zur-geschaeftssteuerung",
+          "warum-dein-unternehmen-eine-strategy-map-braucht",
+          "balanced-scorecard-fuer-nachhaltigen-erfolg",
+          "organisatorische-ausrichtung-ein-schritt-fuer-schritt-leitfaden",
+          "warum-das-moderne-betriebsmodell-nutzen",
+          "die-nachteile-der-zielsetzung",
+          "goodharts-gesetz-warum-kennzahlen-oft-ihren-wert-verlieren",
+          "evidence-based-management",
+          "warum-der-hippo-effekt-schlecht-fuer-dein-unternehmen-ist"
+        ]
+      },
+      {
+        "titel": "Wachstum und Wettbewerb",
+        "text": "Wege zu neuen Märkten, Innovation und die Balance zwischen Bestehendem und Neuem.",
+        "artikel": [
+          "ansoff-matrix-strategisches-wachstum-einfach-erklaert",
+          "finde-neue-maerkte-mit-der-blue-ocean-strategie",
+          "herausforderungen-der-red-ocean-strategie",
+          "das-exploration-exploitation-dilemma-im-alltag-und-business",
+          "innovationen-vs-copycats",
+          "die-kultur-des-experimentierens",
+          "so-wendet-google-die-70-20-10-regel-an",
+          "3-tipps-zur-skalierung-deiner-prozesse-im-unternehmen"
+        ]
+      },
+      {
+        "titel": "Geschäftsmodelle",
+        "text": "Wie ein Unternehmen Wert schafft und Geld verdient, von Canvas-Methoden bis zu Abo-Modellen.",
+        "artikel": [
+          "die-geniale-methode-des-business-model-canvas",
+          "mit-lean-canvas-schnell-deine-geschaeftsideen-testen",
+          "wie-du-ein-erfolgreiches-abo-geschaeftsmodell-aufbaust",
+          "stabile-umsaetze-mit-recurring-revenue-modellen",
+          "arpu-als-erfolgsfaktor-fuer-wiederkehrende-einnahmen",
+          "warum-du-ein-rundle-schnuerren-solltest",
+          "amazon-prime-ist-eine-der-ungewoehnlichsten-geschaeftsideen-aller-zeiten",
+          "1-000-wahre-fans"
+        ]
+      }
+    ]
   }
 ]

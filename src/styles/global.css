@@ -195,3 +195,4 @@ h1, h2, h3, .t, .prose { hyphens: auto; -webkit-hyphens: auto; overflow-wrap: br
 .thema-box li a:hover { color: var(--accent); }
 .thema-alle { font-weight: 600; color: var(--accent); }
 @media (max-width: 700px) { .thema-nav ol { columns: 1; } }
+.thema-intro a { color: var(--accent); text-decoration: underline; }
