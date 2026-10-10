@@ -1106,5 +1106,75 @@
         ]
       }
     ]
+  },
+  {
+    "key": "preise",
+    "name": "Preisgestaltung",
+    "titel": "Preisgestaltung: Der Überblick über alle Artikel",
+    "seoTitel": "Preisgestaltung: Preisstrategien, Preiselastizität, Van Westendorp und Preispsychologie",
+    "beschreibung": "Alles zur Preisgestaltung an einem Ort: Preisstrategien, Preiselastizität, Zahlungsbereitschaft mit Van Westendorp, Preismodelle, Rabatte und Preispsychologie.",
+    "kurz": "Preisstrategien, Preiselastizität, Zahlungsbereitschaft, Preismodelle, Rabatte und Preispsychologie.",
+    "intro": [
+      "Der Preis ist der einzige Hebel im Marketing-Mix, der direkt Umsatz bringt, statt Geld zu kosten. Schon kleine Änderungen wirken sich deutlich auf den Gewinn aus. Trotzdem werden Preise oft nach Gefühl oder einfach nach der Konkurrenz festgelegt.",
+      "In diesem Kapitel findest du alle meine Artikel zur Preisgestaltung: wie du Preise strategisch bestimmst, die Zahlungsbereitschaft deiner Kunden ermittelst, welche Preismodelle es gibt, wann Rabatte sinnvoll sind und wie Preise im Kopf der Käufer wirken.",
+      "Die ökonomischen Grundlagen dazu, etwa Angebot und Nachfrage oder das Giffen-Paradoxon, findest du im Kapitel [Wirtschaftliche Grundlagen](/thema/wirtschaft/). Abo- und Recurring-Revenue-Modelle stehen im Kapitel [Strategie und Planung](/thema/strategie/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen und Preisstrategien",
+        "text": "Wie du Preise bestimmst, welche Strategien es gibt und wie die Nachfrage auf Preise reagiert.",
+        "artikel": [
+          "preisstrategien-und-preisbestimmung",
+          "was-ich-ueber-preisgestaltung-gelernt-habe",
+          "kostenorientierte-vs-wertorientierte-preisstrategien",
+          "nutze-den-wert-deiner-produkte-durch-value-based-pricing",
+          "die-preis-absatz-funktion-ein-wichtiger-baustein-der-preispolitik",
+          "preiselastizitaet-der-nachfrage",
+          "preiselastizitaet-der-nachfrage-ein-muss-fuer-jedes-marketing",
+          "preiswettbewerb-und-preiskriege-wie-du-dich-davor-schuetzen-kannst"
+        ]
+      },
+      {
+        "titel": "Zahlungsbereitschaft ermitteln",
+        "text": "Wie du herausfindest, was deine Kunden zu zahlen bereit sind.",
+        "artikel": [
+          "mit-der-van-westendorp-methode-die-zahlungsbereitschaft-ermitteln",
+          "van-westendorp-price-sensitivity-meter-nutzen"
+        ]
+      },
+      {
+        "titel": "Preismodelle",
+        "text": "Dynamische Preise, Bündel, freie Preiswahl und Garantien als Alternativen zum festen Preis.",
+        "artikel": [
+          "dynamische-preisgestaltung",
+          "preisbuendelung-strategien-und-beispiele",
+          "pay-what-you-want-ein-spannendes-preismodell",
+          "lose-win-garantie-was-steckt-dahinter-und-wie-funktioniert-sie"
+        ]
+      },
+      {
+        "titel": "Rabatte und Aktionen",
+        "text": "Wann Rabatte, Gutscheine und Sonderangebote helfen und wann sie schaden.",
+        "artikel": [
+          "rabatt-und-sonderangebotsstrategien",
+          "strategie-fuer-rabatte-mehr-als-nur-preisnachlaesse",
+          "rabattcodes-im-e-commerce-wie-steigerst-du-deine-conversion-rate",
+          "die-rule-of-100-wie-du-rabatte-psychologisch-perfekt-waehlst",
+          "wirklich-ein-guter-deal-gutscheine-und-deren-chancen"
+        ]
+      },
+      {
+        "titel": "Preispsychologie",
+        "text": "Wie Menschen Preise wahrnehmen und wie du das in Angebot, Speisekarte und Verhandlung nutzt.",
+        "artikel": [
+          "preispsychologie-wie-preise-unsere-kaufentscheidungen-beeinflussen",
+          "was-du-ueber-preispsychologie-wissen-musst-um-verkaeufe-zu-steigern",
+          "wie-man-den-decoy-effekt-bei-der-conversion-optimierung-nutzt",
+          "koennen-designer-von-restaurants-die-besten-preisgestaltungstechniken-lernen",
+          "der-veblen-effekt-luxusgueter-und-das-phaenomen-des-konsums",
+          "preisverhandlung-jede-sekunde-zaehlt"
+        ]
+      }
+    ]
   }
 ]
