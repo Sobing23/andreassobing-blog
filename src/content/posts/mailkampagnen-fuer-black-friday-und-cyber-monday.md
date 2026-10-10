@@ -2,7 +2,7 @@
 title: "Mailkampagnen für Black Friday und Cyber Monday"
 slug: "mailkampagnen-fuer-black-friday-und-cyber-monday"
 date: 2022-11-11T18:06:48
-updated: 2022-11-11T18:07:35
+updated: 2026-10-10T12:00:00
 description: "Es haben sich zwei starke Rabatttage und damit Aktionen auch in Deutschland etabliert. Lerne Mailkampagnen für Black Friday kennen."
 image: "/wp-content/uploads/2022/11/black-g937ba45a3_6401.jpg"
 category: "email-marketing"
@@ -36,3 +36,22 @@ Mögliche Versandzeiten:
 <https://www.shopify.com/blog/56776517-8-awesome-black-friday-email-campaigns-you-can-steal-this-holiday-season>
 
 Jetzt kennst du die Mailkampagnen für Black Friday. Zum Abschluss noch ein Lesetipp auf meinem Blog zum [Thema Message Map](/was-du-ueber-die-message-map-wissen-musst/)
+
+## Aktualisierung Oktober 2026
+
+Die deutsche Wortmarke Black Friday ist inzwischen vollständig gelöscht. Der BGH bestätigte 2021 die Löschung für Werbe- und Elektronikhandelsdienstleistungen, 2023 wurde auch die Löschung wegen Verfalls für alle übrigen Waren und Dienstleistungen rechtskräftig ([WBS Legal](https://www.wbs.legal/markenrecht/beschwerde-bleibt-erfolglos-marke-black-friday-endgueltig-vor-dem-aus-67352/)). Eine Abmahnung auf Grundlage dieser Marke droht damit nicht mehr.
+
+## Ergänzung Oktober 2026
+
+Damit deine Black Week nicht im Chaos endet, hilft eine kurze Checkliste.
+
+1. **Segmente bilden**: Trenne Schnäppchenjäger, die vor allem in Aktionen kaufen, von Kunden, die regulär zum vollen Preis bestellen. Die zweite Gruppe muss nicht jede Rabattmail bekommen.
+2. **Frequenz begrenzen**: Lege vorab fest, wie viele Mails ein Empfänger in der Aktionswoche maximal erhält. Mehrere Mails am Tag treiben die Abmeldungen.
+3. **Codes testen**: Prüfe jeden Gutscheincode vor dem Versand im Shop. Ein fehlerhafter Code erzeugt sofort Beschwerden im Kundenservice.
+4. **Aktionsseite vorbereiten**: Die Seite muss vor dem ersten Versand stehen und auch bei vielen gleichzeitigen Besuchern schnell laden.
+5. **Fallback für Countdowns**: Live-Countdowns funktionieren nicht in jedem Client gleich. Nenne das Enddatum zusätzlich im Text.
+6. **Kundenservice informieren**: Gib dem Team Aktionsplan, Laufzeiten und Codes an die Hand.
+
+Ein häufiger Fehler ist, die Aktion zu verlängern, obwohl das Ende angekündigt war. Das schwächt die Glaubwürdigkeit deiner nächsten Countdowns.
+
+Werte nach der Aktion nicht nur den Umsatz aus. Schau dir auch Abmeldungen, Spambeschwerden und Retouren an. Erst dann siehst du, ob sich die Aktion wirklich gelohnt hat.

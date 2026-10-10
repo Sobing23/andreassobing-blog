@@ -5,6 +5,7 @@ date: 2026-01-15T10:47:42
 description: "Vielleicht hast du schon mal vom Spotify-Modell gehört?Sie sind wahnsinnig schnell gewachsen und mussten agil bleiben."
 image: "/wp-content/uploads/2026/01/spotify-3375061_640.png"
 category: "arbeitsweisen"
+vgwort: "https://vg09.met.vgwort.de/na/94f4d598a2184c54b4dfda05025bf8c4"
 wpId: 7011
 ---
 

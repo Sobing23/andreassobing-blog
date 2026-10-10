@@ -2,7 +2,7 @@
 title: "E-Mail Kampagnen zu Weihnachten"
 slug: "e-mail-kampagnen-zu-weihnachten"
 date: 2022-11-19T23:51:25
-updated: 2022-11-19T23:52:36
+updated: 2026-10-10T12:00:00
 description: "Welche E-Mail Kampagnen gibt es zu Weihnachten? Diese sind mit dem Vorverkäufen und Weihnachtsbesorgungen besonders umsatzstark."
 image: "/wp-content/uploads/2022/11/warm-and-cozy-g048fbbd65_6401.jpg"
 category: "email-marketing"
@@ -31,3 +31,21 @@ Mögliche Versandzeiten:
 - 26.12.: Letzte Chance für den Adventskalender (optional)
 
 Finde auch heraus wie du am [Valentinstag deine Warenkörbe erhöhst](/wie-du-den-warenkorb-am-valentinstag-erhoehen-kannst/).
+
+## Ergänzung Oktober 2026
+
+So bereitest du die Weihnachtskampagne vor:
+
+1. Früh planen: Lege bereits im Herbst Aktionen, Rabatte und Versandtermine für Dezember fest. Dann bleibt Zeit für Produktion und Tests.
+2. Letzten Bestelltag festlegen: Kläre mit deinem Versanddienstleister, bis wann Bestellungen vor dem 24.12. ankommen. Kommuniziere diesen Termin in mehreren Mails und auf der Website.
+3. Adventskalender absichern: Prüfe, dass jedes Türchen zum richtigen Datum wechselt und jeder Gutscheincode genau an seinem Tag gültig ist.
+4. Gutscheine als Ausweg anbieten: Nach dem letzten Bestelltag hilft ein digitaler Geschenkgutschein allen, die noch etwas brauchen.
+5. Zeit nach Weihnachten planen: Zwischen den Feiertagen werden Gutscheine eingelöst und Geschenke umgetauscht. Eine Mail mit passenden Hinweisen nutzt diese Phase.
+6. Auswerten: Halte fest, welche Türchen und Mails die meisten Klicks und den meisten Umsatz gebracht haben. Das ist die Grundlage für das nächste Jahr.
+
+Typische Fehler:
+
+- Die Frequenz wird für alle Empfänger erhöht. Erhöhe sie besser nur für Segmente, die aktiv reagieren.
+- Rabattcodes lassen sich kombinieren, obwohl das nicht gewollt ist.
+- Kundenservice und Lager sind nicht über die Aktionen informiert.
+- Der Weihnachtsgruß am 24.12. ist wieder nur ein Angebot. Ein kurzer, ehrlicher Dank wirkt oft persönlicher.

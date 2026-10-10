@@ -2,7 +2,7 @@
 title: "Osborn-Checkliste"
 slug: "osborn-checkliste"
 date: 2017-11-07T15:28:37
-updated: 2018-02-08T12:10:19
+updated: 2026-10-10T12:00:00
 description: "Die Osborn-Checkliste hilft Euch, eine Idee oder ein Produkt aus verschiedenen Blickwinkeln zu testen und bestmöglich zu präzisieren."
 category: "arbeitsweisen"
 vgwort: "https://vg06.met.vgwort.de/na/0c87997690c743ae9518cee14c7288bd"
@@ -40,5 +40,28 @@ Folgende Fragen müsst Ihr für Eure Produkte, Ideen oder Prozesse beantworten. 
 9. **Kombinieren!**
    Kann man *x* mit anderen Ideen verbinden? Kann *x* Teil von etwas Größerem sein? Kann man *x* in kleinere Teile aufspalten?
 10. **Transformieren!**Kann man *x* zusammenballen/ausdehnen/komprimieren/verflüssigen/…?
+
+## Ergänzung Oktober 2026
+
+So wendest du die Checkliste auf eine Marketingaufgabe an. Angenommen, du willst ein bestehendes Webinarformat weiterentwickeln:
+
+- Anders verwenden: Die Aufzeichnung wird zu einer Serie kurzer Videos für Social Media.
+- Anpassen: Du übernimmst das Frage-Antwort-Format eines Podcasts, den deine Zielgruppe hört.
+- Ändern: Das Webinar findet zu einer anderen Tageszeit statt.
+- Vergrößern: Aus einem Termin wird eine mehrteilige Reihe.
+- Verkleinern: Du kürzt das Format auf eine kompakte Viertelstunde.
+- Ersetzen: Statt eines internen Experten spricht ein Kunde über seine Erfahrungen.
+- Umstellen: Die Fragerunde kommt an den Anfang statt ans Ende.
+- Umkehren: Die Teilnehmer bringen ihre Fälle mit, und ihr löst sie gemeinsam.
+- Kombinieren: Das Webinar wird mit einer Vorlage zum Download verbunden.
+- Transformieren: Die Inhalte werden zu einem schriftlichen Leitfaden verdichtet.
+
+Wähle danach zwei oder drei Ideen aus und teste sie. Miss zum Beispiel Anmeldungen, Teilnahmequote und Anfragen im Anschluss.
+
+Typische Fehler:
+
+- Fragen überspringen, weil sie auf den ersten Blick nicht passen. Gerade dort entstehen oft ungewöhnliche Ideen.
+- Ideen schon während der Sammlung bewerten.
+- Zu viele Ideen gleichzeitig umsetzen. Dann weißt du nicht, welche Änderung gewirkt hat.
 
 Grafik: CC0 Creative Commons pixabay StockSnap

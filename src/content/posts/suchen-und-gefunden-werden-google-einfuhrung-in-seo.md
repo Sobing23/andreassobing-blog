@@ -2,7 +2,7 @@
 title: "Suchen und gefunden werden - Google Einführung in SEO"
 slug: "suchen-und-gefunden-werden-google-einfuhrung-in-seo"
 date: 2012-04-23T14:47:11
-updated: 2021-10-14T06:06:43
+updated: 2026-10-10T12:00:00
 description: "Das Thema SEO ist auch dieses Jahr wieder ein Trendthema für die Shop Betreiber. Hierzu hat Google einmal Einsteigerleitfaden raus gebaracht."
 category: "marketing"
 vgwort: "https://vg09.met.vgwort.de/na/321b2395da724f51b42a746b559762d5"
@@ -40,3 +40,25 @@ Zu Beginn erfolgt die Aufnahme oft durch die Übermittlung der URL der entsprech
 Der Webcrawler lädt die Website auf den Server der Suchmaschine, wo das zweite Programm, der sogenannte Indexer, Informationen (benannte Wörter, Links zu anderen Seiten) ausliest und katalogisiert.
 
 Frühere Versionen von Suchalgorithmen basierten auf Informationen, die vom Webmaster selbst bereitgestellt wurden, wie beispielsweise Metaelementen, oder auf Indexdateien in Suchmaschinen wie ALIWEB. Das Meta-Element gibt einen Überblick über den Inhalt der Seite.
+
+## Aktualisierung Oktober 2026
+
+Den verlinkten PDF-Leitfaden gibt es in dieser Form nicht mehr. Google stellt den SEO-Leitfaden für Einsteiger heute als Online-Dokumentation in Google Search Central bereit und hat ihn im Februar 2024 grundlegend überarbeitet. Du findest ihn unter [SEO-Leitfaden für Einsteiger](https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=de). [Quelle: Google Search Central Blog](https://developers.google.com/search/blog/2024/02/ssg-gets-a-makeover)
+
+## Ergänzung Oktober 2026
+
+Der Text beschreibt, wie Crawler und Indexer arbeiten. Daraus ergibt sich eine einfache Prüfung, die du für jede neue Kampagnenseite machen kannst.
+
+1. Erreichbarkeit: Ist die Seite über einen normalen Link von einer anderen Seite deiner Website erreichbar? Seiten, auf die kein Link zeigt, findet ein Crawler schwer.
+2. Sperren: Prüfe, ob die Seite versehentlich per robots.txt blockiert oder mit noindex gekennzeichnet ist. Das kann passieren, wenn Einstellungen aus einer Testumgebung live übernommen werden.
+3. Inhalt im Text: Steht die Kernbotschaft als Text auf der Seite und nicht nur in einem Bild oder Video?
+4. Eindeutige Adresse: Gibt es die Seite nur unter einer URL? Varianten mit und ohne Parameter sollten auf eine Hauptadresse verweisen.
+5. Kontrolle: Nutze in der Google Search Console die URL-Prüfung, um zu sehen, ob Google die Seite indexieren kann.
+
+Typische Fehler im Marketing:
+
+- Landingpages für Kampagnen werden bewusst versteckt und später trotzdem als SEO-Seite erwartet.
+- Nach dem Ende einer Aktion wird die Seite gelöscht, obwohl andere Seiten darauf verlinken. Eine Weiterleitung auf eine passende Seite erhält den Nutzen der Links.
+- Mehrere Sprachversionen ohne klare Kennzeichnung.
+
+Diese Punkte ersetzen keine vollständige SEO-Strategie. Sie verhindern aber, dass gute Inhalte gar nicht erst in den Suchergebnissen auftauchen.

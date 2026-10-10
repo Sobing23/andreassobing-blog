@@ -2,6 +2,7 @@
 title: "Employee Experience in Deutschland: Definition, Business Case und OKRs als Wachstumsmotor"
 slug: "employee-experience-in-deutschland-definition-business-case-und-okrs-als-wachstumsmotor"
 date: 2025-08-21T09:54:20
+updated: 2026-10-10T12:00:00
 description: "Drehpunkt ist die Employee Experience (EX), also die Gesamterfahrung von Mitarbeitern über alle Berührungspunkte ihrer Journey hinweg."
 image: "/wp-content/uploads/2025/08/hr-process-4783430_6402.png"
 category: "strategie"
@@ -67,5 +68,9 @@ Das PDF betont, dass **Transparenz, Coaching und psychologische Sicherheit** ent
 ## Fazit: EX + OKRs = magnetische Arbeitgebermarke in DACH
 
 Für **Deutschland/DACH** heißt das: **Weniger Silos, mehr Sinn & Sichtbarkeit**, klare Prioritäten, faire Prozesse – und eine Journey, die Mitarbeitende wirklich befähigt. **EX liefert harte [KPI](/okr-kpis-vs-metriken/)-Effekte** (Profit, Produktivität, Sales) und stärkt Deine **Arbeitgeberattraktivität** – **wenn** Du sie systematisch mit [OKRs](/was-sind-denn-wirklich-okrs/) unterfütterst
+
+## Aktualisierung Oktober 2026
+
+Der als Quelle genannte OKR-Softwareanbieter Gtmhub tritt seit Dezember 2022 unter dem Namen Quantive auf ([Business Wire](https://www.businesswire.com/news/home/20221213005206/en/Global-Strategy-Execution-Platform-Gtmhub-Rebrands-to-Quan)). Für Pay-Transparenz gilt inzwischen die EU-Entgelttransparenzrichtlinie (EU) 2023/970, die bis zum 7. Juni 2026 in nationales Recht umzusetzen war. Deutschland hat diese Frist verpasst, ein Umsetzungsgesetz lag im Sommer 2026 noch nicht vor ([Personalwirtschaft](https://www.personalwirtschaft.de/news/verguetung/eu-entgelttransparenzrichtlinie-deutschland-verpasst-frist-das-sind-die-konsequenzen-203783/)). Bis dahin gilt das Entgelttransparenzgesetz von 2017 weiter, und Gerichte müssen bestehendes Recht im Licht der Richtlinie auslegen.
 
 Quelle: The Elements of Excellence: Employee Experience and OKRs (GTMHUB)

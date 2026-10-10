@@ -2,9 +2,11 @@
 title: "Entdecke die revolutionären Funktionen von GPT 4o"
 slug: "entdecke-die-revolutionaeren-funktionen-von-gpt-4o"
 date: 2024-05-27T16:06:23
+updated: 2026-10-10T12:00:00
 description: "Heute tauchen wir in die Welt von GPT 4o von OpenAI ein, die jedem, auch dir, Intelligenz auf GPT4-Niveau bietet."
 image: "/wp-content/uploads/2024/05/OpenAI-ChatGPT-4o-alle-neuen-Funktionen-in-7-Minuten-erklaert1.png"
 category: "ki-tools"
+vgwort: "https://vg09.met.vgwort.de/na/2d0b60cf0a8d46459491bbe9d0671c83"
 wpId: 6408
 ---
 
@@ -53,3 +55,7 @@ Das neue Modell revolutioniert die Art und Weise, wie wir mit künstlicher Intel
 Sieh dir auch folgenden Beitrag an: [Einleitungen leicht gemacht mit ChatGPT](/einleitungen-leicht-gemacht-mit-chatgpt/)
 
 Schau auch gerne  einmal auf meinen [Youtube Kanal](https://www.youtube.com/@andreassobing) vorbei.
+
+## Aktualisierung Oktober 2026
+
+OpenAI hat GPT-4o am 13. Februar 2026 zusammen mit GPT-4.1, GPT-4.1 mini und o4-mini aus ChatGPT entfernt ([OpenAI](https://openai.com/index/retiring-gpt-4o-and-older-models)). Laut OpenAI lief der Großteil der Nutzung bei der Ankündigung bereits über GPT-5.2. In der API blieb GPT-4o zunächst verfügbar.

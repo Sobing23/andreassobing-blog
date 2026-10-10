@@ -2,7 +2,7 @@
 title: "Wie OpenAI die ChatGPT Plugins verändert und was das für dich bedeutet"
 slug: "wie-openai-die-chatgpt-plugins-veraendert-und-was-das-fuer-dich-bedeutet"
 date: 2024-03-05T12:31:00
-updated: 2024-03-05T15:46:55
+updated: 2026-10-10T12:00:00
 description: "OpenAI stellt die ChatGPT Plugins ein. Erfahre in diesem Artikel was diese Änderung für Nutzer und Entwickler bedeutet."
 image: "/wp-content/uploads/2024/03/BREAKING1.png"
 category: "ki-tools"
@@ -45,3 +45,7 @@ Während das Ende der ChatGPT Plugins zunächst als Herausforderung erscheinen m
 Die Welt der künstlichen Intelligenz entwickelt sich ständig weiter, und mit jedem Schritt kommen neue Herausforderungen und Möglichkeiten. Das Ende der ChatGPT Plugins mag das Ende einer Ära sein, aber es ist auch der Beginn eines neuen Kapitels in der Geschichte der KI. Wie wirst du dieses neue Kapitel mitgestalten?
 
 Sieh dir auch meinen Artikel an: [Wie man einen CTA-Button erstellt, der die Conversions steigert](/wie-man-einen-cta-button-erstellt-der-die-conversions-steigert/)
+
+## Aktualisierung Oktober 2026
+
+Die Umstellung ist abgeschlossen. Seit dem 19. März 2024 ließen sich keine neuen Plugin-Unterhaltungen mehr starten, am 9. April 2024 hat OpenAI die Plugins vollständig abgeschaltet ([Drag](https://www.dragapp.com/blog/what-happened-to-chatgpt-plugins/)). Abgelöst wurden sie durch die GPTs und den im Januar 2024 eröffneten GPT Store. 2025 kamen Connectors und Apps auf Basis des Apps SDK hinzu, über die ChatGPT externe Dienste wie Google Drive oder Microsoft 365 einbindet.

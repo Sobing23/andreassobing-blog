@@ -2,7 +2,7 @@
 title: "Storytelling that's what it is all about"
 slug: "storytelling-thats-what-it-is-all-about"
 date: 2012-03-10T00:23:06
-updated: 2023-10-04T14:00:46
+updated: 2026-10-10T12:00:00
 description: "Heute geht es einmal um das Thema Storytelling und ein klasse TED Video zu dem Thema. Das ist eine Erzählmethode."
 category: "marketing"
 vgwort: "https://vg06.met.vgwort.de/na/39978f4ae5da44eca4b927a71529da7e"
@@ -47,3 +47,22 @@ Filmmaker [Andrew Stanton](http://de.wikipedia.org/wiki/Andrew_Stanton "Andrew_S
 <div class="video" data-provider="youtube" data-id="fWfq6OE6Z34"></div>
 
 Wie funktioniert [Design Thinking](/wie-funktioniert-design-thinking/)?
+
+## Ergänzung Oktober 2026
+
+So setzt du die fünf Elemente der Struktur in einer Kundengeschichte für deine Website oder deinen Newsletter um.
+
+1. Ausgangssituation: Beschreibe kurz, wo der Kunde stand und warum das wichtig war. Etwa ein Handwerksbetrieb, der Aufträge nur per Telefon annahm und abends Rückrufe abarbeitete.
+2. Hauptfigur: Mach eine Person sichtbar, nicht nur die Firma. Die Inhaberin, die das Problem täglich gespürt hat, eignet sich besser als ein Firmenlogo. Hole dafür immer ihre Zustimmung ein.
+3. Spannungsbogen: Zeige Ziel und Hindernis. Sie wollte Anfragen online annehmen, fürchtete aber, ihre älteren Stammkunden zu verlieren.
+4. Entwicklung: Erzähle, was sich konkret verändert hat. Nenne nur Ergebnisse, die du belegen kannst.
+5. Fazit: Formuliere die übertragbare Erkenntnis. Zum Beispiel, dass ein neuer Kanal den alten ergänzen kann, statt ihn zu ersetzen.
+
+Typische Fehler:
+
+- Das eigene Produkt ist der Held. Leser identifizieren sich aber mit dem Kunden, nicht mit der Software.
+- Es fehlt ein Hindernis. Ohne Konflikt entsteht keine Spannung.
+- Die Geschichte ist zu lang. Für einen Newsletter reichen oft wenige Absätze, die ausführliche Fassung kann auf einer Landingpage stehen.
+- Geschönte Details. Sie zerstören Vertrauen, sobald sie auffallen.
+
+Andrew Stantons Gedanke aus dem Talk passt hier gut: Liefere nicht jede Schlussfolgerung fertig, sondern lass dem Leser Raum, selbst zu verstehen.

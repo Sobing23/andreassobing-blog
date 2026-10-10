@@ -2,7 +2,7 @@
 title: "Allergische Reaktion des Outlook Spamfilters"
 slug: "allergische-reaktion-des-outlook-spamfilters"
 date: 2009-12-25T13:17:06
-updated: 2015-03-10T17:14:41
+updated: 2026-10-10T12:00:00
 category: "email-marketing"
 vgwort: "https://vg06.met.vgwort.de/na/4ffdd9108ea14da0bd57ad74f645a53b"
 wpId: 434
@@ -76,3 +76,7 @@ Nachfolgend die Liste der Begriffe, die Sie in Ihren E-Mail-Kampagnen nach Mögl
 - Textkörper mit „xxx!“
 - Betreff mit „kostenlos“ UND Betreff mit „erwachsen“
 - Betreff mit „kostenlos“ UND Betreff mit „Sex“
+
+## Aktualisierung Oktober 2026
+
+Die Liste stammt aus dem Jahr 2009. Inzwischen stellt Microsoft zusätzliche technische Anforderungen: Seit dem 5. Mai 2025 müssen Absender, die mehr als 5.000 E-Mails pro Tag an Outlook.com-Adressen wie outlook.com, hotmail.com oder live.com schicken, SPF, DKIM und DMARC erfüllen. Nachrichten, die das nicht tun, weist Microsoft mit dem Fehlercode 550 5.7.515 ab. [Quelle: Microsoft](https://techcommunity.microsoft.com/blog/outlook/strengthening-email-ecosystem-outlook%E2%80%99s-new-requirements-for-high%E2%80%90volume-senders/4399730)

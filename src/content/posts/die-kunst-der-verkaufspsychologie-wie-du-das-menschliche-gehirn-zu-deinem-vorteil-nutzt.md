@@ -6,6 +6,7 @@ updated: 2023-09-22T17:57:28
 description: "Oder warum ein bestimmtes Produkt in einem Geschäft so platziert ist? Hinter all diesen Entscheidungen steckt Verkaufspsychologie."
 image: "/wp-content/uploads/2023/09/buy-2025564_6401.png"
 category: "psychologie"
+vgwort: "https://vg09.met.vgwort.de/na/ebed47278f1e443a96cb7db31995111c"
 wpId: 5445
 ---
 

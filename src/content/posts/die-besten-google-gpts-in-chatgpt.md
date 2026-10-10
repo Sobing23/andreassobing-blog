@@ -2,6 +2,7 @@
 title: "Die besten Google GPTs in ChatGPT"
 slug: "die-besten-google-gpts-in-chatgpt"
 date: 2024-04-12T17:08:09
+updated: 2026-10-10T12:00:00
 description: "Einblick in die Welt der Google Produkte und wie du sie durch spezielle GPTs aus dem ChatGPT Plus Store noch effektiver nutzen kannst."
 image: "/wp-content/uploads/2024/04/A-huge-open-presentwith-a-google-logo.-A-cone-of-light-comes-out-of-the-open-gift-wrapping-like-a-halo.1.png"
 category: "ki-tools"
@@ -65,3 +66,7 @@ Nutze die Macht der künstlichen Intelligenz, um deine tägliche Arbeit mit Goog
 Sieh dir auch diesen Artikel von mir an: [Bildbearbeitung mit DALLE in ChatGPT](/bildbearbeitung-mit-dalle-in-chatgpt/)
 
 Zur [kostenlosen Tabelle Google GPTs für ChatGPT](https://docs.google.com/spreadsheets/d/1d33LkMKFPs1r_iCrY9FFsh-Xgg64xU255MqkREUd_SU/edit?usp=sharing)
+
+## Aktualisierung Oktober 2026
+
+Seit dem 13. Mai 2024 stehen GPTs und der GPT Store auch im kostenlosen ChatGPT-Tarif zur Verfügung ([OpenAI](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)). Die ChatGPT-Plugins hat OpenAI am 9. April 2024 endgültig abgeschaltet. Für Dienste wie Gmail und Google Drive bietet ChatGPT seit 2025 zusätzlich eigene Konnektoren an ([Drag](https://www.dragapp.com/blog/what-happened-to-chatgpt-plugins/)).

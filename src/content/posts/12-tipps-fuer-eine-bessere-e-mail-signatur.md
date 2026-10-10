@@ -2,6 +2,7 @@
 title: "12 Tipps für eine bessere E-Mail Signatur"
 slug: "12-tipps-fuer-eine-bessere-e-mail-signatur"
 date: 2023-12-15T12:16:13
+updated: 2026-10-10T12:00:00
 description: "Die E-Mail Signatur ist mehr als ein einfacher Gruß. Richtig eingesetzt, kann sie nämlich zu einem effektiven Marketing-Tool werden."
 image: "/wp-content/uploads/2023/12/man-5710164_6401.jpg"
 category: "email-marketing"
@@ -114,3 +115,7 @@ Mit den 12 vorgestellten Ideen kannst du deine Signatur optimieren und so deine 
 
  
 Finde auch heraus wie du [optimal Bilder in deinen E-Mails](/optimale-bilder-fuer-deine-e-mails/) nutzen kannst. Viele interessante Artikel findest du auch bei [Hubspot](https://blog.hubspot.com/topic-learning-path/email-marketing).
+
+## Aktualisierung Oktober 2026
+
+Twitter heißt seit Juli 2023 X, das Vogel-Logo wurde durch ein X ersetzt. Wenn du in deiner Signatur auf dein Profil verlinkst, verwende den aktuellen Namen und das aktuelle Logo. [Quelle: CNBC](https://www.cnbc.com/2023/07/24/elon-musk-rebrands-twitter-to-x-replaces-iconic-bird-logo.html)

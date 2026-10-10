@@ -2,6 +2,7 @@
 title: "Die Auswirkungen von Online-Bewertungen und sozialen Medien auf das Konsumentenverhalten"
 slug: "die-auswirkungen-von-online-bewertungen-und-sozialen-medien-auf-das-konsumentenverhalten"
 date: 2024-10-24T18:39:28
+updated: 2026-10-10T12:00:00
 description: "Bevor ein Kunde ein Produkt kauft, informiert er sich oft online, liest Bewertungen oder folgt den Empfehlungen auf sozialen Medien."
 image: "/wp-content/uploads/2024/10/stars-1128772_6401.jpg"
 category: "psychologie"
@@ -95,3 +96,7 @@ Ein Modeunternehmen repostet Bilder von Kunden, die ihre Produkte tragen. Dadurc
 ## Fazit: Die starke Macht von Online-Bewertungen und sozialen Medien
 
 Online-Bewertungen und soziale Medien haben das Konsumentenverhalten tiefgreifend verändert. Kunden orientieren sich zunehmend an den Meinungen anderer, sei es durch Sterne-Bewertungen, Empfehlungen von Influencern oder virale Trends. Für Unternehmen ist es daher unerlässlich, diese Kanäle effektiv zu nutzen, um Vertrauen aufzubauen, Kunden zu binden und den Verkauf zu fördern.
+
+## Aktualisierung Oktober 2026
+
+Twitter heißt seit dem 24. Juli 2023 X. Die genannte BrightLocal-Zahl von 91 Prozent ist überholt: In der Local Consumer Review Survey 2026 geben 49 Prozent der befragten US-Verbraucher an, Online-Bewertungen so zu vertrauen wie persönlichen Empfehlungen ([BrightLocal](https://www.brightlocal.com/research/local-consumer-review-survey/)). In Deutschland müssen Unternehmen, die Kundenbewertungen veröffentlichen, seit dem 28. Mai 2022 angeben, ob und wie sie deren Echtheit sicherstellen. Gefälschte Bewertungen in Auftrag zu geben oder nur positive Bewertungen zu zeigen und negative zu löschen, ist seitdem unzulässig ([Plutte](https://www.ra-plutte.de/recht-faq-muster-werbung-mit-bewertungen-ab-28-05-2022/)).

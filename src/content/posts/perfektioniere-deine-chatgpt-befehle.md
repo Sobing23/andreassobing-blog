@@ -2,6 +2,7 @@
 title: "Perfektioniere deine ChatGPT Befehle"
 slug: "perfektioniere-deine-chatgpt-befehle"
 date: 2023-05-26T10:31:02
+updated: 2026-10-10T12:00:00
 description: "Sehr gute ChatGPT Befehle bestehen aus vier Komponenten. Wenn du diese vier richtig einsetzt, kannst du das Potenzial voll ausschöpfen."
 image: "/wp-content/uploads/2023/05/ai-generated-7963061_6401.jpg"
 category: "ki-tools"
@@ -28,3 +29,25 @@ Mit diesen vier Komponenten kannst du effektive Befehle in ChatGPT formulieren. 
 Ich hoffe, dieser Leitfaden hilft dir dabei, das Potenzial von ChatGPT voll auszuschöpfen. Viel Erfolg bei deinen nächsten Befehlen!
 
 In diesem [Artikel](/chatgpt-prompts-erklaert-warum-sie-so-wichtig-sind/) kannst du  ebenfalls etwas über ChatGPT Befehle lernen.
+
+## Ergänzung Oktober 2026
+
+So sieht ein Prompt aus, der alle vier Komponenten nutzt:
+
+„Du bist eine erfahrene Social-Media-Managerin für B2B-Software (Rolle). Erstelle fünf LinkedIn-Beiträge, die unser neues Webinar bewerben (Ziel). Das Webinar richtet sich an Personalleitungen in mittelständischen Unternehmen und zeigt, wie sie Bewerbungsprozesse verkürzen. Es findet online statt und dauert 45 Minuten (Kontext). Jeder Beitrag hat höchstens 600 Zeichen, beginnt mit einer Frage und endet mit dem Anmeldelink. Keine Emojis, keine Superlative (Einschränkungen).“
+
+Schritt für Schritt zu besseren Prompts:
+
+1. Schreib den ersten Prompt mit allen vier Komponenten.
+2. Prüfe das Ergebnis. Was fehlt, was stimmt nicht?
+3. Ergänze gezielt. Statt neu anzufangen, gibst du Korrekturen im selben Chat, etwa „Kürzer, und nenne in jedem Beitrag einen konkreten Nutzen“.
+4. Speichere gute Prompts als Vorlage. So musst du Rolle, Kontext und Einschränkungen nicht jedes Mal neu formulieren.
+
+Typische Fehler:
+
+- Der Kontext fehlt. Ohne Zielgruppe und Anlass bekommst du allgemeine Texte.
+- Widersprüchliche Einschränkungen. „Ausführlich, aber höchstens 50 Wörter“ führt zu unklaren Ergebnissen.
+- Zu viele Aufgaben in einem Prompt. Teile große Aufgaben in Schritte, etwa erst die Gliederung, dann die Texte.
+- Ergebnisse ungeprüft übernehmen. Prüfe Fakten, Zahlen und Termine immer selbst.
+
+Die vier Komponenten sind ein Gerüst, keine starre Formel. Bei einfachen Fragen reichen oft Ziel und Kontext.

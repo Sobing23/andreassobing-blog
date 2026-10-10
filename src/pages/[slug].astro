@@ -37,7 +37,7 @@ if (thema) {
       {isPost && <a href={rubrikUrl(d.category)} class="kicker">{rubrik(d.category).name}</a>}
       <h1>{d.title}</h1>
       {isPost && d.description && <p class="intro">{d.description}</p>}
-      {isPost && <span class="meta">Andreas Sobing · <time datetime={d.date.toISOString()}>{datum(d.date)}</time> · {lesezeit(entry.body)} Min. Lesezeit</span>}
+      {isPost && <span class="meta">Andreas Sobing · <time datetime={d.date.toISOString()}>{datum(d.date)}</time>{d.updated && <> · aktualisiert <time datetime={d.updated.toISOString()}>{datum(d.updated)}</time></>} · {lesezeit(entry.body)} Min. Lesezeit</span>}
     </div>
     {isPost && d.image && <div class="thumb ratio-21-9"><img src={d.image} alt="" fetchpriority="high"></div>}
     <div class="post-grid">

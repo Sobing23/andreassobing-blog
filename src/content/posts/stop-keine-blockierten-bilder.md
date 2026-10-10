@@ -2,7 +2,7 @@
 title: "Stop - Keine blockierten Bilder"
 slug: "stop-keine-blockierten-bilder"
 date: 2010-01-25T21:50:17
-updated: 2015-03-10T17:14:42
+updated: 2026-10-10T12:00:00
 category: "email-marketing"
 vgwort: "https://vg06.met.vgwort.de/na/90416976d3744c9691d28f9c376a58fe"
 tags:
@@ -53,3 +53,7 @@ Nutzen Sie Bilder nur zu Unterstützung Ihrer Aussagen. Wichtige Informationen s
 Es sieht zwar schön webzweinullig aus, ist aber in E-Mails problematisch: Abgerundete Ecken. Geraden lasssen sich nämlich mit HTML realisieren, Rundungen nur als Bild. Da sieht es dann schon etwas merkwürdig aus, wenn an den Ecken Platzhalter sind. Verzichten Sie auf „runde Ecken“, wenn Sie Ihre Grafiker davon überzeugen können.
 Machen Sie Bilder im Originalformat fertig. Bilder, die in HTML erst „gestreckt“ werden müssen, werden nicht immer korrekt angezeigt. Manche Programme zeigen stur die Originalgröße an.
 Wenn Ihre Nutzer Probleme beim Nachladen der Bilder haben, können Sie eventuell auch auf das „Offline-HTML“-Format ausweichen. Dabei werden die Bilder gleich zusammen mit der E-Mail verschickt.
+
+## Aktualisierung Oktober 2026
+
+Gmail zeigt Bilder seit Dezember 2013 standardmäßig an und lädt sie über eigene Proxy-Server ([Gmail Blog](https://gmail.googleblog.com/2013/12/images-now-showing.html)). Abgerundete Ecken brauchen keine Bilder mehr. Apple Mail, Gmail, Yahoo Mail und Outlook im Web stellen die CSS-Eigenschaft border-radius dar, nur das klassische Desktop-Outlook für Windows zeigt weiterhin eckige Kanten ([Email Love](https://help.emaillove.com/plugin/styling/corner-radius)).

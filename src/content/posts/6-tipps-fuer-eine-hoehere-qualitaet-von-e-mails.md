@@ -2,7 +2,7 @@
 title: "6 Tipps für eine höhere Qualität von E-Mails"
 slug: "6-tipps-fuer-eine-hoehere-qualitaet-von-e-mails"
 date: 2023-11-29T11:32:53
-updated: 2023-11-29T11:36:21
+updated: 2026-10-10T12:00:00
 description: "Lerne sechs wesentliche Tipps und Prozesse kennen, um die Qualität deiner E-Mail-Marketingkampagnen zu gewährleisten."
 image: "/wp-content/uploads/2023/11/dice-689617_640.jpg"
 category: "email-marketing"
@@ -37,3 +37,23 @@ Die Tipps reichen von der aggressiven Integration des Korrekturlesens in den Arb
 Diese Zusammenfassung und Tabelle bietet dir einen schnellen Überblick über die wichtigsten Tipps und Prozesse zur Sicherstellung der Qualität im E-Mail-Marketing, wie sie im [HubSpot-Artikel](https://blog.hubspot.com/marketing/email-quality-control?__hstc=20629287.45e25cd4cbca2a99f78f87b229d494e5.1370966167839.1370966167839.1370966167839.1&__hssc=20629287.1.1370966167839&hubs_content=blog.hubspot.com%252F&hubs_content-cta=blog-learning-paths-card-text) beschrieben werden.
 
 Erfahre in einem anderen Artikel von mir, wie du [Lead Magneten](/wie-du-unwiderstehliche-lead-magneten-fuer-dein-marketing-erstellst/) erstellst.
+
+## Ergänzung Oktober 2026
+
+So setzt du die sechs Tipps als feste Freigabe-Routine um.
+
+1. Checkliste anlegen: Halte alle Prüfpunkte schriftlich fest. Dazu gehören Betreff, Preheader, Absender, Links, Gutscheincodes, Bilder mit Alt-Text, Abmeldelink und Impressum.
+2. Testversand an echte Postfächer: Schicke die Mail an Testadressen bei verschiedenen Anbietern und öffne sie auf Smartphone und Desktop.
+3. Vier-Augen-Prinzip: Eine zweite Person, die nicht am Entwurf beteiligt war, liest die Mail. Sie findet Fehler, die der Autor übersieht.
+4. Dynamische Inhalte prüfen: Erzeuge Vorschauen für mehrere Empfängertypen, zum Beispiel mit und ohne Vorname, Neukunde und Bestandskunde. Prüfe, was passiert, wenn ein Datenfeld leer ist.
+5. Links testen: Klicke jeden Link an und prüfe, ob die Zielseite stimmt und die Kampagnenparameter angehängt sind.
+6. Freigabe dokumentieren: Notiere, wer wann freigegeben hat. Das schafft Klarheit, falls doch ein Fehler auftritt.
+
+Typische Fehler:
+
+- Eine leere Personalisierung erzeugt Anreden wie „Hallo ,“.
+- Ein Gutscheincode ist im Shop noch nicht aktiv, wenn die Mail verschickt wird.
+- Automatisierte Mails laufen lange mit veralteten Preisen oder Bildern.
+- Änderungen in letzter Minute werden ohne erneuten Testversand freigegeben.
+
+Kommt trotzdem ein Fehler beim Kunden an, hilft eine kurze, ehrliche Korrekturmail mehr als Schweigen. Entscheide vorher, ab welcher Fehlerschwere du eine solche Mail verschickst.

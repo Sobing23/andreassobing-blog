@@ -2,7 +2,7 @@
 title: "Social Media Plattformen und ihre Verwendung für das Marketing"
 slug: "social-media-plattformen-und-ihre-verwendung-fuer-das-marketing"
 date: 2024-08-19T11:00:45
-updated: 2024-08-19T11:01:44
+updated: 2026-10-10T12:00:00
 description: "Social Media Plattformen spielen eine zentrale Rolle. Social Media Plattformen und ihre Verwendung für das Marketing"
 image: "/wp-content/uploads/2024/08/social-media-3846597_6401.png"
 category: "marketing"
@@ -108,3 +108,7 @@ Social Media Plattformen sind heute unverzichtbare Werkzeuge im Marketingmix von
 Durch den gezielten Einsatz von Facebook, Instagram, Twitter, LinkedIn und YouTube können Unternehmen nicht nur ihre Produkte und Dienstleistungen bewerben, sondern auch wertvolle Einblicke in das Verhalten und die Vorlieben ihrer Kunden gewinnen. Diese Informationen sind von unschätzbarem Wert, um langfristig erfolgreich im Markt zu agieren.
 
 Sieh dir auch diesen Beitrag von mir an: [Steve Jobs und das Prinzip der Konzentration: Weniger ist mehr](/steve-jobs-und-das-prinzip-der-konzentration-weniger-ist-mehr/)
+
+## Aktualisierung Oktober 2026
+
+Twitter heißt seit Juli 2023 X, das Vogel-Logo wurde durch ein X ersetzt. Der Abschnitt zu Twitter beschreibt damit heute die Plattform X. Prüfe vor dem Einsatz, ob deine Zielgruppe dort weiterhin aktiv ist. [Quelle: CNBC](https://www.cnbc.com/2023/07/24/elon-musk-rebrands-twitter-to-x-replaces-iconic-bird-logo.html)

@@ -5,6 +5,7 @@ date: 2023-07-04T09:50:41
 description: "Das macht es irgendwie exotisch und interessant, oder? Willkommen in der Welt der Kuckucksmarken oder Foreign Branding."
 image: "/wp-content/uploads/2023/07/cuckoo-574794_6401.jpg"
 category: "marke"
+vgwort: "https://vg09.met.vgwort.de/na/e75348df927a4d988173332ffd9f076c"
 wpId: 4855
 ---
 

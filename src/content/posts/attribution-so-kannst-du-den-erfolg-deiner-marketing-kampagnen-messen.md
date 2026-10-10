@@ -2,6 +2,7 @@
 title: "Attribution: So kannst Du den Erfolg Deiner Marketing-Kampagnen messen"
 slug: "attribution-so-kannst-du-den-erfolg-deiner-marketing-kampagnen-messen"
 date: 2023-04-19T14:15:37
+updated: 2026-10-10T12:00:00
 description: "Du möchtest wissen, welche Marketingmaßnahmen dazu beitragen, deine Conversions zu steigern? Attribution ist das Stichwort!"
 image: "/wp-content/uploads/2023/04/tablet-g191008a50_6401.jpg"
 category: "marketing"
@@ -45,3 +46,7 @@ Es gibt verschiedene Methoden und Tools, um Attribution zu messen. Hier einige w
 Darüber hinaus gibt es verschiedene Tools, die bei der Messung helfen können. [Google Analytics](https://analytics.google.com/analytics/web/) ist eines der bekanntesten Tools für die Attributionsmessung und bietet verschiedene Modelle an, darunter das Last-Click-Modell, das First-Click-Modell und das lineare Modell. Andere Tools wie Adobe Analytics, Mixpanel und Kissmetrics bieten ebenfalls Attributionsmodelle an.
 
 Es ist wichtig zu betonen, dass die Attribution ein kontinuierlicher Prozess ist, der einer ständigen Überprüfung und Anpassung bedarf. Wenn du deine Metriken regelmäßig überwachst und die richtigen Tools verwendest, kannst du deine Attribution verbessern und deine Marketingstrategie optimieren.
+
+## Aktualisierung Oktober 2026
+
+Universal Analytics hat am 1. Juli 2023 die Datenverarbeitung eingestellt, mit Google Analytics ist heute GA4 gemeint. Im Herbst 2023 hat Google die Modelle First Click, Linear, Zeitverlauf und positionsbasiert aus GA4 und Google Ads entfernt. Verfügbar sind seitdem die datengetriebene Attribution als Standard sowie zwei Last-Click-Varianten. Einen direkten First-Click-Vergleich bietet GA4 damit nicht mehr ([Search Engine Land](https://searchengineland.com/?p=433352)).

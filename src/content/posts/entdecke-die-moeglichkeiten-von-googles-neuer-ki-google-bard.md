@@ -2,7 +2,7 @@
 title: "Entdecke die Möglichkeiten von Google's neuer KI: Google Bard"
 slug: "entdecke-die-moeglichkeiten-von-googles-neuer-ki-google-bard"
 date: 2023-05-25T10:20:41
-updated: 2023-05-26T15:18:09
+updated: 2026-10-10T12:00:00
 description: "Hast du schon von Google Bard gehört? Es ist eine neue KI von Google, die dir bei einer Vielzahl von Aufgaben helfen kann."
 image: "/wp-content/uploads/2023/05/macbook-459196_6401.jpg"
 category: "ki-tools"
@@ -25,3 +25,7 @@ Es ist wichtig zu beachten, dass Google Bard noch in der Entwicklung ist und st�
 Google Bard ist ein mächtiges Werkzeug, das dir bei vielen Aufgaben helfen kann. Es ist wie ein persönlicher Assistent, der immer für dich da ist.
 
 Siehe dir auch meinen Artikel zu [Google öffentlichen DNS Server an](/google-offentlicher-dns-server/). Außerdem kannst du lernen wie du [Vektorgrafiken mit Adobe Firefly bearbeiten](/adobe-firefly-beta-ai-eine-revolution-in-der-farbgestaltung-von-vektorgrafiken/) kannst.
+
+## Aktualisierung Oktober 2026
+
+Google hat Bard am 8. Februar 2024 in Gemini umbenannt und gleichzeitig eine App sowie eine kostenpflichtige Version gestartet ([Axios](https://www.axios.com/2024/02/08/google-bard-gemini-renamed)). Den Assistenten aus diesem Artikel findest du heute unter dem Namen Gemini.

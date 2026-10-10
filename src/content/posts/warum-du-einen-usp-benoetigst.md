@@ -2,7 +2,7 @@
 title: "Warum du einen USP benötigst"
 slug: "warum-du-einen-usp-benoetigst"
 date: 2023-03-08T11:57:45
-updated: 2023-08-29T10:50:32
+updated: 2026-10-10T12:00:00
 description: "In diesem Artikel werden wir uns genauer mit der USP beschäftigen und warum sie so wichtig für das Marketing ist."
 image: "/wp-content/uploads/2023/03/mailbox-g9b7d34b77_6401.jpg"
 category: "marke"
@@ -33,3 +33,23 @@ Hier sind einige Beispiele für erfolgreiche USPs:
 3. Dominos Pizza: "You get fresh, hot pizza delivered to your door in 30 minutes or less - or it's free" - Dominos betont seine Geschwindigkeit und Qualität der Lieferung.
 
 Sieh dir auch die [5 Tipps für erfolgreiche E-Mails](/5-tips-fur-erfolgreiches-e-mail-marketing/) anEbenfalls empfehle ich dir, wie du mit [einfachen Mails deine Warenkorbabbrüche verringerst](/warenkorbabbruch-mit-simplen-mails-senken/).
+
+## Ergänzung Oktober 2026
+
+Zur Einordnung: Rosser Reeves beschreibt die USP in seinem Buch „Reality in Advertising“ von 1961 ([Bob Bly](https://bly.com/Pages/DMNCOL12.htm)). Er stellt drei Anforderungen: Die Werbung muss einen konkreten Nutzen versprechen, dieser Nutzen muss sich vom Wettbewerb abheben, und er muss stark genug sein, um neue Kunden zu gewinnen.
+
+So entwickelst du eine USP Schritt für Schritt:
+
+1. Sammle alle Vorteile deines Angebots aus Kundensicht, nicht aus Produktsicht.
+2. Streiche alle Punkte, die Wettbewerber genauso bieten oder ebenso behaupten.
+3. Prüfe die übrigen Punkte: Ist der Vorteil für deine Zielgruppe wichtig genug, um die Kaufentscheidung zu beeinflussen?
+4. Formuliere den stärksten Vorteil in einem Satz, den ein Kunde ohne Erklärung versteht.
+5. Belege die Aussage, etwa durch Garantien, Prozesse oder Kundenstimmen.
+
+Ein Beispiel: Ein regionaler Handwerksbetrieb wirbt bisher mit Qualität und Zuverlässigkeit, so wie fast alle Mitbewerber. Bei der Analyse fällt auf, dass Kunden vor allem die festen Terminzusagen schätzen. Daraus wird ein klares Versprechen mit konkretem Zeitfenster, das der Betrieb auch einhalten kann.
+
+Typische Fehler:
+
+- Austauschbare Begriffe wie Qualität, Service oder Erfahrung als Alleinstellung ausgeben.
+- Einen Slogan mit einer USP verwechseln. Ein Claim kann eine Haltung ausdrücken, ohne einen konkreten Nutzen zu versprechen.
+- Ein Versprechen geben, das im Alltag nicht eingehalten wird.

@@ -2,6 +2,7 @@
 title: "Die vielseitigen Rollen von KI"
 slug: "die-vielseitigen-rollen-von-ki"
 date: 2023-06-08T18:39:11
+updated: 2026-10-10T12:00:00
 description: "GPT-4, die in der Lage ist, eine Vielzahl von Rollen zu übernehmen und uns bei einer Reihe von Aufgaben zu unterstützen."
 image: "/wp-content/uploads/2023/06/people-1979261_6401.jpg"
 category: "ki-tools"
@@ -28,3 +29,7 @@ Zum Schluss möchte ich noch eine besonders lustige Rolle von GPT-4 hervorheben:
 Das waren nur einige der vielen Rollen, die GPT-4 übernehmen kann. Die Möglichkeiten sind nahezu endlos und es ist faszinierend zu sehen, wie vielseitig KI sein kann. Ich hoffe, dieser Beitrag hat dir einen Einblick in die faszinierende Welt der KI gegeben und dich dazu inspiriert, mehr über die Möglichkeiten zu erfahren, die sie bietet.
 
 In einem weiteren Artikel möchte ich dir zeigen, wie einfach der [Einstieg und die Nutzung von ChatGPT4](/dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht/) ist.
+
+## Aktualisierung Oktober 2026
+
+GPT-4 ist seit dem 30. April 2025 nicht mehr in ChatGPT verfügbar, OpenAI hat es durch GPT-4o ersetzt ([TechCrunch](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt)). Am 13. Februar 2026 hat OpenAI auch GPT-4o aus ChatGPT entfernt ([OpenAI](https://openai.com/index/retiring-gpt-4o-and-older-models)). Die beschriebenen Rollen weist du den aktuellen Modellen genauso per Prompt zu.

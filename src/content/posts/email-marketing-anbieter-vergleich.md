@@ -2,7 +2,7 @@
 title: "Email Marketing Anbieter Vergleich"
 slug: "email-marketing-anbieter-vergleich"
 date: 2022-09-16T16:20:14
-updated: 2022-09-16T16:24:04
+updated: 2026-10-10T12:00:00
 description: "Der Email Marketing Anbieter Vergleich: Der Markt der Anbieter ist mittlerweile ziemlich groß und dadurch auch unübersichtlich."
 image: "/wp-content/uploads/2022/09/money-ge4042b4e7_6401.jpg"
 category: "email-marketing"
@@ -45,3 +45,7 @@ Ich persönlich habe lange mit Selligent gearbeitet. Allerdings ist dies schon e
 Am besten macht ihr euch einmal Gedanken was die Lösung unbedingt können soll. Und was die Nice-to-have Anforderungen sind. Dann könnt ihr einmal Recherchen und Feedback einholen um die Anzahl der Anbieter einzugrenzen. Und am Ende testet ihr einfach kostenlos einige Anbieter. Es ist auch kein Problem dann dem Export der Listen später den Anbieter wieder zu wechseln. Nur die Einrichtung der Kampagnen würde dann natürlich einiges an Zeit beanspruchen.
 
 Ebenfalls interessant könnte dieser Artikel für dich sein: [Wie du das richtige E-Mail Tool findest](/das-richtige-e-mail-tool-finden/)
+
+## Aktualisierung Oktober 2026
+
+Sendinblue heißt seit Mai 2023 [Brevo](https://www.brevo.com/press/sendinblue-becomes-brevo-reflecting-company-growth-and-platform-evolution/). Selligent, das zwischenzeitlich unter dem Namen Marigold Engage vermarktet wurde, gehört seit November 2025 zu Zeta Global. Zeta hat das Enterprise-Geschäft von Marigold übernommen, zu dem Selligent zählte. [Quelle: Business Wire](https://www.businesswire.com/news/home/20251124092840/en/Zeta-Global-Increases-2025-and-2026-Guidance-following-the-Completion-of-the-Marigold-Acquisition/)

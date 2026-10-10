@@ -2,7 +2,7 @@
 title: "Externe Quellen für neue Anmeldungen"
 slug: "externe-quellen-fuer-neue-anmeldungen"
 date: 2022-10-13T16:49:28
-updated: 2023-04-05T15:59:13
+updated: 2026-10-10T12:00:00
 description: "Nicht nur auf der eigenen Webseite kannst du neue Anmeldungen generieren. Auch im Social Media Kosmos ist dies möglich."
 image: "/wp-content/uploads/2022/10/memory-stick-g68e237944_6401.jpg"
 category: "email-marketing"
@@ -45,3 +45,22 @@ Anbieter im Überblick:
 Sieh dir auch gerne an welche weiteren Methoden es gibt um [mehr Anmeldungen zu generieren](/leads-durch-die-newsletter-anmeldung-generieren/). Hier geht es um die internene Möglichkeiten, also ohne EInsatz von Werbeausgaben. Weitere Lösungen um extern Leads zu generieren findest du in diesem [Artikel](/extern-neue-adressen-generieren-fuer-deinen-e-mail-verteiler/).
 
 Du kannst auch [intern eine Verteilerliste für den Versand](/verteilerliste-auf-der-webseite-aufbauen/) deiner Newsletter aufbauen. Auch hier findest du verschiedene Möglichkeiten und Lösungsansätze für dein E-Mail Marketing. Du kannst neben einer  Landingpage die Anmeldung für den Newsletter in deinen Footer einbauen.
+
+## Aktualisierung Oktober 2026
+
+Twitter wurde im Juli 2023 in X umbenannt. Der im Artikel genannte Hinweis auf deinen Newsletter in den eigenen Social Kanälen betrifft dort also heute dein Profil auf X. ([Händlerbund](https://ohn.haendlerbund.de/themen/unternehmen-maerkte/138531-twitter-benennt-x-barbie-kinostart-decathlon-eigenmarken))
+
+## Ergänzung Oktober 2026
+
+So setzt du eine Lead-Ad-Kampagne für deinen Newsletter Schritt für Schritt auf.
+
+1. **Plattform wählen**: Für B2B passt meist LinkedIn, für Endkunden eher Meta oder TikTok. Entscheidend ist, wo deine Zielgruppe tatsächlich aktiv ist.
+2. **Formular kurz halten**: Frag nur die E-Mail-Adresse und eventuell den Vornamen ab. Viele Plattformen füllen Felder vor, das senkt die Hürde.
+3. **Einwilligung sauber formulieren**: Beschreibe im Formular, was der Empfänger bekommt, und verlinke deine Datenschutzerklärung.
+4. **Double Opt-in auslösen**: Die Adresse aus dem Formular ist noch nicht bestätigt. Verbinde die Plattform per Schnittstelle oder Integrationsdienst mit deinem E-Mail Tool, damit die Bestätigungsmail sofort rausgeht.
+5. **Quelle speichern**: Lege ein Feld für Plattform und Kampagne an. So erkennst du später, welche Quelle aktive Leser bringt.
+6. **Richtig auswerten**: Rechne mit den Kosten pro bestätigter Anmeldung, nicht pro eingegangenem Lead.
+
+Der häufigste Fehler ist der manuelle Export. Werden Leads erst Tage später per CSV importiert, erinnert sich kaum jemand an die Anmeldung. Die Bestätigungsquote sinkt und die Beschwerden steigen.
+
+Ein zweiter Fehler ist ein Angebot, das nichts mit dem Newsletter zu tun hat. Wer nur wegen eines Gewinnspiels klickt, meldet sich schnell wieder ab.

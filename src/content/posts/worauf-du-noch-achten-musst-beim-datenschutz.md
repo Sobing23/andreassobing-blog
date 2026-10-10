@@ -2,7 +2,7 @@
 title: "Worauf du noch achten musst beim Datenschutz"
 slug: "worauf-du-noch-achten-musst-beim-datenschutz"
 date: 2022-11-30T22:28:29
-updated: 2022-11-30T22:45:49
+updated: 2026-10-10T12:00:00
 description: "Worauf du noch achten musst beim Datenschutz? Beachte ebenfalls die Nutzungsrechte für die verwendeten Bilder von dir."
 image: "/wp-content/uploads/2022/11/technology-g07584c3be_6401.jpg"
 category: "email-marketing"
@@ -23,3 +23,15 @@ Du musst ebenfalls bei verwendeten Gutscheinen auf deren Konditionen hinweisen w
 Einen sehr ausführlichen Leitfaden zum Datenschutz im E-Mail Marketing findest du hier: <https://www.it-recht-kanzlei.de/rechtssichere-e-mail-werbung.html>
 
 Finde zusätzlich heraus wie du trotz [DSGVO im E-Mail Marketing](/trotz-dsgvo-im-e-mail-marketing-wachsen/) wachsen kannst. Natürlich verlangsamen einige Regeln des Datenschutz das Wachstum. Aber du kannst dir diese auch zum Vorteil machen und dadurch die Höhe der Empfänger erhöhen.
+
+## Ergänzung Oktober 2026
+
+So gehst du vor, bevor ein Newsletter mit Bildern, Preisen und Gutscheinen versendet wird:
+
+1. Bildrechte prüfen. Notiere zu jedem Bild Quelle, Lizenzart und Laufzeit. Bei Stockfotos prüfst du, ob die Lizenz werbliche Nutzung in E-Mails abdeckt. Bei Fotos von Mitarbeitenden oder Kunden brauchst du deren Zustimmung.
+2. Preise vollständig angeben. Nenne den Gesamtpreis inklusive Mehrwertsteuer und weise auf Versandkosten hin. Wirbst du mit einer Preissenkung, prüfe, welcher Vergleichspreis angegeben werden muss.
+3. Gutscheinbedingungen in den Text schreiben. Gültigkeit, Mindestbestellwert und Ausschlüsse gehören in den HTML-Text, nicht nur in die Grafik. So sieht sie auch, wer Bilder blockiert.
+4. Alt-Texte setzen. Ein Alt-Text wie „10 Prozent Rabatt bis Sonntag, Bedingungen im Text“ hilft, wenn Bilder nicht geladen werden.
+5. Vier-Augen-Prinzip nutzen. Lass eine zweite Person den Testversand anhand dieser Liste prüfen.
+
+Typische Fehler sind kostenlose Bilder ohne geprüfte Lizenz, Sternchenhinweise ohne Auflösung im Footer und Gutscheincodes, deren Bedingungen sich zwischen Newsletter und Shop unterscheiden. Halte die Liste als feste Vorlage in deinem Versandprozess fest. Einzelfälle, bei denen du unsicher bist, klärst du mit einer Rechtsberatung.

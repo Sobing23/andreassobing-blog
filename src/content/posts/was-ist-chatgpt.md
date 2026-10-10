@@ -2,6 +2,7 @@
 title: "Was ist ChatGPT"
 slug: "was-ist-chatgpt"
 date: 2023-10-26T11:22:48
+updated: 2026-10-10T12:00:00
 description: "Manchmal stößt man auf Technologien, die das Potenzial haben, alles zu verändern.Eine davon ist ChatGPT. Aber was ist ChatGPT?"
 image: "/wp-content/uploads/2023/10/WER-isT-CHATGPT1.png"
 category: "ki-tools"
@@ -46,3 +47,7 @@ Während ChatGPT viele Vorteile bietet, gibt es auch einige Limitationen:
 ChatGPT ist eine beeindruckende Technologie, die das Potenzial hat, die Art und Weise, wie wir mit Computern interagieren, zu revolutionieren. Es bietet eine nahtlose und effektive Interaktion zwischen Mensch und Maschine und verbessert die Benutzererfahrung. Es ist spannend zu sehen, wohin diese Technologie uns in der Zukunft führen wird!
 
 Erfahre auch mehr über die Macht der Zahlen: [Statistik im Marketing](/die-macht-der-zahlen-statistik-in-der-marktforschung/)
+
+## Aktualisierung Oktober 2026
+
+ChatGPT-4 ist nicht mehr die neueste Version. OpenAI hat GPT-4 zum 30. April 2025 aus ChatGPT entfernt und durch GPT-4o ersetzt ([TechCrunch](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt/)). Im August 2025 folgte GPT-5 ([OpenAI](https://openai.com/index/introducing-gpt-5/)), seitdem veröffentlicht OpenAI in kurzen Abständen neue Modellversionen. Prüfe deshalb vor dem Einsatz, welches Modell dein Tarif gerade nutzt.

@@ -2,6 +2,7 @@
 title: "CRM-Systeme und Software: Auswahl und Tipps"
 slug: "crm-systeme-und-software-auswahl-und-tipps"
 date: 2025-08-12T22:02:21
+updated: 2026-10-10T12:00:00
 description: "Nachdem wir viel über Strategie und Prozesse gesprochen haben, widmet sich dieser Artikel speziell den CRM-Systemen und Software-Lösungen."
 image: "/wp-content/uploads/2025/08/rails-3309912_6401.jpg"
 category: "ki-tools"
@@ -92,3 +93,7 @@ Zum Thema **geospezifische SEO-Optimierung** noch ein Wort: In Deutschland suche
 
 **Fazit:** Das richtige CRM-System zu finden und einzuführen, ist kein triviales Unterfangen – aber mit klarem Anforderungsprofil und schrittweisem Vorgehen gelingt es. Die **Investition lohnt sich**, denn ohne geeignete Software lässt sich ein kundenorientierter Ansatz kaum effizient umsetzen. Mit den Tipps aus diesem Artikel bist du gut gerüstet, um die *technologische Grundlage* für erfolgreiches Customer Relationship Management in deinem Unternehmen zu legen.
 Sieh dir auch diesen Beitrag von mir an: [Myers-Briggs-Typenindikator verstehen und nutzen](/myers-briggs-typenindikator-verstehen-und-nutzen/)
+
+## Aktualisierung Oktober 2026
+
+Öffnungsraten taugen nur noch eingeschränkt zur Erfolgsmessung von E-Mail-Kampagnen. Seit Apple im September 2021 mit iOS 15 den E-Mail-Datenschutz (Mail Privacy Protection) eingeführt hat, lädt Apple Mail Inhalte samt Zählpixel vorab und meldet dadurch Öffnungen, die nie stattgefunden haben ([Zoho](https://help.zoho.com/portal/en/kb/campaigns-3-0/deliverability-guide/deliverability-blogs/articles/v3-how-does-apple-s-mpp-affect-email-marketing)). Miss den Kampagnenerfolg deshalb vor allem über Klicks und Conversions. Die Cloud-CRM-Lösung von SAP heißt nicht mehr SAP Cloud for Customer, sondern wird als SAP Sales Cloud und SAP Service Cloud angeboten ([Wikipedia](https://en.wikipedia.org/wiki/SAP_CRM)).

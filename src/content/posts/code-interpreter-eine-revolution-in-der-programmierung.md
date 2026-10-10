@@ -2,7 +2,7 @@
 title: "Code Interpreter: Eine Revolution in der Programmierung"
 slug: "code-interpreter-eine-revolution-in-der-programmierung"
 date: 2023-07-19T14:53:36
-updated: 2023-07-19T15:10:00
+updated: 2026-10-10T12:00:00
 description: "Schauen wir uns an wie der Code Interpreter funktioniert und wie er die Art und Weise, wie wir programmieren, revolutionieren kann."
 image: "/wp-content/uploads/2023/07/CODE-interpreter1.png"
 category: "ki-tools"
@@ -35,3 +35,7 @@ Darüber hinaus kann er auch dazu beitragen, die Produktivität zu steigern. Du 
 Der Code Interpreter von OpenAI ist ein revolutionäres Tool, das die Art und Weise, wie wir programmieren, verändert. Es macht das Programmieren zugänglicher und einfacher und kann dazu beitragen, die Produktivität zu steigern. Wenn du also nach einer einfacheren und effizienteren Möglichkeit suchst, Code zu schreiben, solltest du den Code Interpreter von OpenAI ausprobieren.
 
 Lerne auch die [Grundlagen und die Nutzung von ChatGPT](/dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht/).
+
+## Aktualisierung Oktober 2026
+
+OpenAI hat den Code Interpreter 2023 in „Advanced Data Analysis“ umbenannt ([Pluralsight](https://www.pluralsight.com/resources/blog/ai-and-data/ChatGPT-Advanced-Data-Analytics)). Seit dem 13. Mai 2024 steht die Datenanalyse mit Diagrammerstellung auch im kostenlosen ChatGPT-Tarif zur Verfügung ([OpenAI](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)).

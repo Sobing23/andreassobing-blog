@@ -2,7 +2,7 @@
 title: "Unternehmensphilosophie - Leitbild des Unternehmens"
 slug: "unternehmensphilosophie-leitbild-des-unternehmens"
 date: 2010-02-08T18:56:09
-updated: 2022-10-06T23:48:09
+updated: 2026-10-10T12:00:00
 description: "Ein Leitbild ist eine langfristige bezogene Zielvorgabe eines Unternehmens und kann sich auf die Firmenphilosophie beziehen."
 category: "strategie"
 vgwort: "https://vg09.met.vgwort.de/na/350fec834cf3406a9d83f68fc37b17f2"
@@ -29,3 +29,20 @@ Für die Außenwelt (Öffentlichkeit, Kunden) sollte klar sein, wofür die Organ
 Es ist Teil eines standardisierten Managements und bildet einen Rahmen für Strategie, Ziele und operatives Handeln. Die Begriffe Unternehmensphilosophie oder Geschäftsphilosophie werden manchmal synonym mit Unternehmensleitbildern verwendet.
 
 Dieses Konzept kann auch aus theoretischen Diskussionen über innovative Unternehmen und Managementstrategien gewonnen werden.
+
+## Ergänzung Oktober 2026
+
+Googles Leitbild ist weiterhin unter dem Titel „Ten things we know to be true“ online abrufbar ([Google](https://about.google/philosophy/)). Laut Google stammt die Liste aus den Anfangsjahren des Unternehmens und wird von Zeit zu Zeit überprüft.
+
+So entwickelst du ein eigenes Leitbild:
+
+1. Kläre den Zweck. Ein Leitbild soll Orientierung für Entscheidungen geben und nicht nur die Website schmücken.
+2. Beziehe Mitarbeitende aus verschiedenen Bereichen ein, etwa über Workshops oder kurze Befragungen.
+3. Formuliere wenige, konkrete Grundsätze. Jeder Satz sollte beschreiben, wie ihr handelt, nicht nur, was ihr gut findet.
+4. Mache die Gegenprobe: Würde ein Wettbewerber das Gegenteil sagen? Wenn nicht, ist der Satz vermutlich zu allgemein.
+5. Übersetze das Leitbild in Alltag und Marketing, etwa in Einarbeitung, Tonalität der Kommunikation und Kriterien für Kampagnen.
+6. Überprüfe es regelmäßig.
+
+Ein Beispiel: Ein Onlinehändler schreibt nicht nur „Wir sind kundenorientiert“, sondern „Wir beantworten jede Kundenanfrage am selben Werktag“. Daran lassen sich Service, Personalplanung und Werbeversprechen ausrichten.
+
+Typische Fehler sind austauschbare Begriffe wie Qualität, Innovation und Vertrauen, ein Leitbild, das allein die Geschäftsführung formuliert, und Widersprüche zwischen Leitbild und gelebter Praxis. Kunden und Mitarbeitende bemerken solche Widersprüche schnell.

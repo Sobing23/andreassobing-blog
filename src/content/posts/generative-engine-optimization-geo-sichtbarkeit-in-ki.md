@@ -2,6 +2,7 @@
 title: "Generative Engine Optimization (GEO) - Sichtbarkeit in KI"
 slug: "generative-engine-optimization-geo-sichtbarkeit-in-ki"
 date: 2025-07-22T13:52:47
+updated: 2026-10-10T12:00:00
 description: "Generative Engine Optimization macht deine Marke für ChatGPT, Gemini & Co sichtbar. Entdecke praxisnahe GEO-Strategien."
 image: "/wp-content/uploads/2025/07/geo_article_image1.jpg"
 category: "marketing"
@@ -147,6 +148,10 @@ Generative Engine Optimization verschiebt den Fokus von Klicks zu Referenzen. We
 | KPIs | Reference Rate, Visibility Share, Sentiment |
 | 30-Tage-Plan | Audit → Optimierung → Technik → Dashboard |
 | Risiken & Ethik | Manipulation vermeiden, Transparenz wahren |
+
+## Aktualisierung Oktober 2026
+
+Einen Crawler namens „Bard“ gibt es nicht, Google hat Bard im Februar 2024 in Gemini umbenannt ([Axios](https://www.axios.com/2024/02/08/google-bard-gemini-renamed)). Ob Google deine Inhalte für Training und Grounding von Gemini nutzen darf, steuerst du in der robots.txt über das Token „Google-Extended“. Es hat keinen eigenen User-Agent und beeinflusst weder die Aufnahme in die Google-Suche noch das Ranking ([Google](https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers)).
 
 ### Quellen
 

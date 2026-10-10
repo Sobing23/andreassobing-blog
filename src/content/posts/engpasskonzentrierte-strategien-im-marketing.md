@@ -5,6 +5,7 @@ date: 2024-02-07T22:27:00
 description: "Engpasskonzentrierte Strategien konzentrieren sich auf die Identifizierung von Hindernissen, die das Wachstum eines Unternehmens behindern."
 image: "/wp-content/uploads/2024/02/chess-2727443_6401.jpg"
 category: "strategie"
+vgwort: "https://vg09.met.vgwort.de/na/cebbdad3e9f74371b904ece3897db370"
 wpId: 6118
 ---
 

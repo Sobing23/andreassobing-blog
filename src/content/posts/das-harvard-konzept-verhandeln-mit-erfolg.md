@@ -2,7 +2,7 @@
 title: "Das Harvard Konzept: Verhandeln mit Erfolg"
 slug: "das-harvard-konzept-verhandeln-mit-erfolg"
 date: 2011-09-27T11:58:05
-updated: 2021-10-09T00:44:30
+updated: 2026-10-10T12:00:00
 description: "Das Harvard Konzept erzielt eine konstruktive und friedliche Einigung in Konfliktsituationen."
 category: "psychologie"
 vgwort: "https://vg06.met.vgwort.de/na/09963aaa2bcc4940a408aa517a1afd9b"
@@ -40,3 +40,22 @@ Heute greife ich einmal das [Harvard Konzept](http://de.wikipedia.org/wiki/Harva
 <div class="video" data-provider="youtube" data-id="d91My0M112k"></div>
 
 Die Verkaufspsychologie befasst sich als Teildisziplin der Marktpsychologie mit den psychischen Abläufen von Erkennung, Überzeugung und Motivation, dem Schaffen und gezielten Wecken von Emotionen, mit kundenspezifischer App verbaler und nonverbaler Intertaktion im Verkaufsgespräch. Ihre Application ist ein Kernelement der Verkaufstechnik und kann, je nach Stärke individueller Wirtschaftsethik, ebenfalls Basis für besondere Manipulation sein.
+
+## Ergänzung Oktober 2026
+
+Ein zentraler Baustein des Harvard-Konzepts fehlt oben: die beste Alternative zur Verhandlungslösung, im Englischen BATNA (Best Alternative to a Negotiated Agreement). Sie beschreibt, was du tust, wenn keine Einigung zustande kommt. Je besser deine Alternative, desto gelassener kannst du verhandeln.
+
+So bereitest du eine Verhandlung im Marketing vor, etwa mit einer Agentur oder einem Medienpartner:
+
+1. Kläre deine Interessen hinter der Position. Statt nur auf ein Budgetlimit zu schauen, fragst du dich, was du eigentlich brauchst: Reichweite in einer Zielgruppe, Planungssicherheit oder schnelle Abstimmungen.
+2. Überlege, welche Interessen dein Gegenüber hat, zum Beispiel Auslastung, Referenzen oder eine langfristige Zusammenarbeit.
+3. Entwickle mehrere Optionen, die beide Seiten besser stellen, etwa eine längere Laufzeit gegen einen besseren Preis oder eine Fallstudie gegen einen Rabatt.
+4. Suche objektive Kriterien wie marktübliche Preise oder Leistungsdaten früherer Kampagnen.
+5. Kläre deine Alternative. Wenn du einen zweiten Anbieter kennst, verhandelst du ohne Druck.
+
+Typische Fehler:
+
+- Sich früh auf eine Zahl festlegen und danach nur noch um diese Zahl feilschen.
+- Sachkonflikte persönlich nehmen und so die Beziehung belasten.
+- Ohne geklärte Alternative verhandeln und deshalb schlechte Angebote annehmen.
+- Optionen schon beim Sammeln bewerten, statt sie erst vollständig zu entwickeln.

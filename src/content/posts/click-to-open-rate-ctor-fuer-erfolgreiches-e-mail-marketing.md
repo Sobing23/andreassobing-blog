@@ -2,6 +2,7 @@
 title: "Click-to-Open Rate (CTOR) für erfolgreiches E-Mail-Marketing"
 slug: "click-to-open-rate-ctor-fuer-erfolgreiches-e-mail-marketing"
 date: 2024-01-24T11:22:46
+updated: 2026-10-10T12:00:00
 description: "Im E-Mail-Marketing ist die Click-to-Open-Rate (CTOR) eine der wichtigsten Metriken, um den Erfolg Deiner Kampagnen zu messen."
 image: "/wp-content/uploads/2024/01/hand-2111445_6402.jpg"
 category: "email-marketing"
@@ -53,3 +54,7 @@ Mit diesen Strategien und Tipps kannst Du Deine Click-to-Open Rate verbessern un
 Der [Artikel](https://selzy.com/en/blog/click-to-open-rate/) "CTOR: What is click-to-open rate and how to improve it?" von Irene Dmitrieva auf dem [Selzy Blog](https://selzy.com/en/blog) beschäftigt sich mit der Click-to-Open Rate (CTOR) als wichtige Metrik zur Messung des Erfolgs einer E-Mail-Kampagne. Der Artikel erklärt, wie die CTOR berechnet wird und gibt Tipps zur Verbesserung dieser Metrik. CTOR misst, wie viele Personen auf Links in E-Mails klicken im Verhältnis zur Gesamtzahl der E-Mail-Öffnungen. Ein höherer CTOR bedeutet, dass die E-Mail-Inhalte für die Abonnenten relevanter und ansprechender sind, was wiederum die Wahrscheinlichkeit von Käufen erhöhen kann.
 
 Sieh dir von mir auch den Artikel an: [5 Tipps für das E-Mail Marketing](/5-tipps-fuer-das-e-mail-marketing/)
+
+## Aktualisierung Oktober 2026
+
+Seit 2021 lädt Apples Mail Privacy Protection Bilder und Zählpixel vieler E-Mails vorab. Dadurch steigen die gemessenen Öffnungen, ohne dass mehr Menschen die Mail lesen. Weil die CTOR die Klicks durch die Öffnungen teilt, fällt sie zu niedrig aus und ist zwischen Listen oder Zeiträumen schwer vergleichbar. Ergänze sie deshalb um die Klickrate auf zugestellte E-Mails und um Conversions. [Quelle: Validity](https://www.validity.com/blog/case-closed-the-mystery-of-declining-email-open-rates/)

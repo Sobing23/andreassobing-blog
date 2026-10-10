@@ -5,6 +5,7 @@ date: 2026-01-15T10:42:32
 description: "Hier kommt die Kohortenanalyse ins Spiel. Sie ist quasi das Schweizer Taschenmesser für dein Marketing und die Analyse."
 image: "/wp-content/uploads/2026/01/rare-disease-2888820_6401.png"
 category: "marketing"
+vgwort: "https://vg09.met.vgwort.de/na/75fa53927b6449b8bf08769e8a0f057d"
 wpId: 7008
 ---
 

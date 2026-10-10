@@ -2,7 +2,7 @@
 title: "Preiselastizität der Nachfrage: Ein unverzichtbares Tool im Marketing"
 slug: "preiselastizitaet-der-nachfrage"
 date: 2023-08-31T15:52:56
-updated: 2023-08-31T16:39:05
+updated: 2026-10-10T12:00:00
 description: "Im Artikel erfährst du, wie die Preiselastizität der Nachfrage im Marketing eingesetzt werden kann, um deine Preisstrategien zu optimieren."
 image: "/wp-content/uploads/2023/08/market-4354598_6401.jpg"
 category: "marketing"
@@ -57,3 +57,20 @@ Ein Unternehmen könnte feststellen, dass die Nachfrage für ein bestimmtes Prod
 Sie kann dir nicht nur helfen, deine Preise zu optimieren, sondern auch wertvolle Einblicke in das Verhalten deiner Kunden geben.
 
 Erfahre in einem weiteren  Artikel wie du den [Customer Lifetime Value](/wie-du-den-customer-lifetime-value-erhoehst/) erhöhen kannst.
+
+## Ergänzung Oktober 2026
+
+Mit der Elastizität kannst du schon vor einer Preisänderung abschätzen, was mit deinem Umsatz passiert. So gehst du vor:
+
+1. Ermittle eine Schätzung der Elastizität, zum Beispiel aus früheren Preisänderungen oder einem Preistest.
+2. Rechne die erwartete Absatzänderung aus: geplante Preisänderung in Prozent mal Elastizität.
+3. Vergleiche den Umsatz vorher und nachher. Bei einem Preis von 50 Euro, 1.000 verkauften Einheiten und einer Elastizität von minus 2 führt eine Preissenkung um 10 Prozent rechnerisch zu rund 20 Prozent mehr Absatz. Der Umsatz steigt dann von 50.000 auf etwa 54.000 Euro.
+4. Prüfe zusätzlich den Deckungsbeitrag. Ein höherer Umsatz bei niedrigerem Preis kann trotzdem weniger Gewinn bedeuten, wenn die Marge pro Stück stark schrumpft.
+
+Typische Fehler:
+
+- Das Vorzeichen übersehen. Die Elastizität ist meist negativ, viele Darstellungen nennen aber nur den Betrag.
+- Kleine Testwerte auf große Preissprünge übertragen. Die Elastizität gilt nur ungefähr für den Bereich, in dem du sie gemessen hast.
+- Kurzfristige und langfristige Reaktionen gleichsetzen. Kunden passen ihr Verhalten oft erst mit Verzögerung an.
+- Die Reaktion der Wettbewerber ausblenden. Zieht ein Mitbewerber mit, fällt der erwartete Effekt kleiner aus.
+- Die Elastizität für das ganze Sortiment annehmen, obwohl einzelne Produkte und Kundensegmente sehr unterschiedlich reagieren.

@@ -2,6 +2,7 @@
 title: "E-Mail Tracking mit Google Analytics"
 slug: "e-mail-tracking-mit-google-analytics"
 date: 2022-11-14T22:16:41
+updated: 2026-10-10T12:00:00
 description: "E-Mail Tracking mit Google Analytics. Neben den bereits vorgestellten Kennzahlen will man auch gerne weiterführende Analysen erhalten."
 image: "/wp-content/uploads/2022/11/train-track-g303cfd892_6401.jpg"
 category: "email-marketing"
@@ -49,3 +50,7 @@ Diese Tracking Parameter sind für die Klicks also die Aktionen der Empfänger. 
 Das Measurement Protocol ruft die eingebundene Bild-Datei auf den Google Analytics Servern auf. Google erhält mithilfe der URL-Parameter Informationen darüber, in welches Profil welche Daten getrackt werden sollen. Dabei werden keine persönlich identifizierbaren Daten übertragen.
 
 Email Tracking - Measurement Protocol: <https://developers.google.com/analytics/devguides/collection/protocol/v1/email?hl=de>
+
+## Aktualisierung Oktober 2026
+
+Universal Analytics hat am 1. Juli 2023 die Datenverarbeitung für Standard-Properties eingestellt, seit Juli 2024 ist auch der Zugriff abgeschaltet. Das beschriebene Measurement Protocol von Universal Analytics und der verlinkte Leitfaden zum Öffnungs-Tracking sind deshalb nicht mehr nutzbar. Nachfolger ist Google Analytics 4. [Quelle: Google](https://support.google.com/analytics/answer/11583528)

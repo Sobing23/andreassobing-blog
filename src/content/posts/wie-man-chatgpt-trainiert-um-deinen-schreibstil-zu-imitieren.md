@@ -2,6 +2,7 @@
 title: "Wie man ChatGPT trainiert, um deinen Schreibstil zu imitieren"
 slug: "wie-man-chatgpt-trainiert-um-deinen-schreibstil-zu-imitieren"
 date: 2023-06-21T10:33:15
+updated: 2026-10-10T12:00:00
 description: "Hast du jemals davon geträumt, einen persönlichen Schreibassistenten zu haben, der genau so schreibt wie du?"
 image: "/wp-content/uploads/2023/06/plant-2004483_6401.jpg"
 category: "ki-tools"
@@ -24,3 +25,7 @@ Jetzt bist du bereit, ChatGPT auf die Probe zu stellen. Fordere es auf, einen Bl
 Zum Schluss möchte ich betonen, dass du ChatGPT immer mehr Informationen geben solltest, um es besser zu trainieren. Denke daran, es ist wie das Training eines Modells zur Bilderkennung: Je mehr Bilder du dem Modell gibst, desto besser wird es darin, Bilder zu erkennen. Genauso ist es mit ChatGPT: Je mehr Texte du ihm gibst, desto besser wird es darin, deinen Schreibstil zu imitieren.
 
 Lerne auch wie du die [perfekte Produktgeschichte schreiben](/die-perfekte-produktgeschichte-schreiben/) kannst.
+
+## Aktualisierung Oktober 2026
+
+Das Plugin „Human“ gibt es nicht mehr, denn OpenAI hat alle ChatGPT-Plugins am 9. April 2024 abgeschaltet ([Drag](https://www.dragapp.com/blog/what-happened-to-chatgpt-plugins/)). Deinen Schreibstil hinterlegst du heute über die benutzerdefinierten Hinweise (Custom Instructions) und die Memory-Funktion ([OpenAI Academy](https://openai.com/academy/personalization)). In den Custom Instructions legst du Rolle, Tonalität und Format fest, sie gelten für neue Unterhaltungen, bis du sie änderst. Die Memory-Funktion merkt sich Details, die du teilst, sodass du deine Beispieltexte nicht jedes Mal neu eingeben musst.

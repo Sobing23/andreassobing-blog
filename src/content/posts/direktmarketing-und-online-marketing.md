@@ -2,9 +2,11 @@
 title: "Direktmarketing und Online-Marketing"
 slug: "direktmarketing-und-online-marketing"
 date: 2024-09-17T16:52:32
+updated: 2026-10-10T12:00:00
 description: "Direktmarketing und Online-Marketing bieten Wege, mit potenziellen und bestehenden Kunden zu kommunizieren und Verkäufe zu fördern."
 image: "/wp-content/uploads/2024/09/online-marketing-2037545_6401.png"
 category: "marketing"
+vgwort: "https://vg09.met.vgwort.de/na/e9b3c3905db149769f059f56476b0636"
 wpId: 6555
 ---
 
@@ -131,3 +133,7 @@ Ein Unternehmen könnte potenzielle Kunden zunächst per E-Mail ansprechen (Dire
 Direktmarketing und Online-Marketing sind zwei leistungsstarke Ansätze, um Kunden zu erreichen. Während Direktmarketing eine persönlichere Ansprache ermöglicht, bietet Online-Marketing die Möglichkeit, eine breite Zielgruppe effizient zu erreichen. Für Studierende der BWL und VWL ist es wichtig, die Unterschiede und Synergien dieser beiden Ansätze zu verstehen, um in der modernen Geschäftswelt erfolgreich zu sein.
 
 Sieh dir auch diesen Beitrag von mir an: [Warum du eine Mission und Vision benötigst](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/)
+
+## Aktualisierung Oktober 2026
+
+Twitter heißt seit Juli 2023 X ([AppleInsider](https://appleinsider.com/articles/23/07/24/twitter-has-now-rebranded-as-x)). Wenn du Social-Media-Marketing planst, findest du die Plattform also unter diesem Namen.

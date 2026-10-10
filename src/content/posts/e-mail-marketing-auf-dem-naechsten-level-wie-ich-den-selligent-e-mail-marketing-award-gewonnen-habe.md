@@ -2,7 +2,7 @@
 title: "E-Mail-Marketing auf dem nächsten Level: Wie ich den Selligent E-Mail-Marketing Award gewonnen habe"
 slug: "e-mail-marketing-auf-dem-naechsten-level-wie-ich-den-selligent-e-mail-marketing-award-gewonnen-habe"
 date: 2023-09-14T10:15:58
-updated: 2023-09-14T10:22:50
+updated: 2026-10-10T12:00:00
 description: "Eine preisgekrönte E-Mail-Marketing-Kampagne, welche den renommierten Selligent E-Mail-Marketing Award gewonnen hat."
 image: "/wp-content/uploads/2023/09/Design-ohne-Titel1.png"
 category: "email-marketing"
@@ -39,3 +39,7 @@ Datengetriebenes E-Mail-Marketing kann, wenn es richtig gemacht wird, beeindruck
 Beginnt klein, testet verschiedene Ansätze und erweitert eure Strategien schrittweise. Und wer weiß, vielleicht gewinnt ihr auch einen Award!
 
 Die Zusammenfassung der Kampagne und deren Ergebnisse kannst du [hier sehen](https://www.selligent.com/wp-content/uploads/2021/10/case-study-brille24.pdf). Kennst du die [Kennzahl Bounce Rate](/kennst-du-die-bounce-rate/) und warum diese so wichtig für deinen E-Mail Versand ist?
+
+## Aktualisierung Oktober 2026
+
+Selligent, das zwischenzeitlich unter dem Namen Marigold Engage vermarktet wurde, gehört seit November 2025 zu Zeta Global. Zeta hat das Enterprise-Geschäft von Marigold übernommen, zu dem Selligent zählte. Öffnungsraten wie die hier genannte sind seit Apples Mail Privacy Protection von 2021 außerdem nur eingeschränkt mit anderen Werten vergleichbar, weil Öffnungen auch ohne Lesen gezählt werden. [Quelle: Business Wire](https://www.businesswire.com/news/home/20251124092840/en/Zeta-Global-Increases-2025-and-2026-Guidance-following-the-Completion-of-the-Marigold-Acquisition/)

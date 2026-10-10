@@ -2,6 +2,7 @@
 title: "Welche Daten besitzt du für deine Verteilerliste?"
 slug: "welche-daten-besitzt-du-fuer-deine-verteilerliste"
 date: 2022-10-13T14:10:03
+updated: 2026-10-10T12:00:00
 description: "Am Anfang aller Maßnahmen wie Aufbau der Verteilerliste steht der Ist Zustand deiner Daten. Die Qualität der Daten ist entscheidend."
 image: "/wp-content/uploads/2022/10/circuit-board-g33a757e7e_6401.jpg"
 category: "email-marketing"
@@ -35,3 +36,22 @@ Zusätzlich musst du dir die Frage stellen, welche [Daten du für die Segmentier
 Lerne auch wie du eine [Verteilerliste auf deiner Webseite aufbauen](/verteilerliste-auf-der-webseite-aufbauen/) kannst. Dies hilft die  weitere Adressen für deinen Newsletter Versand zu generieren. Aber auch hier ist die Qualität der Daten entscheidend, also welche Daten du abfragst und wie.
 
 Der [CRMblog](https://crmblog.de/email-marketing/email-verteiler-aufbauen/) hat eine schöne Aufstellung für dich, wie du deinen Verteiler aufbauen kannst. Hier findest du 10 Tipps aus der Praxis, die schnell von dir umgesetzt werden können. Ein Tipp ist beispielsweise die Optimierung deiner Anmeldeseite.
+
+## Ergänzung Oktober 2026
+
+Ein praktischer Einstieg ist eine Dateninventur in Tabellenform. Lege für jede Datenquelle eine Zeile an und fülle diese Spalten:
+
+- **Quelle**: Onlineshop, Newsletter-Formular, Kundenservice, Messe, Gewinnspiel
+- **Felder**: welche Angaben vorliegen, etwa Name, Anrede, Kaufhistorie
+- **Einwilligung**: ob eine Werbeeinwilligung vorliegt, mit Datum und Wortlaut
+- **Aktualität**: wann die Daten zuletzt aktualisiert wurden
+- **System**: in welchem Programm die Daten liegen
+- **Verantwortung**: wer die Quelle pflegt
+
+So gehst du vor. Sprich mit jeder Abteilung, die Kundendaten erfasst. Trag alles zusammen, auch Listen in Tabellen auf einzelnen Rechnern. Markiere danach, welche Quellen du für den Newsletter nutzen darfst und welche nicht.
+
+Ein Beispiel: Adressen aus Kundenserviceanfragen enthalten oft keine Werbeeinwilligung. Sie gehören deshalb nicht ohne Weiteres in den Newsletterverteiler, auch wenn sie technisch vorhanden sind.
+
+Ein häufiger Fehler ist das Zusammenführen mehrerer Listen ohne den Einwilligungsstatus. Danach weiß niemand mehr, wer wofür zugestimmt hat.
+
+Ein zweiter Fehler sind doppelte Kontakte in verschiedenen Systemen. Der gleiche Kunde erhält dann zwei Newsletter oder meldet sich in einem System ab und bekommt aus dem anderen weiter Mails. Lege deshalb fest, welches System die führende Datenquelle ist.

@@ -5,6 +5,7 @@ date: 2025-08-25T12:59:15
 description: "Das Pareto-Prinzip, oder 80/20-Regel bedeutet, dass 20 % Deiner Kunden wahrscheinlich 80 % Deines Umsatzes treiben."
 image: "/wp-content/uploads/2025/08/pareto-principle-693315_6401.jpg"
 category: "marketing"
+vgwort: "https://vg09.met.vgwort.de/na/1b4c5df596e84d5aa86a92c035afaba0"
 wpId: 6871
 ---
 

@@ -2,7 +2,7 @@
 title: "Mit der Gestaltung des Anmeldeformulars mehr Leads erhalten"
 slug: "mit-der-gestaltung-des-anmeldeformulars-mehr-leads-erhalten"
 date: 2022-09-19T13:50:53
-updated: 2022-09-19T13:52:35
+updated: 2026-10-10T12:00:00
 description: "Bei der Gestaltung des Anmeldeformulars gilt, umso weniger Daten abgefragt werden, desto mehr Anmeldungen generierst du."
 image: "/wp-content/uploads/2022/09/hotel-gcb0e649b8_640.jpg"
 category: "email-marketing"
@@ -33,3 +33,19 @@ Auch die Gestaltung des Call to Action Button (CTA) ist wichtig. Also worauf dei
 Auch der Text auf dem Button ist interessant. Meist findest du auf anderen Webseiten „(Jetzt)Anmelden“. Auch hier kannst du einmal andere Varianten nutzen wie zum Beispiel Vorteil sichern oder 10€ sparen. Laut Quicksprout funktionieren „Hier klicken“ und „Los“ besser als „Download“, „Anmelden“ oder „Registrieren“.
 
 Sieh dir auch meinen Artikel an: [Wie du Leads durch die Newsletter Anmeldung generierst](/leads-durch-die-newsletter-anmeldung-generieren/)
+
+## Ergänzung Oktober 2026
+
+Mit einem kurzen Formular-Check findest du die größten Hürden in deinem Anmeldeprozess.
+
+1. **Felder zählen**: Liste alle Felder auf und frag bei jedem, wofür du die Angabe in den nächsten Wochen wirklich nutzt. Was keinen Zweck hat, fliegt raus oder wird optional.
+2. **Mobil ausfüllen**: Füll das Formular selbst auf dem Smartphone aus. Achte darauf, ob sich die passende Tastatur öffnet und ob der Button ohne Scrollen erreichbar ist.
+3. **Fehler provozieren**: Gib eine falsche Adresse ein. Bleibt deine Eingabe erhalten und ist die Fehlermeldung verständlich?
+4. **Bestätigungsseite prüfen**: Nach dem Absenden muss klar sein, dass jetzt eine Bestätigungsmail kommt. Sag, wo der Nutzer nachsehen soll, auch im Spamordner.
+5. **Bestätigungsmail prüfen**: Sie sollte schnell ankommen, den Absender klar zeigen und einen gut sichtbaren Bestätigungslink enthalten.
+
+Ein typischer Fehler ist ein Formular, das bei einer Fehlermeldung alle Eingaben löscht. Viele Besucher geben dann auf.
+
+Ein zweiter Fehler ist eine Erfolgsmeldung wie "Danke" ohne Hinweis auf das Double Opt-in. Ein Teil der Anmeldungen wird dann nie bestätigt.
+
+Teste Änderungen immer einzeln. Wenn du Felder, Text und Farbe gleichzeitig änderst, weißt du nicht, was gewirkt hat.

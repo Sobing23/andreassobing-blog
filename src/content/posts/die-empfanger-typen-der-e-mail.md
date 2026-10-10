@@ -2,7 +2,7 @@
 title: "Die Empfänger Typen der E-Mail"
 slug: "die-empfanger-typen-der-e-mail"
 date: 2012-02-08T11:31:00
-updated: 2023-10-02T10:53:52
+updated: 2026-10-10T12:00:00
 description: "Kara Trivunovic von StrongMail hat einmal die Empfänger Typen der E-Mail-Konsumenten beschrieben. Diese haben jeweils eine ganz bestimmte Art."
 image: "/wp-content/uploads/2012/02/5155072858_c962711d97_z1.jpg"
 category: "email-marketing"
@@ -37,3 +37,19 @@ Auch die Ablader sind sehr auf Ordnung in Ihrem Postfach bedacht. Für werbliche
 ### Wochenende erfolgreichster Versandpunkt für E-Mails
 
 ### [Optimale Bilder für deine E-Mails](/optimale-bilder-fuer-deine-e-mails/)
+
+## Ergänzung Oktober 2026
+
+So nutzt du die drei Typen in der Praxis, auch wenn du nicht weißt, welcher Typ hinter einer Adresse steckt:
+
+1. Für Sortierer: Gib einen Grund, sofort zu handeln. Eine klare Frist oder ein Angebot mit Enddatum hilft, bevor die Mail im Ordner verschwindet. Ein gleichbleibender Absendername erleichtert zudem das Sortieren.
+2. Für Stapler: Mach die Betreffzeile konkret. Nenne den Nutzen in den ersten Wörtern, weil im Posteingang oft nur der Anfang sichtbar ist. Der Preheader ergänzt die Information.
+3. Für Ablader: Stelle die wichtigste Botschaft an den Anfang der Mail. Wer nur kurz durchsieht, soll sie trotzdem mitnehmen. Ein verlässlicher Versandrhythmus sorgt dafür, dass deine Mail zu den neuesten gehört, wenn das Postfach geprüft wird.
+
+Typische Fehler:
+
+- Alle Mails werden auf einen einzigen Empfängertyp ausgerichtet. Besser ist ein Aufbau, der alle drei bedient: klarer Betreff, Kernbotschaft oben, Handlungsaufforderung mit Grund für sofortiges Handeln.
+- Die Frequenz wird erhöht, ohne dass der Inhalt das trägt. Das kann zu mehr Abmeldungen führen.
+- Wichtige Informationen stehen nur in Bildern, die beim schnellen Überblick übersehen werden.
+
+Die Typologie ist ein Denkmodell. Prüfe deine Annahmen mit Klicks und Käufen, nicht mit Vermutungen über einzelne Empfänger.

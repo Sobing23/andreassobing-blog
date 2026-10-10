@@ -2,7 +2,7 @@
 title: "So kommen deine E-Mails bei den E-Mail Clients garantiert an"
 slug: "so-kommen-deine-e-mails-bei-den-e-mail-clients-garantiert-an"
 date: 2022-09-19T11:02:33
-updated: 2022-09-19T11:08:19
+updated: 2026-10-10T12:00:00
 description: "In Deutschland gehören die E-Mail Clients von United Internet wie GMX.de oder Web.de zu den absoluten Platzhirschen."
 image: "/wp-content/uploads/2022/09/email-g7b016be8c_6401.png"
 category: "email-marketing"
@@ -25,3 +25,20 @@ Hier siehst du einmal wie so eine Vorschau aussehen kann
 ![](/wp-content/uploads/2022/09/Bild11.png)
 
 Weißt du schon wie die [E-Mail entstanden ist](/die-entstehung-der-e-mail-und-dem-e-mail-marketing/)?
+
+## Ergänzung Oktober 2026
+
+Zusätzlich zur Vorschau im Tool lohnt sich ein eigener Seed-Test. Seeds sind Testadressen, an die du jede Kampagne mitschickst.
+
+1. **Testadressen anlegen**: Richte Postfächer bei den Anbietern ein, die in deinem Verteiler am stärksten vertreten sind. Typisch sind GMX, Web.de, Gmail, T-Online und Outlook.
+2. **In den Verteiler aufnehmen**: Lege die Adressen als eigenes Segment an und versende jede Kampagne auch an sie.
+3. **Ankunft prüfen**: Schau nach, ob die Mail im Posteingang, im Spamordner oder in einem Werbe-Reiter landet.
+4. **Darstellung prüfen**: Kontrolliere Absendername, Betreffzeile, Pre-Header und Bilder in der Web- und App-Ansicht.
+5. **Authentifizierung prüfen**: Öffne in Gmail die Originalnachricht. Dort siehst du, ob SPF, DKIM und DMARC bestanden wurden.
+6. **Protokollieren**: Halte die Ergebnisse pro Versand fest. So erkennst du Veränderungen früh.
+
+Ein häufiger Fehler ist der Test nur an die eigene Firmenadresse. Firmenserver filtern anders als die großen Freemailer und sagen wenig über deinen Verteiler aus.
+
+Ein zweiter Fehler ist, Probleme bei einem einzelnen Anbieter zu ignorieren. Landet die Mail dort mehrfach im Spam, betrifft das bei großen Anbietern schnell einen erheblichen Teil deiner Liste.
+
+Seed-Tests ersetzen keine Auswertung echter Kennzahlen, sie ergänzen sie.

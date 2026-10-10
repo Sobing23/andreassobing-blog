@@ -5,6 +5,7 @@ date: 2024-01-02T11:20:34
 description: "Stell dir vor, du könntest die Gedanken deiner Kunden und Mitarbeiter besser verstehen. Genau hier setzt emotionale Intelligenz an."
 image: "/wp-content/uploads/2024/01/achievement-5597527_6402.png"
 category: "strategie"
+vgwort: "https://vg09.met.vgwort.de/na/92525b197870455d94d289fdab36b7c9"
 wpId: 5986
 ---
 

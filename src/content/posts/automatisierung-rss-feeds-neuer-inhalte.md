@@ -2,7 +2,7 @@
 title: "Automatisierung RSS Feeds neuer Inhalte"
 slug: "automatisierung-rss-feeds-neuer-inhalte"
 date: 2022-12-22T11:18:01
-updated: 2022-12-22T15:36:15
+updated: 2026-10-10T12:00:00
 description: "Automatisierung RSS Feeds: Die Funktion kannst du auch für deinen Newsletter nutzen um automatisch Content an einen Verteiler zu schicken."
 image: "/wp-content/uploads/2022/12/technology-g1291d78cd_6401.jpg"
 category: "email-marketing"
@@ -33,3 +33,18 @@ Ich habe diese Möglichkeit ausprobiert und gute Ergebnisse erzielt. Man kann au
 Ein ähnliches Verfahren nutzt ja auch Gmail in seinen E-Mail Posteingängen. Hier werden allerdings die Inhalte aufgrund der Präferenzen der Empfänger sowie der empfangenden Mailinhalte ausgespielt.
 
 Lerne auch alles über die Themen [Kampagnen und Automatisierungen](/kampagnen-und-automatisierungen/). Hier ist anfangs ein hoher Zeitaufwand nötig. Dafür sparst du im Laufe der Zeit an Arbeitsschritten.
+
+## Ergänzung Oktober 2026
+
+So richtest du ein RSS-Mailing Schritt für Schritt ein:
+
+1. Feed prüfen: Öffne die Feed-Adresse deines Blogs und kontrolliere, ob Titel, Teaser, Bild und Link enthalten sind. Fehlt ein Bild, sieht die Mail später leer aus.
+2. Vorlage bauen: Lege fest, wie viele Beiträge pro Mail erscheinen und welche Felder angezeigt werden. Ein Teaser mit Link zum Artikel reicht meist aus.
+3. Rhythmus wählen: Entscheide, ob die Mail bei jedem neuen Beitrag oder gesammelt pro Woche verschickt wird. Bei häufigen Beiträgen ist eine Sammelmail angenehmer für die Empfänger.
+4. Bedingung setzen: Die Mail soll nur verschickt werden, wenn es seit dem letzten Versand neue Beiträge gibt.
+5. Tracking ergänzen: Hänge Kampagnenparameter an die Links, damit du in der Webanalyse siehst, welche Besuche aus dem RSS-Mailing kommen.
+6. Testen: Schicke dir die erste Ausgabe selbst und prüfe Darstellung und Links.
+
+Ein Beispiel: Ein Onlineshop mit Ratgeber-Blog verschickt jeden Freitag eine Mail mit den Artikeln der Woche. Über dem Feed-Bereich steht ein fester Block mit einem saisonalen Hinweis, der von Hand gepflegt wird.
+
+Typische Fehler sind leere Ausgaben ohne neue Beiträge, abgeschnittene Teaser mitten im Satz und Betreffzeilen, die jede Woche gleich lauten. Nutze, wenn dein Tool es erlaubt, den Titel des neuesten Beitrags als Betreff.

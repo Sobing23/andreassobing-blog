@@ -2,7 +2,7 @@
 title: "Nutze ChatGPT für Schule und Studium: Eine Revolution im Lernen"
 slug: "nutze-chatgpt-fuer-schule-und-studium-eine-revolution-im-lernen"
 date: 2023-05-25T11:05:56
-updated: 2023-10-12T22:36:01
+updated: 2026-10-10T12:00:00
 description: "Nutze ChatGPT für Schule und Studium. Erfahre wie du du eine Menge Zeit sparen kannst und effektiven Nutzen erhältst."
 image: "/wp-content/uploads/2023/05/ai-generated-7772469_640.jpg"
 category: "ki-tools"
@@ -29,3 +29,7 @@ Du brauchst Hilfe bei der Strukturierung deiner Projektarbeit? Auch hier kann Ch
 Es ist wichtig zu beachten, dass ChatGPT noch in der Entwicklung ist und ständig neue Fähigkeiten erlernt. Momentan unterstützt die KI 26 Sprachen und es werden ständig mehr. Es gibt jedoch noch einige Einschränkungen.
 
 Lerne wie du dich bei [ChatGPT anmelden kannst](/dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht/).
+
+## Aktualisierung Oktober 2026
+
+Seit Februar 2025 kann jeder die ChatGPT-Suche ohne Konto nutzen, ChatGPT ruft dabei aktuelle Webseiten ab und nennt Quellenlinks ([Tom's Guide](https://tomsguide.com/ai/chatgpt-search-is-now-open-to-everyone-no-account-required)). Seit dem 29. Juli 2025 gibt es außerdem den Lernmodus (Study Mode), der dich Schritt für Schritt durch Aufgaben führt, statt nur die Lösung zu liefern. Er steht angemeldeten Nutzern auch im kostenlosen Tarif zur Verfügung ([OpenAI](https://openai.com/index/chatgpt-study-mode/)).

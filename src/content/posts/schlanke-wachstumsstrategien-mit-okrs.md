@@ -6,6 +6,7 @@ updated: 2023-11-10T11:40:12
 description: "Schlanke Wachstumsstrategien mit OKRs: Stell Dir vor, Du könntest Dein Unternehmen schlanker, effizienter und zielorientierter machen."
 image: "/wp-content/uploads/2023/11/arrow-2886223_6401.jpg"
 category: "strategie"
+vgwort: "https://vg09.met.vgwort.de/na/04fa5e1cf03e4f2fad2ef4e4308c990e"
 wpId: 5757
 ---
 

@@ -2,6 +2,7 @@
 title: "Die besten Bildbearbeitungsprogramme für GPTs bei ChatGPT"
 slug: "die-besten-bildbearbeitungsprogramme-fuer-gpts-bei-chatgpt"
 date: 2024-05-13T12:44:56
+updated: 2026-10-10T12:00:00
 description: "Heute nehmen wir zusammen einmal die besten Bildbearbeitungsprogramme für die GPTs bei ChatGPT unter die Lupe."
 image: "/wp-content/uploads/2024/05/DIE-BESTEN-Programme-zur-Bildbearbeitung-fuer-ChatGPT21.png"
 category: "ki-tools"
@@ -48,3 +49,7 @@ Die Bildbearbeitungs-GPTs sind über die Plattform ChatGPT Plus zugänglich. Fal
 Die vorgestellten Bildbearbeitungsprogramme für GPTs bieten dir eine hervorragende Möglichkeit, deine Kreativität in der digitalen Welt auszudrücken. Sie sind einfach zu bedienen, bieten vielfältige Anpassungsoptionen und helfen dir, deine Visionen in beeindruckende Bilder umzusetzen. Nutze diese Tools, um deinen Projekten das gewisse Extra zu verleihen.
 
 Siehe dir auch diesen Beitrag von mir an: [Die 17 eigenen GPTs von OpenAI](/die-17-eigenen-gpts-von-openai/)
+
+## Aktualisierung Oktober 2026
+
+Seit dem 13. Mai 2024 können auch Nutzer des kostenlosen ChatGPT-Tarifs GPTs und den GPT Store verwenden, ein Plus-Konto ist dafür nicht mehr nötig ([OpenAI](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)). GPT-4 hat OpenAI am 30. April 2025 aus ChatGPT entfernt ([TechCrunch](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt)). Ob die genannten GPTs noch angeboten werden, prüfst du direkt im GPT Store.

@@ -5,6 +5,7 @@ date: 2025-12-15T16:11:26
 description: "UX Writing in Zahlen zeigt dir den messbaren Effekt von Worten. Nutze Microcopy, um Klicks, Conversion und Umsatz spürbar zu steigern."
 image: "/wp-content/uploads/2025/12/pencil-1891732_6401.jpg"
 category: "marketing"
+vgwort: "https://vg09.met.vgwort.de/na/abcdcaf7f22f460ba2a35f37f4b0d7ab"
 wpId: 6987
 ---
 

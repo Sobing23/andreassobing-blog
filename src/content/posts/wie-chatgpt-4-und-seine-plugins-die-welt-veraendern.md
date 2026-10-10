@@ -2,6 +2,7 @@
 title: "Wie ChatGPT-4 und seine Plugins die Welt verändern"
 slug: "wie-chatgpt-4-und-seine-plugins-die-welt-veraendern"
 date: 2023-05-24T09:07:14
+updated: 2026-10-10T12:00:00
 description: "In diesem Artikel werden wir uns einige der spannenden Plugins ansehen, die ChatGPT-4 bietet und wie man diese nutzt."
 image: "/wp-content/uploads/2023/05/rj45-1139366_6401.jpg"
 category: "ki-tools"
@@ -28,3 +29,7 @@ Und schließlich gibt es das PrompPerfect-Plugin. Dieses Plugin hilft dabei, die
 Zusammengefasst kann man sagen, dass ChatGPT-4 und seine Plugins eine Revolution in der Art und Weise darstellen, wie wir mit Technologie interagieren. Sie bieten uns neue Möglichkeiten, Informationen zu sammeln, zu analysieren und zu verstehen. Sie machen es einfacher und effizienter, mit Webinhalten zu interagieren und sie zu nutzen. Und das Beste daran ist, dass sie ständig weiterentwickelt und verbessert werden, um noch mehr Funktionen und Möglichkeiten zu bieten.
 
 [Finde heraus wie man ChatGPT Prompts und warum diese so wichtig sind.](/chatgpt-prompts-erklaert-warum-sie-so-wichtig-sind/)
+
+## Aktualisierung Oktober 2026
+
+Die hier beschriebenen Plugins gibt es nicht mehr. Seit dem 19. März 2024 ließen sich keine neuen Plugin-Unterhaltungen mehr starten, am 9. April 2024 hat OpenAI die Plugins vollständig abgeschaltet ([Drag](https://www.dragapp.com/blog/what-happened-to-chatgpt-plugins/)). Als Nachfolger dienen die GPTs, also angepasste ChatGPT-Versionen, und die 2025 eingeführten Apps und Connectors. Auch GPT-4 selbst ist seit dem 30. April 2025 nicht mehr in ChatGPT verfügbar ([TechCrunch](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt/)).

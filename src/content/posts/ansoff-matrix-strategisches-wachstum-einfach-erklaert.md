@@ -5,6 +5,7 @@ date: 2025-06-04T16:15:31
 description: "Lerne die Ansoff-Matrix und ihre vier Wachstumsstrategien kennen – praxisnah, verständlich und direkt anwendbar."
 image: "/wp-content/uploads/2025/06/ansoff_matrix_compressed1.jpg"
 category: "strategie"
+vgwort: "https://vg09.met.vgwort.de/na/fcdb3fae8fce47a8ab6f5b5240bade5b"
 wpId: 6744
 ---
 

@@ -2,6 +2,7 @@
 title: "AI-Videos kostenlos erstellen – so nutzt du Google VEO 3 & Perplexity"
 slug: "ai-videos-kostenlos-erstellen-so-nutzt-du-google-veo-3-perplexity"
 date: 2025-07-31T11:06:42
+updated: 2026-10-10T12:00:00
 description: "Entdecke, wie du völlig kostenlos beeindruckende AI-Videos mit Google VEO 3 erzeugst – ganz ohne Abo oder Kreditkarte - Schritt-für-Schritt"
 image: "/wp-content/uploads/2025/07/google_veo3_ai_video_article1.jpg"
 category: "ki-tools"
@@ -132,3 +133,7 @@ Mit **Google VEO 3**, **Perplexity** und einem simplen Tweet produzierst du heut
 | Risiken | Bot-Limits möglich, Tweets sind öffentlich |
 
 Sieh dir auch diesne Beitrag von mir an: [So nutzt du ChatGPT für effektive Produktwerbung](/so-nutzt-du-chatgpt-fuer-effektive-produktwerbung/)
+
+## Aktualisierung Oktober 2026
+
+Das große Google-Abo heißt Google AI Ultra und kostete beim Start im Mai 2025 rund 250 US-Dollar im Monat, auf der deutschen Google-Seite wurden damals 274,99 Euro angezeigt ([mobiflip](https://www.mobiflip.de/shortnews/neues-ki-abo-google-will-250-dollar-pro-monat/)). Name und Preis in der Tabelle oben („AI Unlimited“, 299 Euro) treffen damit nicht zu.

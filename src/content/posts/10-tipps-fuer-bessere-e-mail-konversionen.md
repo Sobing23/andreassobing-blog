@@ -2,7 +2,7 @@
 title: "10 Tipps für bessere E-Mail Konversionen"
 slug: "10-tipps-fuer-bessere-e-mail-konversionen"
 date: 2023-11-28T16:43:58
-updated: 2023-12-05T10:46:35
+updated: 2026-10-10T12:00:00
 description: "Der Artikel bietet eine umfassende Liste von Best Practices für E-Mail-Marketing. 10 Tipps für bessere E-Mail Konversionen."
 image: "/wp-content/uploads/2023/11/e-mail-1903444_6401.jpg"
 category: "email-marketing"
@@ -40,3 +40,7 @@ E-Mail-Marketing bleibt ein effektiver Weg, um Leads zu generieren und mehr Inte
 Diese Zusammenfassung und Tabelle bieten einen schnellen Überblick über die wichtigsten Praktiken im E-Mail-Marketing, wie sie im [HubSpot-Artikel](https://blog.hubspot.com/blog/tabid/6307/bid/23965/9-email-marketing-best-practices-to-generate-more-leads.aspx) beschrieben werden.
 
 Finde auch heraus warum [Alt-Texte so wichtig für dein E-Mail Marketing](/warum-alt-texte-wichtig-fuer-dein-e-mail-marketing-sind/) sind.
+
+## Aktualisierung Oktober 2026
+
+Seit 2021 lädt Apples Mail Privacy Protection Bilder und Zählpixel vieler E-Mails vorab. Öffnungen werden dadurch auch gezählt, wenn niemand die Mail gelesen hat. Werte A/B-Tests von Betreffzeilen und die Bereinigung inaktiver Kontakte deshalb nicht allein über die Öffnungsrate aus, sondern zusätzlich über Klicks und Conversions. [Quelle: Validity](https://www.validity.com/blog/case-closed-the-mystery-of-declining-email-open-rates/)

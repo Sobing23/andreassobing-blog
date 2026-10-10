@@ -64,3 +64,9 @@ Für später notiert (Okt. 2026):
 1. **Startseite fürs Handbuch:** Inhaltsverzeichnis mit allen Kapiteln bauen, sobald 6 bis 8 Themen stehen.
 2. **Nicht alles gehört ins Handbuch:** Fundstücke, alte Nachrichten und Meinungsartikel bleiben Blog und im Archiv, ohne Kapitel.
 3. **Veraltete Artikel:** Ein Handbuch verspricht aktuelle Inhalte. Pro Kapitel eine Liste veralteter oder zu dünner Artikel erstellen und die wichtigsten überarbeiten (Durchschnittsartikel nur rund 460 Wörter; besonders KI und E-Mail betroffen).
+
+## Artikelpflege Oktober 2026
+
+188 Kandidaten (unter 300 Wörter, vor 2018 oder mit Verdacht auf Veraltetes) wurden geprüft: 59 aktuell, 60 veraltet, 58 dünn, 11 aus dem Handbuch genommen. Veraltete Artikel haben einen Abschnitt „Aktualisierung Oktober 2026“, dünne einen Abschnitt „Ergänzung Oktober 2026“; der Originaltext blieb unverändert. Alle neuen Abschnitte wurden in einem zweiten, unabhängigen Durchgang per Recherche geprüft. Liste: `tools/artikelpflege-2026-10.csv`.
+
+**VG Wort:** Zählmarken nur für Texte, die Andreas selbst geschrieben hat. Bei der Meldung muss bestätigt werden, dass ein Text kein reines KI-Produkt ist. Artikel, die erst durch KI-Ergänzungen über 1.800 Zeichen kommen, bekommen keine neue Zählmarke.

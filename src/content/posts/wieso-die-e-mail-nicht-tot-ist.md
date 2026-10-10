@@ -2,7 +2,7 @@
 title: "Wieso die E-Mail nicht tot ist"
 slug: "wieso-die-e-mail-nicht-tot-ist"
 date: 2022-11-15T23:06:46
-updated: 2022-11-15T23:15:20
+updated: 2026-10-10T12:00:00
 description: "Wieso die E-Mail nicht tot ist. Es ist ähnlich wie bei der Schallplatte oder alten Konsolen und deren Spiele."
 image: "/wp-content/uploads/2022/11/grave-gf4c07d595_6401.jpg"
 category: "email-marketing"
@@ -29,3 +29,7 @@ Laut einer Prognose soll sich die Anzahl der täglich versendeten und empfangene
 6,4 Stunden pro Tag verbringen Millennials mit der Nutzung von E-Mails. 41% rufen ihre E-Mails sogar im Bett auf, also nach dem Aufwachen oder vor dem Schlafengehen.Du siehst dass du gute Chancen hast deine Zielgrupper per E-Mail zu erreichen.
 
 Jetzt weißt du wieso die E-Mail nicht tot ist. Erfahre auch wie du [die verschiedenen Spielertypen erreichen](/die-verschiedenen-spieler-typen-erreichen/) kannst. Lerne auch die [Entstehung der Mail](/die-entstehung-der-e-mail-und-dem-e-mail-marketing/) kennen und deren Ursprünge.
+
+## Aktualisierung Oktober 2026
+
+Die Radicati Group zählte 2024 weltweit rund 4,48 Milliarden E-Mail-Nutzer und 361,6 Milliarden versendete und empfangene Mails pro Tag. Für 2028 erwartet sie knapp 4,97 Milliarden Nutzer und 424,2 Milliarden Mails täglich ([Radicati](https://radicati.com/wp/wp-content/uploads/2024/10/Email-Statistics-Report-2024-2028-Executive-Summary.pdf)). Die Zahlen im Artikel sind damit überholt, der Trend bestätigt sich.

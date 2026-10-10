@@ -2,6 +2,7 @@
 title: "Negative Trigger im E-Mail Marketing"
 slug: "negative-trigger-im-e-mail-marketing"
 date: 2023-01-30T14:30:48
+updated: 2026-10-10T12:00:00
 description: "Negative Trigger im E-Mail Marketing: Du kannst es auch einmal umdrehen und Trigger Mails auf Basis von Negativ Ereignissen einrichten."
 image: "/wp-content/uploads/2023/01/email-ged6ea52ab_6401.png"
 category: "email-marketing"
@@ -18,3 +19,24 @@ Nach dem Design und der Erstellung kommt das Testen des Mailings. Der HTML Code 
 <div class="video" data-provider="youtube" data-id="WEkgD79KcXE"></div>
 
 Zusätzlich empfehle ich dir meinen Blog Artikel über [Kampagnen und Automatisierungen im E-Mail Marketing](/kampagnen-und-automatisierungen/). In diesem lernst du warum Automatisierungen dir helfen Zeit und Kosten beim Versand und Erstellen deiner E-Mail Marketing Werbemittel zu sparen.
+
+## Aktualisierung Oktober 2026
+
+Litmus gehört seit April 2025 zu Validity. Im August 2025 hat Litmus seine Tarife umgestellt, der kleinste öffentlich genannte Tarif Core kostete danach 500 US-Dollar im Monat ([emailexpert](https://emailexpert.com/litmus-from-validity-introduces-significant-price-hikes/)). Die genannten 70 bis 100 Euro im Monat sind damit überholt.
+
+## Ergänzung Oktober 2026
+
+Zwei Beispiele zeigen, wie du negative Trigger praktisch umsetzt.
+
+**Gutschein nicht eingelöst**: Der Auslöser ist ein Gutschein, der in wenigen Tagen abläuft und noch nicht genutzt wurde. Die Mail erinnert freundlich an das Ablaufdatum und zeigt, wofür sich der Gutschein eignet. Nach dem Ablauf endet die Strecke. Verlängere den Gutschein nicht automatisch, sonst verliert die Frist ihre Wirkung.
+
+**Schlechte Bewertung**: Der Auslöser ist eine niedrige Bewertung in einer Zufriedenheitsumfrage. Hier gehört keine Werbung in die Mail. Bedanke dich für die Offenheit, frag konkret nach und biete einen direkten Kontakt zum Kundenservice an. Ideal ist eine Antwortadresse, die von Menschen gelesen wird.
+
+So gehst du bei der Einrichtung vor.
+
+1. **Ereignis definieren**: Lege genau fest, welches Datenfeld welchen Wert haben muss.
+2. **Ausschlüsse setzen**: Kunden mit offener Reklamation oder laufendem Servicefall erhalten keine automatischen Mails.
+3. **Ton prüfen**: Lass die Mail von jemandem aus dem Kundenservice gegenlesen.
+4. **Wirkung messen**: Beobachte, ob die Empfänger wieder kaufen oder den Kontakt suchen.
+
+Ein häufiger Fehler ist ein automatischer Rabatt bei jeder Beschwerde. Kunden lernen dann, dass sich Kritik lohnt, und das eigentliche Problem bleibt ungelöst.

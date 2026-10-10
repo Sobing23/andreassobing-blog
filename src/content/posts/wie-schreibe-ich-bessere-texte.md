@@ -2,7 +2,7 @@
 title: "Wie schreibe ich bessere Texte?"
 slug: "wie-schreibe-ich-bessere-texte"
 date: 2018-04-05T21:40:56
-updated: 2018-04-10T17:42:05
+updated: 2026-10-10T12:00:00
 description: "Wir schreiben jeden Tag eine Vielzahl von unterschiedlichen Texten. Dies können Produktbeschreibungen, Imagetexte oder auch Artikel für den Blog sein. Ein paar Grundregeln sollen Dir beim nächsten Text helfen."
 category: "arbeitsweisen"
 vgwort: "https://vg06.met.vgwort.de/na/b112e84b624143e5951296e2dee4e1e3"
@@ -43,5 +43,24 @@ Klare Antworten, einfache Worte verständlich formuliert. In den Antworten steck
 - Wie werden Sie davon erfahren? = Beschreibt die Kommunikationskanäle
 
 Für weitere Informationen zum Thema Schreiben empfehle ich das Buch "[Clever texten fürs Web](http://clever-texten-fuers-web.de/ueber-clever-texten-fuers-web/)" von Petra von Laak sowie den dazugehörigen [Blog](http://clever-texten-fuers-web.de/clever-texten-blog/).
+
+## Ergänzung Oktober 2026
+
+Die vier Fragen von Alina Wheeler eignen sich auch als Briefing für jeden neuen Text. So gehst du vor:
+
+1. Beantworte jede Frage in einem einzigen Satz. Wenn du dafür mehrere Sätze brauchst, ist die Positionierung noch nicht klar.
+2. Lies die Antworten aus Sicht der Zielgruppe. Streiche Wörter, die nur intern verständlich sind.
+3. Leite aus der dritten Antwort die Überschrift ab. Sie enthält den Nutzen, nicht den Firmennamen.
+4. Leite aus der vierten Antwort ab, wo der Text erscheint. Eine Produktseite braucht einen anderen Aufbau als ein Social-Media-Beitrag oder ein Newsletter.
+
+Ein Beispiel für eine Steuerkanzlei, die Gründer gewinnen will: Wer bist du? Eine Kanzlei, die Gründer im ersten Geschäftsjahr begleitet. Wer sollte das wissen? Menschen kurz vor oder nach der Gründung. Warum sollte sie das interessieren? Weil sie Fristen und Pflichten im ersten Jahr oft noch nicht kennen. Wie erfahren sie davon? Über Gründerportale, Suchmaschinen und Empfehlungen.
+
+Typische Fehler:
+
+- Die erste Antwort beschreibt das Unternehmen statt das Angebot.
+- Die Zielgruppe ist zu breit, etwa „alle Unternehmen“.
+- Der Nutzen wird als Eigenschaft formuliert, zum Beispiel „langjährige Erfahrung“, statt als Vorteil für den Leser.
+
+Wenn alle vier Antworten stehen, schreibst du den eigentlichen Text deutlich schneller, weil die wichtigsten Entscheidungen schon gefallen sind.
 
 Grafik: CC0 Creative Commons pixabay kaboompics

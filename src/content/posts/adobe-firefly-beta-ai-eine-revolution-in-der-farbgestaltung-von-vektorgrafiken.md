@@ -2,7 +2,7 @@
 title: "Adobe Firefly BETA (AI) - Eine Revolution in der Farbgestaltung von Vektorgrafiken"
 slug: "adobe-firefly-beta-ai-eine-revolution-in-der-farbgestaltung-von-vektorgrafiken"
 date: 2023-05-25T11:20:26
-updated: 2023-05-26T15:16:44
+updated: 2026-10-10T12:00:00
 description: "Hallo! Heute möchte ich dir eine spannende neue Funktion in Adobe Firefly vorstellen: Vector Recoloring. Aber was ist das überhaupt?"
 image: "/wp-content/uploads/2023/05/Unbenannt1-1.jpg"
 category: "ki-tools"
@@ -25,3 +25,7 @@ Es ist wichtig zu beachten, dass Adobe Firefly noch in der Beta-Phase ist. Das b
 Also, warum probierst du Adobe Firefly nicht selbst aus? Es ist ein mächtiges Werkzeug, das dir helfen kann, deine Grafiken auf eine ganz neue Ebene zu heben. Und wer weiß, vielleicht entdeckst du ja sogar eine ganz neue Liebe zur Grafikgestaltung!
 
 Lerne wie du deine [ChatGPT Befehle perfektionierst](/perfektioniere-deine-chatgpt-befehle/). Und sieh dir auch an wie du [ChatGPT für die Schule oder das Studium nutzen](/nutze-chatgpt-fuer-schule-und-studium-eine-revolution-im-lernen/) kannst.
+
+## Aktualisierung Oktober 2026
+
+Adobe Firefly hat die Beta-Phase verlassen und ist seit dem 13. September 2023 kommerziell verfügbar. Das Umfärben von Vektorgrafiken bietet Adobe seitdem als Funktion Generative Recolor in Illustrator an ([Adobe](https://news.adobe.com/news/news-details/2023/adobe-releases-new-firefly-generative-ai-models-and-web-app-integrates-firefly-into-creative-cloud-and-adobe-express)).

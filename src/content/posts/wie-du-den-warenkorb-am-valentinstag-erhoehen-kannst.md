@@ -2,7 +2,7 @@
 title: "Wie du den Warenkorb am Valentinstag erhöhen kannst"
 slug: "wie-du-den-warenkorb-am-valentinstag-erhoehen-kannst"
 date: 2022-09-14T16:02:38
-updated: 2022-09-14T16:03:43
+updated: 2026-10-10T12:00:00
 description: "Am Valentinstag beträgt der durchschnittliche Warenkorb bei 30% der Käufer 41€ oder mehr."
 image: "/wp-content/uploads/2022/09/heart1.jpg"
 category: "email-marketing"
@@ -30,3 +30,7 @@ Auch bei diesen Kampagnen wirst du einige preissensible Empfänger haben. Daher 
 Vielleicht solltest du auch statt das Geld in das Angebot, es in die Möglichkeit des kostenlosen Express Versand investieren. Immer häufiger geht der Trend auch zu „Beschenk dich selbst“ Kampagnen. Neben Produkten, Services und Geschenkgutscheinen können es aber auch Tipps und kostenlose Downloads sein. Eine andere Möglichkeit ist die Bitte um Spenden bzw. einen bestimmten Anteil an allen Verkäufen in dem Zeitraum an eine Organisation zu spenden.
 
 Erfahre wie du durch die [Kampagnenplanung Planungssicherheit gewinnst](/kampagnenplanung-verschafft-dir-planungssicherheit-fuer-dein-e-mail-marketing/).
+
+## Aktualisierung Oktober 2026
+
+Seit Apple 2021 mit iOS 15 die Mail Privacy Protection eingeführt hat, zählen viele Mails als geöffnet, obwohl sie niemand gelesen hat ([MarTech](https://martech.org/study-finds-ios-15-is-inflating-email-open-rates/)). Die Gruppe der Nichtöffner ist dadurch unvollständig. Steuere die zweite Kampagne deshalb besser über die Empfänger, die nicht geklickt haben.

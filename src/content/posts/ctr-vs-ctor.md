@@ -2,6 +2,7 @@
 title: "CTR vs. CTOR"
 slug: "ctr-vs-ctor"
 date: 2023-12-18T16:07:52
+updated: 2026-10-10T12:00:00
 description: "Heute sprechen wir über eine aussagekräftigere Metrik: die Click-To-Open Rate (CTOR) und warum sie die Zukunft des E-Mail-Marketings bestimmt"
 image: "/wp-content/uploads/2023/12/control-2633861_6401.png"
 category: "email-marketing"
@@ -45,3 +46,7 @@ Mit diesem Wissen bist Du bestens gerüstet, um Deine E-Mail-Marketing-Kampagnen
 3. **Verbesserung der CTOR**: Einsatz von CTA-Buttons, Überprüfung der Angebote und Fokussierung auf einen einzigen CTA.
 
 Weitere informationen findest du auch auf der Webseite von [Hubspot](https://blog.hubspot.com/marketing/ctor-vs-ctr). Kennst du schon den [Namenstag](/namenstag-kampagnen-machst-du-garantiert-noch-nicht/)? [Hier](/namenstag-kampagnen-machst-du-garantiert-noch-nicht/) stelle ich dir erfolgreiche Kampagnen hierzu vor und wie du diese umsetzen kannst.
+
+## Aktualisierung Oktober 2026
+
+Die Aussage, die CTOR sei die genauere Kennzahl, gilt seit 2021 nur noch eingeschränkt. Apples Mail Privacy Protection lädt Bilder und Zählpixel vieler E-Mails vorab, sodass Öffnungen gezählt werden, die nie stattgefunden haben. Die CTOR wird dadurch verzerrt, die CTR auf Basis zugestellter E-Mails dagegen nicht. Nutze die CTOR deshalb nur ergänzend und stütze Entscheidungen vor allem auf CTR und Conversions. [Quelle: Validity](https://www.validity.com/blog/case-closed-the-mystery-of-declining-email-open-rates/)

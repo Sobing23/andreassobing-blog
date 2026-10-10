@@ -2,6 +2,7 @@
 title: "Vertrauen im Geschäftsleben: Warum es zwei Jahre dauert, bis deine Kunden dir vertrauen"
 slug: "vertrauen-im-geschaeftsleben-warum-es-zwei-jahre-dauert-bis-deine-kunden-dir-vertrauen"
 date: 2023-07-14T11:21:30
+updated: 2026-10-10T12:00:00
 description: "Doch wie lange dauert es, bis Vertrauen aufgebaut ist? Laut einer Studie des Kundenbindungsunternehmens SDL sind es rund zwei Jahre."
 image: "/wp-content/uploads/2023/07/hands-5655424_6401.png"
 category: "marketing"
@@ -26,5 +27,9 @@ Eine Möglichkeit, das Vertrauen deiner Kunden zu gewinnen, besteht darin, effek
 ## Schlussfolgerung
 
 Vertrauen aufzubauen ist ein langfristiger Prozess, aber eine Investition, die sich auszahlt. Indem du authentisch bist, deine Kunden wertschätzt und effektiv mit ihnen kommunizierst, kannst du eine starke Vertrauensbasis aufbauen, die den Weg zu langfristigem Erfolg ebnet. Vergiss nicht, dass es das ist, was dich von deinen Mitbewerbern unterscheidet. Also nimm dir die Zeit, es aufzubauen. Es wird sich lohnen.
+
+## Aktualisierung Oktober 2026
+
+Twitter heißt seit dem 24. Juli 2023 X. Die im Artikel genannten Twitter-Feeds laufen heute also über die Plattform X ([onlinemarketing.de](https://onlinemarketing.de/social-media-marketing/neues-twitter-logo-x)).
 
 Die Überlegungen haben ihren Ursprung in diesem Artikle von [Entrepreneur](https://www.entrepreneur.com/growing-a-business/how-long-before-your-customers-trust-you-two-years/237579). Lerne auch wie du in [5 Schritten eine erfolgreiche Marke aufbaust](/wie-du-in-5-schritten-eine-erfolgreiche-marke-aufbaust/).

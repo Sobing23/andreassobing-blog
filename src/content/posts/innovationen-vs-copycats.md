@@ -2,7 +2,7 @@
 title: "Innovationen vs. Copycats"
 slug: "innovationen-vs-copycats"
 date: 2012-01-30T13:30:08
-updated: 2015-03-10T17:16:44
+updated: 2026-10-10T12:00:00
 category: "strategie"
 vgwort: "https://vg06.met.vgwort.de/na/5236a261a560451b9a3d6552f9ce1deb"
 wpId: 674
@@ -24,3 +24,7 @@ Oded Shenkar belegt, dass Kopieren häufiger und erfolgreicher ist als allgemein
 Und hier noch ein Video zum Abschluss mit dem Titel: Innovate or imitate? Europe: a continent of copycats? Panel discussion at ADVANCE Conference. This Panel discussion was held during the ADVANCE - International Web & Startup Conference on September, 19 & 20, 2011 in Cologne, Germany. Film ab...
 
 <div class="video" data-provider="youtube" data-id="FyxK3umKaSI"></div>
+
+## Aktualisierung Oktober 2026
+
+Der zitierte Google+-Beitrag ist nicht mehr abrufbar. Google hat Google+ für private Nutzer am 2. April 2019 eingestellt ([Android Police](https://www.androidpolice.com/2019/01/30/google-reveals-shutdown-timeline-for-consumers-and-its-coming-fast/)).

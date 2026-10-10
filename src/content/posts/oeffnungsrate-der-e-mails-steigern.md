@@ -2,7 +2,7 @@
 title: "Öffnungsrate der E-Mails steigern"
 slug: "oeffnungsrate-der-e-mails-steigern"
 date: 2015-04-14T22:42:50
-updated: 2015-04-14T22:46:25
+updated: 2026-10-10T12:00:00
 description: "Das Öffnen ist das eine. Im nächsten Schritt geht es darum, die Empfänger zum Lesen und Klicken zu animieren. So steigert man die Öffnungsrate der E-Mails!"
 category: "email-marketing"
 vgwort: "https://vg06.met.vgwort.de/na/f3d1f9de9a2e4a02b993003b3e9e11d9"
@@ -34,3 +34,7 @@ Trotz allem ist die versendete Mail nicht allein im Posteingang. Eine Menge Fakt
 - Den richtigen Zyklus finden. Sollte man einmal nichts zu erzählen haben, mit der Versendung pausieren. Bei mehreren Themen durchaus auch einmal häufiger versenden
 - Symbole (Unicodes) in der Betreffzeile passend zum Mailingthema verwenden
 - Betreffzeilenlängen ab und zu variieren mit besonders langen und kurzen Zeilen
+
+## Aktualisierung Oktober 2026
+
+Seit iOS 15 im Jahr 2021 lädt Apples Mail Privacy Protection Bilder und Zählpixel vorab herunter. Mails zählen dadurch als geöffnet, auch wenn niemand sie gelesen hat ([MarTech](https://martech.org/study-finds-ios-15-is-inflating-email-open-rates/)). Bewerte Tests zu Betreffzeilen und Versandzeiten deshalb zusätzlich über Klicks. Return Path, Herausgeber des zitierten Reports, wurde 2019 von Validity übernommen ([Validity](https://www.validity.com/news/validity-to-acquire-return-path/)).

@@ -2,6 +2,7 @@
 title: "Digital Analytics: KPIs, Tools, Praxis"
 slug: "digital-analytics-kpis-tools-praxis"
 date: 2025-09-08T09:45:42
+updated: 2026-10-10T12:00:00
 description: "Digital Analytics einfach erklärt: Lerne KPIs, Tracking-Setups, Tools und Datenschutz. Mit Formeln, Beispielen und Checklisten."
 image: "/wp-content/uploads/2025/09/trading-4453011_640.jpg"
 category: "marketing"
@@ -130,6 +131,10 @@ Digital Analytics ist kein Zahlenfriedhof. Es ist ein Entscheidungssystem. Wenn 
 | Branding | Langfristige Wirkung | Brand-Lift, Awareness | Test/Kontroll-Design wählen |
 | E-Commerce | Tiefer als Umsatz | Add-to-Cart, Checkout-Steps | Enhanced E-Com aktivieren |
 | Datenschutz | Recht sicher messen | AV-Vertrag, Opt-in/out | Texte & Prozesse prüfen |
+
+## Aktualisierung Oktober 2026
+
+Enhanced E-Commerce war eine Funktion von Universal Analytics, das am 1. Juli 2023 die Datenverarbeitung eingestellt hat ([Google](https://support.google.com/analytics/answer/9973999)). In GA4 bildest du den Checkout über die empfohlenen E-Commerce-Ereignisse ab, etwa view_item, add_to_cart, begin_checkout und purchase. Für Google Analytics reicht in Deutschland ein Opt-out nicht: Nach § 25 TDDDG und Auffassung der Aufsichtsbehörden brauchst du vorab eine Einwilligung der Besucher ([Datenschutzaufsicht Sachsen](https://www.datenschutz.sachsen.de/download/20260130_Cookies_und_Drittanbieter_in_Websites_und_Apps_datenschutzkonform_einbinden.pdf)).
 
 ## 
 

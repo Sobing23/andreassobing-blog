@@ -2,6 +2,7 @@
 title: "Kennzahlen im E-Mail Marketing"
 slug: "kennzahlen-im-e-mail-marketing"
 date: 2022-11-08T15:54:53
+updated: 2026-10-10T12:00:00
 description: "Aber was bedeuten diese ganzen Zahlen? Dies sind die sogenannten Key Performance Indicators (KPI). Dies sind die allgemeinen Kennzahlen, die sich auf den Erfolg und die Leistung der Mailings beziehen."
 image: "/wp-content/uploads/2022/11/kpi-gf983ba35c_6401.jpg"
 category: "email-marketing"
@@ -64,3 +65,7 @@ Bounce Rate (%) = Bounces : Anzahl der Empfänger \* 100
 Kommen wir zu meiner Erfahrung der einzelnen Kennzahlen aus verschiedenen Unternehmen und Mailngs sowie Kampagnen. Die Öffnungsrate eines Newsletters liegt zwischen 12-25%. Die Klickrate liegt zwischen 1,5 und 3%. Die Abmelderate liegt im Bereich von 0,05 und 0,3%. Alleine deswegen musst du deinen Verteiler ausbauen. Die Hard Bounces liegen zwischen 0,3 und 0,6%. Diese Raten beziehen sich meist auf allgemeine Mailings an keine speziellen Segmente. Teste einmal eine Segmentierung und du wirst direkt weit bessere Zahlen erzielen.
 
 Weißt du bereits was [Hard Bounces und Soft Bounces](/hard-bounces-und-soft-bounces/) sind?
+
+## Aktualisierung Oktober 2026
+
+Seit iOS 15 im Jahr 2021 bietet Apple die Mail Privacy Protection an. Sie lädt Bilder und Zählpixel vorab herunter, sodass eine Mail als geöffnet zählt, auch wenn sie niemand gelesen hat. Die Öffnungsrate ist dadurch künstlich erhöht und nur noch eingeschränkt aussagekräftig ([MarTech](https://martech.org/study-finds-ios-15-is-inflating-email-open-rates/)). Zudem verlangt Google seit Februar 2024 von Massenversendern eine gut sichtbare Abmeldung per Klick in werblichen Mails ([Google](https://support.google.com/a/answer/81126?hl=de)).

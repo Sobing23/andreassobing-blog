@@ -2,7 +2,7 @@
 title: "Mailstrecke nach dem Kauf"
 slug: "mailstrecke-nach-dem-kauf"
 date: 2022-11-19T00:29:33
-updated: 2022-11-19T00:30:37
+updated: 2026-10-10T12:00:00
 description: "Wie sieht die Mailstrecke nach dem Kauf aus? Dein Kunde hat bei dir gekauft (Trigger). Jetzt möchtest du diesen zu einem Folgekauf bewegen."
 image: "/wp-content/uploads/2022/11/store-g245f54004_6401.png"
 category: "email-marketing"
@@ -26,3 +26,17 @@ Nach dem Erreichen der Umsatzschwelle wird sofort (instant) das erste Mailing au
 <div class="video" data-provider="youtube" data-id="iMxz6gbL9jM"></div>
 
 Finde heraus welche [Kampagnen und Automatisierungen](/kampagnen-und-automatisierungen/) es gibt.
+
+## Ergänzung Oktober 2026
+
+Beim Einrichten der Strecke entscheiden einige Details über den Erfolg.
+
+1. **Richtigen Auslöser wählen**: Starte die Feedbackmail nicht ab der Bestellung, sondern ab der Zustellung. Wer seine Ware noch nicht hat, kann nichts bewerten.
+2. **Ausstiegsbedingungen festlegen**: Ein neuer Kauf, eine Retoure oder eine offene Reklamation beenden die Strecke. Sonst bittet die Mail einen verärgerten Kunden um eine gute Bewertung.
+3. **Empfehlungen sinnvoll steuern**: Schließe das gerade gekaufte Produkt aus den Vorschlägen aus. Zubehör und passende Ergänzungen funktionieren besser.
+4. **Schwellen prüfen**: Bei der VIP Strecke rechnest du mit dem Umsatz nach Retouren. Sonst landen Kunden im Club, die den Großteil zurückgeschickt haben.
+5. **Rechtsgrundlage klären**: Prüfe, ob du für Empfehlungs- und Feedbackmails eine Einwilligung brauchst oder eine andere Grundlage greift.
+
+Ein typischer Fehler ist eine Strecke, die nie überprüft wird. Produkte laufen aus, Rabatte sind abgelaufen und die Empfehlungen zeigen ins Leere. Plane deshalb einen festen Termin, an dem du alle Inhalte kontrollierst.
+
+Miss den Erfolg über die Wiederkaufrate der Empfänger. Vergleiche sie mit einer kleinen Gruppe, die die Strecke nicht erhält. So siehst du, was die Mails wirklich bewirken.

@@ -2,7 +2,7 @@
 title: "DALL-E3 bietet kostenlose Bildgenerierung"
 slug: "dall-e3-bietet-kostenlose-bildgenerierung"
 date: 2023-10-19T17:47:30
-updated: 2023-10-19T17:56:08
+updated: 2026-10-10T12:00:00
 description: "In diesem Artikel erfährst du, wie du DALL-E3 kostenlos nutzen kannst und wie es deine Arbeit revolutionieren kann."
 image: "/wp-content/uploads/2023/10/Design-ohne-Titel1-2.png"
 category: "ki-tools"
@@ -45,3 +45,7 @@ Die generierten Bilder sind erstaunlich detailliert und realistisch. Du erhälts
 Es ist ein leistungsstarkes Tool, das Kreativen, Marketern und jedem, der visuelle Inhalte erstellt, enorme Möglichkeiten bietet. Obwohl es einige Einschränkungen gibt, sind die Vorteile und die Qualität der generierten Bilder unübertroffen.
 
 SIeh dir auch meinen Artikel zum Thema [Analoger und digitaler Schreibtisch](/der-analoge-und-der-digitale-schreibtisch/) an.
+
+## Aktualisierung Oktober 2026
+
+Seit dem 25. März 2025 erzeugt ChatGPT Bilder standardmäßig mit der in GPT-4o integrierten Bildgenerierung, auch im kostenlosen Tarif ([OpenAI](https://openai.com/index/introducing-4o-image-generation/)). DALL-E 3 erreichst du in ChatGPT nur noch über einen eigenen DALL-E-GPT. Für kostenlose Bilder brauchst du also nicht mehr zwingend Bing.

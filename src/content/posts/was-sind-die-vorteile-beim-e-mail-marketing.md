@@ -2,6 +2,7 @@
 title: "Was sind die Vorteile beim E-Mail Marketing?"
 slug: "was-sind-die-vorteile-beim-e-mail-marketing"
 date: 2022-12-12T09:56:28
+updated: 2026-10-10T12:00:00
 description: "Was sind die Vorteile beim E-Mail Marketing? Es ist einer der skalierbarsten Kanäle für die Umsatzsteigerung im Online-Marketing."
 image: "/wp-content/uploads/2022/12/smile-gb7d3902fe_6401.jpg"
 category: "email-marketing"
@@ -22,3 +23,18 @@ Ein eiterer Vorteil E-Mail Marketing: Aber auch die Kosten sind hervorzuheben. I
 Lerne auch die V[orteile und das Vorgehen der Segmentierung](/segmentierung-vorgehen-und-vorteile/). Wie kannst du die Daten aufbereiten und welche Daten hast du? Daten sind die neue Währung und extrem wertvoll für dein eigenes Unternehmen.
 
 Kennst du bereits [OKR](/vorteile-von-okr/) für dein Unternehmen? Lerne alles über die Methoden kennen, welche bereits erfolgreich von großen Unternehmen wie Google seit langer Zeit eingesetzt wird. OKR hilft dir bei der Priorisierung deiner Aufgaben.
+
+## Ergänzung Oktober 2026
+
+Ob E-Mail Marketing für dich tatsächlich günstiger ist als andere Kanäle, findest du mit einer einfachen Rechnung heraus.
+
+1. **Kosten erfassen**: Zähle die monatlichen Kosten für das E-Mail Tool, für Grafik und Text sowie die Arbeitszeit für Planung und Versand zusammen.
+2. **Umsatz zuordnen**: Versieh alle Links mit UTM-Parametern. So ordnet dein Analyse-Tool Bestellungen dem Kanal E-Mail zu.
+3. **Vergleichen**: Teile die Kosten durch die Zahl der Bestellungen aus E-Mail. Stelle diesen Wert den Kosten pro Bestellung aus bezahlter Werbung gegenüber.
+4. **Bestand berücksichtigen**: Rechne auch ein, was dich die Gewinnung neuer Abonnenten kostet. Sonst wirkt der Kanal günstiger, als er ist.
+
+Ein häufiger Fehler ist, die Arbeitszeit wegzulassen. Gerade bei kleinen Teams ist sie oft der größte Kostenblock.
+
+Ein zweiter Fehler ist die reine Betrachtung des letzten Klicks. Viele Kunden lesen den Newsletter, kaufen aber später über die Suche oder direkt im Shop. Ein Teil der Wirkung bleibt dann unsichtbar. Vergleiche deshalb auch Zeiträume mit und ohne Versand.
+
+Ein dritter Vorteil wird oft übersehen. Deine Liste gehört dir. Ändert eine Plattform ihre Regeln oder Preise, bleibt der direkte Kontakt zu deinen Abonnenten bestehen.

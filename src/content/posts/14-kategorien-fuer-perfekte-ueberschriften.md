@@ -2,7 +2,7 @@
 title: "14 Kategorien für perfekte Überschriften"
 slug: "14-kategorien-fuer-perfekte-ueberschriften"
 date: 2018-10-02T01:48:56
-updated: 2018-10-07T01:16:56
+updated: 2026-10-10T12:00:00
 description: "Eine Überschrift sollte einiges an Infos liefern und den Leser zum Weiterlesen ermutigen. Lerne die 14 Kategorien für eine perfekte Überschrift kennen."
 category: "arbeitsweisen"
 vgwort: "https://vg06.met.vgwort.de/na/bf31d4eff7f8465eaffc4ff30904dad3"
@@ -93,4 +93,9 @@ Was würde dich dazu bringen, etwas von deiner kostbaren Zeit für deine Inhalte
 Verschwende  keinen Platz (oder die Zeit des Lesers) mit Floskeln. Komme schnell auf den Punkt und nenne direkt den Vorteil.
 **Erzeugt die Überschrift Neugier und ermutigt den Leser den eigentlichen Text zu lesen?**Der ganze Sinn der Überschrift ist es, den ersten Satz zu lesen. Danach ist seine Arbeit erledigt. Aber wenn der erste Satz nicht gelesen wird, ist er fehlgeschlagen. 
 **Qualifiziert die Überschrift Ihre Zielgruppe?**Mit Blick auf die Zielgruppe kannst Du die Wirkung maximieren, indem Du diese innerhalb der Überschrift auswählst. Am einfachsten ist es, ein "for" in der Mitte zu halten z.B."Content Strategy Tipps für freiberufliche Blogger". Trag einfach den Namen deiner Zielgruppe in die Überschrift ein.
+
+## Aktualisierung Oktober 2026
+
+Der Kurznachrichtendienst Twitter heißt seit Juli 2023 X. Der oben erwähnte Twitter-Account von Robert W. Bly gehört damit heute zur Plattform X. [Quelle: CNBC](https://www.cnbc.com/2023/07/24/elon-musk-rebrands-twitter-to-x-replaces-iconic-bird-logo.html)
+
 Grafik: CC0 Creative Commons pixabay mohamed\_hassan

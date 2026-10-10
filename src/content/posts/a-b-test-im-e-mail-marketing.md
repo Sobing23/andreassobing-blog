@@ -2,7 +2,7 @@
 title: "A/B Test im E-Mail Marketing"
 slug: "a-b-test-im-e-mail-marketing"
 date: 2022-11-07T13:53:51
-updated: 2022-11-07T13:56:19
+updated: 2026-10-10T12:00:00
 description: "Vielleicht hast du A/B Test schon einmal gehört? Diese Tests sind sehr wichtig für den Erfolg deiner Mailkampagnen."
 image: "/wp-content/uploads/2022/11/analysis-g74d8a4680_6401.jpg"
 category: "email-marketing"
@@ -47,3 +47,7 @@ Nehmen wir an dass du zwei verschiedene Betreffzeilen als A/B Test versenden wil
 Du wirst teilweise überrascht sein wie lange solche Stichproben benötigen um eine Relevanz zu erlangen. Hier gibt es bei AB Tasty zwei sehr gute kostenlose Tools. Einerseits welche Conversion Rate du mindestens für eine Steigerung benötigst: <https://www.abtasty.com/de/minimum-detectable-effect-rechner/> sowie ein Signifikanz Rechner: <https://www.abtasty.com/de/stichproben-rechner/>
 
 Das Erstellen von A/B Test und die Bildung der Hypothesen sowie Definition der Ziele und KPIs sollte daher  ein fester Bestandteil deiner E-Mail Marketing Strategie sein.
+
+## Aktualisierung Oktober 2026
+
+Seit 2021 lädt Apples Mail Privacy Protection Bilder und Zählpixel vieler E-Mails vorab. Dadurch werden Öffnungen gezählt, obwohl niemand die Mail gelesen hat, und Öffnungsraten fallen zu hoch aus. Lass den Gewinner eines A/B-Tests deshalb besser über Klicks oder Conversions bestimmen statt über die Öffnungsrate. [Quelle: Validity](https://www.validity.com/blog/case-closed-the-mystery-of-declining-email-open-rates/)

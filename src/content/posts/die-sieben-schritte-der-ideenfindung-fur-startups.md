@@ -2,7 +2,7 @@
 title: "Die sieben Schritte der Ideenfindung für Startups"
 slug: "die-sieben-schritte-der-ideenfindung-fur-startups"
 date: 2012-06-01T10:10:47
-updated: 2023-10-04T13:57:11
+updated: 2026-10-10T12:00:00
 description: "Wie findet man die besten Ideen? Die sieben Schritte der Ideenfindung für Startups. Welcher Prozess ist dafür notwendig?"
 image: "/wp-content/uploads/2012/06/3979840772_b189988299_z1.jpg"
 category: "arbeitsweisen"
@@ -24,3 +24,22 @@ Wie findet man die besten [Ideen](http://de.wikipedia.org/wiki/Kreativit%C3%A4ts
 7. **Kontrolle und Optimierung**: Vergleiche die Ergebnisse mit deiner Zieldefinition. Feedback vom Kunden einholen, Optimieren, den Prozess von vorn beginnen ...
 
 [Kreativitätstechnologie](/unterschiedliche-perspektiven-mit-der-walt-disney-methode/) ist eine Methode, um Kreativität zu fördern und gezielt neue Ideen zu generieren, um eine Vision zu entwickeln oder ein Problem zu lösen. Dazu werden Innovationsseminare und Innovationsprojekte in den Bereichen Wirtschaft, Politik und Bildung durchgeführt. Bei der Anwendung von Kreativitätstechniken darf nicht vergessen werden, dass Kreativität im komplexen Zusammenspiel von Talent, Wissen, Können, Motivation, Persönlichkeitsmerkmalen und Umweltbedingungen entsteht.
+
+## Ergänzung Oktober 2026
+
+Die sieben Schritte lassen sich gut an einer Marketingaufgabe durchspielen. Angenommen, die Zahl der Newsletter-Anmeldungen stagniert:
+
+1. Ist-Analyse: Prüfe, wo sich Besucher anmelden können, wie das Formular aussieht und was Abonnenten konkret erhalten.
+2. Ziel-Definition: Formuliere ein messbares Ziel mit Zeitraum, etwa eine bestimmte Steigerung der Anmeldungen bis Quartalsende.
+3. Team: Hole neben dem Marketing auch Personen aus Vertrieb und Kundenservice dazu. Sie kennen die Fragen der Kunden.
+4. Ideen-Generierung: Sammle zunächst ohne Bewertung, etwa mit Brainstorming oder der [Osborn-Checkliste](/osborn-checkliste/).
+5. Bewertung: Ordne die Ideen nach Aufwand und erwartetem Nutzen. Wähle zwei oder drei aus, die sich schnell testen lassen.
+6. Implementierung: Setze die ausgewählten Ideen als Test um, zum Beispiel ein neues Anmeldeangebot gegen das bisherige.
+7. Kontrolle: Vergleiche die Ergebnisse mit dem Ziel und entscheide, was bleibt.
+
+Typische Fehler:
+
+- Die Ist-Analyse wird übersprungen. Dann löst das Team ein Problem, das es so gar nicht gibt.
+- Ideen werden schon in der Sammelphase kommentiert. Das bremst gerade zurückhaltende Teilnehmer.
+- Die Auswahl folgt der Meinung der ranghöchsten Person statt vorab festgelegten Kriterien.
+- Nach der Umsetzung misst niemand nach, sodass das Team nichts für den nächsten Durchlauf lernt.

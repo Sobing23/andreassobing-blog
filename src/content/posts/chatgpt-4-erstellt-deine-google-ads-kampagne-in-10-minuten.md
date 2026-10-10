@@ -2,6 +2,7 @@
 title: "ChatGPT-4 Erstellt Deine Google Ads Kampagne in 10 Minuten"
 slug: "chatgpt-4-erstellt-deine-google-ads-kampagne-in-10-minuten"
 date: 2023-08-30T10:02:41
+updated: 2026-10-10T12:00:00
 description: "In diesem Blogbeitrag erfährst du, wie ChatGPT-4 dir helfen kann, eine komplette Google Ads-Kampagne in nur 10 Minuten zu erstellen."
 image: "/wp-content/uploads/2023/08/finger-769300_640.jpg"
 category: "ki-tools"
@@ -50,3 +51,7 @@ Die Erstellung einer Google Ads-Kampagne muss nicht kompliziert oder zeitaufwend
 ---
 
 Ich hoffe, dieser Blogbeitrag hat dir einen wertvollen Einblick in die Möglichkeiten von ChatGPT-4 im Bereich Google Ads gegeben. Wenn du mehr erfahren möchtest, schau dir das [YouTube-Video von Andreas Sobing](https://www.youtube.com/watch?v=fiHElgGH3dM) an. Es bietet eine detaillierte Anleitung und zeigt, wie ChatGPT-4 in Aktion aussieht.
+
+## Aktualisierung Oktober 2026
+
+OpenAI hat GPT-4 am 30. April 2025 aus ChatGPT entfernt und durch GPT-4o ersetzt ([TechCrunch](https://techcrunch.com/2025/04/11/openai-is-winding-down-its-gpt-4-ai-model-in-chatgpt)). Seit dem 13. Februar 2026 ist auch GPT-4o nicht mehr in ChatGPT verfügbar ([OpenAI](https://openai.com/index/retiring-gpt-4o-and-older-models)). Das beschriebene Vorgehen mit Keyword-Themen, Anzeigentexten und Kostenschätzung hängt nicht an einem bestimmten Modell.

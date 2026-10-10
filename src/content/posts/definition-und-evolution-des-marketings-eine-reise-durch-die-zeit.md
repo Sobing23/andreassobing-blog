@@ -5,6 +5,7 @@ date: 2023-06-28T15:03:33
 description: "Definition und Evolution des Marketings: Wahrscheinlich hast \"Marketing\" schon oft gehört, aber hast du dich einmal gefragt, was es bedeutet?"
 image: "/wp-content/uploads/2023/06/human-evolution-3801547_6401.jpg"
 category: "marketing"
+vgwort: "https://vg09.met.vgwort.de/na/f41230b66a844e3fa6be926687e9a2d5"
 wpId: 4827
 ---
 

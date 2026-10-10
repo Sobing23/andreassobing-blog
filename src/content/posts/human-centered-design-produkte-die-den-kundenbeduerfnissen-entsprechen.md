@@ -6,6 +6,7 @@ updated: 2023-06-23T17:33:16
 description: "Stell dir vor, du könntest Produkte entwickeln, die genau auf die Bedürfnisse deiner Kunden zugeschnitten sind - Human-Centered Design"
 image: "/wp-content/uploads/2023/06/office-820390_6401.jpg"
 category: "arbeitsweisen"
+vgwort: "https://vg09.met.vgwort.de/na/90100289594e4e20b9e5df3b7cbed923"
 wpId: 4792
 ---
 

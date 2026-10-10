@@ -2,7 +2,7 @@
 title: "Fünf Fehler die man bei der E-Mail Zustellung vermeiden sollte"
 slug: "funf-fehler-die-man-bei-der-e-mail-zustellung-vermeiden-sollte"
 date: 2012-02-23T16:59:18
-updated: 2023-10-02T10:24:25
+updated: 2026-10-10T12:00:00
 description: "Die Mail kann noch so gut sein. Was ist wenn diese nicht zugestellt wird? Fünf Fehler die man bei der E-Mail Zustellung vermeiden sollte."
 image: "/wp-content/uploads/2012/02/4968422200_1ab99c61ef_z2.jpg"
 category: "email-marketing"
@@ -30,3 +30,7 @@ Viele E-Marketer lassen sich von den üblichen 20 Prozent Zustellverlust abschre
 Viele E-Mail Marketer legen hohen Wert auf grafische und inhaltliche Aspekte. Sie lassen allerdings die Zustellbarkeit außer acht, bei der es sich durchaus lohnt über effizientere Maßnahmen nachzudenken.  Studien von Return Path haben ergeben, dass rund 77 Prozent der Zustellprobleme durch die schlechte Reputation eines Versenders bzw. seiner genutzten IP-Adresse verursacht werden.
 
 Sieh dir auch [17 Ideen für Trigger Mails](/17-ideen-fur-trigger-mails-kostenloses-whitepaper/) an.
+
+## Aktualisierung Oktober 2026
+
+Return Path, auf dessen Studien sich der Artikel stützt, wurde 2019 von Validity übernommen ([Validity](https://www.validity.com/news/validity-to-acquire-return-path/)). Seit Februar 2024 verlangt Google von Massenversendern mit mehr als 5.000 Mails pro Tag an Gmail-Konten SPF, DKIM und DMARC, eine Abmeldung per Klick und eine Spamrate unter 0,3 Prozent in den Postmaster Tools ([Google](https://support.google.com/a/answer/81126?hl=de)). Wer diese Vorgaben nicht erfüllt, riskiert genau die Zustellprobleme, die der Artikel beschreibt.

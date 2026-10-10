@@ -5,6 +5,7 @@ date: 2026-06-03T10:00:09
 description: "Meistere dein Studium mit echten Profi-Tipps! Entdecke die stärksten Business-Strategien von Scott Galloway und katapultiere deine Karriere."
 image: "/wp-content/uploads/2026/06/foundry-library-869061_6401.jpg"
 category: "strategie"
+vgwort: "https://vg09.met.vgwort.de/na/ee8d3d962305445081356b002c0bdbed"
 wpId: 7093
 ---
 

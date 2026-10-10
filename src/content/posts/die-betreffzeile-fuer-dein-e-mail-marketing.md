@@ -2,6 +2,7 @@
 title: "Die Betreffzeile für dein E-Mail Marketing"
 slug: "die-betreffzeile-fuer-dein-e-mail-marketing"
 date: 2022-11-27T23:36:21
+updated: 2026-10-10T12:00:00
 description: "Du musst noch davor ansetzen. Stecke einiges an Zeit in die Formulierung der Betreffzeile und teste diese auch immer gegen einander."
 image: "/wp-content/uploads/2022/11/left-hand-g8556478b0_6401.jpg"
 category: "email-marketing"
@@ -47,3 +48,7 @@ Mittlerweile werden auch Emojis in der Betreffzeile integriert. Diese unterstüt
 Du solltest deiner Betreffzeile immer einem A/B Test unterziehen. Die meisten E-Mail Tools haben diese Funktion mit inbegriffen. Hierfür erstellst Du zwei Betreffzeilen. Der Mailinginhalt selber bleibt erst einmal gleich. Dann versendest du die Betreffzeilenvarianten an jeweils 10 Prozent der Gesamtgruppe. Danach kann man festlegen dass nach einer bestimmten Zeit die erfolgreichere Variante (Öffnungsrate) an die restlichen 80 Prozent des Gesamtverteilers zu senden.
 
 Sieh dir auch einmal [14 Kateorien für perfekte Überschriften](/14-kategorien-fuer-perfekte-ueberschriften/) an.
+
+## Aktualisierung Oktober 2026
+
+Seit 2021 lädt Apples Mail Privacy Protection Bilder und Zählpixel vieler E-Mails vorab. Öffnungen werden dann gezählt, auch wenn niemand die Mail gelesen hat. Ein A/B-Test, der den Gewinner nur über die Öffnungsrate bestimmt, liefert deshalb unsichere Ergebnisse. Lege als Erfolgskriterium besser Klicks oder Conversions fest. [Quelle: Validity](https://www.validity.com/blog/case-closed-the-mystery-of-declining-email-open-rates/)

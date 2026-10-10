@@ -2,7 +2,7 @@
 title: "Silvester Mailkampagnen"
 slug: "silvester-mailkampagnen"
 date: 2022-12-27T14:29:38
-updated: 2022-12-27T14:42:28
+updated: 2026-10-10T12:00:00
 description: "Silvester Mailkampagnen: Der 31.12. sowie der 1.1. sind damit gemeint. Achtung es gibt eine Überschneidung mit dem Adventskalender."
 image: "/wp-content/uploads/2022/12/new-years-eve-gff4e44333_6401.jpg"
 category: "email-marketing"
@@ -38,3 +38,17 @@ Am Ende entscheidet natürlich dein Sortiment und deine Zielgruppe, ob die Event
 - Oktoberfest (Essen und Trinken, Events)
 
 Die SIlvester Mailkampagnen sowie weitere Events hast du jetzt kennengelernt. Sieh Dir gerne auch die [Kampagnen zu Weihnachten](/e-mail-kampagnen-zu-weihnachten/) an.
+
+## Ergänzung Oktober 2026
+
+Rund um den Jahreswechsel kommen einige praktische Punkte hinzu, die du früh planen solltest.
+
+1. **Lieferzeiten kommunizieren**: Nenne in den Mails vor Weihnachten und zwischen den Jahren klare Bestellschlüsse. Feiertage verlängern die Laufzeiten vieler Versanddienstleister.
+2. **Servicezeiten angeben**: Wenn dein Kundenservice reduziert arbeitet, gehört das in die Mail und auf die Aktionsseite.
+3. **Versandzeit am 31.12. wählen**: Viele Empfänger sind am Nachmittag und Abend mit Vorbereitungen beschäftigt. Teste einen Versand am Vormittag.
+4. **Abwesenheitsnotizen filtern**: In dieser Zeit kommen viele automatische Antworten zurück. Werte sie nicht als echte Antworten und nicht als Bounces.
+5. **Januar als Serie planen**: Neujahrsvorsätze eignen sich für eine kleine Inhaltsserie über mehrere Wochen, etwa mit Tipps, Checklisten und passenden Produkten.
+
+Ein häufiger Fehler ist ein reiner Neujahrsgruß ohne Inhalt. Er kostet Aufmerksamkeit und bringt dem Empfänger nichts. Verbinde den Gruß mit einem Rückblick, einer Vorschau auf das neue Jahr oder einem konkreten Angebot.
+
+Ein zweiter Fehler sind zu viele Sale-Mails direkt nach Weihnachten. Viele Empfänger haben dann bereits viele Angebote erhalten. Plane deine Frequenz über den gesamten Dezember und Januar.

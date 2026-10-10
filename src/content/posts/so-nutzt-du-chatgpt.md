@@ -2,6 +2,7 @@
 title: "So nutzt du ChatGPT"
 slug: "so-nutzt-du-chatgpt"
 date: 2023-05-03T08:16:58
+updated: 2026-10-10T12:00:00
 description: "ChatGPT ist ein künstlicher Intelligenz-basierter Chatbot, der mit Hilfe von GPT-Modellen Antworten auf Fragen und Anfragen generieren kann."
 image: "/wp-content/uploads/2023/05/ai-generated-g49da403ba_6401.png"
 category: "ki-tools"
@@ -13,7 +14,7 @@ wpId: 4504
 
 Du suchst nach einer Möglichkeit, um deine Produktivität zu steigern und deine Aufgaben schneller zu erledigen? Dann könnte ChatGPT die Lösung für dich sein! ChatGPT ist ein künstlicher Intelligenz-basierter Chatbot, der mit Hilfe von GPT-Modellen Antworten auf Fragen und Anfragen generieren kann.
 
-Das Beste daran? Du musst kein Experte in der künstlichen Intelligenz sein, um ChatGPT zu nutzen. Nach der Anmeldung auf ChatOpenAir.com kannst du ganz einfach eine neue Unterhaltung starten, indem du auf "New Chat" klickst. Dort kannst du dann eine Frage oder Anfrage eingeben, auf die ChatGPT eine Antwort generieren wird.
+Das Beste daran? Du musst kein Experte in der künstlichen Intelligenz sein, um ChatGPT zu nutzen. Nach der Anmeldung auf chatgpt.com kannst du ganz einfach eine neue Unterhaltung starten, indem du auf "New Chat" klickst. Dort kannst du dann eine Frage oder Anfrage eingeben, auf die ChatGPT eine Antwort generieren wird.
 
 <div class="video" data-provider="youtube" data-id="YV9HBUYG4d0"></div>
 
@@ -32,3 +33,7 @@ ChatGPT Plus bietet noch mehr Funktionen wie einen Dunkelmodus, Einstellungen un
 - Weitere Funktionen sind ein Dunkelmodus, Einstellungen, Abonnementverwaltung und Hilfe bei Abrechnungsproblemen. ChatGPT Plus kostet $20 pro Monat.
 
 Kennst du [7 Möglichkeiten wie du ChatGPT4 kostenlos](/7-moeglichkeiten-chatgpt-4-gratis-nutzen/) nutzen kannst?
+
+## Aktualisierung Oktober 2026
+
+Seit April 2024 kannst du ChatGPT auch ohne Konto nutzen, allerdings mit eingeschränkten Funktionen ([Business Today](https://www.businesstoday.in/technology/news/story/openai-announces-chatgpt-access-now-without-an-account-423842-2024-04-02)). Seit Mai 2024 enthält der kostenlose Tarif zudem Datenanalyse, Datei-Uploads und Zugriff auf GPTs ([OpenAI](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)). Die Websuche in ChatGPT steht seit Februar 2025 allen offen, auch ohne Anmeldung ([Tom's Guide](https://tomsguide.com/ai/chatgpt-search-is-now-open-to-everyone-no-account-required)).

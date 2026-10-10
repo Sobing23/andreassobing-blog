@@ -5,6 +5,7 @@ date: 2023-09-28T12:18:57
 description: "Ein Meeting, in dem alle schweigend arbeiten und dabei effektive Ergebnisse erzielen. Willkommen in der Welt der stillen Meetings."
 image: "/wp-content/uploads/2023/09/chairs-2181960_6401.jpg"
 category: "arbeitsweisen"
+vgwort: "https://vg09.met.vgwort.de/na/b1fd55b804d14cd5bcb9fe9132127c80"
 wpId: 5482
 ---
 

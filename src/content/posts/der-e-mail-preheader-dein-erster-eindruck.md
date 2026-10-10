@@ -2,6 +2,7 @@
 title: "Der E-Mail-Preheader: Dein erster Eindruck"
 slug: "der-e-mail-preheader-dein-erster-eindruck"
 date: 2023-12-29T13:22:56
+updated: 2026-10-10T12:00:00
 description: "Der E-Mail-Preheader ist der Text, der in der Vorschau unterhalb der Betreffzeile angezeigt wird und entscheidet, ob die Mail geöffnet wird."
 image: "/wp-content/uploads/2023/12/email-4044165_640.jpg"
 category: "email-marketing"
@@ -80,3 +81,7 @@ Der E-Mail-Preheader ist ein wichtiger Bestandteil deiner E-Mail-Marketing-Kampa
 
  
 Sieh dir auch die [Unterschiede zwischen einer Vision und Mission](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/) an.
+
+## Aktualisierung Oktober 2026
+
+Seit 2021 lädt Apples Mail Privacy Protection Bilder und Zählpixel vieler E-Mails vorab. Öffnungsraten fallen dadurch zu hoch aus und sind für Tests von Preheadern nur bedingt aussagekräftig. Miss den Erfolg einer Preheader-Variante deshalb zusätzlich über Klicks und Conversions. [Quelle: Validity](https://www.validity.com/blog/case-closed-the-mystery-of-declining-email-open-rates/)

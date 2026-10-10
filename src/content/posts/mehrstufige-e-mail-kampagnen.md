@@ -2,6 +2,7 @@
 title: "Mehrstufige E-Mail Kampagnen"
 slug: "mehrstufige-e-mail-kampagnen"
 date: 2022-11-25T14:24:24
+updated: 2026-10-10T12:00:00
 description: "Mehrstufige E-Mail Kampagnen: Es ist nicht immer zielführend Einzelmailings zu versenden, z.B. bei der Neuregistrierung eines Kunden."
 image: "/wp-content/uploads/2022/11/staircase-g603a29780_6401.jpg"
 category: "email-marketing"
@@ -31,3 +32,19 @@ Der Kunde erstellt sich ein Kundenkonto (Trigger) oder meldet sich für den News
 <div class="video" data-provider="youtube" data-id="xIIQ-cmtkPs"></div>
 
 Erfahre auch alles zu dem Thema [Kampagnen und Automatisierungen](/kampagnen-und-automatisierungen/) für dein E-Mail Marketing.
+
+## Ergänzung Oktober 2026
+
+Für die Phase während des Kaufs ist der Warenkorbabbruch das typische Beispiel. Der Auslöser ist ein gefüllter Warenkorb ohne abgeschlossene Bestellung. Die erste Mail erinnert an die Artikel, eine zweite folgt nur, wenn weiterhin kein Kauf erfolgt ist. Die Phase nach dem Kauf beschreibe ich im Artikel zur Mailstrecke nach dem Kauf.
+
+Beim Aufbau mehrstufiger Kampagnen helfen dir drei Regeln.
+
+1. **Jede Stufe braucht eine Bedingung**: Lege fest, was vor dem Versand geprüft wird. Meist ist das die Frage, ob der Kunde inzwischen gekauft hat.
+2. **Jede Strecke braucht einen Ausstieg**: Ein Kauf, eine Abmeldung oder eine Reklamation beendet die Strecke sofort.
+3. **Strecken brauchen eine Rangfolge**: Ein Kunde kann gleichzeitig in der Willkommensstrecke und im Warenkorbabbruch landen. Bestimme, welche Strecke Vorrang hat und welche pausiert.
+
+Der häufigste Fehler ist das Fehlen dieser Rangfolge. Der Empfänger bekommt dann an einem Tag mehrere automatische Mails mit widersprüchlichen Angeboten.
+
+Ein zweiter Fehler sind Gutscheine, die in jeder Strecke vergeben werden. Kunden lernen schnell, dass sich Abwarten lohnt. Setze Anreize deshalb bewusst und nicht in jeder Stufe.
+
+Zeichne jede Strecke vor dem Einrichten als einfaches Ablaufdiagramm auf. So siehst du Lücken und Überschneidungen, bevor sie bei Kunden ankommen.

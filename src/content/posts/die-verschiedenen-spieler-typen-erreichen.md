@@ -2,7 +2,7 @@
 title: "Die verschiedenen Spieler Typen erreichen"
 slug: "die-verschiedenen-spieler-typen-erreichen"
 date: 2011-09-15T16:11:22
-updated: 2017-12-06T16:22:13
+updated: 2026-10-10T12:00:00
 category: "marketing"
 vgwort: "https://vg06.met.vgwort.de/na/636ac650b433414697c3145253ccf8f7"
 wpId: 558
@@ -24,3 +24,7 @@ Hier einmal die vier unterschiedlichen Typen kurz zusamengefasst:
 - **Explorer** - versuchen möglichst viel zu entdecken oder zu erkunden. Dieser Typ interessiert sich für das Storytelling (Entstehung, Durchbruch) eines Produktes und probiert gerne neue Funktionen im Shop aus.
 - **Socializer** - strebt Kontakte und Interaktion mit anderen Spielern an. Dieser Typ liebt es mit anderen zu diskutieren oder anderen Produkte zu zeigen welche ihnen gefallen (Like, Google+1, Tweet).
 - **Killer** - streben nach Wettbewerb, Wettkampf und Konflikt mit anderen Spielern. Diese überlassen ungern anderen Schnäppchen. Dieser Typ ist auch anfällig für Liveshopping Angebote.  Das Produkt ist nebensächlich, es geht um den Wettbewerb gegen die Zeit und andere Käufer.
+
+## Aktualisierung Oktober 2026
+
+Google+ gibt es nicht mehr. Google hat das Netzwerk für private Nutzer am 2. April 2019 eingestellt ([Android Police](https://www.androidpolice.com/2019/01/30/google-reveals-shutdown-timeline-for-consumers-and-its-coming-fast/)). Twitter heißt seit dem 24. Juli 2023 X ([onlinemarketing.de](https://onlinemarketing.de/social-media-marketing/neues-twitter-logo-x)).
