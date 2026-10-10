@@ -1018,5 +1018,93 @@
       }
     ],
     "kurz": "Geschäftsidee finden, nebenberuflich gründen, mit Lean Startup und MVP testen, von Gründern lernen."
+  },
+  {
+    "key": "kunden",
+    "name": "Kunden und CRM",
+    "titel": "Kunden und CRM: Der Überblick über alle Artikel",
+    "seoTitel": "Kunden und CRM: Customer Lifetime Value, Kundenbindung, NPS und CRM-Einführung",
+    "beschreibung": "Alles zu Kundenbeziehungen an einem Ort: CRM-Grundlagen und Einführung in drei Phasen, Customer Lifetime Value, ABC- und RFM-Analyse, NPS, CSAT und CES, Kundenbindung und Customer Experience.",
+    "kurz": "CRM einführen, Kundenwert berechnen, Zufriedenheit messen mit NPS und CSAT, Kunden binden.",
+    "intro": [
+      "Einen neuen Kunden zu gewinnen ist meist deutlich teurer, als einen bestehenden zu halten. Trotzdem fließt in vielen Unternehmen der Großteil des Budgets in die Neukundengewinnung. Customer Relationship Management dreht den Blick um: Es stellt die Beziehung zum Kunden über ihren ganzen Lebenszyklus in den Mittelpunkt.",
+      "In diesem Kapitel findest du alle meine Artikel dazu: was CRM ist und wie du es in drei Phasen einführst, wie du den Wert deiner Kunden berechnest und sie danach einteilst, wie du Zufriedenheit misst und wie aus zufriedenen Kunden treue Kunden werden.",
+      "Wie du Bestandskunden per E-Mail ansprichst, etwa mit Trigger-Mails oder einer Mailstrecke nach dem Kauf, findest du im Kapitel [E-Mail-Marketing](/thema/e-mail-marketing/)."
+    ],
+    "abschnitte": [
+      {
+        "titel": "CRM-Grundlagen",
+        "text": "Was Customer Relationship Management ist, welche Ziele es verfolgt und wie du das passende System findest.",
+        "artikel": [
+          "crm-verstehen-was-ist-customer-relationship-management",
+          "crm-die-macht-des-customer-relationship-management",
+          "crm-strategie-erfolgreich-umsetzen-ziele-kundenbindung-und-prinzipien",
+          "crm-systeme-und-software-auswahl-und-tipps"
+        ]
+      },
+      {
+        "titel": "CRM einführen in drei Phasen",
+        "text": "Vom ersten CRM über das datengetriebene Kundenmanagement bis zum kundenorientierten Unternehmen.",
+        "artikel": [
+          "crm-einfuehrung-in-der-praxis-phase-1-schnelle-erfolge-durch-erstes-crm",
+          "phase-2-des-crm-datengetriebenes-kundenmanagement-und-kundenwertanalyse",
+          "phase-3-des-crm-strukturwandel-zum-kundenorientierten-unternehmen"
+        ]
+      },
+      {
+        "titel": "Kundenlebenszyklus und Kundenwert",
+        "text": "Wie viel ein Kunde wert ist, was seine Gewinnung kostet und wie du Kunden nach ihrem Wert einteilst.",
+        "artikel": [
+          "der-customer-life-cycle-im-ueberblick",
+          "customer-lifetime-value-der-wert-deiner-kunden",
+          "wie-du-den-customer-lifetime-value-erhoehst",
+          "die-vorteile-der-clv-segmentierung-fuer-dein-unternehmen",
+          "alles-ueber-kundenakquisitionskosten",
+          "einfuehrung-in-die-abc-kundenanalyse",
+          "mit-der-rfm-analyse-steigerst-du-deine-kundenbindung",
+          "das-pareto-prinzip-in-der-kundensegmentierung-anwenden",
+          "wie-das-pareto-prinzip-dein-marketing-veraendert",
+          "die-macht-der-kohortenanalyse-ein-tiefer-einblick",
+          "kohortenanalyse-so-verstehst-du-endlich-was-deine-kunden-wirklich-treiben",
+          "kundentypen-online-shopping-wer-kauft"
+        ]
+      },
+      {
+        "titel": "Kundenzufriedenheit messen",
+        "text": "Kennzahlen und Methoden, mit denen du herausfindest, wie zufrieden deine Kunden sind.",
+        "artikel": [
+          "kundenzufriedenheit-und-kundenbindung-warum-sie-entscheidend-fuer-deinen-erfolg-sind",
+          "zufriedenheit-der-kunden-messen-net-promoter-score",
+          "csat-das-herzstueck-der-kundenzufriedenheit",
+          "ces-der-schluessel-zu-effizientem-kundenservice",
+          "die-optimale-zufriedenheitsumfrage-fuer-deine-kunden",
+          "erhoehe-die-kundenzufriedenheit-mit-dem-kano-modell",
+          "5-fragen-die-man-jedem-kunden-stellen-soll"
+        ]
+      },
+      {
+        "titel": "Kundenbindung und Bestandskunden",
+        "text": "Wie du Kunden hältst, Abwanderung senkst und mit bestehenden Kunden mehr Umsatz machst.",
+        "artikel": [
+          "retention-marketing-so-behaeltst-du-deine-kunden",
+          "kundenabwanderungsrate-wie-man-sie-berechnet-und-was-sie-bedeutet",
+          "umsatz-steigern-durch-bestandskunden-4-smarte-strategien",
+          "cross-selling-strategien",
+          "die-besten-ideen-fuer-empfehlungsprogramme",
+          "vertrauen-im-geschaeftsleben-warum-es-zwei-jahre-dauert-bis-deine-kunden-dir-vertrauen",
+          "5-tipps-zur-erhohung-der-kundenbindung-durch-social-commerce"
+        ]
+      },
+      {
+        "titel": "Kundenservice und Customer Experience",
+        "text": "Wie Kunden dein Unternehmen erleben und wie guter Service daraus Begeisterung macht.",
+        "artikel": [
+          "die-5-elemente-einer-guten-customer-experience",
+          "service-marketing-wie-du-deine-kunden-begeisterst",
+          "10-tipps-zum-besseren-umgang-mit-kundenbeschwerden",
+          "der-wert-von-sechs-minuten-wie-du-deinen-kundenkontakt-revolutionieren-kannst"
+        ]
+      }
+    ]
   }
 ]

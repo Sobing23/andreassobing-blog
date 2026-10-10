@@ -25,8 +25,9 @@
     },
     {
       "titel": "Marketing in der Praxis",
-      "text": "Kanäle und Werkzeuge für die tägliche Arbeit im Marketing.",
+      "text": "Kunden gewinnen und halten, Kanäle und Werkzeuge für die tägliche Arbeit im Marketing.",
       "kapitel": [
+        "kunden",
         "e-mail-marketing",
         "ki"
       ]
@@ -41,7 +42,6 @@
     }
   ],
   "geplant": [
-    "Kunden und CRM",
     "Preisgestaltung",
     "Content, SEO und Social Media",
     "Growth Marketing",
