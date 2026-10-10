@@ -23,6 +23,6 @@ In Unternehmen begegnet mir immer wieder Silodenken: Informationen und Kampagnen
 
 Mit E-Mail-Marketing beschäftige ich mich besonders intensiv. In dieser Zeit habe ich Milliarden von Mails versendet und dafür unter anderem den [Selligent E-Mail-Marketing Award](/e-mail-marketing-auf-dem-naechsten-level-wie-ich-den-selligent-e-mail-marketing-award-gewonnen-habe/) gewonnen. Alles, was ich dazu geschrieben habe, findest du im Kapitel [E-Mail-Marketing](/thema/e-mail-marketing/).
 
-## Videos und Kontakt
+## Profile und Kontakt
 
-Kurze Erklärvideos zu Marketingthemen findest du auf meinem [YouTube-Kanal](https://www.youtube.com/channel/UC3dMCOsiWBJyhxW8bMaGTmA). Erreichen kannst du mich per E-Mail an admin@andreassobing.de, alle Angaben stehen im [Impressum](/impressum/).
+Kurze Erklärvideos zu Marketingthemen findest du auf meinem [YouTube-Kanal](https://www.youtube.com/channel/UC3dMCOsiWBJyhxW8bMaGTmA). Beruflich vernetzen kannst du dich mit mir auf [LinkedIn](https://www.linkedin.com/in/andreas-sobing), meine Projekte rund um diesen Blog liegen auf [GitHub](https://github.com/Sobing23). Erreichen kannst du mich per E-Mail an admin@andreassobing.de, alle Angaben stehen im [Impressum](/impressum/).

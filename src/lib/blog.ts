@@ -127,7 +127,11 @@ export const PERSON = {
   name: 'Andreas Sobing',
   url: `${SITE_URL}/ueber-mich/`,
   image: `${SITE_URL}${AUTOR_FOTO}`,
-  sameAs: ['https://www.youtube.com/channel/UC3dMCOsiWBJyhxW8bMaGTmA'],
+  sameAs: [
+    'https://www.linkedin.com/in/andreas-sobing',
+    'https://github.com/Sobing23',
+    'https://www.youtube.com/channel/UC3dMCOsiWBJyhxW8bMaGTmA',
+  ],
   knowsAbout: ['Marketingstrategie', 'Branding', 'E-Mail-Marketing', 'CRM', 'OKR', 'Führung'],
 };
 export const brotkrumen = (stufen: { name: string; url: string }[]) => ({
