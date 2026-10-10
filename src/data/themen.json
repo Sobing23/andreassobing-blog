@@ -328,5 +328,161 @@
         ]
       }
     ]
+  },
+  {
+    "key": "ki",
+    "name": "KI im Marketing",
+    "titel": "KI im Marketing: Der Überblick über alle Artikel",
+    "seoTitel": "KI im Marketing: ChatGPT, Prompts, GPTs, Bilder und Videos mit KI",
+    "beschreibung": "Alles zu KI im Marketing an einem Ort: Grundlagen, ChatGPT, gute Prompts, GPTs, Einsatz in Marketing und Vertrieb sowie Texte, Bilder und Videos mit KI.",
+    "intro": [
+      "Seit ChatGPT Ende 2022 erschienen ist, hat sich die Arbeit im Marketing stark verändert. Texte, Bilder, Videos, Recherchen und Kampagnenideen entstehen heute oft mit Unterstützung von KI. Auf dieser Seite findest du alle meine Artikel dazu, von den Grundlagen über gutes Prompting bis zu konkreten Einsatzfeldern im Marketing.",
+      "Wenn du neu einsteigst, beginne mit den Grundlagen und dem Abschnitt zu ChatGPT. Am meisten bringt dir danach der Abschnitt über Prompts, denn die Qualität der Ergebnisse hängt vor allem davon ab, wie du fragst.",
+      "Ein Hinweis: KI-Tools entwickeln sich schneller als jedes andere Thema in diesem Blog, und viele Artikel stammen aus den Jahren 2023 und 2024. Die Grundideen gelten weiter, Funktionen, Preise und Produktnamen haben sich aber teils geändert. Google Bard heißt heute zum Beispiel Gemini."
+    ],
+    "abschnitte": [
+      {
+        "titel": "Grundlagen",
+        "text": "Was KI ist, wie sie sich von Machine Learning unterscheidet und was sie im Marketing leisten kann.",
+        "artikel": [
+          "was-ist-eine-ki-kuenstliche-intelligenz",
+          "kuenstliche-intelligenz-machine-learning-und-deep-learning-was-ist-der-unterschied",
+          "die-vielseitigen-rollen-von-ki",
+          "kuenstliche-intelligenz-fuer-dein-marketing",
+          "ki-marketing-ein-tiefer-einblick",
+          "ki-warum-wir-die-kontrolle-ueber-die-zukunft-verlieren"
+        ]
+      },
+      {
+        "titel": "ChatGPT und Co.: Einstieg und Funktionen",
+        "text": "Wie du mit ChatGPT startest, was die Versionen unterscheidet und welche Funktionen es gibt.",
+        "artikel": [
+          "was-ist-chatgpt",
+          "dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht",
+          "so-nutzt-du-chatgpt",
+          "chat-gpt-plus-vs-kostenlose-version",
+          "7-moeglichkeiten-chatgpt-4-gratis-nutzen",
+          "sicherheit-bei-der-nutzung-von-chatgpt-was-du-wissen-solltest",
+          "chatgpt-shared-links-nutzen",
+          "entdecke-die-revolutionaeren-funktionen-von-gpt-4o",
+          "wie-chatgpt-4-und-seine-plugins-die-welt-veraendern",
+          "wie-openai-die-chatgpt-plugins-veraendert-und-was-das-fuer-dich-bedeutet",
+          "das-chat-gpt-plugin-videocaptions",
+          "code-interpreter-eine-revolution-in-der-programmierung",
+          "entdecke-die-moeglichkeiten-von-googles-neuer-ki-google-bard"
+        ]
+      },
+      {
+        "titel": "Prompts schreiben",
+        "text": "Wie du Anweisungen formulierst, die gute Ergebnisse liefern, mit Formeln, Promptarten und Beispielen.",
+        "artikel": [
+          "chatgpt-prompts-erklaert-warum-sie-so-wichtig-sind",
+          "chatgpt-worauf-muss-man-bei-prompts-achten",
+          "chatgpt-promptarten-erklaert-finde-den-richtigen",
+          "perfektioniere-deine-chatgpt-befehle",
+          "die-sprache-der-prompts-deutsch-oder-englisch-fuer-chat-gpt",
+          "die-kade-formel-ein-innovativer-ansatz-zur-maximierung-der-chatgpt-leistung",
+          "der-ultimative-chatgpt-prompt-uebertrifft-alle-anderen",
+          "ich-habe-den-perfekten-chatgpt-befehl-entdeckt",
+          "chatgpt-so-triffst-du-den-richtigen-ton",
+          "wie-man-chatgpt-trainiert-um-deinen-schreibstil-zu-imitieren",
+          "chatgpt-kurzbefehle-9-schnelle-prompts",
+          "von-0-auf-kampagne-8-ein-wort-prompts-mit-denen-du-in-minuten-startklar-bist",
+          "strategie-prompt-engineering-fuer-marketer",
+          "2468-chatgpt-befehle-kostenlos-fuer-dich"
+        ]
+      },
+      {
+        "titel": "GPTs und eigene Chatbots",
+        "text": "Spezialisierte GPTs für bestimmte Aufgaben und wie du einen eigenen Chatbot baust.",
+        "artikel": [
+          "408-deutschsprachige-gpts-kostenlos-fuer-dich",
+          "die-17-eigenen-gpts-von-openai",
+          "die-besten-google-gpts-in-chatgpt",
+          "entdecke-64-kostenlose-microsoft-office-gpts-um-deine-produktivitaet-zu-steigern",
+          "die-besten-bildbearbeitungsprogramme-fuer-gpts-bei-chatgpt",
+          "wie-du-deinen-eigenen-chatbot-mit-gpt-erstellst",
+          "die-zukunft-von-conversational-commerce"
+        ]
+      },
+      {
+        "titel": "KI in Marketing und Vertrieb",
+        "text": "Konkrete Einsätze für Kampagnen, Werbung, Google Ads, SEO, Sichtbarkeit in KI-Antworten und Vertrieb.",
+        "artikel": [
+          "7-chatgpt-prompts-fuer-erfolgreiche-marketingkampagnen-ueber-alle-kanaele",
+          "so-nutzt-du-chatgpt-fuer-effektive-produktwerbung",
+          "chatgpt-4-erstellt-deine-google-ads-kampagne-in-10-minuten",
+          "google-ads-optimieren-mit-chatgpt",
+          "chatgpt-dein-seo-superheld",
+          "generative-engine-optimization-geo-sichtbarkeit-in-ki",
+          "effektive-vertriebsstrategien-mit-chat-gpt-zielgruppenanalyse-und-priorisierung",
+          "webseite-infos-und-ansprechpartner-mit-chat-gpt-finden"
+        ]
+      },
+      {
+        "titel": "Texte, Inhalte und Recherche",
+        "text": "Content planen, gliedern, schreiben, zusammenfassen, übersetzen und recherchieren mit KI.",
+        "artikel": [
+          "content-planung-mit-chatgpt-dein-wegweiser-fuer-erfolgreiches-content-marketing",
+          "content-outline-mit-chatgpt",
+          "perfekte-strukturierung-mit-chatgpt",
+          "einleitungen-leicht-gemacht-mit-chatgpt",
+          "chatgpt-so-machst-du-aus-jedem-text-eine-zusammenfassung",
+          "chatgpt-leitfaeden-erstellen-wie-ein-profi",
+          "kreative-ideenfindung-mit-chat-gpt",
+          "storm-methode-ki-recherche",
+          "deepl-write-dein-neuer-partner-fuer-effektives-content-erstellung",
+          "deepl-write-das-beste-kostenlose-tool-zum-umformulieren-und-verbessern-deiner-texte",
+          "deepl-das-beste-tool-fuer-kostenlose-uebersetzungen"
+        ]
+      },
+      {
+        "titel": "Bilder mit KI",
+        "text": "Bilder erzeugen und bearbeiten mit DALL-E, Adobe Firefly, Ideogram und anderen Tools.",
+        "artikel": [
+          "revolution-im-marketing-die-macht-von-ki-generierten-bildern",
+          "dall-e3-bietet-kostenlose-bildgenerierung",
+          "bildbearbeitung-mit-dalle-in-chatgpt",
+          "erstelle-konsistente-charaktere-mit-dalle-3-und-chatgpt",
+          "adobe-firefly-beta-ai-eine-revolution-in-der-farbgestaltung-von-vektorgrafiken",
+          "adobe-firefly-generative-fill",
+          "mit-adobe-firefly-text-to-image-perfektionieren",
+          "ideogram-ai-kostenlos-text-in-bilder-verwandeln",
+          "so-tauschst-du-kostenlos-und-schnell-gesichter-in-bildern-aus-face-swap"
+        ]
+      },
+      {
+        "titel": "Video und Stimme",
+        "text": "Videos und Stimmen mit KI erzeugen, übersetzen und animieren.",
+        "artikel": [
+          "revolution-text-to-video-die-einfuehrung-von-sora-durch-openai",
+          "die-besten-videos-erstellt-mit-sora-von-openai",
+          "ai-videos-kostenlos-erstellen-so-nutzt-du-google-veo-3-perplexity",
+          "revolutioniere-deine-videoerstellung-mit-synthesia-ki",
+          "google-vlogger-ki-erstellt-lebensechte-videos-aus-einem-einzigen-foto",
+          "viggle-ai-revolutioniere-deine-videos-mit-ki-gestuetzter-animation",
+          "voice-cloning-die-revolution-in-der-digitalen-kommunikation",
+          "die-zukunft-von-youtube-ein-blick-auf-video-uebersetzungen-und-synchronisation"
+        ]
+      },
+      {
+        "titel": "Lernen mit KI",
+        "text": "Wie du ChatGPT zum Lernen, im Studium und im Unterricht nutzt.",
+        "artikel": [
+          "effektives-lernen-mit-chatgpt",
+          "nutze-chatgpt-fuer-schule-und-studium-eine-revolution-im-lernen",
+          "revolutioniere-deinen-unterricht-mit-chatgpt"
+        ]
+      },
+      {
+        "titel": "Neuheiten und Keynotes",
+        "text": "Zusammenfassungen großer Ankündigungen von Google, Apple und Nvidia.",
+        "artikel": [
+          "google-i-o-24-alle-neuen-funktionen-in-20-minuten-erklaert",
+          "apple-wwdc-2024-alle-neuen-funktionen",
+          "nvidia-computex-keynote-2024-in-15-minuten"
+        ]
+      }
+    ]
   }
 ]
