@@ -20,7 +20,7 @@ Dann geht es um die Optionen: Welche verschiedenen Wege könnten dich zu deinem 
 
 Es gibt einige Dinge, die du beachten solltest, wenn du das GROW-Modell anwendest. Erstens: Sei ehrlich zu dir selbst. Deine Selbsteinschätzung der Realität und der Möglichkeiten sollte realistisch sein. Zweitens, sei flexibel. Wenn sich die Umstände ändern, sei bereit, deine Pläne anzupassen. Drittens, sei konsequent. Sobald du einen Plan hast, halte dich daran und verfolge dein Ziel mit Entschlossenheit.
 
-Wenn du nach Alternativen zum GROW-Modell suchst, kannst du das [SMART-Kriterium](/die-fuenf-kriterien-von-smart-zielen/) in Betracht ziehen, das dir hilft, klar definierte und messbare Ziele zu setzen. Eine weitere Methode ist das CLEAR-Modell, das für Collaborative, Limited, Emotional, Appreciable und Refinable steht. Dieses Modell ist besonders nützlich in agilen Arbeitsumgebungen.
+Wenn du nach Alternativen zum GROW-Modell suchst, kannst du das [SMART-Kriterium](/die-fuenf-kriterien-von-smart-zielen/) in Betracht ziehen, das dir hilft, klar definierte und messbare Ziele zu setzen. Eine weitere Methode ist das [CLEAR-Coaching-Modell](/klare-kommunikation-das-clear-coaching-modell/), das für Contracting, Listening, Exploring, Action und Review steht. Es eignet sich besonders für Coaching-Gespräche, in denen zuerst der Rahmen geklärt und gut zugehört wird.
 
 ## Ergänzung Oktober 2026
 

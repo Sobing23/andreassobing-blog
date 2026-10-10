@@ -46,17 +46,17 @@ Dank dieser Struktur findest du schnell und unkompliziert den richtigen GPT für
 
 ### Tabelle: Zusammenfassung der besten GPTs
 
-| **Google Dienst** | **GPT Name** | **Beschreibung** | **Link** |
-| --- | --- | --- | --- |
-| Google Sheets | Sheets Helper | Hilft bei Formeln und Dashboards | [Link](https://chat.openai.com/c/c1c1070b-d5cc-4806-98c5-aeaf5e32feaa#) |
-| Google Docs | Docs Enhancer | Verbessert Schreibstile und Grammatik | [Link](https://chat.openai.com/c/c1c1070b-d5cc-4806-98c5-aeaf5e32feaa#) |
-| Google Maps | Maps Explorer | Entdeckt neue Orte und Routen | [Link](https://chat.openai.com/c/c1c1070b-d5cc-4806-98c5-aeaf5e32feaa#) |
+| **Google Dienst** | **GPT Name** | **Beschreibung** |
+| --- | --- | --- |
+| Google Sheets | Sheets Helper | Hilft bei Formeln und Dashboards |
+| Google Docs | Docs Enhancer | Verbessert Schreibstile und Grammatik |
+| Google Maps | Maps Explorer | Entdeckt neue Orte und Routen |
 
 ## Schritt für Schritt zum richtigen GPT
 
 1. **Wähle deinen Dienst**: Entscheide, welchen Google Dienst du optimieren möchtest.
 2. **Suche in der Tabelle**: Nutze die Suche in der Tabelle, um schnell den passenden GPT zu finden.
-3. **Teste den GPT**: Klicke auf den Link und teste den GPT direkt in deinem ChatGPT Plus Konto.
+3. **Teste den GPT**: Öffne in ChatGPT den Bereich „GPTs“, suche nach dem Namen und teste den GPT direkt in deinem Konto.
 4. **Integriere den GPT**: Integriere den GPT in deinen Arbeitsalltag und beginne sofort mit der effizienteren Arbeit.
 
 ## Abschluss
