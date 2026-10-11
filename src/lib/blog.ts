@@ -139,3 +139,31 @@ export const brotkrumen = (stufen: { name: string; url: string }[]) => ({
   '@type': 'BreadcrumbList',
   itemListElement: stufen.map((s, i) => ({ '@type': 'ListItem', position: i + 1, name: s.name, item: new URL(s.url, SITE_URL).toString() })),
 });
+
+// Videos vom eigenen YouTube-Kanal (src/data/videos.json, erzeugt mit tools/videos_aus_youtube_export.py)
+import videoDaten from '../data/videos.json';
+export type Video = (typeof videoDaten)[number];
+export const VIDEOS: Video[] = videoDaten;
+export const VIDEO_MAP = new Map(VIDEOS.map((v) => [v.id, v]));
+export const VIDEOS_URL = '/videos/';
+export const YOUTUBE_KANAL = 'https://www.youtube.com/@andreassobing';
+/** IDs der YouTube-Videos, die in einem Text eingebettet sind (Reihenfolge wie im Text) */
+export const videoIds = (body = '') =>
+  [...new Set([...body.matchAll(/data-provider="youtube" data-id="([^"]+)"/g)].map((m) => m[1]))];
+/** Titel ohne #shorts und ohne doppelte Leerzeichen */
+export const videoTitel = (v: Video) => v.titel.replace(/#shorts?/gi, '').replace(/\s+/g, ' ').trim();
+export const dauerText = (s: number) => `${Math.floor(s / 60)}:${String(s % 60).padStart(2, '0')}`;
+const isoDauer = (s: number) => `PT${Math.floor(s / 60)}M${s % 60}S`;
+export const videoObjekt = (v: Video, beschreibung: string) => ({
+  '@context': 'https://schema.org',
+  '@type': 'VideoObject',
+  name: videoTitel(v),
+  description: beschreibung,
+  thumbnailUrl: [`https://i.ytimg.com/vi/${v.id}/hqdefault.jpg`],
+  uploadDate: v.datum,
+  duration: isoDauer(v.dauer),
+  embedUrl: `https://www.youtube.com/embed/${v.id}`,
+  url: `https://www.youtube.com/watch?v=${v.id}`,
+  inLanguage: 'de-DE',
+  creator: PERSON,
+});

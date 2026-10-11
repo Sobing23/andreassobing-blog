@@ -7,6 +7,7 @@ import externeLinks from './src/lib/externe-links.mjs';
 // Alte WordPress-Adressen, die es so nicht mehr gibt
 const redirects = {
   '/e-mail-marketing-guide': '/thema/e-mail-marketing/',
+  '/youtube': '/videos/',
   '/glossar': '/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/',
   '/feed': '/rss.xml',
   '/cookie-richtlinie-eu': '/datenschutz/',

@@ -65,6 +65,7 @@ const ogImage = image ? new URL(image, Astro.site).toString() : undefined;
           ))}
           <a href="/handbuch/" class="nav-handbuch" aria-current={Astro.url.pathname.startsWith('/handbuch') || Astro.url.pathname.startsWith('/thema/') ? 'page' : undefined}>Handbuch</a>
           <a href="/archiv/">Archiv</a>
+          <a href="/videos/" aria-current={Astro.url.pathname.startsWith('/videos') ? 'page' : undefined}>Videos</a>
           <a href="/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/">Glossar</a>
         </nav>
       )}
@@ -78,6 +79,7 @@ const ogImage = image ? new URL(image, Astro.site).toString() : undefined;
         <a href="/ueber-mich/">Über mich</a>
         <a href="/impressum/">Impressum</a>
         <a href="/datenschutz/">Datenschutz</a>
+        <a href="/videos/">Videos</a>
         <a href="/rss.xml">RSS</a>
       </nav>
     </div>
@@ -87,9 +89,15 @@ const ogImage = image ? new URL(image, Astro.site).toString() : undefined;
     document.querySelectorAll<HTMLElement>('.video[data-id]').forEach((el) => {
       const anbieter = el.dataset.provider === 'vimeo' ? 'Vimeo' : 'YouTube';
       el.innerHTML = '';
+      if (el.dataset.titel) {
+        const t = document.createElement('p');
+        t.className = 'video-titel';
+        t.textContent = el.dataset.titel;
+        el.append(t);
+      }
       const btn = document.createElement('button');
       btn.type = 'button';
-      btn.textContent = `▶ Video laden`;
+      btn.textContent = el.dataset.dauer ? `▶ Video laden (${el.dataset.dauer} Min.)` : `▶ Video laden`;
       const hinweis = document.createElement('span');
       hinweis.textContent = `Beim Laden werden Daten an ${anbieter} übertragen.`;
       el.append(btn, hinweis);

@@ -1,0 +1,127 @@
+---
+// Videoarchiv: alle Videos vom YouTube-Kanal, nach Handbuch-Kapiteln geordnet, jeweils mit Link zum Artikel
+import Base from '../layouts/Base.astro';
+import {
+  allePosts, VIDEOS, videoIds, videoTitel, dauerText, themaFuer, themaUrl, kapitelNummer, KAPITEL_REIHENFOLGE, THEMEN,
+  VIDEOS_URL, YOUTUBE_KANAL, SITE_URL, brotkrumen, type Video,
+} from '../lib/blog';
+
+const posts = await allePosts();
+// Video-ID -> erster Artikel, in dem das Video steht
+const artikelZu = new Map<string, { slug: string; titel: string }>();
+for (const p of posts) {
+  for (const id of videoIds(p.body)) if (!artikelZu.has(id)) artikelZu.set(id, { slug: p.data.slug, titel: p.data.title });
+}
+
+// Videos ohne Artikel: Kapitel über Stichwörter im Titel
+const regeln: [RegExp, string][] = [
+  [/chatgpt|chat gpt|gpt|\bki\b|\bai\b|firefly|canva|midjourney|synthesia|designer|prompt|gemini|claude|bard/i, 'ki'],
+  [/e-?mail|newsletter|mailing|dsgvo/i, 'e-mail-marketing'],
+  [/agil|spotify|scrum|tribe/i, 'agil'],
+  [/marke|branding/i, 'marke'],
+  [/seo|content|buch|bücher|podcast|werbetext/i, 'content'],
+  [/okr/i, 'okr'],
+  [/führung|leadership|meeting/i, 'fuehrung'],
+];
+const kapitelFuer = (v: Video) => {
+  const a = artikelZu.get(v.id);
+  const t = a && themaFuer(a.slug);
+  if (t) return t.thema.key;
+  return regeln.find(([r]) => r.test(v.titel))?.[1] ?? 'weitere';
+};
+
+const eintraege = VIDEOS.map((v) => ({ ...v, name: videoTitel(v), artikel: artikelZu.get(v.id), kapitel: kapitelFuer(v) }));
+const nachAufrufen = (a: { aufrufe: number }, b: { aufrufe: number }) => b.aufrufe - a.aufrufe;
+const gruppen = [...KAPITEL_REIHENFOLGE, 'weitere']
+  .map((key) => ({
+    key,
+    nr: key === 'weitere' ? 0 : kapitelNummer(key),
+    name: key === 'weitere' ? 'Weitere Videos' : THEMEN.find((t) => t.key === key)!.name,
+    videos: eintraege.filter((e) => e.kapitel === key).sort(nachAufrufen),
+  }))
+  .filter((g) => g.videos.length > 0);
+const beliebt = [...eintraege].sort(nachAufrufen).slice(0, 6);
+const mitArtikel = eintraege.filter((e) => e.artikel).length;
+
+const monat = new Intl.DateTimeFormat('de-DE', { month: 'long', year: 'numeric' });
+const wann = (d: string) => monat.format(new Date(d));
+const ziel = (e: (typeof eintraege)[number]) => (e.artikel ? `/${e.artikel.slug}/` : `https://www.youtube.com/watch?v=${e.id}`);
+
+const titel = 'Videos zu Marketing, KI, E-Mail und Führung';
+const beschreibung = `Alle ${eintraege.length} Videos von Andreas Sobing, sortiert nach den Kapiteln des Marketing-Handbuchs und jeweils mit dem passenden Artikel verlinkt.`;
+const jsonld = [
+  {
+    '@context': 'https://schema.org', '@type': 'CollectionPage', name: titel, description: beschreibung, url: `${SITE_URL}${VIDEOS_URL}`, inLanguage: 'de-DE',
+    mainEntity: {
+      '@type': 'ItemList', numberOfItems: eintraege.length,
+      itemListElement: beliebt.map((e, i) => ({ '@type': 'ListItem', position: i + 1, name: e.name, url: new URL(ziel(e), SITE_URL).toString() })),
+    },
+  },
+  brotkrumen([{ name: 'Startseite', url: '/' }, { name: 'Videos', url: VIDEOS_URL }]),
+];
+---
+<Base title={titel} description={beschreibung} jsonld={jsonld}>
+  <main class="wrap simple videoarchiv">
+    <span class="kicker">Videoarchiv</span>
+    <h1>Videos</h1>
+    <p class="lead-text">
+      Zu vielen Artikeln gibt es ein Video, in dem ich das Thema in wenigen Minuten erkläre. Hier findest du alle {eintraege.length} Videos,
+      sortiert nach den Kapiteln des <a href="/handbuch/">Marketing-Handbuchs</a>. {mitArtikel} davon gehören zu einem Artikel, der Link führt dann direkt dorthin.
+      Alle Videos gibt es auch auf meinem <a href={YOUTUBE_KANAL}>YouTube-Kanal</a>.
+    </p>
+
+    <div class="glossar-tools" data-pagefind-ignore>
+      <label for="vfilter" class="sr-only">Videos filtern</label>
+      <input id="vfilter" type="search" placeholder="Video suchen, z. B. ChatGPT oder Newsletter" autocomplete="off">
+      <nav aria-label="Kapitel" class="video-kapitel-nav">
+        {gruppen.map((g) => <a href={`#k-${g.key}`}>{g.name}</a>)}
+      </nav>
+    </div>
+    <p id="vleer" class="glossar-leer" hidden>Kein Video gefunden. Probier es mit der <a href="/suche/">Volltextsuche</a>.</p>
+
+    <section class="video-gruppe video-beliebt" aria-labelledby="k-beliebt">
+      <div class="section-head"><h2 id="k-beliebt">Meistgesehen</h2></div>
+      <ol class="video-liste">
+        {beliebt.map((e) => (
+          <li class="video-eintrag">
+            <a href={ziel(e)} class="video-name">{e.name}</a>
+            <span class="video-meta">{wann(e.datum)} · {dauerText(e.dauer)} Min. · {e.artikel ? 'zum Artikel' : 'auf YouTube'}</span>
+          </li>
+        ))}
+      </ol>
+    </section>
+
+    {gruppen.map((g) => (
+      <section class="video-gruppe" id={`k-${g.key}`} aria-labelledby={`h-${g.key}`}>
+        <div class="section-head">
+          <h2 id={`h-${g.key}`}>{g.nr > 0 && <span class="teil-nr">Kapitel {g.nr}</span>}{g.name}</h2>
+          {g.nr > 0 && <a href={themaUrl(g.key)}>Zum Kapitel</a>}
+        </div>
+        <ul class="video-liste">
+          {g.videos.map((e) => (
+            <li class="video-eintrag">
+              <a href={ziel(e)} class="video-name">{e.name}</a>
+              <span class="video-meta">{wann(e.datum)} · {dauerText(e.dauer)} Min. · {e.artikel ? <>Artikel: {e.artikel.titel}</> : 'auf YouTube'}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+  </main>
+  <script>
+    const input = document.getElementById('vfilter') as HTMLInputElement;
+    const leer = document.getElementById('vleer')!;
+    const norm = (s: string) => s.toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g, '');
+    const eintraege = [...document.querySelectorAll<HTMLElement>('.video-gruppe:not(.video-beliebt) .video-eintrag')].map((el) => ({ el, t: norm(el.textContent || '') }));
+    const gruppen = [...document.querySelectorAll<HTMLElement>('.video-gruppe')];
+    const beliebt = document.querySelector<HTMLElement>('.video-beliebt')!;
+    input.addEventListener('input', () => {
+      const q = norm(input.value.trim());
+      let treffer = 0;
+      for (const e of eintraege) { const ok = !q || e.t.includes(q); e.el.hidden = !ok; if (ok) treffer++; }
+      for (const g of gruppen) if (g !== beliebt) g.hidden = !g.querySelector('.video-eintrag:not([hidden])');
+      beliebt.hidden = q.length > 0;
+      leer.hidden = treffer > 0;
+    });
+  </script>
+</Base>

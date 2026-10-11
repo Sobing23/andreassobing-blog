@@ -18,7 +18,7 @@ E-Mail-Marketing bleibt ein effektiver Weg, um Leads zu generieren und mehr Inte
 2. **Persönliche Absenderadressen verwenden**: Vermeide "No-Reply"-Adressen, um die Interaktion zu fördern und gesetzlichen Anforderungen zu entsprechen.
 3. **E-Mail-Design optimieren**: Halte E-Mails auf 500 bis 650 Pixel breit und beschränke dich auf maximal drei Schriftarten, um Lesbarkeit zu gewährleisten.
 
-## Video zu 10 Tipps für bessere E-Mail Konversionen
+## Video: 20 Tipps für dein E-Mail-Marketing
 
 <div class="video" data-provider="youtube" data-id="Qi8jeY8Pi_4"></div>
 

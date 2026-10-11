@@ -3,7 +3,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Card from '../components/Card.astro';
-import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss, themaFuer, themaUrl, kapitelNummer, PERSON, SITE_URL, AUTOR_FOTO, brotkrumen, HANDBUCH_URL } from '../lib/blog';
+import { allePosts, aehnliche, rubrik, rubrikUrl, tagUrl, datum, lesezeit, anriss, themaFuer, themaUrl, kapitelNummer, PERSON, SITE_URL, AUTOR_FOTO, brotkrumen, HANDBUCH_URL, videoIds, VIDEO_MAP, videoObjekt } from '../lib/blog';
 
 export async function getStaticPaths() {
   const posts = await allePosts();
@@ -31,6 +31,11 @@ if (isPost) {
     author: PERSON, publisher: PERSON,
     ...(d.tags.length ? { keywords: d.tags.join(', ') } : {}),
   });
+}
+// eigene Videos im Text: als VideoObject auszeichnen
+for (const id of videoIds(entry.body)) {
+  const v = VIDEO_MAP.get(id);
+  if (v) jsonld.push(videoObjekt(v, isPost ? `Video von Andreas Sobing zum Artikel „${d.title}“. ${beschreibung}` : `Video von Andreas Sobing. ${beschreibung}`));
 }
 if (d.slug === 'ueber-mich') jsonld.push({ '@context': 'https://schema.org', '@type': 'ProfilePage', url, mainEntity: PERSON });
 const thema = isPost ? themaFuer(d.slug) : undefined;

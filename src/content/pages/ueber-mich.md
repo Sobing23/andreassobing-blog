@@ -25,4 +25,4 @@ Mit E-Mail-Marketing beschäftige ich mich besonders intensiv. In dieser Zeit ha
 
 ## Profile und Kontakt
 
-Kurze Erklärvideos zu Marketingthemen findest du auf meinem [YouTube-Kanal](https://www.youtube.com/channel/UC3dMCOsiWBJyhxW8bMaGTmA). Beruflich vernetzen kannst du dich mit mir auf [LinkedIn](https://www.linkedin.com/in/andreas-sobing), meine Projekte rund um diesen Blog liegen auf [GitHub](https://github.com/Sobing23). Erreichen kannst du mich per E-Mail an admin@andreassobing.de, alle Angaben stehen im [Impressum](/impressum/).
+Kurze Erklärvideos zu Marketingthemen findest du im [Videoarchiv](/videos/) und auf meinem [YouTube-Kanal](https://www.youtube.com/channel/UC3dMCOsiWBJyhxW8bMaGTmA). Beruflich vernetzen kannst du dich mit mir auf [LinkedIn](https://www.linkedin.com/in/andreas-sobing), meine Projekte rund um diesen Blog liegen auf [GitHub](https://github.com/Sobing23). Erreichen kannst du mich per E-Mail an admin@andreassobing.de, alle Angaben stehen im [Impressum](/impressum/).
