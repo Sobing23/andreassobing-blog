@@ -2648,6 +2648,18 @@
   "buchstabe": "K"
  },
  {
+  "begriff": "KI-Agent (AI Agent)",
+  "definition": "Ein KI-Agent ist ein KI-System, das ein vorgegebenes Ziel selbstständig in Schritte zerlegt und diese mit Werkzeugen ausführt, etwa durch Websuche, Zugriff auf Dateien oder andere Programme. Anders als eine feste Automatisierung folgt er keinem vorgegebenen Pfad, sondern plant, handelt und prüft seine Ergebnisse im Wechsel.",
+  "artikel": [
+   {
+    "slug": "ki-im-unternehmen-chat-automatisierung-agenten",
+    "titel": "Chat, Automatisierung, Agenten: Die drei Stufen der KI im Unternehmen"
+   }
+  ],
+  "anker": "ki-agent",
+  "buchstabe": "K"
+ },
+ {
   "begriff": "KI-Marketing",
   "definition": "KI-Marketing nutzt Algorithmen, Daten, Automatisierung und maschinelles Lernen, um Marketingprozesse zu optimieren, das Kundenerlebnis zu verbessern und Wachstum zu steigern. Für Verbraucher bedeutet es, häufiger auf Inhalte zu stoßen, die ihren Vorlieben entsprechen. Vorteile sind etwa höhere Effizienz, datenbasierte Erkenntnisse und bessere Personalisierung.",
   "artikel": [
@@ -3081,6 +3093,18 @@
    }
   ],
   "anker": "management-by-walking-around",
+  "buchstabe": "M"
+ },
+ {
+  "begriff": "MAPS-Formel",
+  "definition": "Die MAPS-Formel ist eine einfache Struktur für Prompts nach Dan Martell: Mission (das Ziel), Ask (die Aufgabe an die KI), Parameters (was zu beachten ist, etwa Beispiele oder Vorlagen) und Shape (die gewünschte Form des Ergebnisses, zum Beispiel Tabelle oder Liste).",
+  "artikel": [
+   {
+    "slug": "ki-im-unternehmen-chat-automatisierung-agenten",
+    "titel": "Chat, Automatisierung, Agenten: Die drei Stufen der KI im Unternehmen"
+   }
+  ],
+  "anker": "maps-formel",
   "buchstabe": "M"
  },
  {
@@ -4446,6 +4470,10 @@
    {
     "slug": "chatgpt-prompts-erklaert-warum-sie-so-wichtig-sind",
     "titel": "ChatGPT Prompts erklärt: Warum sie so wichtig sind"
+   },
+   {
+    "slug": "ki-im-unternehmen-chat-automatisierung-agenten",
+    "titel": "Chat, Automatisierung, Agenten: Die drei Stufen der KI im Unternehmen"
    }
   ],
   "anker": "prompt",
@@ -4693,6 +4721,18 @@
    }
   ],
   "anker": "retention-marketing",
+  "buchstabe": "R"
+ },
+ {
+  "begriff": "Reverse Prompting",
+  "definition": "Beim Reverse Prompting nennt man der KI nur das Ziel und bittet sie, zuerst Fragen zu stellen, eine nach der anderen. So holt sich die KI den Kontext, den sie für ein gutes Ergebnis braucht, statt aus einer knappen Anweisung zu raten. Das Gegenstück ist das Push Prompting mit fertig vorgegebener Anweisung.",
+  "artikel": [
+   {
+    "slug": "ki-im-unternehmen-chat-automatisierung-agenten",
+    "titel": "Chat, Automatisierung, Agenten: Die drei Stufen der KI im Unternehmen"
+   }
+  ],
+  "anker": "reverse-prompting",
   "buchstabe": "R"
  },
  {
@@ -5509,6 +5549,18 @@
    }
   ],
   "anker": "swot-analyse",
+  "buchstabe": "S"
+ },
+ {
+  "begriff": "System-Prompt",
+  "definition": "Ein System-Prompt ist eine dauerhafte Grundanweisung an ein KI-Modell, die vor jeder Unterhaltung gilt. Er legt Rolle, Ton, Regeln und Ausgabeformat fest und wird zum Beispiel in eigenen GPTs, Projekten oder Automatisierungen hinterlegt. Gute System-Prompts machen Ergebnisse wiederholbar und lassen sich im Team teilen.",
+  "artikel": [
+   {
+    "slug": "ki-im-unternehmen-chat-automatisierung-agenten",
+    "titel": "Chat, Automatisierung, Agenten: Die drei Stufen der KI im Unternehmen"
+   }
+  ],
+  "anker": "system-prompt",
   "buchstabe": "S"
  },
  {

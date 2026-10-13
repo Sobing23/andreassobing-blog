@@ -641,6 +641,13 @@
         ]
       },
       {
+        "titel": "Automatisierung und KI-Agenten",
+        "text": "Vom Chatfenster zu festen Abläufen und Agenten, die Aufgaben selbstständig erledigen: Stufen, Werkzeuge und Grenzen.",
+        "artikel": [
+          "ki-im-unternehmen-chat-automatisierung-agenten"
+        ]
+      },
+      {
         "titel": "KI in Marketing und Vertrieb",
         "text": "Konkrete Einsätze für Kampagnen, Werbung, Google Ads, SEO, Sichtbarkeit in KI-Antworten und Vertrieb.",
         "artikel": [
@@ -717,7 +724,7 @@
         ]
       }
     ],
-    "kurz": "ChatGPT, gute Prompts, GPTs und der Einsatz von KI für Texte, Bilder, Videos und Kampagnen."
+    "kurz": "ChatGPT, gute Prompts, GPTs, Automatisierung und KI-Agenten sowie KI für Texte, Bilder, Videos und Kampagnen."
   },
   {
     "key": "strategie",
