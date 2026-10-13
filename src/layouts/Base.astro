@@ -8,7 +8,6 @@ import '@fontsource/ibm-plex-sans/400.css';
 import '@fontsource/ibm-plex-sans/500.css';
 import '@fontsource/ibm-plex-sans/600.css';
 import '../styles/global.css';
-import { RUBRIKEN, rubrikUrl } from '../lib/blog';
 
 interface Props {
   title: string;
@@ -51,24 +50,19 @@ const ogImage = image ? new URL(image, Astro.site).toString() : undefined;
 <body>
   <header class="site-header">
     <div class="wrap">
-      <div class="top" style={kompakt ? 'align-items:center;padding-bottom:18px' : undefined}>
+      <div class="top" style={kompakt ? 'align-items:center' : undefined}>
         <a href="/" class:list={['logo', { 'logo-small': kompakt }]}>Blog it Marketing</a>
         <form class="search-form" action="/suche/" method="get" role="search">
           <label for="q" class="sr-only">Suche</label>
           <input id="q" name="q" type="search" placeholder="Artikel durchsuchen">
         </form>
       </div>
-      {!kompakt && (
-        <nav class="rubrik-nav" aria-label="Rubriken">
-          {RUBRIKEN.map((r) => (
-            <a href={rubrikUrl(r.key)} aria-current={aktiveRubrik === r.key ? 'page' : undefined}>{r.kurz}</a>
-          ))}
-          <a href="/handbuch/" class="nav-handbuch" aria-current={Astro.url.pathname.startsWith('/handbuch') || Astro.url.pathname.startsWith('/thema/') ? 'page' : undefined}>Handbuch</a>
-          <a href="/archiv/">Archiv</a>
-          <a href="/videos/" aria-current={Astro.url.pathname.startsWith('/videos') ? 'page' : undefined}>Videos</a>
-          <a href="/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/">Glossar</a>
-        </nav>
-      )}
+      <nav class="rubrik-nav" aria-label="Hauptnavigation">
+        <a href="/handbuch/" class="nav-handbuch" aria-current={Astro.url.pathname.startsWith('/handbuch') || Astro.url.pathname.startsWith('/thema/') ? 'page' : undefined}>Handbuch</a>
+        <a href="/archiv/" aria-current={Astro.url.pathname.startsWith('/archiv') ? 'page' : undefined}>Archiv</a>
+        <a href="/videos/" aria-current={Astro.url.pathname.startsWith('/videos') ? 'page' : undefined}>Videos</a>
+        <a href="/das-grosse-marketing-glossar-die-wichtigsten-begriffe-einfach-erklaert/" aria-current={Astro.url.pathname.startsWith('/das-grosse-marketing-glossar') ? 'page' : undefined}>Glossar</a>
+      </nav>
     </div>
   </header>
   <slot />
