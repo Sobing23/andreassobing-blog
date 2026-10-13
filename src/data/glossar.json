@@ -1292,6 +1292,18 @@
   "buchstabe": "C"
  },
  {
+  "begriff": "Customer Engagement Flywheel",
+  "definition": "Das Customer Engagement Flywheel ist ein Kreislaufmodell von Appcues mit vier Phasen: Awareness, Adoption, Advocacy und Innovation. Kunden werden auf einen Mehrwert aufmerksam, nutzen das Produkt regelmäßig, empfehlen es weiter und gestalten die Weiterentwicklung mit. Die Begeisterten bringen neue Kunden mit, sodass das Rad sich weiterdreht.",
+  "artikel": [
+   {
+    "slug": "customer-engagement-flywheel",
+    "titel": "Das Customer Engagement Flywheel: Wachstum, das nach dem Kauf erst richtig beginnt"
+   }
+  ],
+  "anker": "customer-engagement-flywheel",
+  "buchstabe": "C"
+ },
+ {
   "begriff": "Customer Journey",
   "definition": "Die Customer Journey beschreibt den gesamten Prozess, den ein Kunde durchläuft, bevor er sich für ein Produkt oder eine Dienstleistung entscheidet. Sie umfasst alle Interaktionen und Berührungspunkte mit der Marke, von der ersten Wahrnehmung bis zur Kaufentscheidung und darüber hinaus.",
   "artikel": [
@@ -2010,6 +2022,10 @@
    {
     "slug": "das-flywheel-bringt-schwung-in-dein-marketing",
     "titel": "Das Flywheel bringt Schwung in dein Marketing"
+   },
+   {
+    "slug": "customer-engagement-flywheel",
+    "titel": "Das Customer Engagement Flywheel: Wachstum, das nach dem Kauf erst richtig beginnt"
    }
   ],
   "anker": "flywheel",

@@ -288,11 +288,6 @@ Zum Schluss eine kurze Checkliste, die du für deine nächste Präsentation nutz
 
 Wenn du die meisten Fragen mit „Ja“ beantworten kannst, bist du auf einem sehr guten Weg.
 
-## Bildvorschlag und Alt-Tag
-
-Bild-Prompt ohne Text im Bild: Isometrische Illustration eines kreisförmigen Flywheels mit fünf Segmenten (Evaluate, Activate, Adopt, Expand, Advocate). In der Mitte ein stilisiertes App-Interface, umgeben von kleinen Figuren, die sich im Kreis bewegen. Moderne Flat-Optik, viel Weißraum, leichte Bewegungsdynamik.
-
-Alt-Tag: Kreisdarstellung eines Product-Led Growth Flywheels mit fünf Phasen rund um ein zentrales Produkt.
 
 ## Zusammenfassung Product-Led Growth Flywheel
 
@@ -306,4 +301,4 @@ Alt-Tag: Kreisdarstellung eines Product-Led Growth Flywheels mit fünf Phasen ru
 
  
 Eine sehr gute Erklärung findest du bei [Appcues](https://www.appcues.com/product-led-growth-flywheel)
-Übrigens habe ich auch schon einen Artikel zum [Flywheel](/das-flywheel-bringt-schwung-in-dein-marketing/) geschrieben.
+Übrigens habe ich auch schon einen Artikel zum [Flywheel](/das-flywheel-bringt-schwung-in-dein-marketing/) geschrieben. Wie Appcues das Modell zum [Customer Engagement Flywheel](/customer-engagement-flywheel/) mit der zusätzlichen Phase Innovation weiterentwickelt hat, beschreibe ich in einem eigenen Artikel.

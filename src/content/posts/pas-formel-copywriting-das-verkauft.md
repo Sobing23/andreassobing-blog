@@ -193,10 +193,6 @@ Nutze diese Fragen als Schnelltest:
 - Gibt es genau einen Haupt-CTA?
 - Passt der Text zur Seite und zum Kontext?
 
-## Bildvorschlag und Alt-Tag
-
-Bild-Prompt ohne Text im Bild: Illustration eines einfachen dreistufigen Prozesses mit drei Karten oder Stufen, die von links nach rechts ansteigen. Erste Stufe zeigt ein Fragezeichen, zweite eine Warnlampe, dritte ein Häkchen. Modern, viel Weißraum, clean.  
-Alt-Tag: Dreistufige Darstellung der PAS Formel mit Problem, Verstärkung und Lösung.
 
 ## Fazit: PAS Formel als schneller Conversion-Hebel
 

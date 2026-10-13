@@ -88,6 +88,6 @@ Mit dem Kreislaufmodell werden umständliche Übergaben zwischen verschiedenen T
 
 <div class="video" data-provider="youtube" data-id="-QC2SHjBiag"></div>
 
-Ich empfehle den HubSpot Artikel [How the Flywheel Killed HubSpot's Funnel](https://blog.hubspot.com/marketing/our-flywheel?_ga=2.4834868.684508008.1565771607-148277739.1565771607) für weitere Infomationen.
+Ich empfehle den HubSpot Artikel [How the Flywheel Killed HubSpot's Funnel](https://blog.hubspot.com/marketing/our-flywheel?_ga=2.4834868.684508008.1565771607-148277739.1565771607) für weitere Informationen. Eine Variante mit Fokus auf bestehende Nutzer stelle ich im Artikel zum [Customer Engagement Flywheel](/customer-engagement-flywheel/) vor.
 
 Grafik: CC0 Creative Commons pixabay Life-Of-Pix
