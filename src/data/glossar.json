@@ -412,6 +412,22 @@
   "buchstabe": "A"
  },
  {
+  "begriff": "Aha-Moment",
+  "definition": "Der Aha-Moment ist der Augenblick, in dem ein Nutzer den Wert eines Produkts zum ersten Mal selbst erlebt. Er gilt als Wendepunkt zur regelmäßigen Nutzung. Unternehmen definieren ihn meist über eine konkrete Handlung im Produkt und messen, wie viele Nutzer ihn erreichen.",
+  "artikel": [
+   {
+    "slug": "customer-engagement-flywheel",
+    "titel": "Das Customer Engagement Flywheel: Wachstum, das nach dem Kauf erst richtig beginnt"
+   },
+   {
+    "slug": "product-led-growth-flywheel-mehr-wachstum",
+    "titel": "Product-Led Growth Flywheel: mehr Wachstum"
+   }
+  ],
+  "anker": "aha-moment",
+  "buchstabe": "A"
+ },
+ {
   "begriff": "AIDA-Formel",
   "definition": "Die AIDA-Formel ist ein Marketingprinzip, das die vier Schritte beschreibt, die ein Kunde bei einer Kaufentscheidung durchläuft: Attention (Aufmerksamkeit), Interest (Interesse), Desire (Verlangen) und Action (Handlung). Sie zeigt, wie du Aufmerksamkeit in Interesse, Verlangen und schließlich einen Kauf verwandelst.",
   "artikel": [
@@ -469,6 +485,22 @@
    }
   ],
   "anker": "aisdalslove-modell",
+  "buchstabe": "A"
+ },
+ {
+  "begriff": "Aktivierungsrate (Activation Rate)",
+  "definition": "Die Aktivierungsrate gibt an, welcher Anteil neuer Nutzer einen festgelegten Aktivierungsschritt erreicht, etwa den Aha-Moment oder die erste wichtige Handlung im Produkt. Sie ist eine Kernkennzahl im Product-Led Growth und in der Phase Adoption des Customer Engagement Flywheel.",
+  "artikel": [
+   {
+    "slug": "product-led-growth-flywheel-mehr-wachstum",
+    "titel": "Product-Led Growth Flywheel: mehr Wachstum"
+   },
+   {
+    "slug": "customer-engagement-flywheel",
+    "titel": "Das Customer Engagement Flywheel: Wachstum, das nach dem Kauf erst richtig beginnt"
+   }
+  ],
+  "anker": "aktivierungsrate",
   "buchstabe": "A"
  },
  {
@@ -4109,6 +4141,18 @@
    }
   ],
   "anker": "porter-s-five-forces",
+  "buchstabe": "P"
+ },
+ {
+  "begriff": "Power-User",
+  "definition": "Power-User sind besonders aktive und erfahrene Nutzer eines Produkts. Sie nutzen viele Funktionen, empfehlen das Produkt oft weiter und geben wertvolles Feedback. Im Customer Engagement Flywheel sind sie die Zielgruppe der Phase Advocacy, ihre Wünsche sind aber nicht immer repräsentativ für alle Nutzer.",
+  "artikel": [
+   {
+    "slug": "customer-engagement-flywheel",
+    "titel": "Das Customer Engagement Flywheel: Wachstum, das nach dem Kauf erst richtig beginnt"
+   }
+  ],
+  "anker": "power-user",
   "buchstabe": "P"
  },
  {
