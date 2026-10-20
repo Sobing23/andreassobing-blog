@@ -1,45 +1,76 @@
 ---
-title: "Effektive Inhalte mit Pillar-Seiten"
+title: "Pillar Page: Aufbau, Arten und Erstellung einer Pillar-Seite"
+seoTitle: "Pillar Page erstellen: Aufbau, Arten und Beispiele"
 slug: "effektive-inhalte-mit-pillar-seiten"
 date: 2023-06-09T13:26:02
-updated: 2023-06-09T14:31:07
-description: "Eine Pillar-Seite dient als zentraler Punkt, der alle Inhalte zu einem bestimmten Thema sammelt und organisiert."
+updated: 2026-10-20T12:00:00
+description: "Was eine Pillar Page ist, wie sie mit Content-Clustern zusammenspielt, welche Arten es gibt und wie du Schritt für Schritt eine Pillar-Seite erstellst."
 image: "/wp-content/uploads/2023/06/seo-2394237_640.jpg"
 category: "marketing"
 vgwort: "https://vg05.met.vgwort.de/na/ca667b6769ef44fba97e2bd30613a132"
 wpId: 4686
 ---
 
-Eine Pillar-Seite ist wie ein Leuchtturm im weiten Meer des Internets. Sie dient als zentraler Punkt, der alle Inhalte zu einem bestimmten Thema sammelt und organisiert. Sie bietet einen Überblick über das Thema und verlinkt auf detailliertere Blogbeiträge, die andere Aspekte des Themas behandeln. So können deine Besucher leichter finden, was sie suchen, und tiefer in das Thema eintauchen.
+Eine Pillar Page (Pillar-Seite) ist eine Webseite, die als zentrale Anlaufstelle für ein bestimmtes Thema dient. Sie sammelt und ordnet alle Inhalte zu diesem Thema, gibt einen Überblick und verlinkt auf detailliertere Unterseiten, die einzelne Aspekte vertiefen. Man kann sie sich wie einen Leuchtturm vorstellen: Sie ist der feste Orientierungspunkt, von dem aus Besucher tiefer in das Thema einsteigen.
 
-Aber Pillar Pages sind nicht nur für deine Besucher nützlich. Sie sind auch ein mächtiges Werkzeug für deine SEO-Strategie. Mit der zunehmenden Nutzung von Spracherkennungsanwendungen werden Suchanfragen immer länger und ähneln mehr einer Unterhaltung. Pillar Pages helfen dir, diesen veränderten Suchgewohnheiten Rechnung zu tragen und ein besseres Ranking in den Suchergebnissen zu erzielen.
+## Was ist eine Pillar Page?
 
-Es gibt verschiedene Arten von Pillar Pages, je nachdem, welche Art von Inhalten du anbietest und welche Ziele du verfolgst. Eine 10x Content Pillar Page zum Beispiel bietet tiefe Einblicke in ein Thema und basiert auf deinen eigenen Inhalten, Bewertungen und Analysen. Eine Resource Pillar Page hingegen verlinkt sowohl interne als auch externe Inhalte und wird so zur zentralen Anlaufstelle für ein Thema.
+Eine Pillar Page deckt ein Kernthema in der Breite ab. Die Details stehen auf eigenen Unterseiten, den sogenannten Content-Clustern. Die Pillar Page verlinkt auf jedes Cluster, und jedes Cluster verlinkt zurück auf die Pillar Page. So entsteht eine Struktur, die ein Thema umfassend behandelt und gleichzeitig eine klare, benutzerfreundliche Navigation bietet.
 
-## 10x Content Pillar Page
+Deine Besucher finden dadurch leichter, was sie suchen. Suchmaschinen erkennen an der Verlinkung, welche Inhalte zusammengehören und welche Seite das Thema als Ganzes abdeckt.
 
-Die 10x Content Pillar Page ist eine Pillar Page, die sich darauf konzentriert, ein Thema so umfassend und detailliert wie möglich zu beleuchten. Sie stützt sich auf eigene Inhalte, Bewertungen und Analysen, um einen Mehrwert für den Leser zu schaffen. Ziel einer 10x Content Pillar Page ist es, die beste und umfassendste Ressource zu einem bestimmten Thema zu sein. Daher der Name "10x" - sie soll zehnmal besser sein als alles andere, was zu diesem Thema online zu finden ist.
+## Warum du eine Pillar Page brauchst
 
-Eine 10x Content Pillar Page könnte zum Beispiel ein umfassender Leitfaden zu einem bestimmten Thema sein, der alle Aspekte des Themas abdeckt und auf eigenen Recherchen und Analysen beruht. Sie könnte auch Fallstudien, Infografiken oder andere Arten von Inhalten enthalten, die den Lesern einen Mehrwert bieten.
+Das Suchverhalten hat sich in den letzten Jahren stark verändert. Früher wurde nach einzelnen Stichwörtern gesucht, heute geben viele Menschen ganze Fragen oder Sätze in die Suchmaschine ein. Die zunehmende Nutzung von Spracherkennung verstärkt diesen Trend, denn gesprochene Suchanfragen sind länger und ähneln eher einer Unterhaltung. Auch die laufende Weiterentwicklung der Suchalgorithmen von Google und anderen Suchmaschinen geht in diese Richtung.
 
-## Ressource Pillar Page
+Eine Pillar Page hilft dir, diesen veränderten Suchgewohnheiten gerecht zu werden. Sie verbessert deine Chancen, bei längeren Suchanfragen gefunden zu werden, und bietet deinen Besuchern zugleich einen echten Mehrwert. Außerdem zeigst du mit einer gut gemachten Pillar-Seite deine Expertise in einem Fachgebiet.
 
-Die Ressource Pillar Page ist eine andere Art von Pillar Page, die sich darauf konzentriert, eine zentrale Anlaufstelle für ein bestimmtes Thema zu sein. Sie verlinkt sowohl interne als auch externe Inhalte, um den Lesern eine umfassende Ressource zu bieten, in der sie alles finden, was sie zu diesem Thema wissen müssen.
+## Arten von Pillar Pages
 
-Eine Ressource Pillar Page könnte zum Beispiel eine Liste von Ressourcen zu einem bestimmten Thema enthalten, wie Artikel, Videos, Podcasts, Bücher, Kurse und vieles mehr. Sie könnte auch Links zu Experten auf diesem Gebiet, relevanten Organisationen, Veranstaltungen und anderen Ressourcen enthalten, die den Lesern helfen könnten, mehr über das Thema zu erfahren.
+Welche Art von Pillar Page passt, hängt davon ab, welche Inhalte du anbietest und welche Ziele du verfolgst. Zwei Formen sind besonders verbreitet.
 
-Beide Arten von Pillar Pages haben ihre Stärken und können je nach deinen Zielen und deinem Content-Angebot die richtige Wahl sein. Eine 10x Content Pillar Page könnte zum Beispiel eine gute Wahl sein, wenn du ein Experte auf deinem Gebiet bist und tiefgründige und originelle Inhalte erstellen kannst. Eine Resource Pillar Page könnte eine gute Wahl sein, wenn du ein breites Spektrum an Ressourcen zu einem bestimmten Thema zusammenstellen und deinen Lesern einen umfassenden Überblick bieten möchtest.
+### 10x Content Pillar Page
 
-## Wie erstelle ich eine Pillar-Seite?
+Die 10x Content Pillar Page beleuchtet ein Thema so umfassend und detailliert wie möglich. Sie stützt sich auf eigene Inhalte, Bewertungen und Analysen. Ihr Ziel ist es, die beste und umfassendste Ressource zu diesem Thema zu sein. Daher der Name: Sie soll zehnmal besser sein als alles, was online sonst zu dem Thema zu finden ist.
 
-**Wähle ein Thema:** Denke an deine Zielgruppe und verwende die Daten deiner Buyer Personas. Wähle ein Thema, das breit genug ist, um eine Reihe von Beiträgen zu unterstützen, aber spezifisch genug, um relevant zu sein.
+Ein Beispiel ist ein umfassender Leitfaden, der alle Aspekte eines Themas abdeckt und auf eigenen Recherchen und Analysen beruht. Er kann Fallstudien, Infografiken oder andere Formate enthalten, die den Lesern zusätzlichen Nutzen bieten.
 
-**Schreibe den Inhalt für deine Pillar-Seite**: Schreibe einen umfassenden Beitrag zu dem Thema deiner Wahl. Definiere das Thema auf der Pillar-Seite, verwende eine Liste als Inhaltsverzeichnis und schreibe Content, der einen Überblick über die Unterthemen gibt.
+Diese Form eignet sich, wenn du Experte auf deinem Gebiet bist und tiefgründige, originelle Inhalte erstellen kannst. Mehr zum Prinzip dahinter liest du im Artikel über die [Macht der 10X-Regel](/die-macht-der-10x-regel/).
 
-**Bestimme Schlüsselwörter:** Nachdem du deine Pillar-Seite fertiggestellt hast, ist es an der Zeit, Schlüsselwörter zu recherchieren. Wähle Keywords, die ein hohes Suchvolumen haben und verschiedene Aspekte des Themas abdecken.
+### Ressource Pillar Page
 
-**Schreibe die Beiträge, die auf deiner Pillar-Seite verlinkt werden sollen**: Jetzt kannst du die Beiträge schreiben, die auf deiner Pillar-Seite verlinkt werden sollen. Die Verlinkung der Pillar-Seite hilft dir, eine optimierte Inhaltsstruktur zu erstellen und ein besseres Ranking in Suchmaschinen zu erzielen.
+Die Ressource Pillar Page ist vor allem eine zentrale Sammelstelle. Sie verlinkt sowohl interne als auch externe Inhalte, damit Leser an einem Ort alles finden, was sie zu dem Thema brauchen.
 
-Mit einer gut gestalteten Pillar-Seite kannst du deine Expertise in einem bestimmten Bereich demonstrieren, dein SEO-Ranking verbessern und deinen Besuchern einen wertvollen Service bieten.
+Sie kann zum Beispiel eine Liste von Artikeln, Videos, Podcasts, Büchern und Kursen enthalten. Dazu kommen Links zu Fachleuten, relevanten Organisationen, Veranstaltungen und anderen Quellen.
 
-Kennst du auch die [Macht der 10X-Regel](/die-macht-der-10x-regel/)?
+Diese Form eignet sich, wenn du ein breites Spektrum an Ressourcen zusammenstellen und deinen Lesern einen umfassenden Überblick geben möchtest.
+
+## Wie erstelle ich eine Pillar Page?
+
+1. Kernthema festlegen: Denke an deine Zielgruppe und nutze die Daten deiner Buyer Personas. Wähle ein Thema, das breit genug ist, um eine Reihe von Beiträgen zu tragen, aber spezifisch genug, um relevant zu sein. Ideal ist ein Thema, zu dem du schon Inhalte hast oder planst.
+2. Content-Cluster planen: Teile das Kernthema in Unterthemen auf. Für jedes Unterthema entsteht eine eigene Unterseite, die es ausführlich behandelt.
+3. Keywords recherchieren: Finde heraus, welche Keywords für dein Thema relevant sind. Wähle Begriffe mit nennenswertem Suchvolumen, die verschiedene Aspekte des Themas abdecken, und ordne sie Pillar Page und Clustern zu.
+4. Pillar Page schreiben: Definiere das Thema, setze eine Liste als Inhaltsverzeichnis an den Anfang und gib zu jedem Unterthema einen kurzen Überblick. Achte auf eine klare Struktur und eine verständliche Sprache.
+5. Cluster-Beiträge schreiben: Verfasse die vertiefenden Beiträge zu den einzelnen Unterthemen in derselben Qualität.
+6. Intern verlinken: Verlinke von der Pillar Page auf jedes Cluster und von jedem Cluster zurück auf die Pillar Page. Das hilft Besuchern bei der Orientierung und Suchmaschinen beim Verständnis deiner Inhaltsstruktur.
+
+## Beispiele aus der Praxis
+
+Viele Unternehmen setzen Pillar Pages bereits erfolgreich ein:
+
+- HubSpot, Instagram-Marketing-Leitfaden: Eine umfassende Pillar Page, die alle Aspekte des Instagram-Marketings im Überblick zeigt und auf detaillierte Unterseiten zu einzelnen Themen verlinkt.
+- Help Scout, Kundengewinnung per E-Mail: Die Seite zeigt, wie man mit E-Mail-Marketing Kunden gewinnt, gibt einen Überblick und verweist auf vertiefende Unterseiten.
+- Neil Patel, SEO leicht gemacht: Eine Übersichtsseite, die alle Aspekte der Suchmaschinenoptimierung abdeckt und auf detaillierte Unterseiten verlinkt.
+
+## Worauf du achten solltest
+
+- Thema richtig zuschneiden: Ist das Thema zu breit, wird die Pillar Page beliebig. Ist es zu eng, fehlen die Unterthemen für ein Cluster.
+- Verlinkung in beide Richtungen: Eine Pillar Page ohne Rücklinks aus den Clustern verschenkt den wichtigsten strukturellen Vorteil.
+- Überblick statt Wiederholung: Die Pillar Page fasst zusammen. Die Tiefe gehört in die Cluster-Beiträge.
+- Pflege einplanen: Neue Beiträge zum Thema müssen auf der Pillar Page ergänzt werden, sonst veraltet die Übersicht.
+
+## Fazit
+
+Pillar Pages bündeln deine Inhalte zu einem Thema und machen sie für Besucher und Suchmaschinen leichter auffindbar. Sie helfen dir, bei längeren Suchanfragen besser gefunden zu werden, zeigen deine Expertise und bieten deinen Besuchern einen echten Service. Ob du eine 10x Content Pillar Page oder eine Ressource Pillar Page baust, hängt von deinem Fachwissen und deinem Content-Angebot ab. In beiden Fällen entscheidet die saubere Verbindung zwischen Pillar Page und Content-Clustern über den Erfolg.
+
+Weißt du, wie du Verschwendung im Marketing verhinderst? Das Zauberwort heißt [7 Muda](/die-7-muda-wie-du-verschwendung-im-marketing-vermeidest/).

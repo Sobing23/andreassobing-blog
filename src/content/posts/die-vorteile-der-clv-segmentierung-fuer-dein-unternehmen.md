@@ -29,4 +29,4 @@ Eine gezielte Marketingstrategie nach der CLV-Segmentierung kann das Umsatzwachs
 2. **Mid-Value-Kunden**: Diese Kundengruppe hat einen mittleren CLV und ist daher eine wichtige Zielgruppe für das Unternehmen. Hier kann zum Beispiel auf eine höhere Kundenzufriedenheit gesetzt werden, indem eine bessere Kundenbetreuung und ein besserer Kundenservice angeboten werden.
 3. **Hochwertige Kunden**: Diese Kundengruppe hat einen hohen CLV und ist für das Unternehmen besonders wertvoll. Hier sollte man auf eine stärkere Kundenbindung setzen, indem man personalisierte Angebote und Empfehlungen anbietet oder exklusive Events und Vorteile für diese Gruppe organisiert.
 
-Lerne wie du den [Customer Lifetime Value deiner Kunden erhöhst](/wie-du-den-customer-lifetime-value-erhoehst/).
+Lerne wie du den [Customer Lifetime Value deiner Kunden erhöhst](/customer-lifetime-value-der-wert-deiner-kunden/).

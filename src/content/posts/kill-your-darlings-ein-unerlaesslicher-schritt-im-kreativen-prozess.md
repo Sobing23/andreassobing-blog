@@ -40,4 +40,4 @@ Es gibt keine festgelegte Methode, um "Kill your darlings" anzuwenden. Es erford
 
 "Kill your darlings" kann eine harte, aber lohnende Übung sein. Es erfordert Mut und Objektivität, kann aber zu besserer Arbeit führen. Ob du ein Autor, ein Designer oder ein Marketingfachmann bist, diese Strategie kann dir helfen, deine kreativen Fähigkeiten zu schärfen und dein Bestes zu geben. Denke daran: Es ist kein Zeichen von Misserfolg, wenn du deine Favoriten "tötest", sondern ein Zeichen von Reife und Engagement für hervorragende Arbeit.
 
-Finde heraus warum du eine [Vision und Mission](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/) benötigst.
+Finde heraus warum du eine [Vision und Mission](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/) benötigst.

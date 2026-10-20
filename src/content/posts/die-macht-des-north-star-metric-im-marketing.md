@@ -14,7 +14,7 @@ Heute möchte ich eine Methode vorstellen, die von einigen der erfolgreichsten U
 
 ## Was ist das North Star Metric?
 
-Das North Star Metric (NSM) wird oft dem Startup-Gründer, Berater und Investor [Sean Ellis](https://www.linkedin.com/in/seanellis/) zugeschrieben. Es handelt sich um eine einzige Metrik, die in der Lage ist, das gesamte Unternehmen um eine übergeordnete [Mission](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/) zu vereinen und gleichzeitig den Wert, der den Kunden geboten wird, widerzuspiegeln.
+Das North Star Metric (NSM) wird oft dem Startup-Gründer, Berater und Investor [Sean Ellis](https://www.linkedin.com/in/seanellis/) zugeschrieben. Es handelt sich um eine einzige Metrik, die in der Lage ist, das gesamte Unternehmen um eine übergeordnete [Mission](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/) zu vereinen und gleichzeitig den Wert, der den Kunden geboten wird, widerzuspiegeln.
 
 ### Unternehmen wie Google und LinkedIn haben beispielsweise klare Missionen:
 

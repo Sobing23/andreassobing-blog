@@ -40,4 +40,4 @@ Einige Unternehmen haben versucht, die Gründermentalität durch die Einrichtung
 
 Abschließend ist es wichtig zu betonen, dass die Gründermentalität nicht nur für Start-ups relevant ist. Auch etablierte Unternehmen können von dieser Denkweise profitieren, insbesondere in Zeiten des Wandels und der Unsicherheit. Es geht darum, die ursprüngliche Vision und den Antrieb, der ein Unternehmen zum Erfolg geführt hat, wiederzubeleben und zu nutzen.
 
-Sieh dir auch meinen Beitrag zur [Balanced Scorecard](/balanced-scorecard-fuer-nachhaltigen-erfolg/) an.
+Sieh dir auch meinen Beitrag zur [Balanced Scorecard](/balanced-scorecard-einfach-erklaert/) an.

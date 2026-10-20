@@ -41,4 +41,4 @@ Egal in welcher Phase du dich befindest, eine lückenlose Webanalyse und ein fun
 
 Das See-Think-Do-Care-Modell bietet einen umfassenden Rahmen für dein Online-Marketing. Es hilft dir, deine Kunden in jeder Phase ihrer Kaufentscheidung zu erreichen und deine Maßnahmen entsprechend auszurichten. Warum also nicht gleich loslegen und das Modell in deinem Marketing einsetzen? Du wirst überrascht sein, wie effektiv es sein kann!
 
-Weitere Informationen erhältst du auf dem [more-fire Blog](https://www.more-fire.com/ratgeber/see-think-do-care/). Sieh dir auch meinen [Artikel zum Thema Customer Journey](/phasen-der-customer-journey/) an.
+Weitere Informationen erhältst du auf dem [more-fire Blog](https://www.more-fire.com/ratgeber/see-think-do-care/). Sieh dir auch meinen [Artikel zum Thema Customer Journey](/die-customer-journey/) an.

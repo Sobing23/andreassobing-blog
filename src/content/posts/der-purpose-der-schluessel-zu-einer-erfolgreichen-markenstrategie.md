@@ -78,7 +78,7 @@ Verstehe die Bedürfnisse und Wünsche deiner Zielgruppe. Erkenne, welche Proble
 
 ### Mission und Vision entwickeln
 
-Definiere eine klare [Mission und Vision](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/), die zu deiner Marke und deinen Zielen passen. Stelle sicher, dass sie inspirierend und authentisch sind.
+Definiere eine klare [Mission und Vision](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/), die zu deiner Marke und deinen Zielen passen. Stelle sicher, dass sie inspirierend und authentisch sind.
 
 **Beispiel:** Formuliere eine Mission, die den operativen Zweck deiner Marke klar und prägnant beschreibt, und eine Vision, die einen idealen zukünftigen Zustand skizziert.
 

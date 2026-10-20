@@ -25,7 +25,7 @@ Das Schlüsselwort ist hier "Entscheidung". Wenn du eine Strategie entwickelst, 
 
 ## Wie entwickle ich eine erfolgreiche Strategie?
 
-1. Klare [Vision und Mission](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/): Bevor du eine Strategie entwickelst, musst du eine klare Vision und Mission für dein Unternehmen oder Projekt haben. Wo willst du in fünf oder zehn Jahren stehen? Was ist das Hauptziel deines Unternehmens?
+1. Klare [Vision und Mission](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/): Bevor du eine Strategie entwickelst, musst du eine klare Vision und Mission für dein Unternehmen oder Projekt haben. Wo willst du in fünf oder zehn Jahren stehen? Was ist das Hauptziel deines Unternehmens?
 2. Definiere deine Vektoren: Anstatt konkrete Ziele festzulegen, überlege dir, in welche Richtungen du investieren möchtest. Willst du zum Beispiel in neue Märkte expandieren oder dich auf bestimmte Kundensegmente konzentrieren?
 3. Setze Prioritäten: Nicht alles, was machbar ist, ist auch sinnvoll. Entscheide, welche Initiativen oder Projekte am wichtigsten sind und welche zurückgestellt werden können.
 4. Mache es messbar: Auch wenn eine Strategie Vektoren und keine konkreten Ziele definiert, solltest du dennoch in der Lage sein, deine Fortschritte zu messen. Überlege dir, welche Kennzahlen oder Indikatoren dir zeigen, dass du auf dem richtigen Weg bist.

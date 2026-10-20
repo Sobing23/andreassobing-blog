@@ -1,128 +1,184 @@
 ---
-title: "Der Kaufentscheidungsprozess"
+title: "Der Kaufentscheidungsprozess: 5 Phasen nach Kotler, Einflussfaktoren und Messy Middle"
+seoTitle: "Kaufentscheidungsprozess: 5 Phasen, Beispiele und Messy Middle"
 slug: "der-kaufentscheidungsprozess"
 date: 2024-10-30T11:16:08
-description: "Der Kaufentscheidungsprozess beschreibt die Schritte, die ein Kunde durchläuft, bevor er sich für oder gegen einen Kauf entscheidet."
+updated: 2026-10-20T12:00:00
+description: "Der Kaufentscheidungsprozess erklärt: die fünf Phasen nach Kotler mit Beispiel, psychologische Einflussfaktoren, das Messy-Middle-Modell und Maßnahmen."
 image: "/wp-content/uploads/2024/10/board-3700573_6401.jpg"
 category: "psychologie"
 vgwort: "https://vg08.met.vgwort.de/na/f9bfe2332b804a8cbcd4e82d6b5c7359"
 wpId: 6602
 ---
 
-Der **Kaufentscheidungsprozess** beschreibt die Schritte, die ein Kunde durchläuft, bevor er sich für oder gegen einen Kauf entscheidet. Dieser Prozess ist für das Marketing entscheidend, da er Unternehmen dabei hilft, die Bedürfnisse der Kunden besser zu verstehen und gezielt darauf einzugehen.
+Der Kaufentscheidungsprozess beschreibt die Schritte, die ein Kunde durchläuft, bevor er sich für oder gegen einen Kauf entscheidet. Er ist das Herzstück jeder Marketingstrategie, denn er zeigt, wie Konsumenten von einem Bedürfnis zum Kauf gelangen. Wer diesen Weg kennt, kann seine Zielgruppe in jeder Phase passend ansprechen und langfristige Kundenbeziehungen aufbauen.
 
-In diesem Artikel werden wir die fünf Phasen des Kaufentscheidungsprozesses erläutern und mit Beispielen verdeutlichen, wie Unternehmen diese Phasen gezielt beeinflussen können.
+In diesem Artikel lernst du die Herkunft des Modells kennen, die fünf Phasen mit einem durchgehenden Beispiel, die wichtigsten Einflussfaktoren, das Messy-Middle-Modell von Google und konkrete Maßnahmen für dein Marketing.
+
+## Woher kommt das Modell?
+
+Philip Kotler gilt als einer der Begründer des modernen Marketings. Bereits 1967 veröffentlichte er sein Standardwerk „Marketing Management“. Darin beschreibt er den klassischen Ablauf einer Kaufentscheidung. Kotler wollte verstehen, warum Menschen bestimmte Produkte bevorzugen. Sein Modell reduziert die Komplexität menschlichen Handelns auf logische Schritte und ist bis heute Grundlage fast jedes BWL-Studiums.
+
+Neben Kotler entwickelten auch die Forscher Engel, Kollat und Blackwell wichtige Theorien zum Konsumentenverhalten. Diese Modelle werden heute oft als EKB-Modelle bezeichnet. Sie integrieren psychologische Faktoren in den Entscheidungsprozess.
 
 ## Die fünf Phasen des Kaufentscheidungsprozesses
 
-Der Kaufentscheidungsprozess besteht aus fünf Schritten: **Bedarfserkennung**, **Informationssuche**, **Bewertung von Alternativen**, **Kaufentscheidung** und **Nachkaufverhalten**. Jede Phase hat ihre eigene Bedeutung und kann durch gezielte Marketingmaßnahmen beeinflusst werden.
+Der klassische Prozess besteht aus fünf Stufen, die Kunden meist nacheinander durchlaufen:
 
-### Bedarfserkennung
+1. Bedarfserkennung
+2. Informationssuche
+3. Bewertung von Alternativen
+4. Kaufentscheidung
+5. Nachkaufverhalten
 
-Der Kaufentscheidungsprozess beginnt mit der **Bedarfserkennung**. In dieser Phase stellt der Kunde fest, dass er ein Bedürfnis hat, das er befriedigen möchte. Dieses Bedürfnis kann entweder durch ein Problem (z. B. ein defektes Gerät) oder durch einen Wunsch (z. B. ein neues Smartphone) ausgelöst werden. Unternehmen versuchen in dieser Phase, durch gezielte Werbung und emotionale Ansprache auf sich aufmerksam zu machen.
+Jede Phase hat ihre eigene Bedeutung und lässt sich durch gezielte Marketingmaßnahmen beeinflussen. Ein durchgehendes Beispiel zeigt, wie das in der Praxis aussieht: Ein Student braucht einen neuen Laptop.
 
-**Beispiel**:
-Ein Student stellt fest, dass sein Laptop langsam ist und nicht mehr alle Programme unterstützt. Er erkennt, dass er einen neuen Laptop benötigt, um effizient arbeiten zu können. Diese Bedarfserkennung markiert den Start seines Kaufentscheidungsprozesses.
+### 1. Bedarfserkennung
 
-### Informationssuche
+Der Prozess beginnt, wenn der Kunde einen Mangel bemerkt. Er möchte einen Ist-Zustand in einen Soll-Zustand verändern. Auslöser kann ein Problem sein, etwa ein defektes Gerät, oder ein Wunsch, etwa nach einem neuen Smartphone.
 
-Nach der Bedarfserkennung beginnt die **Informationssuche**. Der Kunde sucht nach Möglichkeiten, sein Bedürfnis zu befriedigen. Er informiert sich über Produkte und Dienstleistungen, die sein Problem lösen könnten. Hierbei werden persönliche Erfahrungen, Empfehlungen von Freunden oder Online-Bewertungen herangezogen.
+Der Reiz kann intern oder extern sein. Hunger ist ein interner Reiz. Eine auffällige Werbeanzeige wirkt als externer Reiz. Unternehmen versuchen in dieser Phase, durch gezielte Werbung und emotionale Ansprache auf sich aufmerksam zu machen.
 
-Die Informationssuche kann in zwei Kategorien unterteilt werden:
+**Beispiel:** Der Student stellt fest, dass sein Laptop langsam ist und nicht mehr alle Programme unterstützt. Er erkennt, dass er ein neues Gerät braucht, um effizient arbeiten zu können.
 
-- **Interne Informationssuche**: Der Kunde greift auf sein Wissen und seine Erfahrungen zurück.
-- **Externe Informationssuche**: Der Kunde recherchiert aktiv, z. B. durch das Lesen von Online-Bewertungen, Foren oder Beratungsgespräche.
+### 2. Informationssuche
 
-**Beispiel**:
-Unser Student beginnt, online nach Laptops zu suchen, die seinen Anforderungen entsprechen. Er liest Bewertungen, vergleicht Preise und schaut sich Testberichte an. In dieser Phase ist er besonders empfänglich für Werbung und Produktvergleiche.
+Nun sucht der Kunde nach Möglichkeiten, sein Bedürfnis zu befriedigen. Er informiert sich über Produkte und Dienstleistungen, die sein Problem lösen könnten. Dabei unterscheidet man zwei Arten der Suche:
 
-### Bewertung von Alternativen
+- **Interne Informationssuche:** Der Kunde greift auf sein Wissen und seine Erfahrungen zurück.
+- **Externe Informationssuche:** Der Kunde recherchiert aktiv, etwa in Online-Bewertungen, Foren oder Beratungsgesprächen.
 
-In der **Bewertungsphase** prüft der Kunde die gesammelten Informationen und vergleicht verschiedene Optionen miteinander. Diese Phase ist entscheidend, da der Kunde die verfügbaren Alternativen analysiert und abwägt, welche Option seine Bedürfnisse am besten erfüllt. Faktoren wie Preis, Qualität, Funktionalität und Marke spielen eine Rolle.
+Bei der externen Suche nutzt er verschiedene Quellen:
 
-Konsumenten greifen oft auf **Bewertungskriterien** zurück, die sie aufstellen, um ihre Wahl zu erleichtern. Diese Kriterien können individuell variieren, sind aber oft auf wichtige Faktoren wie Preis und Qualität fokussiert.
+- **Persönliche Quellen** wie Freunde oder Familie.
+- **Kommerzielle Quellen** wie Websites oder Anzeigen.
+- **Öffentliche Quellen** wie Testberichte oder Massenmedien.
+- **Erfahrungsquellen**, indem er das Produkt selbst ausprobiert.
 
-**Beispiel**:
-Der Student hat seine Suche auf drei Laptops eingegrenzt. Er bewertet die Alternativen nach den Kriterien Leistung, Akkulaufzeit und Preis-Leistungs-Verhältnis. Er erstellt eine Liste mit Vor- und Nachteilen für jedes Modell, um eine fundierte Entscheidung treffen zu können.
+**Beispiel:** Der Student sucht online nach passenden Laptops, liest Bewertungen, vergleicht Preise und schaut sich Testberichte an. In dieser Phase ist er besonders empfänglich für Werbung und Produktvergleiche.
 
-### Kaufentscheidung
+### 3. Bewertung von Alternativen
 
-Nach der Bewertung der Alternativen trifft der Kunde eine **Kaufentscheidung**. Diese Phase ist besonders spannend, da sie den eigentlichen Kaufakt beinhaltet. Verschiedene Faktoren beeinflussen die Kaufentscheidung, wie beispielsweise Sonderangebote, die Verfügbarkeit des Produkts oder das Vertrauen in die Marke.
+Der Kunde prüft die gesammelten Informationen und vergleicht die Optionen. Er wägt ab, welche Alternative seine Bedürfnisse am besten erfüllt. Preis, Qualität, Funktionalität und Marke spielen eine große Rolle, ebenso emotionale Bindungen an eine Marke.
 
-Einflussfaktoren auf die Kaufentscheidung können sein:
+Konsumenten stellen dafür oft eigene Bewertungskriterien auf. Diese unterscheiden sich von Person zu Person, drehen sich aber meist um Preis und Qualität.
 
-- **Emotionale Faktoren**: Der Kunde trifft eine Entscheidung basierend auf persönlichen Vorlieben oder Sympathie zur Marke.
-- **Rationale Faktoren**: Die Entscheidung wird auf Basis von Fakten, wie Preis und Funktionalität, getroffen.
+**Beispiel:** Der Student hat seine Auswahl auf drei Laptops eingegrenzt. Er bewertet sie nach Leistung, Akkulaufzeit und Preis-Leistungs-Verhältnis und erstellt für jedes Modell eine Liste mit Vor- und Nachteilen.
 
-**Beispiel**:
-Der Student entscheidet sich schließlich für den Laptop mit dem besten Preis-Leistungs-Verhältnis. Ein Sonderangebot, das ihm einen zusätzlichen Rabatt verschafft, überzeugt ihn davon, dass dieser Kauf die richtige Wahl ist.
+### 4. Kaufentscheidung
 
-### Nachkaufverhalten
+Jetzt bildet der Kunde eine Kaufabsicht und entscheidet sich für die bevorzugte Marke. Diese Phase umfasst den eigentlichen Kaufakt. Doch bis zum Abschluss können noch situative Faktoren eingreifen: Sonderangebote, die Verfügbarkeit des Produkts, das Vertrauen in die Marke oder die Meinung anderer Personen. Ein plötzlicher Preissturz bei der Konkurrenz kann die Entscheidung noch kippen.
 
-Das **Nachkaufverhalten** beschreibt die Phase nach dem Kauf. Hier wird analysiert, ob der Kunde zufrieden mit seiner Entscheidung ist oder ob er Zweifel (kognitive Dissonanz) hat. Unternehmen sollten darauf achten, Kunden in dieser Phase zu unterstützen, um die Zufriedenheit zu steigern und kognitive Dissonanz zu verringern. Zufriedene Kunden neigen dazu, die Marke weiterzuempfehlen und wiederholt zu kaufen.
+Die Entscheidung selbst kann unterschiedlich begründet sein:
 
-**Beispiel**:
-Nach dem Kauf des Laptops stellt der Student fest, dass das Gerät seinen Erwartungen entspricht. Er ist zufrieden und teilt seine positive Erfahrung in einer Online-Bewertung. Die Marke hat damit einen zufriedenen Kunden gewonnen, der den Laptop eventuell weiterempfiehlt und wieder bei der Marke kauft.
+- **Emotional:** Der Kunde entscheidet nach persönlichen Vorlieben oder Sympathie für die Marke.
+- **Rational:** Der Kunde entscheidet auf Basis von Fakten wie Preis und Funktionalität.
 
-## Die psychologischen Einflüsse im Kaufentscheidungsprozess
+**Beispiel:** Der Student wählt den Laptop mit dem besten Preis-Leistungs-Verhältnis. Ein Sonderangebot mit zusätzlichem Rabatt bestärkt ihn darin, dass dies die richtige Wahl ist.
 
-Der Kaufentscheidungsprozess wird von verschiedenen **psychologischen Faktoren** beeinflusst, die das Verhalten der Konsumenten in jeder Phase steuern. Hier einige der wichtigsten:
+### 5. Nachkaufverhalten
 
-### **Emotionen**
+Der Prozess endet nicht mit der Bezahlung. Nach dem Kauf vergleicht der Kunde seine Erwartungen mit der Realität. Er prüft, ob das Produkt sein Versprechen hält, oder er hat Zweifel an seiner Entscheidung. Diese Zweifel nennt man kognitive Dissonanz.
 
-Emotionen spielen eine zentrale Rolle, besonders in den Phasen der Bedarfserkennung und der Kaufentscheidung. Produkte oder Marken, die positive Emotionen auslösen, werden bevorzugt.
+Unternehmen sollten Kunden in dieser Phase unterstützen, um die Zufriedenheit zu steigern und Dissonanz zu verringern. Zufriedene Kunden kaufen wieder und empfehlen die Marke weiter. Unzufriedene Kunden verbreiten dagegen oft negative Kritik.
 
-**Beispiel**:
-Werbung, die ein bestimmtes Lebensgefühl vermittelt – wie Freiheit oder Abenteuerlust –, kann Emotionen auslösen, die den Kunden zum Kauf anregen.
+**Beispiel:** Der Laptop erfüllt die Erwartungen des Studenten. Er teilt seine positive Erfahrung in einer Online-Bewertung. Die Marke hat einen zufriedenen Kunden gewonnen, der sie eventuell weiterempfiehlt und wieder dort kauft.
 
-### **Soziale Einflüsse**
+## Das Messy-Middle-Modell von Google
 
-Soziale Einflüsse wie Meinungen von Freunden, Familie und Online-Bewertungen spielen eine große Rolle, besonders in der Phase der Informationssuche.
+Die digitale Welt hat den Entscheidungsweg deutlich komplexer gemacht. Kunden durchlaufen die Phasen nicht mehr sauber nacheinander, sondern springen zwischen ihnen hin und her. Google hat den klassischen Funnel deshalb weiterentwickelt und nennt diesen unübersichtlichen Bereich zwischen Auslöser und Kauf das „Messy Middle“.
 
-**Beispiel**:
-Ein Freund empfiehlt dem Studenten einen bestimmten Laptop, was seine Entscheidung stark beeinflusst.
+- **Exploration** beschreibt das Ausweiten der Optionen.
+- **Evaluierung** meint das Eingrenzen der Möglichkeiten.
+- Kunden wechseln oft in einer Schleife zwischen beiden Modi.
+- Kognitive Verzerrungen steuern das Verhalten in dieser Phase.
+- Präsenz ist in dieser Mitte entscheidend: Wer hier nicht sichtbar ist, wird nicht in Betracht gezogen.
 
-### **Erfahrungen und Gewohnheiten**
+Für das Marketing heißt das: Das Fünf-Phasen-Modell bleibt als Struktur nützlich. Du solltest aber nicht erwarten, dass jeder Kunde es linear durchläuft.
 
-Frühere Erfahrungen mit einer Marke oder einem Produkt prägen die Einstellung des Kunden. Positive Erfahrungen erhöhen die Wahrscheinlichkeit eines Wiederkaufs.
+## Welche Faktoren beeinflussen die Kaufentscheidung?
 
-**Beispiel**:
-Der Student hatte bereits gute Erfahrungen mit der Marke seines alten Laptops gemacht und bevorzugt daher auch beim neuen Laptop dieselbe Marke.
+Das Kaufverhalten wird von vielen Faktoren gesteuert, die du in deinem Marketingplan berücksichtigen solltest. Klassisch werden vier Gruppen unterschieden:
 
-## So beeinflussen Unternehmen den Kaufentscheidungsprozess
+- **Kulturelle Faktoren** wie soziale Schichten oder Subkulturen.
+- **Soziale Faktoren** wie Referenzgruppen oder die Familie.
+- **Persönliche Faktoren** wie Alter oder Beruf.
+- **Psychologische Faktoren** wie Motivation oder Wahrnehmung.
 
-Unternehmen nutzen verschiedene Marketingstrategien, um den Kaufentscheidungsprozess zu beeinflussen und den Kunden zu einer positiven Kaufentscheidung zu bewegen.
+Drei psychologische und soziale Einflüsse wirken in der Praxis besonders stark.
 
-### **Bedarf wecken**
+### Emotionen
 
-Durch gezielte Werbung und das Hervorheben von Problemlösungen versuchen Unternehmen, bereits in der Phase der Bedarfserkennung präsent zu sein.
+Emotionen spielen vor allem bei der Bedarfserkennung und der Kaufentscheidung eine zentrale Rolle. Produkte oder Marken, die positive Gefühle auslösen, werden bevorzugt.
 
-**Beispiel**:
-Ein Unternehmen, das Smartphones herstellt, bewirbt neue Funktionen, die die Aufmerksamkeit der Kunden wecken und den Bedarf nach einem neueren Modell hervorrufen.
+**Beispiel:** Werbung, die ein Lebensgefühl wie Freiheit oder Abenteuerlust vermittelt, kann Emotionen wecken, die zum Kauf anregen.
 
-### **Informationsbereitstellung**
+### Soziale Einflüsse
 
-Unternehmen stellen Informationen über Produkte auf verschiedenen Kanälen bereit, wie Websites, Broschüren oder Social Media. So wird die Informationssuche des Kunden erleichtert.
+Die Meinungen von Freunden, Familie und Online-Bewertungen wirken besonders in der Informationssuche.
 
-**Beispiel**:
-Ein Elektronikhändler bietet umfassende Produktbeschreibungen und Vergleichstools auf seiner Website, um Kunden bei der Auswahl zu unterstützen.
+**Beispiel:** Ein Freund empfiehlt dem Studenten einen bestimmten Laptop. Das beeinflusst seine Entscheidung stark.
 
-### **Anreize bieten**
+### Erfahrungen und Gewohnheiten
 
-Sonderangebote, Rabatte und kostenlose Testversionen helfen Unternehmen, Kunden in der Bewertungs- und Entscheidungsphase zu überzeugen.
+Frühere Erfahrungen mit einer Marke prägen die Einstellung des Kunden. Positive Erfahrungen erhöhen die Wahrscheinlichkeit eines Wiederkaufs.
 
-**Beispiel**:
-Ein Online-Shop gewährt einen Rabattcode für Neukunden, was den Kaufanreiz steigert und die Entscheidung für das Unternehmen beeinflusst.
+**Beispiel:** Der Student hatte gute Erfahrungen mit der Marke seines alten Laptops und bevorzugt sie deshalb auch beim neuen Gerät.
 
-### **Kundenbindung und Nachbetreuung**
+## So beeinflusst du den Kaufentscheidungsprozess
 
-Die Pflege der Kundenbeziehung nach dem Kauf, z. B. durch Kundenservice oder gezielte E-Mails, hilft, das Nachkaufverhalten positiv zu beeinflussen.
+Jede Phase braucht eine eigene Ansprache. Diese Maßnahmen haben sich bewährt.
 
-**Beispiel**:
-Ein Softwareanbieter bietet nach dem Kauf Support und Tutorials, um sicherzustellen, dass der Kunde das Produkt optimal nutzen kann und zufrieden bleibt.
+### Bedarf wecken
 
-## Fazit: Der Kaufentscheidungsprozess als Grundlage für erfolgreiche Marketingstrategien
+Mit gezielter Werbung, emotionalem Storytelling und dem Hervorheben von Problemlösungen bist du schon bei der Bedarfserkennung präsent.
 
-Der Kaufentscheidungsprozess ist ein wichtiger Bestandteil des Marketings. Indem Unternehmen die fünf Phasen – Bedarfserkennung, Informationssuche, Bewertung von Alternativen, Kaufentscheidung und Nachkaufverhalten – verstehen und gezielt darauf eingehen, können sie das Konsumentenverhalten positiv beeinflussen und langfristige Kundenbeziehungen aufbauen.
+**Beispiel:** Ein Smartphone-Hersteller bewirbt neue Funktionen, die Aufmerksamkeit erzeugen und den Wunsch nach einem neueren Modell wecken.
 
-Sieh dir auch diesen Beitrag an:  [Der Turbo für deine Kommunikation: Das FUEL Coaching Modell](/der-turbo-fuer-deine-kommunikation-das-fuel-coaching-modell/)
+### Informationen bereitstellen
+
+Biete relevante Informationen auf deiner Website, in Broschüren und in sozialen Medien an. SEO und Content-Marketing sorgen dafür, dass Kunden dich bei ihrer Recherche finden.
+
+**Beispiel:** Ein Elektronikhändler bietet ausführliche Produktbeschreibungen und Vergleichstools auf seiner Website.
+
+### Alleinstellungsmerkmale zeigen und Anreize bieten
+
+Hebe deine Alleinstellungsmerkmale (USP) deutlich hervor. Sonderangebote, Rabatte und kostenlose Testversionen helfen, Kunden in der Bewertungs- und Entscheidungsphase zu überzeugen.
+
+**Beispiel:** Ein Online-Shop gewährt Neukunden einen Rabattcode und erhöht so den Kaufanreiz.
+
+### Kauf erleichtern
+
+Vereinfache den Bezahlvorgang und setze Vertrauenssignale ein, damit die Entscheidung nicht kurz vor dem Abschluss scheitert.
+
+### Kunden nach dem Kauf begleiten
+
+Pflege die Beziehung nach dem Kauf durch Kundenservice oder gezielte E-Mails und frage aktiv nach Feedback. So beeinflusst du das Nachkaufverhalten positiv.
+
+**Beispiel:** Ein Softwareanbieter bietet nach dem Kauf Support und Tutorials, damit der Kunde das Produkt optimal nutzt und zufrieden bleibt.
+
+## Zusammenfassung
+
+| Phase / Begriff | Kernbotschaft | Marketing-Maßnahme |
+| --- | --- | --- |
+| Bedarfserkennung | Ein Problem wird bewusst. | Aufmerksamkeit durch Werbung erzeugen. |
+| Informationssuche | Lösungen werden recherchiert. | SEO und Content-Marketing nutzen. |
+| Bewertung | Alternativen werden verglichen. | USPs und Vorteile klar kommunizieren. |
+| Kaufentscheidung | Der Kauf wird vollzogen. | Vertrauenssignale und einfachen Checkout bieten. |
+| Nachkaufverhalten | Erwartungen werden überprüft. | Support anbieten, Feedback einholen. |
+| Messy Middle | Kreisförmiger Entscheidungsweg. | Durchgehend präsent und hilfreich sein. |
+
+## Fazit
+
+Der Kaufentscheidungsprozess ist eine wichtige Grundlage für erfolgreiche Marketingstrategien. Wer die fünf Phasen Bedarfserkennung, Informationssuche, Bewertung von Alternativen, Kaufentscheidung und Nachkaufverhalten versteht, kann Kunden in jeder Phase gezielt ansprechen. Das Messy-Middle-Modell ergänzt diese Sicht um die Erkenntnis, dass digitale Entscheidungen selten linear verlaufen. Ein tiefes Verständnis des Prozesses sichert dir langfristig Wettbewerbsvorteile und stabile Kundenbeziehungen.
+
+Sieh dir auch diese Beiträge an:
+
+- [Der Turbo für deine Kommunikation: Das FUEL Coaching Modell](/der-turbo-fuer-deine-kommunikation-das-fuel-coaching-modell/)
+- [5 Tipps zur Erhöhung der Kundenbindung durch Social Commerce](/5-tipps-zur-erhohung-der-kundenbindung-durch-social-commerce/)
+
+## Quellen
+
+- [Phasen des Kaufprozess nach Kotler](https://www.groissberger.at/phasen-des-kaufprozesses-nach-kotler/)
+- [How people decide what to buy lies in the ‘messy middle’ of the purchase journey](https://business.google.com/en-all/think/consumer-insights/navigating-purchase-behavior-and-decision-making/)
+- [The Engel-Kollat-Blackwell (EKB) model of Consumer Behaviour](https://brandtherapy.uk/the-engel-kollat-blackwell-ekb-model-of-consumer-behaviour/)

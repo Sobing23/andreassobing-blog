@@ -51,4 +51,4 @@ Erzähle von einem Moment, der alles für dich verändert hat, in dem du deine I
 
 Fasse dein Hauptthema kurz zusammen und gib deinen Zuhörern einen Handlungsauftrag. Rufe zum Handeln auf, um dein Publikum aufzurütteln und andere zu inspirieren, sich dir anzuschließen.
 
-Kennst du auch den [Zeitfresser Meeting](/zeitfresser-meeting-und-9-gegenmassnahmen/)? Dann habe ich 9  Gegenmaßnahmen für dich.
+Kennst du auch den [Zeitfresser Meeting](/tipps-fuer-effektive-meetings/)? Dann habe ich 9  Gegenmaßnahmen für dich.

@@ -1,62 +1,91 @@
 ---
-title: "OKR im Change Management"
+title: "OKR im Change Management: Veränderungen mit klaren Zielen steuern"
+seoTitle: "OKR im Change Management: Phasen, Schritte und Beispiele"
 slug: "okr-im-change-management"
 date: 2023-11-24T15:33:16
-description: "OKR im Change Management: In der heutigen schnelllebigen Geschäftswelt sind solche Veränderungen unvermeidlich."
+updated: 2026-10-20T12:00:00
+description: "OKR im Change Management: wie Objectives and Key Results Veränderungen in jeder Phase unterstützen, mit sechs Schritten, Beispiel-OKRs und Tipps zur Software."
 image: "/wp-content/uploads/2023/11/change-948008_6402.jpg"
 category: "strategie"
 vgwort: "https://vg08.met.vgwort.de/na/2e5bfa79e06b4130bb6e8f02abad0360"
 wpId: 5812
 ---
 
-OKR im Change Management: In der heutigen schnelllebigen Geschäftswelt sind Veränderungen unvermeidlich. Aber wie stellt man sicher, dass diese Veränderungen erfolgreich sind? Hier kommen OKRs (Objectives and Key Results) ins Spiel in Verbindung mit dem Change Management.
+In der heutigen schnelllebigen Geschäftswelt sind Veränderungen unvermeidlich. Ein wirksames Change Management ist deshalb entscheidend für den Erfolg eines Unternehmens. Doch wie stellst Du sicher, dass Veränderungen tatsächlich gelingen? Hier kommen OKRs (Objectives and Key Results) ins Spiel. Sie geben Veränderungsvorhaben klare Ziele und machen den Fortschritt messbar.
 
 ## Was ist Change Management?
 
-[Change Management](/die-change-formel-ein-kompass-fuer-veraenderungen/) ist der Prozess der Planung, Anpassung und Umsetzung strategischer Veränderungen in einer Organisation. Es umfasst die Ausrichtung von Prozessen, Systemen, Kultur und Strategie auf einen gewünschten Endzustand.
+[Change Management](/die-change-formel-ein-kompass-fuer-veraenderungen/) ist der Prozess der Planung, Anpassung und Umsetzung strategischer Veränderungen in einer Organisation. Es umfasst die Ausrichtung von Prozessen, Systemen, Kultur und Strategie auf einen gewünschten Zielzustand. Change Management findet sowohl auf organisatorischer als auch auf individueller Ebene statt. Es reicht von kleinen, schrittweisen Anpassungen bis zu umfassenden Transformationen.
 
-## Arten von Change Management
+## Arten von Wandel
 
-1. **Entwicklungswandel**: Kontinuierliche Verbesserung von Prozessen und Strukturen.
-2. **Transitional Change**: Temporäre Veränderungen, oft projekt- oder strategiebezogen.
-3. **Transformation Change**: Tiefgreifende, organisationsweite Veränderungen.
+1. Entwicklungswandel: Kontinuierliche Verbesserung bestehender Prozesse und Strukturen.
+2. Übergangswandel (Transitional Change): Vorübergehende Veränderungen, meist im Zusammenhang mit einem bestimmten Projekt oder einer Strategie.
+3. Transformativer Wandel (Transformational Change): Tiefgreifende Veränderungen, die die gesamte Organisation betreffen.
+
+## Die drei Phasen des Change Managements
+
+1. Vorbereitung: Die Grundlagen für die Veränderung schaffen.
+2. Umsetzung: Den Plan in die Tat umsetzen.
+3. Nachhaltigkeit: Die Veränderungen dauerhaft in der Unternehmenskultur verankern.
 
 ## Was sind OKRs?
 
-OKRs sind ein Rahmenwerk für die Festlegung ehrgeiziger, zeitgebundener und messbarer Ziele auf allen Ebenen einer Organisation. Sie bestehen aus Zielen (Objectives) und Schlüsselergebnissen (Key Results).
+[OKRs](/was-sind-okrs/) sind ein Rahmenwerk, um ehrgeizige, zeitlich begrenzte und messbare Ziele auf allen Ebenen einer Organisation festzulegen. Sie bestehen aus zwei Komponenten:
 
-## Warum OKRs und Veränderungsmanagement zusammengehören
+- Objectives (Ziele): Die qualitative Beschreibung dessen, was erreicht werden soll.
+- Key Results (Schlüsselergebnisse): Die quantitative Messung des Fortschritts auf dem Weg dorthin.
 
-1. Vorbereitung: OKRs helfen, klare Ziele zu setzen und Engagement für Veränderungen zu schaffen.
-2. Umsetzung: OKRs erleichtern die Verfolgung von Fortschritten und die proaktive Lösung von Problemen.
-3. Nachhaltigkeit: OKRs stellen sicher, dass Veränderungen langfristig Bestand haben.
+## Warum OKRs und Change Management zusammengehören
 
-## OKRs und die 6 Schritte des Veränderungsmanagements
+OKRs ergänzen jede Phase des Change Managements. Sie setzen klare Ziele und fördern die Beteiligung der Stakeholder.
 
-1. Erkennen des Veränderungsbedarfs
-2. Umfassenden Plan mit handlungsorientierten Zielen erstellen
+### Vorbereitungsphase
+
+In der Vorbereitung helfen OKRs, klare Ziele zu definieren und Engagement für die Veränderung zu schaffen. Wer weiß, wohin die Reise geht und woran Erfolg gemessen wird, lässt sich leichter für den Wandel gewinnen. So gewinnst Du die Unterstützung der Stakeholder für die anstehenden Veränderungen.
+
+### Umsetzungsphase
+
+In der Umsetzung brechen OKRs die Ziele in konkrete, messbare Ergebnisse herunter. Das erleichtert die Nachverfolgung des Fortschritts. Probleme werden früh sichtbar und lassen sich proaktiv lösen.
+
+### Nachhaltigkeitsphase
+
+In der Nachhaltigkeitsphase sorgen OKRs dafür, dass Veränderungen langfristig Bestand haben. Sie fördern kontinuierliche Verbesserung und stärken das Commitment der Beteiligten.
+
+## OKRs und die sechs Schritte des Change Managements
+
+Innerhalb der drei Phasen lässt sich ein Veränderungsvorhaben in sechs Schritte gliedern. In jedem Schritt spielen OKRs eine Rolle:
+
+1. Veränderungsbedarf erkennen
+2. Einen umfassenden Plan mit handlungsorientierten Zielen erstellen
 3. Stakeholder einbeziehen
-4. Change Management Plan umsetzen
+4. Den Change-Management-Plan umsetzen
 5. Feedback einholen und iterieren
-6. Veränderung in der Unternehmenskultur verankern
+6. Die Veränderung in der Unternehmenskultur verankern
 
-## Beispiele für Change Management OKRs
+## Beispiele für Change-Management-OKRs
 
-- Neue Technologie einführen: Ziel ist die Einführung einer neuen strategischen Plattform mit messbaren Schlüsselergebnissen wie z.B. hohe Schulungsbeteiligung und Benutzerfreundlichkeit.
-- Innovation vorantreiben: Ziel ist es, Innovation in den Mittelpunkt der Organisation zu stellen, mit messbaren Ergebnissen wie z.B. einer erhöhten Anzahl neuer Produkteinführungen.
-- Nachhaltigkeit fördern: Ziel ist die Förderung nachhaltiger Verhaltensweisen der Mitarbeiter, mit Schlüsselergebnissen wie der Erhöhung der nachhaltigen Pendlerquote.
+- Neue Technologie einführen: Ziel ist die Einführung einer neuen strategischen Plattform. Messbare Schlüsselergebnisse sind zum Beispiel eine hohe Schulungsbeteiligung und eine hohe Nutzerakzeptanz.
+- Innovation vorantreiben: Ziel ist, Innovation in den Mittelpunkt der Organisation zu stellen. Ein messbares Ergebnis ist eine höhere Zahl an Produkteinführungen aus internen Innovationsprozessen.
+- Nachhaltigkeit fördern: Ziel ist, nachhaltige Verhaltensweisen der Mitarbeitenden zu fördern und den ökologischen Fußabdruck zu verringern. Ein Schlüsselergebnis ist zum Beispiel ein höherer Anteil an Mitarbeitenden, die nachhaltig zur Arbeit pendeln.
 
-## Schlussfolgerung
+## Die Rolle von OKR-Software
 
-OKRs sind ein unverzichtbares Instrument im Change Management. Sie helfen, Veränderungen zu strukturieren, messbar zu machen und nachhaltig in der Unternehmenskultur zu verankern.
+OKR-Software verbindet das Change Management mit OKRs im Tagesgeschäft. Sie dient als zentrale Plattform, um OKRs zu setzen, zu verfolgen und zu verwalten. Alle Beteiligten sehen jederzeit den aktuellen Stand. Das fördert eine wirksame Kommunikation im gesamten Unternehmen.
 
-## Tabelle: Zusammenfassung des Artikels
+## Zusammenfassung
 
-| Schritt | Beschreibung | OKR-Beispiel |
+| Aspekt | Beschreibung | Beitrag der OKRs |
 | --- | --- | --- |
+| Change Management | Planung und Durchführung von Veränderungen | Klare Ausrichtung auf einen Zielzustand |
 | Vorbereitung | Grundlage für den Wandel schaffen | Klare Ziele setzen, Engagement fördern |
-| Umsetzung | Plan in Aktion umsetzen | Fortschritte tracken, Probleme proaktiv lösen |
-| Nachhaltigkeit | Veränderungen in Kultur integrieren | Langfristige Beständigkeit sicherstellen |
+| Umsetzung | Plan in die Tat umsetzen | Fortschritte verfolgen, Probleme proaktiv lösen |
+| Nachhaltigkeit | Veränderungen in der Kultur verankern | Langfristige Beständigkeit sichern |
 | Beispiele | Konkrete Anwendungsfälle | Neue Technologien, Innovation, Nachhaltigkeit |
+| OKR-Software | Zentrale Plattform | Setzen, Verfolgen und Kommunizieren von OKRs |
 
-Weitere Information zum Thema Change Management OKR findes du auf der [Seite von Quantive.](https://quantive.com/resources/articles/okr-change-management)
+## Fazit
+
+OKRs sind ein wirksames Instrument im Change Management. Sie geben Veränderungen eine Struktur, machen sie messbar und helfen, sie nachhaltig in der Unternehmenskultur zu verankern. Durch die klare Definition von Zielen und messbaren Ergebnissen können Unternehmen Veränderungen gezielter steuern und Transformationen erfolgreich umsetzen.
+
+Weitere Informationen zum Thema Change Management und OKR findest Du auf der [Seite von Quantive](https://quantive.com/resources/articles/okr-change-management). Lerne auf meinem Blog auch das Thema [Kanban](/kanban-optimiert-deinen-arbeitsfluss/) kennen.

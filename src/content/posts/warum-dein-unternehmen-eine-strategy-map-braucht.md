@@ -40,10 +40,10 @@ Diese gliedert sich in vier Hauptbereiche:
 
 ## So implementierst du eine Strategy Map
 
-- [Vision & Mission](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/): Entwickle eine klare Vision und Mission für dein Unternehmen.
+- [Vision & Mission](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/): Entwickle eine klare Vision und Mission für dein Unternehmen.
 - Marktanalyse: Verstehe das Marktpotenzial und finde Marktlücken.
 - Unternehmensstrategie: Definiere klare Ziele und Metriken.
-- [Balanced Scorecard](/balanced-scorecard-fuer-nachhaltigen-erfolg/): Erstelle eine erste Übersicht.
+- [Balanced Scorecard](/balanced-scorecard-einfach-erklaert/): Erstelle eine erste Übersicht.
 - Visualisierung: Verbinde alle Elemente visuell auf der Strategy Map.
 
 ## Fazit

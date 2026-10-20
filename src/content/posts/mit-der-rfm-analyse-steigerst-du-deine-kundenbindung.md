@@ -37,4 +37,4 @@ Zunächst ist es wichtig, sich daran zu erinnern, dass die RFM-Analyse auf dem K
 
 Außerdem kann die RFM-Analyse nur so gut sein wie die Daten, auf denen sie basiert. Stelle sicher, dass Deine Daten korrekt und aktuell sind, bevor Du mit der Analyse beginnst.
 
-Andere Methoden wie die Kundenlebenswertanalyse ([CLV](/die-vorteile-der-clv-segmentierung-fuer-dein-unternehmen/)), das [Aaker-Modell](/mit-dem-aaker-modell-baust-du-eine-starke-marke-auf/) oder das [PXL-Framework](/priorisieren-mit-dem-pxl-framework/) können ebenfalls wertvolle Einblicke liefern. Es geht darum, das richtige Werkzeug für die richtige Aufgabe zu finden.
+Andere Methoden wie die Kundenlebenswertanalyse ([CLV](/die-vorteile-der-clv-segmentierung-fuer-dein-unternehmen/)), das [Aaker-Modell](/aakers-5-dimensionen-modell/) oder das [PXL-Framework](/priorisieren-mit-dem-pxl-framework/) können ebenfalls wertvolle Einblicke liefern. Es geht darum, das richtige Werkzeug für die richtige Aufgabe zu finden.

@@ -99,4 +99,4 @@ Der **Aufbau einer SEO-Strategie** ist ein essenzieller Schritt für jedes Unter
 
 Durch die regelmäßige Analyse und Anpassung der Strategie können Unternehmen langfristig von SEO profitieren und ihre Reichweite stetig vergrößern.
 
-Sieh dir auch diesen Beitrag aus dem SEO Bereich von mir an: [Warum du eine Pillar Page auf deiner Webseite brauchst](/warum-du-eine-pillar-page-auf-deiner-webseite-brauchst/)
+Sieh dir auch diesen Beitrag aus dem SEO Bereich von mir an: [Warum du eine Pillar Page auf deiner Webseite brauchst](/effektive-inhalte-mit-pillar-seiten/)

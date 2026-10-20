@@ -86,4 +86,4 @@ Die Human Brand Identity nach Meffert und Burmann ist ein Ansatz, der darauf abz
 
 Die menschliche Markenidentität nach Meffert/Burmann bietet einen tiefgehenden Einblick, wie Du Deine Marke in den Augen Deiner Kunden zum Leben erwecken kannst. Durch die Betonung von Persönlichkeit, Werten, Emotionalität und Beziehungen kann Deine Marke eine tiefere Verbindung und Loyalität aufbauen. Nutze diesen Ansatz, um Deiner Marke eine unverwechselbare und ansprechende Identität zu verleihen, die in der heutigen überfüllten Marktlandschaft hervorsticht.
 
-Weitere Infos findest du bei [c-hoch-zwei auf deren Seite](https://c-hochzwei.com/2021/01/02/markenidentitaetsmodelle-eine-uebersicht/). Lerne übrigens auch das [Aaker Modell](/mit-dem-aaker-modell-baust-du-eine-starke-marke-auf/) kennen.
+Weitere Infos findest du bei [c-hoch-zwei auf deren Seite](https://c-hochzwei.com/2021/01/02/markenidentitaetsmodelle-eine-uebersicht/). Lerne übrigens auch das [Aaker Modell](/aakers-5-dimensionen-modell/) kennen.

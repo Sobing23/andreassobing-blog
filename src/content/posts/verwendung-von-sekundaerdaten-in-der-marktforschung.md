@@ -162,4 +162,4 @@ Die Nutzung von Sekundärdaten in der Marktforschung bietet viele Vorteile, insb
 
 Sekundärdaten sind ein wichtiges Instrument, das in Kombination mit Primärdaten wertvolle Einblicke in Märkte, Verbraucherverhalten und wirtschaftliche Trends bietet. Wenn du lernst, diese Daten richtig zu nutzen, kannst du fundierte Entscheidungen treffen und deine Forschungsarbeit oder Unternehmensstrategie verbessern.
 
-Sieh dir auch diesen Beitrag von mir an: [Das 7-S-Modell: Ein umfassender Blick auf Unternehmenserfolg](/das-7-s-modell-ein-umfassender-blick-auf-unternehmenserfolg/)
+Sieh dir auch diesen Beitrag von mir an: [Das 7-S-Modell: Ein umfassender Blick auf Unternehmenserfolg](/das-mckinsey-7-s-modell/)

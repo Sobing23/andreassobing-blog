@@ -90,4 +90,4 @@ Basierend auf deiner Analyse, entwickle Strategien zur Verbesserung der Kundener
 
 Customer Journey Mapping ist mehr als nur eine Technik; es ist eine Philosophie, die den Kunden in den Mittelpunkt stellt. Es hilft dir, empathisch zu sein und deine Produkte oder Dienstleistungen aus der Perspektive des Kunden zu sehen.
 
-Lerne noch weitere spannende [Eindrücke der Customer Journey](/phasen-der-customer-journey/) kennen.
+Lerne noch weitere spannende [Eindrücke der Customer Journey](/die-customer-journey/) kennen.

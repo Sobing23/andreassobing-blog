@@ -35,4 +35,4 @@ Ein weiterer wichtiger Punkt ist die Bedeutung von Authentizität und einer star
 
 Diese Beispiele zeigen, wie Phil Knight und Nike mit Herausforderungen umgingen und wie sie Risiken eingingen, um ihre Vision zu verwirklichen. Sie zeigen auch, wie wichtig Kreativität und Zusammenhalt sind, um ein erfolgreiches Unternehmen aufzubauen.
 
-Weißt du auch warum du eine [Mission und Vision für dein Unternehmen](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/) benötigst?
+Weißt du auch warum du eine [Mission und Vision für dein Unternehmen](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/) benötigst?

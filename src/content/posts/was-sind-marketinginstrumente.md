@@ -25,10 +25,10 @@ Der Grundstein für die heute bekannten Marketinginstrumente wurde in den 1960er
 
 ## Beispiele von Marketinginstrumenten
 
-1. [Produktpolitik](/die-4ps-fuer-deinen-marketing-mix/): Hier geht es um Gestaltung, Qualität, Sortiment und Markenführung eines Produktes.
+1. [Produktpolitik](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/): Hier geht es um Gestaltung, Qualität, Sortiment und Markenführung eines Produktes.
 2. [Preispolitik](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/): Hier geht es um Preisgestaltung und Preisstrategie.
 3. [Distributionspolitik](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/): Hier geht es um Vertriebswege und Logistik.
-4. [Kommunikationspolitik](/die-4ps-fuer-deinen-marketing-mix/): Hier geht es um Werbung, PR, Verkaufsförderung und mehr.
+4. [Kommunikationspolitik](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/): Hier geht es um Werbung, PR, Verkaufsförderung und mehr.
 
 ## Statistischer Auszug
 

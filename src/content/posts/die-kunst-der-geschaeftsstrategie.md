@@ -13,7 +13,7 @@ Aber was genau ist eine Geschäftsstrategie und warum ist sie so wichtig? In die
 
 ## 1. Das Fundament deiner Geschäftsstrategie
 
-Deine Unternehmensstrategie beginnt mit deiner [Vision und Mission](/die-kunst-einer-wirkungsvollen-vision-und-mission/). Sie definiert, was du erreichen willst und wie du es erreichst. Sie ist der Masterplan, an dem sich alle deine Taktiken und Methoden orientieren.
+Deine Unternehmensstrategie beginnt mit deiner [Vision und Mission](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/). Sie definiert, was du erreichen willst und wie du es erreichst. Sie ist der Masterplan, an dem sich alle deine Taktiken und Methoden orientieren.
 
 ## 2. Die Bedeutung der Geschäftsstrategie:
 

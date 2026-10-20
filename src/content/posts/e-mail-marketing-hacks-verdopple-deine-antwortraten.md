@@ -47,7 +47,7 @@ E-Mail-Marketing-Hacks: E-Mail-Marketing ist eine Kunst und Wissenschaft zugleic
 
 ## Fazit
 
-Mit den [Tipps von Matt Heinz](https://blog.hubspot.com/marketing/email-marketing-hacks-matt-heinz) kannst Du Deine E-Mail-Kampagnen optimieren und Deine Antwortraten signifikant steigern. Denke daran, es geht nicht nur darum, E-Mails zu versenden, sondern eine Geschichte zu erzählen und eine Beziehung zu Deinen Kunden aufzubauen. Sieh  dir auch die [4Ps für deinen Marketing Mix](/die-4ps-fuer-deinen-marketing-mix/) an.
+Mit den [Tipps von Matt Heinz](https://blog.hubspot.com/marketing/email-marketing-hacks-matt-heinz) kannst Du Deine E-Mail-Kampagnen optimieren und Deine Antwortraten signifikant steigern. Denke daran, es geht nicht nur darum, E-Mails zu versenden, sondern eine Geschichte zu erzählen und eine Beziehung zu Deinen Kunden aufzubauen. Sieh  dir auch die [4Ps für deinen Marketing Mix](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/) an.
 
 ## Aktualisierung Oktober 2026
 

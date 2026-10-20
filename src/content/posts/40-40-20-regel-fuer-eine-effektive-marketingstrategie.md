@@ -36,4 +36,4 @@ Einer der **Vorteile** der 40-40-20 Regel ist, dass sie dir hilft, dich auf die 
 
 Ein **Nachteil** dieser Regel ist, dass sie möglicherweise nicht für alle Arten von Marketingkampagnen geeignet ist. Wenn du zum Beispiel eine Online-Marketingkampagne durchführst, kann das Design wichtiger sein als 20 % deiner Ressourcen. Es ist wichtig, die Regel als Leitfaden zu betrachten und sie nicht blind zu befolgen.
 
-[Kennst du schon die 4Ps für deinen Marketing Mix?](/die-4ps-fuer-deinen-marketing-mix/)
+[Kennst du schon die 4Ps für deinen Marketing Mix?](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/)

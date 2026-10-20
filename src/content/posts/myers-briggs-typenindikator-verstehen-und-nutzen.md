@@ -182,4 +182,4 @@ Der **Myers-Briggs-Typenindikator** ist kein Allheilmittel, aber ein wertvoller 
 - McCrae, R. R. & Costa, P. T. (1989): *Reinterpreting the Myers-Briggs Type Indicator From the Perspective of the Five-Factor Model*. Journal of Personality.
 - CPP Inc. (2023): *MBTI® Step II Technical Brief.*
 
-Sieh dir auch diesen Beitrag von mir an: [Zeitfresser Meeting und 9 Gegenmaßnahmen](/zeitfresser-meeting-und-9-gegenmassnahmen/)
+Sieh dir auch diesen Beitrag von mir an: [Zeitfresser Meeting und 9 Gegenmaßnahmen](/tipps-fuer-effektive-meetings/)

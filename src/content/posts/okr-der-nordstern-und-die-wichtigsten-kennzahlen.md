@@ -17,7 +17,7 @@ Der Nordstern ist mehr als nur eine Kennzahl, er ist ein Leitbild, das jedem im 
 
 ## Die wichtigsten Kennzahlen
 
-Neben dem Nordstern gibt es die so genannten "**Topline Measures**", also die wichtigsten unternehmensweiten Erfolgskennzahlen. Diese Kennzahlen sind entscheidend, um den Fortschritt in Richtung des Nordsterns, des strategischen Plans sowie der [Mission und Vision](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/) des Unternehmens zu maximieren. Sie können sich häufiger ändern als der Nordstern selbst, bleiben aber oft über die Zeit als Hauptunterstützung für die Erreichung des Nordsterns bestehen.
+Neben dem Nordstern gibt es die so genannten "**Topline Measures**", also die wichtigsten unternehmensweiten Erfolgskennzahlen. Diese Kennzahlen sind entscheidend, um den Fortschritt in Richtung des Nordsterns, des strategischen Plans sowie der [Mission und Vision](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/) des Unternehmens zu maximieren. Sie können sich häufiger ändern als der Nordstern selbst, bleiben aber oft über die Zeit als Hauptunterstützung für die Erreichung des Nordsterns bestehen.
 Anwendung in deinem Unternehmen
 
 ## Wie kannst du diesen Ansatz in deinem Unternehmen anwenden?

@@ -38,4 +38,4 @@ Außerdem musst du einen effizienten Weg finden, deine Produkte zu versenden und
 
 Das D2C-Modell bietet viele Vorteile, aber auch Herausforderungen. Mit der richtigen Planung und Umsetzung kannst du jedoch ein erfolgreiches D2C-Geschäft aufbauen und die direkte Verbindung zu deinen Kunden nutzen, um dein Geschäft zu verbessern und zu wachsen.
 
-Lerne auch die [4Ps für deinen Marketing Mix](/die-4ps-fuer-deinen-marketing-mix/) kennen.
+Lerne auch die [4Ps für deinen Marketing Mix](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/) kennen.

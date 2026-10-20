@@ -56,4 +56,4 @@ Stell dir vor, du planst eine Marketingkampagne für ein neues Produkt:
 
 Mit der Methode behält man den Überblick, auch wenn der Marketingalltag hektisch wird. Indem du lernst, die wirklich wichtigen Aufgaben von den weniger wichtigen zu unterscheiden, kannst du sicherstellen, dass du das Wichtigste immer zuerst erledigst.
 
-Kennst du bereits die verschiedenen Phasen der [Customer Journey](/phasen-der-customer-journey/)?
+Kennst du bereits die verschiedenen Phasen der [Customer Journey](/die-customer-journey/)?

@@ -75,4 +75,4 @@ Technologie nutzen: Digitale Kalender wie Google Calendar oder Microsoft Outlook
 
 Zeitblockierung ist ein mächtiges Werkzeug, das, wenn es richtig eingesetzt wird, dazu beitragen kann, deine Produktivität erheblich zu steigern und gleichzeitig Stress abzubauen. Durch die bewusste Zuweisung von Zeit für bestimmte Aufgaben und Ziele kannst du sicherstellen, dass deine wertvollste Ressource - Zeit - effizient genutzt wird.
 
-Sieh dir auch diesen Artikel von mir an: [Kotters 8-Schritte-Modell zur Steuerung der Marketingveränderungen](/kotters-8-schritte-modell-zur-steuerung-der-marketingveraenderungen/)
+Sieh dir auch diesen Artikel von mir an: [Kotters 8-Schritte-Modell zur Steuerung der Marketingveränderungen](/kotters-8-stufen-modell/)

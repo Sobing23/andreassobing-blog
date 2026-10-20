@@ -29,4 +29,4 @@ Ein weiteres wichtiges Anwendungsgebiet von KI im Marketing ist die Verhaltensvo
 8. [Persado](https://www.persado.com/): Persado ist eine KI-basierte Lösung, die es Unternehmen ermöglicht, personalisierte E-Mail- und SMS-Kampagnen zu erstellen. Es nutzt NLP und ML, um die besten Botschaften für jeden Empfänger zu erstellen.
 9. [Kenshoo](https://skai.io/): Kenshoo ist eine KI-basierte Lösung, die es Unternehmen ermöglicht, ihre Paid-Search-Kampagnen zu optimieren. Es nutzt maschinelles Lernen, um die besten Keywords und die besten Zeitpunkte für Werbekampagnen zu ermitteln.
 
-Wenn es um die [Personalisierung der Inhalte für dein E-Mail Marketing](/was-du-ueber-personalisierte-e-mails-wissen-musst/), empfehle ich dir diesen Artikel von mir.
+Wenn es um die [Personalisierung der Inhalte für dein E-Mail Marketing](/e-mail-personalisierung-wie-du-deine-kunden-wirklich-erreichst/), empfehle ich dir diesen Artikel von mir.

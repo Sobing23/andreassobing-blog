@@ -51,4 +51,4 @@ Im Vergleich zu einem Rivalen mit generischem Targeting erzielten sie 70-fach me
 
 Fokus auf Weniger, Bessere Kunden steigert Margen und Bindung. Vermeide Volumenfallen – vereine Teams für ganzheitliche Sichten. SEO-Tipp: Nutze "Qualität vs Quantität im Marketing" für Rankings.
 
-Sieh dir diesen Beitrag von mir an: [Diminishing Returns: Das Gesetz der abnehmenden Erträge erklärt](/diminishing-returns-das-gesetz-der-abnehmenden-ertraege-erklaert/)
+Sieh dir diesen Beitrag von mir an: [Diminishing Returns: Das Gesetz der abnehmenden Erträge erklärt](/ertragsgesetz-grundlagen-und-praktische-bedeutung/)

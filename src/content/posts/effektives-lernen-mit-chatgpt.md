@@ -93,4 +93,4 @@ Wenn du etwas Neues lernst, versuche, es mit etwas Vertrautem zu verknüpfen. Di
 
 Effektives Lernen mit ChatGPT erfordert mehr als nur das Durchlesen von Büchern oder das Ansehen von Videos. Mit Tools wie ChatGPT kannst du sicherstellen, dass du das Gelernte wirklich verstehst und behältst. Indem du aktiven Rückruf, praktisches Lernen und regelmäßige Überprüfung deines Verständnisses einsetzt, kannst du dein Lernen auf das nächste Level heben. Probiere es aus und sieh selbst, wie es dein Lernen transformieren kann!
 
-Lerne warum du auch eine [Vision und Mission](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/) für dein Unternehmen benötigst.
+Lerne warum du auch eine [Vision und Mission](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/) für dein Unternehmen benötigst.

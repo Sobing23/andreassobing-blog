@@ -11,7 +11,7 @@ wpId: 6133
 
 Der [Artikel auf Asana.com](https://asana.com/de/resources/leadership-styles) beleuchtet das Thema Führungsstile und gibt einen umfassenden Überblick über verschiedene Führungsmodelle und -ansätze. Führungsstile sind ein zentrales Element im Verhalten von Vorgesetzten gegenüber ihren Mitarbeitern und spiegeln gleichzeitig die Persönlichkeit der Führungskräfte selbst wider.
 
-Der Artikel stellt vier verschiedene Modelle vor, darunter die klassischen Führungsstile nach [Kurt Lewin](/kurt-lewins-phasenmodell/) ([autoritär, demokratisch, laissez-faire](/lewins-3-stufen-modell/)) sowie das Modell der emotionalen Führung nach [Daniel Goleman](/6-goleman-leadership-styles-fuer-effektive-fuehrung/), das sechs Führungsstile umfasst (visionär, coachend, gefühlsorientiert, demokratisch, fordernd, befehlend).
+Der Artikel stellt vier verschiedene Modelle vor, darunter die klassischen Führungsstile nach [Kurt Lewin](/lewins-3-stufen-modell/) ([autoritär, demokratisch, laissez-faire](/lewins-3-stufen-modell/)) sowie das Modell der emotionalen Führung nach [Daniel Goleman](/6-goleman-leadership-styles-fuer-effektive-fuehrung/), das sechs Führungsstile umfasst (visionär, coachend, gefühlsorientiert, demokratisch, fordernd, befehlend).
 
 ## Was sind Führungsstile?
 

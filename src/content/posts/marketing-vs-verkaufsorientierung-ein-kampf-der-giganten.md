@@ -46,4 +46,4 @@ Letztendlich kommt es darauf an, eine Strategie zu wählen, die zu deinem Untern
 
 Es ist ein ständiger Balanceakt zwischen dem, was deine Kunden wollen und brauchen, und dem, was du als Unternehmen bieten kannst. Aber mit der richtigen Strategie kannst du einen Weg finden, der beiden Seiten gerecht wird.
 
-Sieh dir auch meinen [Artikel zu den 4Ps im Marketing-Mix](/die-4ps-fuer-deinen-marketing-mix/) an.
+Sieh dir auch meinen [Artikel zu den 4Ps im Marketing-Mix](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/) an.

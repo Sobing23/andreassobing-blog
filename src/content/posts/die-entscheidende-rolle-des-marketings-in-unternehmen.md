@@ -44,4 +44,4 @@ Marketing ist ein wichtiger Bestandteil eines jeden Unternehmens. Es hilft dir, 
 
 Wenn du also ein neues Unternehmen gründest oder ein bestehendes Unternehmen führst, vergiss nicht, die Rolle des Marketings zu berücksichtigen. Es könnte der Schlüssel zu deinem Erfolg sein!
 
-Lerne ebenfalls die [4Ps für deinen Marketing-Mix](/die-4ps-fuer-deinen-marketing-mix/) kennen.
+Lerne ebenfalls die [4Ps für deinen Marketing-Mix](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/) kennen.

@@ -36,8 +36,6 @@
         "artikel": [
           "marketing-mix-einfach-erklaert",
           "die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger",
-          "die-4ps-fuer-deinen-marketing-mix",
-          "4ps-marketing-beispiele",
           "7ps-des-marketings-eine-erweiterung-des-klassischen-4ps-modells",
           "booms-bitner-7p-service-marketing",
           "das-4c-modell-im-marketing",
@@ -96,7 +94,6 @@
           "das-yr-4c-zielgruppenmodell",
           "was-ist-ein-nischenmarkt-vorteile-und-wie-man-einen-findet",
           "jobs-to-be-done-jtbd-fuer-die-kundenbeduerfnisse",
-          "mit-dem-jobs-to-be-done-modell-kundenbeduerfnisse-besser-verstehen",
           "mit-dem-value-proposition-canvas-besser-kunden-gewinnen",
           "die-maslowsche-beduerfnishierarchie-im-marketing"
         ]
@@ -107,7 +104,6 @@
         "artikel": [
           "die-aida-formel-dein-schluessel-zum-erfolgreichen-marketing",
           "die-aidca-formel-dein-schluessel-zu-erfolgreichem-marketing",
-          "das-aidas-modell-die-weiterentwicklung-eines-bekannten-modells",
           "das-aidcas-modell-der-ultimative-marketing-leitfaden",
           "aisdalslove-die-weiterentwicklung-des-aida-modells",
           "das-dagmar-modell-dein-marketing-navigator",
@@ -115,7 +111,6 @@
           "das-stepppa-modell-dein-wegweiser-fuer-effektives-marketing",
           "einfuehrung-in-das-see-think-do-care-modell",
           "die-customer-journey",
-          "phasen-der-customer-journey",
           "customer-journey-mapping-dein-wegweiser-zum-kundenverstaendnis",
           "die-buyers-journey-ein-schluessel-zu-deinem-marketingerfolg",
           "touchpoints-schluesselstellen-der-kundeninteraktion"
@@ -157,11 +152,9 @@
         "titel": "Markenmodelle",
         "text": "Bewährte Modelle, mit denen du eine Marke beschreibst, entwickelst und steuerst.",
         "artikel": [
-          "mit-dem-aaker-modell-baust-du-eine-starke-marke-auf",
           "aakers-5-dimensionen-modell",
           "customer-based-brand-equity-cbbe",
           "das-identitaetsprisma-von-kapferer",
-          "das-kapferer-identitaetsprisma",
           "die-markenidentitaet-nach-meffert-und-burmann",
           "das-erweiterte-markensteuerrad-von-esch",
           "bates-brand-wheel-fuer-dein-markenmanagement",
@@ -193,7 +186,6 @@
         "artikel": [
           "markenpositionierung-und-persoenlichkeit-wie-du-deine-marke-in-den-koepfen-deiner-kunden-verankerst",
           "marktpositionierung-erfolg-planen",
-          "marktpositionierung-konkurrenz-schlagen",
           "internationale-marktpositionierung-dein-wegweiser-zum-globalen-erfolg",
           "produkt-positionierung-strategien-beispiele-und-erfolgsfaktoren",
           "produkt-differenzierung-strategien-beispiele-vorteile",
@@ -300,15 +292,13 @@
           "okrs-strategie-zum-leben-erwecken",
           "okrs-und-strategie-eine-symbiotische-beziehung",
           "der-connected-strategic-stack",
-          "okr-connected-strategic-implementation-stack",
           "okr-was-ist-die-cross-functional-alignment",
           "mit-dem-operating-model-organisierst-du-dein-unternehmen-richtig-okr",
           "warum-du-ein-modernes-betriebsmodell-fuer-dein-unternehmen-brauchst",
           "geschaeftsflexibilitaet-durch-adaptive-strategieumsetzung-und-okrs",
           "exploitation-vs-exploration-in-verbindung-mit-okr",
           "schlanke-wachstumsstrategien-mit-okrs",
-          "okr-im-change-management",
-          "okrs-im-change-management"
+          "okr-im-change-management"
         ]
       },
       {
@@ -423,10 +413,8 @@
         "text": "Wie du Empfänger in Gruppen einteilst und jede Mail passend zuschneidest.",
         "artikel": [
           "segmentierung-vorgehen-und-vorteile",
-          "customer-lifecycle-clc",
-          "die-bedeutung-der-e-mail-personalisierung",
+          "der-customer-life-cycle-im-ueberblick",
           "e-mail-personalisierung-wie-du-deine-kunden-wirklich-erreichst",
-          "was-du-ueber-personalisierte-e-mails-wissen-musst",
           "open-time-marketing-der-schluessel-zu-personalisierter-kundenansprache"
         ]
       },
@@ -543,9 +531,7 @@
           "oeffnungsrate-der-e-mails-steigern",
           "warum-nicht-nur-die-oeffnungsrate-betrachtet-werden-sollte",
           "23-tipps-um-deine-e-mail-klickrate-zu-verbessern",
-          "click-to-open-rate-ctor-fuer-erfolgreiches-e-mail-marketing",
           "ctr-vs-cto-im-e-mail-marketing",
-          "ctr-vs-ctor",
           "10-tipps-fuer-bessere-e-mail-konversionen",
           "e-mail-tracking-mit-google-analytics",
           "a-b-test-im-e-mail-marketing"
@@ -757,11 +743,8 @@
         "titel": "Vision, Mission und Leitbild",
         "text": "Wohin ein Unternehmen will, wie es dorthin kommt und welche Werte es leiten.",
         "artikel": [
-          "warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst",
           "mission-vs-vision-der-wegweiser-fuer-dein-unternehmen",
-          "die-kunst-einer-wirkungsvollen-vision-und-mission",
           "wieso-du-ein-unternehmensleitbild-benoetigst",
-          "wie-du-ein-effektives-unternehmensleitbild-erstellst",
           "unternehmensphilosophie-leitbild-des-unternehmens",
           "zielbilder-der-kompass-fuer-deinen-markterfolg",
           "purpose-werkzeuge-wie-startest-du",
@@ -780,7 +763,6 @@
           "7-kraefte-fuer-dauerhafte-renditen-und-die-unternehmensverteidigung",
           "der-resource-based-view-rbv-im-marketing",
           "market-based-view-im-marketing",
-          "das-7-s-modell-ein-umfassender-blick-auf-unternehmenserfolg",
           "das-mckinsey-7-s-modell"
         ]
       },
@@ -791,10 +773,10 @@
           "7-schluesselschritte-im-strategischen-planungsprozess",
           "top-down-strategic-planning-ein-effektiver-weg-zur-geschaeftssteuerung",
           "warum-dein-unternehmen-eine-strategy-map-braucht",
-          "balanced-scorecard-fuer-nachhaltigen-erfolg",
+          "balanced-scorecard-einfach-erklaert",
           "organisatorische-ausrichtung-ein-schritt-fuer-schritt-leitfaden",
           "lean-strategy-canvas",
-          "warum-das-moderne-betriebsmodell-nutzen",
+          "warum-du-ein-modernes-betriebsmodell-fuer-dein-unternehmen-brauchst",
           "die-nachteile-der-zielsetzung",
           "goodharts-gesetz-warum-kennzahlen-oft-ihren-wert-verlieren",
           "evidence-based-management",
@@ -944,9 +926,7 @@
         "text": "Bewährte Modelle, die einen Wandel in Phasen oder Schritte gliedern.",
         "artikel": [
           "kotters-8-stufen-modell",
-          "kotters-8-schritte-modell-zur-steuerung-der-marketingveraenderungen",
           "lewins-3-stufen-modell",
-          "kurt-lewins-phasenmodell",
           "das-adkar-modell",
           "das-pinguin-prinzip-wie-du-veraenderungen-erfolgreich-umsetzt"
         ]
@@ -983,7 +963,6 @@
         "text": "Was mit Kosten und Erträgen passiert, wenn ein Unternehmen wächst.",
         "artikel": [
           "ertragsgesetz-grundlagen-und-praktische-bedeutung",
-          "diminishing-returns-das-gesetz-der-abnehmenden-ertraege-erklaert",
           "skaleneffekte-wie-nutzt-du-sie-effizient",
           "skalenertraege-bedeutung-und-arten-erklaert",
           "fallbeispiel-analyse-das-phaenomen-der-skalennachteile",
@@ -1094,7 +1073,6 @@
         "artikel": [
           "der-customer-life-cycle-im-ueberblick",
           "customer-lifetime-value-der-wert-deiner-kunden",
-          "wie-du-den-customer-lifetime-value-erhoehst",
           "die-vorteile-der-clv-segmentierung-fuer-dein-unternehmen",
           "alles-ueber-kundenakquisitionskosten",
           "einfuehrung-in-die-abc-kundenanalyse",
@@ -1166,7 +1144,6 @@
           "kostenorientierte-vs-wertorientierte-preisstrategien",
           "nutze-den-wert-deiner-produkte-durch-value-based-pricing",
           "die-preis-absatz-funktion-ein-wichtiger-baustein-der-preispolitik",
-          "preiselastizitaet-der-nachfrage",
           "preiselastizitaet-der-nachfrage-ein-muss-fuer-jedes-marketing",
           "preiswettbewerb-und-preiskriege-wie-du-dich-davor-schuetzen-kannst"
         ]
@@ -1284,7 +1261,6 @@
           "aufbau-einer-seo-strategie",
           "die-drei-saeulen-von-e-a-t",
           "effektive-inhalte-mit-pillar-seiten",
-          "warum-du-eine-pillar-page-auf-deiner-webseite-brauchst",
           "grundlagen-der-suchmaschinenoptimierung",
           "suchen-und-gefunden-werden-google-einfuhrung-in-seo",
           "einfuehrung-in-die-suchmaschinenwerbung-google-ads",
@@ -1481,7 +1457,6 @@
           "die-rolle-von-emotionen-und-einstellungen-im-konsumentenverhalten",
           "die-auswirkungen-von-online-bewertungen-und-sozialen-medien-auf-das-konsumentenverhalten",
           "der-kaufentscheidungsprozess",
-          "kaufentscheidungsprozess-so-ticken-kunden",
           "die-unsichtbaren-faeden-im-kopf-warum-dein-gehirn-laengst-gekauft-hat-bevor-du-warenkorb-klickst",
           "wie-du-die-kaufmotivation-deiner-kunden-verstehst-und-nutzt",
           "was-kunden-wirklich-wollen-ein-tiefgreifender-blick-in-die-online-kaufgewohnheiten",
@@ -1724,7 +1699,6 @@
         "artikel": [
           "tipps-fuer-effektive-meetings",
           "kiss-fuer-meetings-3-regeln-die-zeit-sparen",
-          "zeitfresser-meeting-und-9-gegenmassnahmen",
           "zwei-pizza-regel-der-schluessel-zu-effektiven-teammeetings",
           "stille-meetings-eine-revolution-in-der-teamkommunikation",
           "das-6-page-memo-von-amazon",

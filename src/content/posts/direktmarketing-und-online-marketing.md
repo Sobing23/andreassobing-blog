@@ -132,7 +132,7 @@ Ein Unternehmen könnte potenzielle Kunden zunächst per E-Mail ansprechen (Dire
 
 Direktmarketing und Online-Marketing sind zwei leistungsstarke Ansätze, um Kunden zu erreichen. Während Direktmarketing eine persönlichere Ansprache ermöglicht, bietet Online-Marketing die Möglichkeit, eine breite Zielgruppe effizient zu erreichen. Für Studierende der BWL und VWL ist es wichtig, die Unterschiede und Synergien dieser beiden Ansätze zu verstehen, um in der modernen Geschäftswelt erfolgreich zu sein.
 
-Sieh dir auch diesen Beitrag von mir an: [Warum du eine Mission und Vision benötigst](/warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst/)
+Sieh dir auch diesen Beitrag von mir an: [Warum du eine Mission und Vision benötigst](/mission-vs-vision-der-wegweiser-fuer-dein-unternehmen/)
 
 ## Aktualisierung Oktober 2026
 

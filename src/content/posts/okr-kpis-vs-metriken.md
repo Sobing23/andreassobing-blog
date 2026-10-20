@@ -65,4 +65,4 @@ KPIs können an unterschiedliche Geschäftsbedürfnisse angepasst werden und ers
 
 KPIs sind ein unverzichtbares Instrument für den Unternehmenserfolg. Sie fördern die Fokussierung auf strategische Ziele, eine fundierte Entscheidungsfindung und einen iterativen Ansatz im Geschäftsbetrieb. Durch die Verknüpfung von KPIs mit quantifizierbaren, zielgerichteten Ergebnissen können OKRs die nächste Evolutionsstufe der KPI-Strategie sein.
 
-Kennst du bereits die [4Ps für deinen Marketing-Mix](/die-4ps-fuer-deinen-marketing-mix/). Weitere Informationen findest du bei Quantive zu [KPIs vs. Metriken](https://quantive.com/resources/articles/what-are-kpis)
+Kennst du bereits die [4Ps für deinen Marketing-Mix](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/). Weitere Informationen findest du bei Quantive zu [KPIs vs. Metriken](https://quantive.com/resources/articles/what-are-kpis)

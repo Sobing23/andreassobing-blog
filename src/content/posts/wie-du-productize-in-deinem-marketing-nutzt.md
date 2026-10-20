@@ -38,4 +38,4 @@ Viele Dienstleistungen können in ein Unternehmen "umgewandelt" werden, das skal
 
 Productize ist ein leistungsfähiges Konzept, das in vielen Branchen angewendet werden kann. Es ermöglicht Unternehmen, ihre internen Fähigkeiten und Dienstleistungen in marktfähige Produkte umzuwandeln. Für Marketingfachleute bietet es eine großartige Möglichkeit, ihre Expertise zu skalieren und ein breiteres Publikum zu erreichen. Wenn du also darüber nachdenkst, wie du dein Geschäft erweitern oder neue Einnahmequellen erschließen kannst, solltest du in Betracht ziehen, einige deiner Dienstleistungen oder Fähigkeiten zu "produzieren".
 
-Kennst du bereits das [7-S Modell](/das-7-s-modell-ein-umfassender-blick-auf-unternehmenserfolg/) und wie du dieses nutzen kannst?
+Kennst du bereits das [7-S Modell](/das-mckinsey-7-s-modell/) und wie du dieses nutzen kannst?

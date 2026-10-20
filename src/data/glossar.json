@@ -172,8 +172,8 @@
   "definition": "Ein Modell aus dem Umfeld der Unternehmensberatung McKinsey, das ein Unternehmen in sieben erfolgsentscheidende Faktoren unterteilt: Struktur, Strategie, Systeme, Fähigkeiten, Personal, Stil und gemeinsame Werte. Die Faktoren lassen sich in harte und weiche Faktoren einteilen. Das Modell bietet einen ganzheitlichen Blick darauf, wie diese Aspekte zusammenwirken.",
   "artikel": [
    {
-    "slug": "das-7-s-modell-ein-umfassender-blick-auf-unternehmenserfolg",
-    "titel": "Das 7-S-Modell: Ein umfassender Blick auf Unternehmenserfolg"
+    "slug": "das-mckinsey-7-s-modell",
+    "titel": "Das McKinsey 7-S-Modell: Die sieben Faktoren erfolgreicher Organisationen"
    }
   ],
   "anker": "7-s-modell",
@@ -232,8 +232,8 @@
   "definition": "Das Aaker-Modell ist ein von David Aaker entwickeltes Rahmenwerk zur Messung und Steuerung der Markenstärke. Es besteht aus fünf Komponenten: Markenbekanntheit, wahrgenommene Qualität, Markentreue, Markenassoziationen und andere Eigenschaften. Es hilft, die eigene Marke besser zu verstehen und gezielte Marketingstrategien abzuleiten.",
   "artikel": [
    {
-    "slug": "mit-dem-aaker-modell-baust-du-eine-starke-marke-auf",
-    "titel": "Mit dem Aaker-Modell baust du eine starke Marke auf"
+    "slug": "aakers-5-dimensionen-modell",
+    "titel": "Aaker-Modell: Markenpersönlichkeit und Markenwert nach Aaker"
    }
   ],
   "anker": "aaker-modell",
@@ -433,7 +433,7 @@
   "artikel": [
    {
     "slug": "die-aida-formel-dein-schluessel-zum-erfolgreichen-marketing",
-    "titel": "Die AIDA-Formel: Dein Schlüssel zum erfolgreichen Marketing"
+    "titel": "Die AIDA-Formel: Phasen, Beispiel und Erweiterungen wie AIDAS"
    }
   ],
   "anker": "aida-formel",
@@ -444,8 +444,8 @@
   "definition": "Eine Weiterentwicklung des AIDA-Modells mit fünf Phasen, die ein Kunde bis zum Kauf und danach durchläuft: Attention (Aufmerksamkeit), Interest (Interesse), Desire (Wunsch), Action (Handlung) und Satisfaction (Zufriedenheit). Es dient dazu, den Entscheidungsprozess von Konsumenten zu verstehen und Werbemaßnahmen danach auszurichten.",
   "artikel": [
    {
-    "slug": "das-aidas-modell-die-weiterentwicklung-eines-bekannten-modells",
-    "titel": "Das AIDAS-Modell: Die Weiterentwicklung eines bekannten Modells"
+    "slug": "die-aida-formel-dein-schluessel-zum-erfolgreichen-marketing",
+    "titel": "Die AIDA-Formel: Phasen, Beispiel und Erweiterungen wie AIDAS"
    }
   ],
   "anker": "aidas-modell",
@@ -689,7 +689,7 @@
   "artikel": [
    {
     "slug": "balanced-scorecard-einfach-erklaert",
-    "titel": "Balanced Scorecard einfach erklärt"
+    "titel": "Balanced Scorecard einfach erklärt: vier Perspektiven, Anwendung und Grenzen"
    },
    {
     "slug": "okrs-vs-balanced-scorecard",
@@ -964,8 +964,8 @@
     "titel": "Mit Change-Management steuerst du erfolgreich Veränderungen"
    },
    {
-    "slug": "okrs-im-change-management",
-    "titel": "OKRs im Change Management"
+    "slug": "okr-im-change-management",
+    "titel": "OKR im Change Management: Veränderungen mit klaren Zielen steuern"
    }
   ],
   "anker": "change-management",
@@ -1037,7 +1037,7 @@
   "artikel": [
    {
     "slug": "ctr-vs-cto-im-e-mail-marketing",
-    "titel": "CTR vs. CTO im E-Mail Marketing"
+    "titel": "CTR vs. CTOR im E-Mail-Marketing: Klickrate und Click-to-Open-Rate"
    }
   ],
   "anker": "click-through-rate",
@@ -1048,8 +1048,8 @@
   "definition": "Die Click-to-Open-Rate ist eine Kennzahl im E-Mail-Marketing, die die Klicks auf Links ins Verhältnis zu den Öffnungen einer E-Mail setzt. Du berechnest sie, indem du die Klicks durch die Zahl der Öffner teilst und mit 100 multiplizierst. Eine hohe CTOR zeigt, dass deine Inhalte relevant sind und zum Klicken motivieren.",
   "artikel": [
    {
-    "slug": "click-to-open-rate-ctor-fuer-erfolgreiches-e-mail-marketing",
-    "titel": "Click-to-Open Rate (CTOR) für erfolgreiches E-Mail-Marketing"
+    "slug": "ctr-vs-cto-im-e-mail-marketing",
+    "titel": "CTR vs. CTOR im E-Mail-Marketing: Klickrate und Click-to-Open-Rate"
    }
   ],
   "anker": "click-to-open-rate",
@@ -1097,11 +1097,7 @@
   "artikel": [
    {
     "slug": "der-connected-strategic-stack",
-    "titel": "OKR: Der Connected Strategic Stack"
-   },
-   {
-    "slug": "okr-connected-strategic-implementation-stack",
-    "titel": "OKR: Connected Strategic Implementation Stack"
+    "titel": "OKR: Der Connected Strategic Stack (Connected Strategic Implementation Stack)"
    }
   ],
   "anker": "connected-strategic-stack",
@@ -1341,11 +1337,7 @@
   "artikel": [
    {
     "slug": "die-customer-journey",
-    "titel": "Die Customer Journey: Der Schlüssel zum besseren Verständnis deiner Kunden"
-   },
-   {
-    "slug": "phasen-der-customer-journey",
-    "titel": "Die Reise deiner Kunden verstehen: Die Phasen der Customer Journey"
+    "titel": "Die Customer Journey: Phasen, Touchpoints und Optimierung"
    }
   ],
   "anker": "customer-journey",
@@ -1369,11 +1361,7 @@
   "artikel": [
    {
     "slug": "customer-lifetime-value-der-wert-deiner-kunden",
-    "titel": "Customer Lifetime Value - der Wert deiner Kunden"
-   },
-   {
-    "slug": "wie-du-den-customer-lifetime-value-erhoehst",
-    "titel": "Wie du den Customer Lifetime Value erhöhst"
+    "titel": "Customer Lifetime Value (CLV): Berechnung und Wege zur Steigerung"
    }
   ],
   "anker": "customer-lifetime-value",
@@ -1412,8 +1400,8 @@
   "definition": "Der Customer-Lifecycle ist die Zeitspanne, in der eine Kundenbeziehung aufgebaut wird. Er gliedert sich in die Phasen Interessent, Neukunde, Bestandskunde und inaktiver Kunde. Alle Phasen haben das Ziel, die Kundenbindung zu erhöhen, etwa indem Interessenten zu Neukunden und inaktive Kunden wieder zu Bestandskunden werden.",
   "artikel": [
    {
-    "slug": "customer-lifecycle-clc",
-    "titel": "Customer-Lifecycle CLC"
+    "slug": "der-customer-life-cycle-im-ueberblick",
+    "titel": "Customer Life Cycle: Phasen des Kundenlebenszyklus und Lifecycle-Mails"
    }
   ],
   "anker": "customer-lifecycle",
@@ -1580,8 +1568,8 @@
   "definition": "Das Gesetz der Diminishing Returns beschreibt den Punkt, ab dem zusätzliche Investitionen in einen variablen Produktionsfaktor einen immer geringeren Ertrag bringen, während andere Faktoren konstant bleiben. Ein Beispiel ist immer mehr Dünger auf einem festen Stück Land. Es ist ein grundlegendes Konzept der Volks- und Betriebswirtschaftslehre.",
   "artikel": [
    {
-    "slug": "diminishing-returns-das-gesetz-der-abnehmenden-ertraege-erklaert",
-    "titel": "Diminishing Returns: Das Gesetz der abnehmenden Erträge erklärt"
+    "slug": "ertragsgesetz-grundlagen-und-praktische-bedeutung",
+    "titel": "Ertragsgesetz: Das Gesetz der abnehmenden Erträge erklärt"
    }
   ],
   "anker": "diminishing-returns",
@@ -1725,7 +1713,7 @@
   "artikel": [
    {
     "slug": "e-mail-personalisierung-wie-du-deine-kunden-wirklich-erreichst",
-    "titel": "E-Mail-Personalisierung: Wie du deine Kunden wirklich erreichst"
+    "titel": "E-Mail-Personalisierung: Strategien, Technik und Beispiele"
    }
   ],
   "anker": "e-mail-personalisierung",
@@ -1897,7 +1885,7 @@
   "artikel": [
    {
     "slug": "ertragsgesetz-grundlagen-und-praktische-bedeutung",
-    "titel": "Ertragsgesetz: Grundlagen und praktische Bedeutung"
+    "titel": "Ertragsgesetz: Das Gesetz der abnehmenden Erträge erklärt"
    }
   ],
   "anker": "ertragsgesetz",
@@ -2493,7 +2481,7 @@
   "artikel": [
    {
     "slug": "das-identitaetsprisma-von-kapferer",
-    "titel": "Das Identitätsprisma von Kapferer"
+    "titel": "Das Identitätsprisma von Kapferer: Sechs Facetten der Markenidentität"
    }
   ],
   "anker": "identitatsprisma",
@@ -2581,11 +2569,7 @@
   "artikel": [
    {
     "slug": "jobs-to-be-done-jtbd-fuer-die-kundenbeduerfnisse",
-    "titel": "Jobs-to-be-done (JTBD) für die Kundenbedürfnisse"
-   },
-   {
-    "slug": "mit-dem-jobs-to-be-done-modell-kundenbeduerfnisse-besser-verstehen",
-    "titel": "Mit dem Jobs-to-be-Done-Modell Kundenbedürfnisse besser verstehen"
+    "titel": "Jobs to be Done (JTBD): Kundenbedürfnisse verstehen statt Produkte verkaufen"
    }
   ],
   "anker": "jobs-to-be-done",
@@ -2621,15 +2605,11 @@
   "artikel": [
    {
     "slug": "der-kaufentscheidungsprozess",
-    "titel": "Der Kaufentscheidungsprozess"
+    "titel": "Der Kaufentscheidungsprozess: 5 Phasen nach Kotler, Einflussfaktoren und Messy Middle"
    },
    {
     "slug": "die-unsichtbaren-faeden-im-kopf-warum-dein-gehirn-laengst-gekauft-hat-bevor-du-warenkorb-klickst",
     "titel": "Die unsichtbaren Fäden im Kopf: Warum dein Gehirn längst gekauft hat, bevor du „Warenkorb“ klickst"
-   },
-   {
-    "slug": "kaufentscheidungsprozess-so-ticken-kunden",
-    "titel": "Kaufentscheidungsprozess: So ticken Kunden"
    }
   ],
   "anker": "kaufentscheidungsprozess",
@@ -2800,12 +2780,8 @@
   "definition": "Kotters 8-Stufen-Modell ist ein Rahmen für das Management von Veränderungen in Unternehmen, der den Veränderungsprozess in acht überschaubare Schritte unterteilt. Er reicht vom Erzeugen von Dringlichkeit über Führungsteam, Vision, Kommunikation, Beseitigen von Hindernissen und kurzfristige Erfolge bis zur Verankerung der Veränderungen.",
   "artikel": [
    {
-    "slug": "kotters-8-schritte-modell-zur-steuerung-der-marketingveraenderungen",
-    "titel": "Kotters 8-Schritte-Modell zur Steuerung der Marketingveränderungen"
-   },
-   {
     "slug": "kotters-8-stufen-modell",
-    "titel": "Kotter’s 8-Stufen-Modell"
+    "titel": "Kotters 8-Stufen-Modell: Veränderungen in acht Schritten steuern"
    }
   ],
   "anker": "kotters-8-stufen-modell",
@@ -3056,12 +3032,8 @@
   "definition": "Das Drei-Phasen-Modell des Psychologen Kurt Lewin beschreibt Veränderung in drei Schritten: Auftauen (Unfreeze), Verändern (Change) und Einfrieren (Refreeze). Zuerst wird der Status quo in Frage gestellt, dann werden neue Strategien umgesetzt und schließlich als neuer Standard gefestigt. Das Modell lässt sich auch im Marketing zur Steuerung von Veränderungsprozessen nutzen.",
   "artikel": [
    {
-    "slug": "kurt-lewins-phasenmodell",
-    "titel": "Kurt Lewins Phasenmodell"
-   },
-   {
     "slug": "lewins-3-stufen-modell",
-    "titel": "Lewin’s 3-Stufen-Modell"
+    "titel": "Lewins 3-Phasen-Modell: Unfreeze, Change, Refreeze"
    }
   ],
   "anker": "lewins-drei-phasen-modell",
@@ -3217,7 +3189,7 @@
   "artikel": [
    {
     "slug": "aakers-5-dimensionen-modell",
-    "titel": "Aaker's 5-Dimensionen-Modell"
+    "titel": "Aaker-Modell: Markenpersönlichkeit und Markenwert nach Aaker"
    }
   ],
   "anker": "markenpersonlichkeit-nach-aaker",
@@ -3372,8 +3344,8 @@
     "titel": "Marketing Mix einfach erklärt"
    },
    {
-    "slug": "4ps-marketing-beispiele",
-    "titel": "4Ps Marketing Beispiele"
+    "slug": "die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger",
+    "titel": "Die 4Ps des Marketings: Produkt, Preis, Platzierung und Promotion mit Beispielen"
    }
   ],
   "anker": "marketing-mix",
@@ -3481,11 +3453,7 @@
   "artikel": [
    {
     "slug": "marktpositionierung-erfolg-planen",
-    "titel": "Marktpositionierung: Erfolg planen?"
-   },
-   {
-    "slug": "marktpositionierung-konkurrenz-schlagen",
-    "titel": "Marktpositionierung: Konkurrenz schlagen?"
+    "titel": "Marktpositionierung: So hebst du dich vom Wettbewerb ab"
    }
   ],
   "anker": "marktpositionierung",
@@ -3580,16 +3548,8 @@
   "definition": "Die Mission beschreibt, wie ein Unternehmen seine Vision erreichen will, also welchen Weg es geht und was es heute dafür tut. Sie sollte klar und konkret sein, den Kundennutzen in den Mittelpunkt stellen und Team wie Kunden Orientierung geben. Zusammen mit der Vision bildet sie die Basis der Unternehmensstrategie.",
   "artikel": [
    {
-    "slug": "die-kunst-einer-wirkungsvollen-vision-und-mission",
-    "titel": "Die Kunst einer wirkungsvollen Vision und Mission"
-   },
-   {
     "slug": "mission-vs-vision-der-wegweiser-fuer-dein-unternehmen",
-    "titel": "Mission vs. Vision: Der Wegweiser für Dein Unternehmen"
-   },
-   {
-    "slug": "warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst",
-    "titel": "Warum du eine Mission und Vision benötigst"
+    "titel": "Mission und Vision: Unterschied, Formulierung und Beispiele"
    }
   ],
   "anker": "mission",
@@ -3612,8 +3572,8 @@
   "definition": "Das moderne Betriebsmodell ist ein aktualisierter Ansatz dafür, wie man ein Unternehmen am besten ausrichtet, führt, verändert, anpasst und optimiert. Ziel ist es, die Lücke in der Strategieumsetzung zu schließen. Zu seinen Komponenten gehören das Definieren des Ziels, das Verändern und Führen des Geschäfts mit OKRs und KPIs, die Arbeitsorganisation sowie das Bewerten und Anpassen.",
   "artikel": [
    {
-    "slug": "warum-das-moderne-betriebsmodell-nutzen",
-    "titel": "Warum das moderne Betriebsmodell nutzen?"
+    "slug": "warum-du-ein-modernes-betriebsmodell-fuer-dein-unternehmen-brauchst",
+    "titel": "Das moderne Betriebsmodell: Warum Dein Unternehmen es braucht (OKR)"
    }
   ],
   "anker": "modernes-betriebsmodell",
@@ -4145,11 +4105,7 @@
   "artikel": [
    {
     "slug": "effektive-inhalte-mit-pillar-seiten",
-    "titel": "Effektive Inhalte mit Pillar-Seiten"
-   },
-   {
-    "slug": "warum-du-eine-pillar-page-auf-deiner-webseite-brauchst",
-    "titel": "Warum du eine Pillar Page auf deiner Webseite brauchst"
+    "titel": "Pillar Page: Aufbau, Arten und Erstellung einer Pillar-Seite"
    }
   ],
   "anker": "pillar-page",
@@ -4269,7 +4225,7 @@
   "artikel": [
    {
     "slug": "preiselastizitaet-der-nachfrage-ein-muss-fuer-jedes-marketing",
-    "titel": "Preiselastizität der Nachfrage - Ein Muss für jedes Marketing"
+    "titel": "Preiselastizität der Nachfrage: Definition, Formel und Nutzen im Marketing"
    }
   ],
   "anker": "preiselastizitat-der-nachfrage",
@@ -4861,7 +4817,7 @@
   "artikel": [
    {
     "slug": "die-rule-of-100-wie-du-rabatte-psychologisch-perfekt-waehlst",
-    "titel": "Die \\"
+    "titel": "Die \\\"Rule of 100\\\": Wie du Rabatte psychologisch perfekt wählst"
    }
   ],
   "anker": "rule-of-100",
@@ -6104,16 +6060,8 @@
   "definition": "Die Vision beschreibt, wohin ein Unternehmen will: eine Vorstellung seiner Zukunft und des Werts oder der Veränderung, die es in der Welt bewirken möchte. Sie sollte inspirierend sein und sich auf ein relevantes Problem vieler Menschen konzentrieren, nicht nur auf finanzielle Ziele. Zusammen mit der Mission bildet sie die Basis der Unternehmensstrategie.",
   "artikel": [
    {
-    "slug": "die-kunst-einer-wirkungsvollen-vision-und-mission",
-    "titel": "Die Kunst einer wirkungsvollen Vision und Mission"
-   },
-   {
     "slug": "mission-vs-vision-der-wegweiser-fuer-dein-unternehmen",
-    "titel": "Mission vs. Vision: Der Wegweiser für Dein Unternehmen"
-   },
-   {
-    "slug": "warum-du-eine-mission-und-vision-fuer-dein-unternehmen-benoetigst",
-    "titel": "Warum du eine Mission und Vision benötigst"
+    "titel": "Mission und Vision: Unterschied, Formulierung und Beispiele"
    }
   ],
   "anker": "vision",

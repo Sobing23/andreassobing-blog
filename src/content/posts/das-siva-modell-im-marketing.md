@@ -10,7 +10,7 @@ vgwort: "https://vg01.met.vgwort.de/na/8d3f6a4639dc41c6b61b4eeec8817192"
 wpId: 6105
 ---
 
-Das SIVA-Modell ist eine Alternative zu den traditionellen [4Ps](/4ps-marketing-beispiele/) des Marketings. Es stellt den Kunden in den Mittelpunkt der Marketingaktivitäten und fokussiert sich auf:
+Das SIVA-Modell ist eine Alternative zu den traditionellen [4Ps](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/) des Marketings. Es stellt den Kunden in den Mittelpunkt der Marketingaktivitäten und fokussiert sich auf:
 
 - **Solution (Lösung)**: Was ist die Lösung, die Du Deinen Kunden anbietest?
 - **Information (Information)**: Wie informierst Du Deine Kunden über Deine Lösungen?

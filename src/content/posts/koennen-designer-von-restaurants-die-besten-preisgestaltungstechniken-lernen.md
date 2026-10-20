@@ -32,4 +32,4 @@ Ungerade Preise, wie 1,99 statt 2 Dollar, sind in bestimmten Restaurants weit ve
 
 Weitere Infos zu dem Thema findest du [hier](https://thenuschool.com/can-steal-restaurants-best-pricing-techniques).
 
-Kennst du bereits die [4Ps für deinen Marketing Mix](/die-4ps-fuer-deinen-marketing-mix/)?
+Kennst du bereits die [4Ps für deinen Marketing Mix](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/)?

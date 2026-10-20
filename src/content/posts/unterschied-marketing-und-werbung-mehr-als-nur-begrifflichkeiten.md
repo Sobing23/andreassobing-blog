@@ -33,7 +33,7 @@ Der Begriff "Marketing" stammt aus dem Englischen und bedeutet "auf den Markt br
 
 ## Was ist zu beachten?
 
-- Bei der Umsetzung von Marketingstrategien ist es wichtig, alle Elemente des [Marketing-Mix](/die-4ps-fuer-deinen-marketing-mix/) (Produkt, Preis, Ort, Promotion) zu berücksichtigen.
+- Bei der Umsetzung von Marketingstrategien ist es wichtig, alle Elemente des [Marketing-Mix](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/) (Produkt, Preis, Ort, Promotion) zu berücksichtigen.
 - Werbung sollte immer zielgruppengerecht und authentisch sein.
 
 ### **Tabelle: Unterschied Marketing und Werbung**

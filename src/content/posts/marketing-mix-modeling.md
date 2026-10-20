@@ -19,7 +19,7 @@ Marketing Mix Modeling ist eine statistische Analysemethode, die untersucht, wie
 
 Mit dieser Methode können Unternehmen also herausfinden, welche Marketingmaßnahmen am erfolgreichsten sind und wo sie ihr Budget am besten einsetzen sollten, um den größtmöglichen Effekt zu erzielen.
 
-## [Die 4 P's im Marketing-Mix](/die-4ps-fuer-deinen-marketing-mix/)
+## [Die 4 P's im Marketing-Mix](/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/)
 
 Bevor wir uns dem Marketing Mix Modeling widmen, ist es wichtig, den Begriff **Marketing-Mix** zu verstehen. Dieser besteht aus vier Hauptfaktoren, die für den Erfolg eines Produkts oder einer Dienstleistung auf dem Markt entscheidend sind:
 
