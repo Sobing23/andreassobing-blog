@@ -2654,6 +2654,10 @@
    {
     "slug": "ki-im-unternehmen-chat-automatisierung-agenten",
     "titel": "Chat, Automatisierung, Agenten: Die drei Stufen der KI im Unternehmen"
+   },
+   {
+    "slug": "okrs-wenn-der-nutzer-ein-ki-agent-ist",
+    "titel": "OKRs, wenn der Nutzer ein KI-Agent ist: Warum Key Results bei Menschen bleiben"
    }
   ],
   "anker": "ki-agent",
@@ -3818,6 +3822,10 @@
    {
     "slug": "was-sind-okrs",
     "titel": "Was sind OKRs?"
+   },
+   {
+    "slug": "okrs-wenn-der-nutzer-ein-ki-agent-ist",
+    "titel": "OKRs, wenn der Nutzer ein KI-Agent ist: Warum Key Results bei Menschen bleiben"
    }
   ],
   "anker": "okr",
@@ -3953,6 +3961,18 @@
    }
   ],
   "anker": "outbound-e-mail-marketing",
+  "buchstabe": "O"
+ },
+ {
+  "begriff": "Outcome",
+  "definition": "Ein Outcome ist nach Jeff Gothelf und Josh Seiden eine messbare Veränderung im Verhalten von Menschen, die Wert schafft. Anders als ein Output, also ein geliefertes Ergebnis wie eine Funktion oder Kampagne, beschreibt es, wer sich wie anders verhält und um wie viel. Outcomes sind die Grundlage guter Key Results.",
+  "artikel": [
+   {
+    "slug": "okrs-wenn-der-nutzer-ein-ki-agent-ist",
+    "titel": "OKRs, wenn der Nutzer ein KI-Agent ist: Warum Key Results bei Menschen bleiben"
+   }
+  ],
+  "anker": "outcome",
   "buchstabe": "O"
  },
  {
@@ -5593,6 +5613,18 @@
    }
   ],
   "anker": "system-prompt",
+  "buchstabe": "S"
+ },
+ {
+  "begriff": "Systemkennzahl (Health Metric)",
+  "definition": "Eine Systemkennzahl zeigt, ob ein technisches System zuverlässig läuft, etwa Antwortzeit, Fehlerquote oder Zahl der Aufrufe. Sie gehört auf ein Dashboard und wird laufend beobachtet, eignet sich aber nicht als Key Result, weil sie kein Verhalten von Menschen beschreibt.",
+  "artikel": [
+   {
+    "slug": "okrs-wenn-der-nutzer-ein-ki-agent-ist",
+    "titel": "OKRs, wenn der Nutzer ein KI-Agent ist: Warum Key Results bei Menschen bleiben"
+   }
+  ],
+  "anker": "systemkennzahl",
   "buchstabe": "S"
  },
  {
