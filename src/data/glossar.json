@@ -2966,6 +2966,10 @@
    {
     "slug": "mit-lean-canvas-schnell-deine-geschaeftsideen-testen",
     "titel": "Mit Lean Canvas schnell deine Geschäftsideen testen"
+   },
+   {
+    "slug": "lean-strategy-canvas",
+    "titel": "Der Lean Strategy Canvas: In einem Nachmittag zur gemeinsamen Strategie"
    }
   ],
   "anker": "lean-canvas",
@@ -2981,6 +2985,18 @@
    }
   ],
   "anker": "lean-startup",
+  "buchstabe": "L"
+ },
+ {
+  "begriff": "Lean Strategy Canvas",
+  "definition": "Der Lean Strategy Canvas ist ein Werkzeug von Jeff Gothelf und Sense & Respond, mit dem sich ein Team in wenigen Stunden auf eine gemeinsame Strategie für die nächsten ein bis zwei Quartale einigt. Er führt durch vier Gespräche: Ziel, Hindernisse, Strategie mit Where to play und How to win sowie Messgrößen als OKRs. Das Ergebnis ist eine messbare strategische Hypothese.",
+  "artikel": [
+   {
+    "slug": "lean-strategy-canvas",
+    "titel": "Der Lean Strategy Canvas: In einem Nachmittag zur gemeinsamen Strategie"
+   }
+  ],
+  "anker": "lean-strategy-canvas",
   "buchstabe": "L"
  },
  {
@@ -5452,6 +5468,18 @@
   "buchstabe": "S"
  },
  {
+  "begriff": "Strategische Hypothese",
+  "definition": "Eine strategische Hypothese formuliert eine Strategie als überprüfbare Annahme, meist in der Form „Wenn wir …, dann …“. Sie verbindet, wo ein Unternehmen spielen und wie es dort gewinnen will, mit einer erwarteten Wirkung, die sich mit Kennzahlen oder OKRs überprüfen lässt.",
+  "artikel": [
+   {
+    "slug": "lean-strategy-canvas",
+    "titel": "Der Lean Strategy Canvas: In einem Nachmittag zur gemeinsamen Strategie"
+   }
+  ],
+  "anker": "strategische-hypothese",
+  "buchstabe": "S"
+ },
+ {
   "begriff": "Strategischer Planungsprozess",
   "definition": "Der strategische Planungsprozess stellt sicher, dass alle Anstrengungen und Ressourcen eines Unternehmens auf die wichtigsten Ziele ausgerichtet sind. Er lässt sich in sieben Schritten durchführen, beginnend mit der Klärung von Vision, Auftrag und Werten, gefolgt von einer Umweltanalyse, etwa per SWOT-Analyse, und der Festlegung strategischer Prioritäten.",
   "artikel": [
@@ -5486,6 +5514,10 @@
    {
     "slug": "okrs-strategie-zum-leben-erwecken",
     "titel": "OKRs bringen die Strategie zum Leben: In sechs Schritten von der Strategie zu OKRs"
+   },
+   {
+    "slug": "lean-strategy-canvas",
+    "titel": "Der Lean Strategy Canvas: In einem Nachmittag zur gemeinsamen Strategie"
    }
   ],
   "anker": "strategy-choice-cascade",
