@@ -1552,6 +1552,18 @@
   "buchstabe": "D"
  },
  {
+  "begriff": "DHM-Modell",
+  "definition": "Das DHM-Modell von Gibson Biddle, früher Produktchef bei Netflix, beschreibt eine Produktstrategie als Antwort auf eine Frage: Wie begeistert das Produkt Kunden (Delight) auf eine Weise, die schwer zu kopieren ist (Hard to copy) und die Marge verbessert (Margin-enhancing)?",
+  "artikel": [
+   {
+    "slug": "produktstrategie-in-12-uebungen-gibson-biddle",
+    "titel": "Produktstrategie in 12 Übungen: Das Vorgehen von Gibson Biddle"
+   }
+  ],
+  "anker": "dhm-modell",
+  "buchstabe": "D"
+ },
+ {
   "begriff": "Digital Analytics",
   "definition": "Digital Analytics bedeutet, Nutzerflüsse zu erkennen, Ziele zu definieren und sauber zu messen, wie Nutzer kommen, was sie tun und wo sie aussteigen. Gemessen werden Kanäle, Kampagnen und Inhalte in Web, App und auch bei Offline-Touchpoints wie TV oder Plakat.",
   "artikel": [
@@ -2181,6 +2193,18 @@
    }
   ],
   "anker": "gist-framework",
+  "buchstabe": "G"
+ },
+ {
+  "begriff": "GLEe-Modell",
+  "definition": "Das GLEe-Modell von Gibson Biddle beschreibt die langfristige Produktvision in drei Schritten: womit ein Unternehmen in den ersten Jahren groß wird (Get big), was es danach anführt (Lead) und wohin es sich anschließend ausdehnt (Expand).",
+  "artikel": [
+   {
+    "slug": "produktstrategie-in-12-uebungen-gibson-biddle",
+    "titel": "Produktstrategie in 12 Übungen: Das Vorgehen von Gibson Biddle"
+   }
+  ],
+  "anker": "glee-modell",
   "buchstabe": "G"
  },
  {
@@ -3758,6 +3782,10 @@
    {
     "slug": "okr-der-nordstern-und-die-wichtigsten-kennzahlen",
     "titel": "OKR: Der Nordstern und die wichtigsten Kennzahlen"
+   },
+   {
+    "slug": "produktstrategie-in-12-uebungen-gibson-biddle",
+    "titel": "Produktstrategie in 12 Übungen: Das Vorgehen von Gibson Biddle"
    }
   ],
   "anker": "north-star-metric",
@@ -4469,6 +4497,18 @@
    }
   ],
   "anker": "prompt",
+  "buchstabe": "P"
+ },
+ {
+  "begriff": "Proxy-Kennzahl (Proxy Metric)",
+  "definition": "Eine Proxy-Kennzahl ist eine Ersatzkennzahl, die schneller reagiert als eine übergeordnete Zielgröße wie die Kundenbindung und sich von einem Team direkt beeinflussen lässt. Nach Gibson Biddle ist sie als Anteil von Nutzern formuliert, messbar, beeinflussbar, kein Durchschnitt, mit der Zielgröße verbunden und schwer zu manipulieren.",
+  "artikel": [
+   {
+    "slug": "produktstrategie-in-12-uebungen-gibson-biddle",
+    "titel": "Produktstrategie in 12 Übungen: Das Vorgehen von Gibson Biddle"
+   }
+  ],
+  "anker": "proxy-kennzahl",
   "buchstabe": "P"
  },
  {

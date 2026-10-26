@@ -48,4 +48,4 @@ Stell dir vor, du startest ein neues Fitnessstudio. Anstatt dich als ein weitere
 
 Ich hoffe, dieser Artikel hat dir geholfen, die Bedeutung einer starken Marke zu verstehen und wie du sie für dein eigenes Unternehmen oder Produkt nutzen kannst. Denke daran, dass es nicht nur darum geht, ein gutes Produkt zu haben, sondern eine Marke zu schaffen, die in den Köpfen und Herzen der Kunden verankert ist.
 
-Inspiriert hat mich der [Medium Artikel](https://gibsonbiddle.medium.com/branding-for-builders-19e103ef3f1d) von Gibson Biddle. Sieh dir auch meinen Blog Beitrag zum Thema "[Das A und O des Brandings](/das-a-und-o-des-brandings/)" an.
+Inspiriert hat mich der [Medium Artikel](https://gibsonbiddle.medium.com/branding-for-builders-19e103ef3f1d) von Gibson Biddle. Sein Vorgehen zur Produktstrategie stelle ich im Artikel [Produktstrategie in 12 Übungen](/produktstrategie-in-12-uebungen-gibson-biddle/) vor. Sieh dir auch meinen Blog Beitrag zum Thema "[Das A und O des Brandings](/das-a-und-o-des-brandings/)" an.
