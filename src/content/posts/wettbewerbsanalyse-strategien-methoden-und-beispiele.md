@@ -157,3 +157,5 @@ Die Wettbewerbsanalyse ist ein unverzichtbares Werkzeug, um deine Marktposition 
 | **Strategien ableiten** | Differenzierungsmerkmale und Handlungspläne entwickeln |
 
 Sieh dir auch diesen Beitrag von mir an: [Vertrauen im Geschäftsleben: Warum es zwei Jahre dauert, bis deine Kunden dir vertrauen](/vertrauen-im-geschaeftsleben-warum-es-zwei-jahre-dauert-bis-deine-kunden-dir-vertrauen/)
+
+Wie du über die vier Arten von Wettbewerbern mehr über deine Kunden lernst, beschreibe ich im Artikel [Hör auf, deine Konkurrenz zu ignorieren](/konkurrenz-nicht-ignorieren-wettbewerber-verstehen/).

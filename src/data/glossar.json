@@ -2540,6 +2540,18 @@
   "buchstabe": "I"
  },
  {
+  "begriff": "Indirekter Wettbewerb",
+  "definition": "Indirekte Wettbewerber bedienen dieselben Kunden wie das eigene Unternehmen, aber mit einer anderen Lösung für deren Problem. Neben direkten Wettbewerbern gehören auch alternative Lösungen wie Tabellen oder Berater und selbst kombinierte Werkzeuge zur Konkurrenz, mit der Kunden ein Angebot vergleichen.",
+  "artikel": [
+   {
+    "slug": "konkurrenz-nicht-ignorieren-wettbewerber-verstehen",
+    "titel": "Hör auf, deine Konkurrenz zu ignorieren: Wie du über Wettbewerber deine Kunden besser verstehst"
+   }
+  ],
+  "anker": "indirekter-wettbewerb",
+  "buchstabe": "I"
+ },
+ {
   "begriff": "Interleaving",
   "definition": "Interleaving ist eine Lernmethode, bei der du mehrere verwandte Konzepte gleichzeitig lernst, indem du abwechselnd zwischen ihnen hin- und herspringst. Den Gegensatz bildet das lange Üben eines einzelnen Themas (blocked practice). Die Methode soll helfen, die Unterschiede zwischen Konzepten zu erkennen und Wissen flexibler anzuwenden.",
   "artikel": [
@@ -5588,6 +5600,18 @@
   "buchstabe": "S"
  },
  {
+  "begriff": "Switch-Interview",
+  "definition": "Ein Switch-Interview ist eine Interviewmethode aus dem Jobs-to-be-Done-Ansatz. Man spricht mit Kunden, die von einem Produkt zu einem anderen gewechselt sind, und rekonstruiert die Ereignisse, die zum Wechsel geführt haben. Über mehrere Gespräche hinweg zeigen sich so die Auslöser und Gründe für Kaufentscheidungen.",
+  "artikel": [
+   {
+    "slug": "konkurrenz-nicht-ignorieren-wettbewerber-verstehen",
+    "titel": "Hör auf, deine Konkurrenz zu ignorieren: Wie du über Wettbewerber deine Kunden besser verstehst"
+   }
+  ],
+  "anker": "switch-interview",
+  "buchstabe": "S"
+ },
+ {
   "begriff": "SWOT-Analyse",
   "definition": "Die SWOT-Analyse ist ein strategisches Planungsinstrument, mit dem du die Stärken (Strengths), Schwächen (Weaknesses), Chancen (Opportunities) und Bedrohungen (Threats) eines Unternehmens oder Projekts identifizierst. Sie bietet einen klaren Rahmen für wichtige Entscheidungen.",
   "artikel": [
@@ -6246,6 +6270,10 @@
    {
     "slug": "wettbewerbsanalyse-strategien-methoden-und-beispiele",
     "titel": "Wettbewerbsanalyse: Strategien, Methoden und Beispiele"
+   },
+   {
+    "slug": "konkurrenz-nicht-ignorieren-wettbewerber-verstehen",
+    "titel": "Hör auf, deine Konkurrenz zu ignorieren: Wie du über Wettbewerber deine Kunden besser verstehst"
    }
   ],
   "anker": "wettbewerbsanalyse",
