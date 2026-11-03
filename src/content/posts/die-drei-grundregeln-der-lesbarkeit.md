@@ -54,4 +54,6 @@ Typische Fehler:
 
 Ein einfacher Test: Gib den Text einer Person, die dein Angebot nicht kennt. Lass sie den Text kurz überfliegen und frage danach, was angeboten wird. Kann sie es nicht sagen, ist der Text noch nicht scanbar genug.
 
+Lesbarkeit ist nur eines von mehreren Prinzipien guter Marketingkommunikation. Welche anderen dazugehören, von Timing bis Vollständigkeit, zeige ich im Artikel [Die 8 Prinzipien der Kommunikation im Marketing](/acht-prinzipien-der-kommunikation-im-marketing/).
+
 Grafik: CC0 Creative Commons pixabay MabelAmber

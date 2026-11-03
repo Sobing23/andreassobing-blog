@@ -144,6 +144,18 @@
   "buchstabe": "0–9"
  },
  {
+  "begriff": "7 Cs der Kommunikation",
+  "definition": "Eine verbreitete Checkliste für wirksame Kommunikation, meist Scott Cutlip und Allen Center (1952) zugeschrieben: klar, knapp, konkret, korrekt, rücksichtsvoll, vollständig und höflich. Für das Marketing wird die Liste oft um Timing, Kohärenz und Dringlichkeit erweitert.",
+  "artikel": [
+   {
+    "slug": "acht-prinzipien-der-kommunikation-im-marketing",
+    "titel": "Die 8 Prinzipien der Kommunikation im Marketing: Von den 7 Cs zur Praxis"
+   }
+  ],
+  "anker": "7-cs-der-kommunikation",
+  "buchstabe": "0–9"
+ },
+ {
   "begriff": "7 Muda",
   "definition": "Muda ist ein japanisches Wort für unnötige Aktivität. Im Lean Manufacturing bezeichnet es sieben Arten von Verschwendung, zusammengefasst im Akronym TIMWOOD, darunter Transport, Inventar, Bewegung und Wartezeiten. Das Konzept lässt sich auch auf Marketingprozesse übertragen.",
   "artikel": [
@@ -2088,6 +2100,18 @@
   "buchstabe": "F"
  },
  {
+  "begriff": "FUD (Fear, Uncertainty, Doubt)",
+  "definition": "Englische Abkürzung für Angst, Unsicherheit und Zweifel. Im Marketing beschreibt FUD die offenen Fragen und Bedenken, die einen Kauf verhindern. Ein FAQ-Bereich oder klare Antworten auf typische Einwände bauen FUD ab.",
+  "artikel": [
+   {
+    "slug": "acht-prinzipien-der-kommunikation-im-marketing",
+    "titel": "Die 8 Prinzipien der Kommunikation im Marketing: Von den 7 Cs zur Praxis"
+   }
+  ],
+  "anker": "fud-fear-uncertainty-doubt",
+  "buchstabe": "F"
+ },
+ {
   "begriff": "FUEL-Coaching-Modell",
   "definition": "Ein strukturierter Coaching-Ansatz für Führungskräfte zur Problemlösung und Mitarbeiterentwicklung. FUEL steht für Frame the Conversation, Understand the Current State, Explore the Desired State und Lay Out a Success Plan. Der Schwerpunkt liegt auf der Lösung und dem gewünschten Endzustand statt auf dem Problem.",
   "artikel": [
@@ -2742,6 +2766,10 @@
    {
     "slug": "das-prinzip-der-knappheit-mehr-als-nur-ein-verkaufstrick",
     "titel": "Das Prinzip der Knappheit: Mehr als nur ein Verkaufstrick"
+   },
+   {
+    "slug": "acht-prinzipien-der-kommunikation-im-marketing",
+    "titel": "Die 8 Prinzipien der Kommunikation im Marketing: Von den 7 Cs zur Praxis"
    }
   ],
   "anker": "knappheitsprinzip",
@@ -3250,6 +3278,10 @@
    {
     "slug": "wie-du-den-richtigen-ton-fuer-deine-marke-findest",
     "titel": "Wie Du den richtigen Ton für Deine Marke findest"
+   },
+   {
+    "slug": "acht-prinzipien-der-kommunikation-im-marketing",
+    "titel": "Die 8 Prinzipien der Kommunikation im Marketing: Von den 7 Cs zur Praxis"
    }
   ],
   "anker": "markentonalitat",
@@ -3517,6 +3549,18 @@
    }
   ],
   "anker": "mehrstufige-e-mail-kampagne",
+  "buchstabe": "M"
+ },
+ {
+  "begriff": "Message Layers",
+  "definition": "Ein Prüfraster des Testanbieters Wynter für B2B-Botschaften. Testpersonen aus der Zielgruppe bewerten eine Botschaft in vier aufeinander aufbauenden Ebenen auf einer Skala von 1 bis 5: Klarheit, Relevanz, Wert und Differenzierung.",
+  "artikel": [
+   {
+    "slug": "acht-prinzipien-der-kommunikation-im-marketing",
+    "titel": "Die 8 Prinzipien der Kommunikation im Marketing: Von den 7 Cs zur Praxis"
+   }
+  ],
+  "anker": "message-layers",
   "buchstabe": "M"
  },
  {
@@ -4810,6 +4854,10 @@
    {
     "slug": "mit-der-rfm-analyse-steigerst-du-deine-kundenbindung",
     "titel": "Mit der RFM-Analyse steigerst du deine Kundenbindung"
+   },
+   {
+    "slug": "acht-prinzipien-der-kommunikation-im-marketing",
+    "titel": "Die 8 Prinzipien der Kommunikation im Marketing: Von den 7 Cs zur Praxis"
    }
   ],
   "anker": "rfm-analyse",
@@ -6177,6 +6225,18 @@
    }
   ],
   "anker": "voice-cloning",
+  "buchstabe": "V"
+ },
+ {
+  "begriff": "Voice of Customer",
+  "definition": "Die Wörter, Formulierungen und Anliegen, mit denen Kunden ihr Problem selbst beschreiben. Gesammelt wird die Voice of Customer aus Interviews, Bewertungen, Supportanfragen und Verkaufsgesprächen. Wer sie in Marketingtexte übernimmt, wird schneller verstanden.",
+  "artikel": [
+   {
+    "slug": "acht-prinzipien-der-kommunikation-im-marketing",
+    "titel": "Die 8 Prinzipien der Kommunikation im Marketing: Von den 7 Cs zur Praxis"
+   }
+  ],
+  "anker": "voice-of-customer",
   "buchstabe": "V"
  },
  {
