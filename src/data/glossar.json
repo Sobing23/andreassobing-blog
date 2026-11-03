@@ -1021,11 +1021,11 @@
  },
  {
   "begriff": "CLEAR-Coaching-Modell",
-  "definition": "Das CLEAR-Coaching-Modell gibt Coaches einen strukturierten Rahmen, um Klienten beim Setzen und Erreichen klarer Ziele zu unterstützen. Das Akronym steht für Contracting (Vereinbarungen treffen), Listening (Zuhören), Exploring (Erkunden), Actions (Aktionen) und Review (Überprüfung).",
+  "definition": "Ein Coaching-Modell von Peter Hawkins (Henley Business School) aus den frühen 1980er Jahren. Es gliedert ein Gespräch in fünf Schritte: Contracting (Rahmen vereinbaren), Listening (zuhören), Exploring (erkunden), Action (nächsten Schritt gemeinsam vereinbaren) und Review (überprüfen und nachfassen). Anders als GROW legt CLEAR besonderen Wert auf das Überprüfen.",
   "artikel": [
    {
     "slug": "klare-kommunikation-das-clear-coaching-modell",
-    "titel": "Klare Kommunikation: Das Clear Coaching Modell"
+    "titel": "Das CLEAR-Coaching-Modell: Bessere Gespräche mit deinem Team in 5 Schritten"
    }
   ],
   "anker": "clear-coaching-modell",
@@ -2298,6 +2298,10 @@
    {
     "slug": "das-grow-modell-dein-schluessel-zu-effektiven-marketingstrategien",
     "titel": "Das GROW-Modell: Dein Schlüssel zu effektiven Marketingstrategien"
+   },
+   {
+    "slug": "klare-kommunikation-das-clear-coaching-modell",
+    "titel": "Das CLEAR-Coaching-Modell: Bessere Gespräche mit deinem Team in 5 Schritten"
    }
   ],
   "anker": "grow-modell",
