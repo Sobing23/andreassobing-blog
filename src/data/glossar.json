@@ -2054,9 +2054,25 @@
    {
     "slug": "was-ist-first-principle-thinking-und-wie-nutzt-du-es",
     "titel": "Was ist First Principle Thinking und wie nutzt du es?"
+   },
+   {
+    "slug": "five-whys-methode-ursachen-finden",
+    "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
    }
   ],
   "anker": "first-principles-thinking",
+  "buchstabe": "F"
+ },
+ {
+  "begriff": "Five Whys (5-Why-Methode)",
+  "definition": "Eine Methode der Ursachenanalyse aus dem Umfeld von Toyota. Ausgehend vom sichtbaren Problem fragt ein Team so lange „Warum?“, bis es bei der eigentlichen Ursache ankommt, meist nach etwa fünf Runden. Die Zahl Fünf ist ein Richtwert, keine Regel.",
+  "artikel": [
+   {
+    "slug": "five-whys-methode-ursachen-finden",
+    "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
+   }
+  ],
+  "anker": "five-whys-5-why-methode",
   "buchstabe": "F"
  },
  {
@@ -2616,6 +2632,18 @@
   "buchstabe": "I"
  },
  {
+  "begriff": "Ishikawa-Diagramm",
+  "definition": "Ein Diagramm zur Ursachenanalyse, benannt nach Kaoru Ishikawa und wegen seiner Form auch Fischgrätendiagramm genannt. Mögliche Ursachen eines Problems werden nach Kategorien wie Mensch, Maschine, Material oder Methode geordnet. Es eignet sich besser als die 5-Why-Methode, wenn ein Problem mehrere Ursachen hat.",
+  "artikel": [
+   {
+    "slug": "five-whys-methode-ursachen-finden",
+    "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
+   }
+  ],
+  "anker": "ishikawa-diagramm",
+  "buchstabe": "I"
+ },
+ {
   "begriff": "Ivy-Lee-Methode",
   "definition": "Die Ivy-Lee-Methode ist eine Zeitmanagement-Technik zur Steigerung der Produktivität. Am Ende des Arbeitstages notierst du die sechs wichtigsten Aufgaben für den nächsten Tag und ordnest sie nach Priorität. Am nächsten Tag arbeitest du sie der Reihe nach ab, und nicht erledigte Aufgaben wandern auf die Liste des Folgetages.",
   "artikel": [
@@ -3030,6 +3058,10 @@
    {
     "slug": "lean-startup-die-wichtigsten-prinzipien-aus-dem-buch-von-eric-ries",
     "titel": "Lean Startup: Die wichtigsten Prinzipien aus dem Buch von Eric Ries"
+   },
+   {
+    "slug": "five-whys-methode-ursachen-finden",
+    "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
    }
   ],
   "anker": "lean-startup",
@@ -4134,6 +4166,10 @@
    {
     "slug": "der-pdca-zyklus-ein-rundgang-durch-kontinuierliche-verbesserung",
     "titel": "Der PDCA-Zyklus: Ein Rundgang durch kontinuierliche Verbesserung"
+   },
+   {
+    "slug": "five-whys-methode-ursachen-finden",
+    "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
    }
   ],
   "anker": "pdca-zyklus",
@@ -5905,6 +5941,18 @@
    }
   ],
   "anker": "unterbrechungsorientiertes-arbeiten",
+  "buchstabe": "U"
+ },
+ {
+  "begriff": "Ursachenanalyse (Root Cause Analysis)",
+  "definition": "Das systematische Suchen nach der eigentlichen Ursache eines Problems, statt nur dessen Symptome zu behandeln. Bekannte Werkzeuge sind die 5-Why-Methode und das Ishikawa-Diagramm.",
+  "artikel": [
+   {
+    "slug": "five-whys-methode-ursachen-finden",
+    "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
+   }
+  ],
+  "anker": "ursachenanalyse-root-cause-analysis",
   "buchstabe": "U"
  },
  {

@@ -83,4 +83,6 @@ ROI=(10.000−6.000/6.000)×100=66,67
 
 Das S.C.O.R.E.-Modell bietet eine strukturierte Methode zur Problemlösung im Marketing. Es hilft, die Symptome zu erkennen, die Ursachen zu analysieren, klare Ziele zu setzen, die verfügbaren Ressourcen zu bewerten und schließlich die Wirkungen zu messen.
 
+Für den zweiten Schritt, die Ursachenanalyse, eignet sich die [5-Why-Methode](/five-whys-methode-ursachen-finden/): Du fragst so lange nach dem Warum, bis du beim eigentlichen Problem ankommst.
+
 Lerne auch das [Visionboard](/visionboard-dein-persoenlicher-kompass-fuer-erfolg/) kennen und erfahre, wie es dir bei deiner Arbeit hilft.
