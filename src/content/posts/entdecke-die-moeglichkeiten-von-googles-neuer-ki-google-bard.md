@@ -8,6 +8,7 @@ image: "/wp-content/uploads/2023/05/macbook-459196_6401.jpg"
 category: "ki-tools"
 vgwort: "https://vg05.met.vgwort.de/na/217928d612234ff39a3f28f55905dfa4"
 wpId: 4576
+noindex: true
 ---
 
 Hast du schon von Google Bard gehört? Es ist eine neue KI von Google, die dir bei einer Vielzahl von Aufgaben helfen kann. Von der Recherche über das Schreiben von Artikeln bis hin zu kreativen Projekten - Google Bard ist dein neuer [digitaler Assistent](https://bard.google.com/?hl=en).

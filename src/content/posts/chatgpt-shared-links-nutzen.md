@@ -8,6 +8,7 @@ image: "/wp-content/uploads/2023/06/Kopie-von-chatgpt1.png"
 category: "ki-tools"
 vgwort: "https://vg05.met.vgwort.de/na/b3b41b083e8246ed86e4de31385b81d6"
 wpId: 4631
+noindex: true
 ---
 
 Shared Links in ChatGPT ermöglichen es euch, einzigartige URLs für bestimmte ChatGPT-Konversationen zu erstellen und zu teilen. Stellt euch vor, ihr habt eine besonders nützliche oder aufschlussreiche Konversation mit ChatGPT geführt und möchtet diese mit euren Kollegen oder Freunden teilen. Mit Shared Links ist das jetzt möglich!
