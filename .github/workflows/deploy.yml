@@ -5,6 +5,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      alle:
+        description: "Alle Seiten der Sitemap per IndexNow melden"
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -39,3 +44,20 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+
+  # Meldet geänderte Artikel per IndexNow an Bing und andere Suchmaschinen, sobald sie online sind
+  indexnow:
+    needs: deploy
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Geänderte Seiten melden
+        if: github.event_name == 'push'
+        run: python3 tools/indexnow.py "${{ github.event.before }}" "${{ github.sha }}"
+      - name: Alle Seiten melden
+        if: github.event_name == 'workflow_dispatch' && inputs.alle
+        run: python3 tools/indexnow.py --alle

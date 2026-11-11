@@ -55,6 +55,7 @@ for (const dir of ['src/content/posts', 'src/content/pages']) {
     if (slug && datum) lastmod.set(`/${slug}/`, new Date(datum).toISOString());
   }
 }
+const neuestes = [...lastmod.values()].sort().at(-1);
 // Schlagwörter mit höchstens zwei Artikeln: auf der Seite noindex, hier nicht in die Sitemap
 const tagSlug = (t) => t.toLowerCase().replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss')
   .replace(/&/g, 'und').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -81,8 +82,8 @@ export default defineConfig({
         return !duenneSchlagwoerter.has(pfad);
       },
       serialize: (item) => {
-        const d = lastmod.get(new URL(item.url).pathname);
-        if (d) item.lastmod = d;
+        // Artikel: eigenes Datum. Übersichten (Startseite, Handbuch, Glossar, Videos …): Datum des neuesten Artikels
+        item.lastmod = lastmod.get(new URL(item.url).pathname) || neuestes;
         return item;
       },
     }),
