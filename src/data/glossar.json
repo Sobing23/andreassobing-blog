@@ -144,6 +144,18 @@
   "buchstabe": "0–9"
  },
  {
+  "begriff": "6M-Methode",
+  "definition": "Die klassischen sechs Kategorien des Ishikawa-Diagramms: Mensch, Maschine, Methode, Material, Messung und Milieu. Sie helfen, mögliche Ursachen eines Problems systematisch aus allen Richtungen zu sammeln. Für das Marketing gibt es eine Variante mit acht P.",
+  "artikel": [
+   {
+    "slug": "ishikawa-diagramm-ursachen-finden",
+    "titel": "Das Ishikawa-Diagramm: Ursachen systematisch finden, auch im Marketing"
+   }
+  ],
+  "anker": "6m-methode",
+  "buchstabe": "0–9"
+ },
+ {
   "begriff": "7 Cs der Kommunikation",
   "definition": "Eine verbreitete Checkliste für wirksame Kommunikation, meist Scott Cutlip und Allen Center (1952) zugeschrieben: klar, knapp, konkret, korrekt, rücksichtsvoll, vollständig und höflich. Für das Marketing wird die Liste oft um Timing, Kohärenz und Dringlichkeit erweitert.",
   "artikel": [
@@ -2070,6 +2082,10 @@
    {
     "slug": "five-whys-methode-ursachen-finden",
     "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
+   },
+   {
+    "slug": "ishikawa-diagramm-ursachen-finden",
+    "titel": "Das Ishikawa-Diagramm: Ursachen systematisch finden, auch im Marketing"
    }
   ],
   "anker": "five-whys-5-why-methode",
@@ -2635,6 +2651,10 @@
   "begriff": "Ishikawa-Diagramm",
   "definition": "Ein Diagramm zur Ursachenanalyse, benannt nach Kaoru Ishikawa und wegen seiner Form auch Fischgrätendiagramm genannt. Mögliche Ursachen eines Problems werden nach Kategorien wie Mensch, Maschine, Material oder Methode geordnet. Es eignet sich besser als die 5-Why-Methode, wenn ein Problem mehrere Ursachen hat.",
   "artikel": [
+   {
+    "slug": "ishikawa-diagramm-ursachen-finden",
+    "titel": "Das Ishikawa-Diagramm: Ursachen systematisch finden, auch im Marketing"
+   },
    {
     "slug": "five-whys-methode-ursachen-finden",
     "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
@@ -5942,6 +5962,10 @@
    {
     "slug": "five-whys-methode-ursachen-finden",
     "titel": "Die 5-Why-Methode: So findest du die Ursache statt nur das Symptom"
+   },
+   {
+    "slug": "ishikawa-diagramm-ursachen-finden",
+    "titel": "Das Ishikawa-Diagramm: Ursachen systematisch finden, auch im Marketing"
    }
   ],
   "anker": "ursachenanalyse-root-cause-analysis",

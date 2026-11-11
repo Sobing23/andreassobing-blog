@@ -53,7 +53,7 @@ Es gibt viele Methoden, die du im Qualitätsmanagement anwenden kannst. Hier die
 - **PDCA-Zyklus (Plan-Do-Check-Act):** Der Klassiker für kontinuierliche Verbesserung.
 - **FMEA (Fehlermöglichkeits- und Einflussanalyse):** Analyse möglicher Fehlerquellen.
 - **Six Sigma:** Datenbasierte Methode zur Prozessoptimierung.
-- **Ishikawa-Diagramm (Ursache-Wirkung):** Zur Analyse von Fehlerursachen.
+- **[Ishikawa-Diagramm](/ishikawa-diagramm-ursachen-finden/) (Ursache-Wirkung):** Zur Analyse von Fehlerursachen.
 - **5-Why-Methode:** Um die Wurzel eines Problems zu erkennen.
 
 ## Welche Normen und Standards gibt es?

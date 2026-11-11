@@ -86,7 +86,7 @@ Der Productboard-Beitrag stellt die Methode durchweg positiv dar. Es gibt aber e
 
 Für die meisten Probleme im Marketing ist die 5-Why-Methode ein gutes Werkzeug. Sie ist schnell, braucht keine Vorbereitung und zwingt ein Team, über die erste naheliegende Erklärung hinauszudenken. Gerade im Marketing, wo bei sinkenden Zahlen oft sofort an Kampagne, Text oder Budget geschraubt wird, ist das viel wert.
 
-Ich würde sie aber mit zwei Ergänzungen nutzen. Erstens: Frag bei jedem Schritt nicht nur „Warum?“, sondern auch „Gibt es noch einen anderen Grund?“. So wird aus der Kette ein kleiner Baum, und du übersiehst weniger. Wird der Baum groß, ist ein [Ishikawa-Diagramm](/glossar/#ishikawa-diagramm) das bessere Werkzeug. Zweitens: Prüf jede Antwort mit Daten, bevor du die nächste Frage stellst. „Die Liste wurde nie bereinigt“ ist eine Vermutung, solange niemand nachgesehen hat, wie viele inaktive Adressen tatsächlich darauf stehen.
+Ich würde sie aber mit zwei Ergänzungen nutzen. Erstens: Frag bei jedem Schritt nicht nur „Warum?“, sondern auch „Gibt es noch einen anderen Grund?“. So wird aus der Kette ein kleiner Baum, und du übersiehst weniger. Wird der Baum groß, ist ein [Ishikawa-Diagramm](/ishikawa-diagramm-ursachen-finden/) das bessere Werkzeug. Zweitens: Prüf jede Antwort mit Daten, bevor du die nächste Frage stellst. „Die Liste wurde nie bereinigt“ ist eine Vermutung, solange niemand nachgesehen hat, wie viele inaktive Adressen tatsächlich darauf stehen.
 
 Für komplexe oder kritische Probleme, etwa einen Datenschutzvorfall oder einen großen Kundenverlust, reicht die Methode allein nicht. Dort braucht es eine gründlichere Analyse mit mehreren Perspektiven.
 
