@@ -10,6 +10,7 @@ vgwort: "https://vg08.met.vgwort.de/na/9931491e4d8840bc879fc7f094f68b81"
 tags:
   - "E-Mail-Marketing"
 wpId: 696
+noindex: true
 ---
 
 [Deutsche-Startups. de](http://www.deutsche-startups.de/ "Deutsche Startups Homepage") hat [hier](http://www.deutsche-startups.de/2012/03/06/white-paper-e-mail-marketing/ "Whitepaper Deutsche-Startups E-Mail Marketing") einmal ein Whitepaper, gemeinsam mit der Cloud-Emailing-Plattform mailjet ([www.mailjet.com](https://www.mailjet.com/)), für das E-Mail Marketing für Online Händler zum kostenlosen Download zur Verfügung gestellt. Es geht speziell um die Themen Zustellbarkeit und Optimierung.

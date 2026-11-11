@@ -5,6 +5,7 @@ date: 2009-09-15T18:19:15
 updated: 2015-03-10T17:14:29
 category: "fundstuecke"
 wpId: 344
+noindex: true
 ---
 
 Ich werde am 18.09. zwei Vorträge bei der Online Marketing Convention 2009 in Wilhelmshaven halten. Hier noch eine Liste aller Referenten.

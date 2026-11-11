@@ -10,6 +10,7 @@ vgwort: "https://vg06.met.vgwort.de/na/bdeb32c249d74adab1395ddebb317547"
 tags:
   - "E-Commerce"
 wpId: 1023
+noindex: true
 ---
 
 Der [Swiss E-Commerce-Award](http://www.ecommerce-award.ch/ "Swiss Ecommerce Award Homepage") zeichnet die besten Schweizer Online-Shops aus. Initiator Thomas Lang von der E-Commerce-Agentur [carpathia](http://www.carpathia.ch/ "Carpathia Webseite") stellt einmal 10 Tipps für mehr Erfolg im Online-Handel vor.

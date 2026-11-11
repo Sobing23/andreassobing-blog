@@ -7,6 +7,7 @@ category: "ki-tools"
 tags:
   - "Apple"
 wpId: 165
+noindex: true
 ---
 
 Das 4G, oder auch iPhone 3.1, wie das neue [iPhone](http://de.wikipedia.org/wiki/Apple_iPhone "iPhone Definition") nun angeblich heißen soll, laut [chip.de](http://www.chip.de/ "Chip.de Homepage"), den Chipsatz BCM4329 von Broadcom erhalten. Damit biete das neue iPhone WLAN in den Standards IEEE 802.11 a/b/g/n, ein FM-Radio inklusive FM-Transmitter und Bluetooth 2.1+EDR.

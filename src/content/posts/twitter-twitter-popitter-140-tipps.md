@@ -7,6 +7,7 @@ category: "marketing"
 tags:
   - "Twitter"
 wpId: 467
+noindex: true
 ---
 
 Das Medium Twitter hat viele Fans aber auch genauso viele Gegner. Für viele das beste Social Media Tool oder der schnellste Weg für neue Nachrichten. Manche wissen damit immer noch nichts anzufangen und halten es für nutzlos Oder halten es wie Google CEO Eric Schmidt als "Mailsystem for the poor". Trotz allem  habe ich eine nete Sammlung von 140 Twitter Tipps im Netz gefunden. Autor ist Kyle Lacy, der auch das Buch "[Twitter Marketing for dummies](http://www.amazon.de/Twitter-Marketing-Dummies-Computers/dp/0470561726/ref=sr_1_1?ie=UTF8&s=books-intl-de&qid=1264628347&sr=8-1 "Twitter Marketing for dummies Amazon")" geschrieben hat".[140 Twitter Tips](http://www.slideshare.net/KyleLacy/140-twitter-tips "140 Twitter Tips")Auch Sixtus und Lobo äußern noch einmal kritische Töne

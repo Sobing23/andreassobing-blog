@@ -5,6 +5,7 @@ date: 2011-10-21T13:56:06
 updated: 2017-12-06T16:22:13
 category: "fundstuecke"
 wpId: 582
+noindex: true
 ---
 
 Google Analytics hat einmal wunderbar in dem Video veranschaulicht welche Hürden beim Online Checkout den Käufer abbrechen lassen. Zeitfressende und nervige Hürden gibt es oft beim Online-Kauf. Aber seht selbst.

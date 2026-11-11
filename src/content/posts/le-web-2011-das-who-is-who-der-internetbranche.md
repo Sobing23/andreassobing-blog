@@ -9,6 +9,7 @@ vgwort: "https://vg09.met.vgwort.de/na/f611518527ab4c4298cf8751106f5ee8"
 tags:
   - "LeWeb"
 wpId: 620
+noindex: true
 ---
 
 Vom 7. bis 9. Dezember 2011 findet in Paris die LeWeb Konferenz statt. Hier treffen sich Europas Entrepreneure, aufregende Startups und Internet Persönlichkeiten. Die Teilnerhmerliste ist vornehmlich mit VCs, Angel-Investoren, Beratern, Konzernmitarbeitern und Agenturen gefüllt. Der Dialog und das Networking stehen ganz oben auf der Agenda. Das diesjährige Motto der Le Web sind die drei Trendthemen “Social, Local, Mobile”, kurz Solomo. Das Programm ist in folgende Hauptkategorien aufgeteilt: Startup Competition, Keynotes und Workshops.

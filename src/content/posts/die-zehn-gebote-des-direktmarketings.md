@@ -7,6 +7,7 @@ description: "Als Direktmarketing wird jede Werbemaßnahme bezeichnet, die eine 
 category: "marketing"
 vgwort: "https://vg09.met.vgwort.de/na/1efdcddaf97744b2b7d4f9f3bf01134e"
 wpId: 195
+noindex: true
 ---
 
 Als [**Direktmarketing**](http://de.wikipedia.org/wiki/Direktmarketing "Definition Direktmarketing") wird innerhalb der Marktkommunikation des Marketing jede Werbemaßnahme bezeichnet, die eine direkte Ansprache des möglichen Kunden mit der Aufforderung zur Antwort enthält.

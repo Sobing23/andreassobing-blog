@@ -7,6 +7,7 @@ category: "marketing"
 tags:
   - "Social Media"
 wpId: 418
+noindex: true
 ---
 
 Facebook bietet  Unternehmen zusätzlich die Option an, auf der eigenen Page unterschiedliche Tabs selbst zu gestalten und mit Inhalten zu füllen. Dies bietet nicht nur die Möglichkeit des [Branding](http://de.wikipedia.org/wiki/Branding "Definition Branding"), sondern es können auch zusätzliche Funktionen angeboten werden. Die Inhalte reichen von einfachen Grafiken über interaktive Flashspiele bis hin zu Webshops. In diesem Dokument werden 50 Facebook Marketing Beispiele für personalisierte Pages angeführt.

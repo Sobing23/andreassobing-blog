@@ -20,6 +20,8 @@ const posts = defineCollection({
     vgwort: z.string().url().optional(),
     wpId: z.number().optional(),
     draft: z.boolean().default(false),
+    // true: Seite bleibt online, wird aber von Suchmaschinen nicht indexiert und steht nicht in der Sitemap
+    noindex: z.boolean().default(false),
   }),
 });
 

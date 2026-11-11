@@ -7,6 +7,7 @@ description: "Eine Erfolgsformel ist der User Generated Content bzw. Grassroot- 
 category: "marketing"
 vgwort: "https://vg09.met.vgwort.de/na/2ccb23e4d0644131b4829bbaba993623"
 wpId: 118
+noindex: true
 ---
 
 Während Lokal- und Regionalzeitungen immer mehr Leser verlieren, baut [Bild](http://www.bild.de/ "Bild Homepage") seine Leserschaft aus.

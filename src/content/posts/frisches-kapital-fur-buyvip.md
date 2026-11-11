@@ -7,6 +7,7 @@ description: "Die Shoppingplattform BuyVIP sicherte sich gerade in einer Finanzi
 category: "fundstuecke"
 vgwort: "https://vg09.met.vgwort.de/na/fefe3feceea344da80568b36e0cb5c25"
 wpId: 140
+noindex: true
 ---
 
 Die Shoppingplattform [BuyVIP](http://de.buyvip.com/homepage "BuyVIP Homepage") sicherte sich gerade in einer Finanzierungsrunde 14,9 Millionen Euro neues Kapital für die weitere Expansion. Das frische Kapital soll vor allem für den Ausbau der Internationalisierung genutzt werden.

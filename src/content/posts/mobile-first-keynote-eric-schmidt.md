@@ -9,6 +9,7 @@ category: "fundstuecke"
 tags:
   - "Google"
 wpId: 519
+noindex: true
 ---
 
 Hier ein kleines Video zur Sommerpause.Google CEO Eric Schmidt präsentiert Google's Vision der mobilen Zukunft auf dem Mobile World Congress in Barcelona. Mobile first ist einer der Leitsprüche von Google.

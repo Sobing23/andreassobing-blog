@@ -7,6 +7,7 @@ category: "email-marketing"
 tags:
   - "E-Mail-Marketing"
 wpId: 262
+noindex: true
 ---
 
 Versandzeitpunkt, Creative-Variationen, Betreffzeile - Newsmarketing führt eine fortlaufende Studie durch, um die beeinflussenden Faktoren von E-Mail-Kampagnen zu untersuchen. Mit einfachen Tipps kann man den Erfolg einer Kampagnen deutlich steigern und [Klickraten](http://de.wikipedia.org/wiki/Click-Through-Rate "Definition Klickrate") sowie Öffnungsraten nahezu verdoppeln.

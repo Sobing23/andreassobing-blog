@@ -9,6 +9,7 @@ vgwort: "https://vg09.met.vgwort.de/na/29dceb8dddbc4440b9ece4b95df88491"
 tags:
   - "Virales Marketing"
 wpId: 785
+noindex: true
 ---
 
 ![](http://4.bp.blogspot.com/-QKV6q9jbC7M/Twm3YT0bekI/AAAAAAAABYE/CbzYOBnvoVI/s1600/article-0-0224F7F6000005DC-913_468x664.jpg "bond")

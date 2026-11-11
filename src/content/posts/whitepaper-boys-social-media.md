@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Social Media"
 wpId: 761
+noindex: true
 ---
 
 ![](http://farm5.static.flickr.com/4040/4327503106_8ae497e899_z.jpg "Whitepaper")

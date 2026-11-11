@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Internetrecht"
 wpId: 321
+noindex: true
 ---
 
 Ich habe im Netz etwas zum Thema Internetrecht gefunden. Hierfür wurde die neue Kategorie Recht ins Leben gerufen. Internetrecht ist ein wichtiges Thema, es gibt jedoch wenig Spezialisten für dieses Fachgebiet.

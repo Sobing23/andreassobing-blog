@@ -7,6 +7,7 @@ category: "ki-tools"
 tags:
   - "Google"
 wpId: 281
+noindex: true
 ---
 
 An der Entwicklung des neuen Google Betriebssystem sind 4 weitere namhafte Hersteller beteiligt: Acer, Asustek Computer, Hewlett-Packard und Lenovo.

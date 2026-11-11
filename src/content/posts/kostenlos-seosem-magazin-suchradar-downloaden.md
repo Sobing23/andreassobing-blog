@@ -9,6 +9,7 @@ vgwort: "https://vg06.met.vgwort.de/na/4b9153ca166d474ca498b302bec101ef"
 tags:
   - "SEO"
 wpId: 1011
+noindex: true
 ---
 
 Die 40. Ausgabe des [SEM/SEO Magazins "suchradar"](http://www.suchradar.de/ "Suchradar Homepage") ist online verfügbar. In der aktuellen Ausgabe geht es um Tools für SEO-Optimierung. Das Magazin kann wie gewohnt kostenlos als PDF aus dem Internet geladen werden. Hier geht es zum Download

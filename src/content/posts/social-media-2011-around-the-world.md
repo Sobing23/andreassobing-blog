@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Social Media"
 wpId: 670
+noindex: true
 ---
 
 Social-Media hört man an jeder Ecke. Und scheinbar geht heute nichts mehr in der digitalen Welt ohne Social Media. "Unzählige Fakten aus aller Welt zum Thema Social Media bietet die sehenswerte und äußerst ausführliche (über 160 Seiten) Präsentation “Social Media around the World 2011″, die aus dem Hause InSites Consulting stammt. " (Quelle: [deutsche-startups.de](http://www.deutsche-startups.de/ "Deutsche Startups.de")) Weitere interessante Präsentationen findet Ihr bei [Steven van Belleghem](http://www.slideshare.net/stevenvanbelleghem "Slideshare Social Media Präsentationen").

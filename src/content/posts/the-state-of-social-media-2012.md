@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Social Media"
 wpId: 754
+noindex: true
 ---
 
 ![](http://www.seoco.co.uk/social-media/StateOfSocial2012.jpg "Social State of Social Media 2012")

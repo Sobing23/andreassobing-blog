@@ -7,6 +7,7 @@ category: "marketing"
 tags:
   - "SEO"
 wpId: 370
+noindex: true
 ---
 
 Die Suchmaschinenoptimierung ist immer wichtiger geworden. Nicht nur für grosse Unternehmen sondern auch für kleine Startups, da diese es oft in EIgenproduktion betreiben. **Suchmaschinenoptimierung** oder [*Search Engine Optimization* (SEO)](http://de.wikipedia.org/wiki/Search_Engine_Optimization "SEO Definition") sind Maßnahmen, die dazu dienen, dass Webseiten im [Suchmaschinenranking](http://de.wikipedia.org/wiki/Suchmaschinenranking "Suchmaschinenranking Definition") auf höheren Plätzen erscheinen.

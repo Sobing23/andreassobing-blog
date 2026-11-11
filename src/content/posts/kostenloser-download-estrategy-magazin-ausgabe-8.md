@@ -7,6 +7,7 @@ description: "Heute einmal für Euch das Magazin eStrategy. Das Magazin behandel
 category: "fundstuecke"
 vgwort: "https://vg06.met.vgwort.de/na/9af2a09d812c4778ad649454455e09bf"
 wpId: 568
+noindex: true
 ---
 
 Heute einmal für Euch das Magazin eStrategy. Das Magazin behandelt die Themen rund um:

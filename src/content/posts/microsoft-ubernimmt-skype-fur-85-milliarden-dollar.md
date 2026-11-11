@@ -10,6 +10,7 @@ vgwort: "https://vg06.met.vgwort.de/na/bf7ac43b26f248cebd34d09a04ad6b36"
 tags:
   - "Microsoft"
 wpId: 551
+noindex: true
 ---
 
 Heute wurde folgende Übernahme bekannt gegeben. [Microsoft](http://de.wikipedia.org/wiki/Microsoft "Microsoft Wikipedia Definition") hat [Skype](http://de.wikipedia.org/wiki/Skype "Skype Definition Wikipedia") für geschätzte 8,5 Milliarden Dollar übernommen. Damit handelt es sich bei dieser Übernahme um den größsten Zukauf in der Internet Geschichte.

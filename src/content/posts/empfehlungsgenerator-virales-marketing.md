@@ -9,6 +9,7 @@ vgwort: "https://vg06.met.vgwort.de/na/783481f03698425ebedc0991134945b9"
 tags:
   - "Virales Marketing"
 wpId: 153
+noindex: true
 ---
 
 [Virales Marketing](http://de.wikipedia.org/wiki/Virales_Marketing "Definition Virales Marketing") im Internet ist nicht nur ein effizienter, sondern auch ein vergleichsweise kostengünstiger Empfehlungsgenerator mit hoher Reichweite. Das virale Marketing verdankt seinen Namen der dramatischen Schnelligkeit und der exponentiellen Wirkung, mit der sich eine Botschaft – meist per eMail oder über Foren, Blogs und Chats - virusartig im Internet ausbreitet, ohne dass darauf Einfluss genommen werden kann, wen sie wann erreicht.

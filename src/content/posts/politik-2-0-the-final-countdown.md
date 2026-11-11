@@ -5,6 +5,7 @@ date: 2009-09-09T19:25:36
 updated: 2015-03-10T17:16:28
 category: "fundstuecke"
 wpId: 329
+noindex: true
 ---
 
 Quelle:schmidtmitdete.de

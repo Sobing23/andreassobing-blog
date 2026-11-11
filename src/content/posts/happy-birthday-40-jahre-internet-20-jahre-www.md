@@ -5,6 +5,7 @@ date: 2009-11-01T18:50:46
 updated: 2015-03-10T17:14:40
 category: "fundstuecke"
 wpId: 377
+noindex: true
 ---
 
 Happy Birthday das Internet wird 40 bzw. das [WWW](http://de.wikipedia.org/wiki/World_Wide_Web "Definition World Wide Web (WWW)") 20. Die Geschichte des Internets beginnt am 29.10.1969, als Leonard Kleinrocks Mitarbeiter Charly Klein an der UCLA (Universität von Los Angeles) die erste Netzwerk-Nachricht über eine Strecke von 400 Meilen absetzte. Der Text der Nachricht war "LO". Das war der welterste Text im Internet - die erste Internetnachricht.

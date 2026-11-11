@@ -6,6 +6,7 @@ updated: 2015-03-10T17:16:44
 category: "marketing"
 vgwort: "https://vg06.met.vgwort.de/na/3a82fbba8341437a97b316f65ad41c2a"
 wpId: 751
+noindex: true
 ---
 
 ![](https://s.yimg.com/pw/images/en-us/photo_unavailable_z.png "Mobile first")

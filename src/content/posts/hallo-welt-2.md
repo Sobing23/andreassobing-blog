@@ -5,6 +5,7 @@ date: 2009-03-20T00:45:00
 updated: 2015-03-10T17:13:01
 category: "fundstuecke"
 wpId: 5
+noindex: true
 ---
 
 ### Die Themengebiete über die ich schreibe sind [(Online) Marketing](http://de.wikipedia.org/wiki/Online_Marketing "Online Marketing Definition"), [E-Commerce](http://de.wikipedia.org/wiki/Elektronischer_Handel "E-Commerce Definition"), [Mobile](http://de.wikipedia.org/wiki/Handy "Mobile Definition"), [IT](http://de.wikipedia.org/wiki/Informationstechnik "IT Definition") & Trends aus dem Web...

@@ -7,6 +7,7 @@ description: "Mit Youtube Rewind (Year in Review)  zeigt uns Youtube noch einma
 category: "fundstuecke"
 vgwort: "https://vg09.met.vgwort.de/na/d85205e2191d402dadd94c0d4e1e4f05"
 wpId: 654
+noindex: true
 ---
 
 Mit [Youtube Rewind](https://www.youtube.com/channel/UCK-xjaHS_vKRC0GknSSZKCQ "Youtube Rewind Homepage") (Year in Review)  zeigt uns Youtube noch einmal die am häufigsten gesehenen Videos im Jahre 2011. Film ab.

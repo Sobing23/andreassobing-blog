@@ -7,6 +7,7 @@ description: "For free gibt es auch zu dem neuen Buch den Download des englische
 category: "fundstuecke"
 vgwort: "https://vg09.met.vgwort.de/na/0e308a58586d48a0ac3be5f7f3990aa5"
 wpId: 452
+noindex: true
 ---
 
 mediabistro.com

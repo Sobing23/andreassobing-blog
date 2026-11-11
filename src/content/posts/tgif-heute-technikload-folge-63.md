@@ -6,6 +6,7 @@ category: "fundstuecke"
 tags:
   - "Apple"
 wpId: 643
+noindex: true
 ---
 
 Thank God it´s friday. Daher heute einmal etwas zum Zurücklehnen und entspannt ins Wochenende starten. Für Euch gibt es die Folge 63 von [TechnikLoad](http://technikload.de/ "Technikload Homepage"). TechnikLoad ist eine Produktion von t3n TV.

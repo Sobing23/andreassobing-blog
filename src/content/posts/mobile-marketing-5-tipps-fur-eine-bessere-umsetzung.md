@@ -10,6 +10,7 @@ vgwort: "https://vg06.met.vgwort.de/na/593c8a5030544feba565515623c391a4"
 tags:
   - "E-Mail-Marketing"
 wpId: 1019
+noindex: true
 ---
 
 Mobile Marketing - 5 Tipps für eine bessere Umsetzung: Smartphone, Tablets und weitere mobile Begleiter spielen eine immer wichtigere Rolle in unserem Leben und sind stetige Begleiter. Laut BVDW besitzen 60 Prozent aller deutschen Nutzer ein internetfähiges Mobiltelefon. 13,7 Millionen User sind wöchentlich mobil unterwegs. 90% der iPad-Nutzer in den USA rufen min. einmal täglich ihre E-Mails ab.

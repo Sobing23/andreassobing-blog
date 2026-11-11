@@ -7,6 +7,7 @@ category: "ki-tools"
 tags:
   - "Google"
 wpId: 228
+noindex: true
 ---
 
 Der US-Suchmaschinenspezialist Google möchte mit ["Wave"](https://support.google.com/answer/1083134?hl=en "Google Wave Preview") die klassische E-Mail zur neuen Internet-Plattform ausbauen. Anwenden können über den Dienst in Echtzeit miteinander kommunizieren oder gemeinsam an Texten arbeiten. Zudem möchte Google unter anderem eine Möglichkeit für Online-Tagebücher (Blogs) oder zum Austausch von Fotos anbieten. Gestern wurde der Dienst Entwicklern vorgestellt. Im Laufe des Jahres soll er dann im Internet verfügbar sein.

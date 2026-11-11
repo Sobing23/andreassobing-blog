@@ -9,6 +9,7 @@ vgwort: "https://vg09.met.vgwort.de/na/e42099b2ea8b446f9d92a4bd9ef9b51c"
 tags:
   - "Internetrecht"
 wpId: 604
+noindex: true
 ---
 
 "Professor Dr. Thomas Hoeren ist geschäftsführender Direktor des Instituts für Informations-, Telekommunikations- und Medienrecht an der Universität Münster. Seit 1996 gehört er als Richter dem 20. Zivilsenat des OLG Düsseldorf an. Dieser Senat ist unter anderem auch für das Wettbewerbsrecht zuständig." (Quelle: shopbetreiber-blog)

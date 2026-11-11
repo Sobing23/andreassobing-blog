@@ -5,6 +5,7 @@ date: 2011-05-31T09:28:51
 updated: 2017-12-06T16:22:13
 category: "fundstuecke"
 wpId: 555
+noindex: true
 ---
 
 Heute möchte ich einmal eine Empfehlung für die [iBusiness](http://www.ibusiness.de/ "iBusiness Homepage") aussprechen. Ich habe die Zeitschrift jetzt seit ca. 2 Jahren aboniert. Inhaltlich wartet iBusiness immer mit spannenden und aktuellen Theme auf. Die Zeitschrift ist kurz und bündig und eignet sich besonders für kurze Zwischenzeiten zum lesen. Dank des Webcode kann man den gesamten Artikel plus nützlicher Statistiken, Umfragen und Auswertungen im Netz lesen. iBusiness selbst bezeichnet sich: News und Trends für die New Media Branche

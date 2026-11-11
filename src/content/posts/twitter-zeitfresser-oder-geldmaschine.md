@@ -10,6 +10,7 @@ tags:
   - "Social Media"
   - "Twitter"
 wpId: 109
+noindex: true
 ---
 
 Der [Mikro-Blogging](http://de.wikipedia.org/wiki/Mikro-Blogging "Definition Mikro-Blogging") Dienst [Twitter](https://twitter.com/ "Twitter Homepage") spaltet die Wirtschaft. Ist dieser Dienst wirklich in absehbarer Zeit rentabel oder wird es nur ein kurzer [Hype](http://de.wikipedia.org/wiki/Medienrummel "Hype Definition") sein.

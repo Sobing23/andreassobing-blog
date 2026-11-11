@@ -9,6 +9,7 @@ vgwort: "https://vg09.met.vgwort.de/na/236d15adcd6b4777b037492269959bfb"
 tags:
   - "E-Commerce"
 wpId: 173
+noindex: true
 ---
 
 Für die [ebay](http://de.wikipedia.org/wiki/Ebay "Ebay Definition") Händler gelten ab dem 15.Juni weitere Einschränkungen. Die Händler müssen speziell im Elektronikversand einen kostenlosen Versand anbieten, so schreibt es der [Online Marktplatz](http://de.wikipedia.org/wiki/Virtueller_Marktplatz "Definition Virtueller Marktplatz") vor.

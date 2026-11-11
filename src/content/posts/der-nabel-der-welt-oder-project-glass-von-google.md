@@ -6,6 +6,7 @@ category: "ki-tools"
 tags:
   - "Google"
 wpId: 715
+noindex: true
 ---
 
 ![](http://farm2.static.flickr.com/1323/822567940_765ca4e1d0_z.jpg "Brille - Der Nabel der Welt")

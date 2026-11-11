@@ -54,7 +54,7 @@ if (isPost) {
     : [{ name: 'Startseite', url: '/' }, { name: rubrik(d.category).name, url: rubrikUrl(d.category) }, { name: d.title, url: `/${d.slug}/` }]));
 }
 ---
-<Base jsonld={jsonld} title={d.seoTitle || d.title} description={beschreibung} image={d.image} type={isPost ? 'article' : 'website'} kompakt>
+<Base jsonld={jsonld} title={d.seoTitle || d.title} description={beschreibung} image={d.image} type={isPost ? 'article' : 'website'} noindex={Boolean((d as any).noindex)} kompakt>
   <main class="wrap post">
     <div class="post-head">
       {isPost && <a href={rubrikUrl(d.category)} class="kicker">{rubrik(d.category).name}</a>}

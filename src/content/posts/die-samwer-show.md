@@ -8,6 +8,7 @@ image: "/wp-content/uploads/2015/03/Die-dre-Sam-Brd-in-der-Fron-21-Dokumentat-Sc
 category: "fundstuecke"
 vgwort: "https://vg09.met.vgwort.de/na/bd9c9b1a825c47a19f830c7189d30530"
 wpId: 1350
+noindex: true
 ---
 
 In der Doku "Die große Samwer-Show - Die Milliarden-Geschäfte der Zalando-Boys" gibt es spannende Einblicke in die Geschäftswelt der Samwer Brüder. Die Samwers sind nicht unumstritten.Schlagzeilen machen sie immer wieder: Ob mit dem Online-Versandhändler Zalando für Schuhe und Mode oder mit den Börsengängen. Wie die deutschen Unternehmerbrüder Oliver, Marc und Alexander Samwer als Internet-Investoren agieren, zeigen die Recherchen von Frontal21 und der WirtschaftsWoche.

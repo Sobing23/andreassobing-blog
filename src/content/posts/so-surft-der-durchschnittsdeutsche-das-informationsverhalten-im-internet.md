@@ -6,6 +6,7 @@ date: 2011-10-27T13:34:24
 updated: 2015-03-10T17:16:34
 category: "fundstuecke"
 wpId: 585
+noindex: true
 ---
 
 ![Ein Projekt von Jung von Matt/Planning](http://www.jvm-wozi.de/renovierung/ "Hinterher weiß man immer mehr. Das Informationsverhalten im Internet")

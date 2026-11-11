@@ -7,6 +7,7 @@ description: "Und wieder verabschiedet sich eine Community die nicht den Hauch e
 category: "fundstuecke"
 vgwort: "https://vg09.met.vgwort.de/na/bcdfc11779a544a9a05cddd63f13ede0"
 wpId: 296
+noindex: true
 ---
 
 Und wieder verabschiedet sich eine Community die nicht den Hauch einer Chance hatte gegen die Schwergewichte Wer-kennt-wen, VZs und natürlich den momentanen Überflieger Facebook.

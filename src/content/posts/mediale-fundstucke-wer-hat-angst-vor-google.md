@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Google"
 wpId: 415
+noindex: true
 ---
 
 Heute gibt es einen kleinen Einblick in die Google Geschichte oder "Wie ein Suchfeld die Welt verändert". Hier gibt es auch noch eine schöne Timeline von Google.

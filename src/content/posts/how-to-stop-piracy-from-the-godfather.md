@@ -7,6 +7,7 @@ description: "Kim Dotcom hat einmal fünf Antipiraterie Tipps auf seinem Twitter
 category: "fundstuecke"
 vgwort: "https://vg06.met.vgwort.de/na/9182c79095a74fed819211639e7ec7ad"
 wpId: 1000
+noindex: true
 ---
 
 Bild: twitter.com/KimDotcom

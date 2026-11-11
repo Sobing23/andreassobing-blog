@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Microsoft"
 wpId: 539
+noindex: true
 ---
 
 Hier einmal der letzte Arbeitstag von Bill Gates bei Microsoft. Das Video wurde  2008 auf der Consumer Electronics Show (CES)  in Las Vegas vorgeführt .Als Gäste treten u.a. Brian Williams, Steve Ballmer, Matthew McConaughey, Jay-Z, Bono, Steven Spielberg, George Clooney, Jon Stewart, Hillary Rodham Clinton, Barack Obama, and Al Gore auf.

@@ -5,6 +5,7 @@ date: 2010-10-19T13:31:40
 updated: 2015-03-10T17:16:33
 category: "fundstuecke"
 wpId: 524
+noindex: true
 ---
 
 ![](https://s.yimg.com/pw/images/en-us/photo_unavailable_z.png "Future of Social-Networks")

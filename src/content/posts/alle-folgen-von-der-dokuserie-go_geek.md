@@ -7,6 +7,7 @@ description: "TV-Sender EinsPlus begleitet in der Doku Go_Geek! vier Programmier
 category: "fundstuecke"
 vgwort: "https://vg09.met.vgwort.de/na/74237d817bdd4867843ffa756ee62a9b"
 wpId: 1310
+noindex: true
 ---
 
 TV-Sender [EinsPlus](http://www.einsplus.de/) begleitet  in der Doku [Go\_Geek!](http://www.einsplus.de/-/id=15131588/11u4oy4/index.html) vier Programmierer aus Berlin durch ihren Alltag.

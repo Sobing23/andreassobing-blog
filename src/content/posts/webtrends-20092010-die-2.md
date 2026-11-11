@@ -8,6 +8,7 @@ vgwort: "https://vg06.met.vgwort.de/na/cff2201732d9445984b2fd3290d74f44"
 tags:
   - "Webtrends"
 wpId: 271
+noindex: true
 ---
 
 Heute möchte ich 2 interessante Webtrends vorstellen, die in Zukunft noch eine wichtige Rolle spielen könnten.

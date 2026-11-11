@@ -10,6 +10,7 @@ tags:
   - "Apple"
   - "Steve Jobs"
 wpId: 578
+noindex: true
 ---
 
 http://dergln.de/12-Steve-Jobs-zurueckgetreten-Nachfolger-voraussichtlich-Tim-Cook.html

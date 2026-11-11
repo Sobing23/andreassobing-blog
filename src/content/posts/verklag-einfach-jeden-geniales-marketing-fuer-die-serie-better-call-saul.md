@@ -10,6 +10,7 @@ vgwort: "https://vg09.met.vgwort.de/na/621558ca18bf47efbd665679dab69cee"
 tags:
   - "Virales Marketing"
 wpId: 1049
+noindex: true
 ---
 
 Verklag deine Wetter App "Better call Saul" (Quelle: Kolle Rebbe)

@@ -8,6 +8,7 @@ tags:
   - "Kampagnen"
   - "Virales Marketing"
 wpId: 306
+noindex: true
 ---
 
 Das Rezept für erfolgreiches Viral Marketing: Man nehme einen aktuellen Medien Skandal, wie die Dienstwagenaffäre der Gesundheitsministerin Ulla Schmidt und mixe dies mit einem treffsicheren Slogan. Fertig ist die neue Werbekampagne des Autovermieters Sixt und die kreative Werbebotschaft wird, sowie jetzt gerade, in Internetforen, Blogs oder durch Tell-a-friend rasend schnell verbreitet.

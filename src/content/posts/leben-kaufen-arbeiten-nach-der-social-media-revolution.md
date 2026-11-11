@@ -7,6 +7,7 @@ description: "Social Media unterscheiden sich primär dadurch von den traditione
 category: "marketing"
 vgwort: "https://vg09.met.vgwort.de/na/d3ad2b44032d49a8b651e2e635642f5e"
 wpId: 284
+noindex: true
 ---
 
 **Social Media** (auch **Soziale Medien**) ist ein [Schlagwort](http://de.wikipedia.org/wiki/Schlagwort_%28Sprachwissenschaft%29 "Schlagwort (Sprachwissenschaft)") mit dem Soziale Netzwerke und [Netzgemeinschaften](http://de.wikipedia.org/wiki/Online-Community "Online-Community") verstanden werden, die als Plattformen zum gegenseitigen Austausch von Meinungen, Eindrücken und Erfahrungen dienen. Als Kommunikationsmittel wird dabei Text, Bild, Audio oder Video verwendet. Populäre Medien sind dabei [Internetforen](http://de.wikipedia.org/wiki/Internetforum "Internetforum"), [Mailinglisten](http://de.wikipedia.org/wiki/Mailingliste "Mailingliste"), [Weblogs](http://de.wikipedia.org/wiki/Weblog "Weblog"), [Podcasting](http://de.wikipedia.org/wiki/Podcasting "Podcasting"), [Vlogs](http://de.wikipedia.org/wiki/Vlog "Vlog"), [Wikis](http://de.wikipedia.org/wiki/Wiki "Wiki") und [Social-Bookmarking-Dienste](http://de.wikipedia.org/wiki/Social_Bookmarks "Social Bookmarks").

@@ -10,6 +10,7 @@ vgwort: "https://vg06.met.vgwort.de/na/6d72e7d524a44b66b3c15d73241977bd"
 tags:
   - "Conversion"
 wpId: 531
+noindex: true
 ---
 
 Martin Groß-Albenhausen hat sich einmal im [Shopbetreiber-Blog](http://www.shopbetreiber-blog.de/2011/01/14/4-grunde-warum-ihre-produktseiten-nicht-verkaufen/?et_cid=5&et_lid=16 "Shopbetreiber Blog: 4 Gründe warum Produktseiten verkaufen") Gedanken über die Verkaufsoptimierungen der Produktseiten gemacht. Die Produktseite ist ja Aushängeschild jeglicher E-Commerce Anwendungen und somit wichtiges Kriterium für Verkäufe. Teilweise sind die Produktseiten stark auf [SEO](http://de.wikipedia.org/wiki/Suchmaschinenoptimierung "Definition Suchmaschinenoptimierung") ausgelegt. Es wird allerdings vergessen dass diese Seiten verkaufen sollen. Und zwar an Menschen und keine Maschinen. Auch [Social Commerce](http://de.wikipedia.org/wiki/Social_Commerce "Definition Social Commerce") wird das Jahr 2011 als Trend beeinflussen.

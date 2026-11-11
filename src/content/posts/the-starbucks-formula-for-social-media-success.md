@@ -6,6 +6,7 @@ updated: 2017-12-06T16:22:13
 category: "marketing"
 vgwort: "https://vg06.met.vgwort.de/na/4b66f3882db644e5baee581d94fdbfd0"
 wpId: 445
+noindex: true
 ---
 
 [Starbucks](http://www.starbucks.de/ "Homepage Main Germany Starbucks") verfügt über mehr als 705.000 Anhänger auf Twitter und über 5428000 Fans bei Facebook. Man könnte sagen, sie interpretieren Social Media richtig im Web.

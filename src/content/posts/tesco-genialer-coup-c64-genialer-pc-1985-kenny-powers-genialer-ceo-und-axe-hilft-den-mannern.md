@@ -6,6 +6,7 @@ date: 2011-11-18T18:47:54
 category: "fundstuecke"
 vgwort: "https://vg06.met.vgwort.de/na/6b9d397ee5594244991382590e584e7a"
 wpId: 608
+noindex: true
 ---
 
 Los geht es heute mit Tesco (Home plus) und deren Kampagne in Südkorea. Ziel war die Steigerung des Umsatzes online. Tesco hat Plakate von Supermarktregalen und deren Artikel in Bahnhöfen angebracht und somit Leerplatz genutzt. Viele Südkoreaner haben wenig Zeit für den Einkauf. So konnten diese ihre Bestellung online dank eines QR Codes erledigen. Die Ware wurde nach erfolgreicher Bestellung nach Hause versendet. Der Onlineumsatz stieg um 130 Prozent und die Neuregistrierungen um 76%. Also eine rundum gelungene Kampagne. Wenn auch schon etwas älter wollte ich diese Euch nicht vorenthalten. Genialer Coup und mehrfacher Preisgewinner bei den Filmfestspielen in Cannes.

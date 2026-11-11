@@ -8,6 +8,7 @@ vgwort: "https://vg09.met.vgwort.de/na/8c49279565724d4faa109b2a3107e246"
 tags:
   - "SEO"
 wpId: 514
+noindex: true
 ---
 
 Heute möchte ich euch die Eindrücke der diesjährigen SEO Campixx 2010 vorstellen. Gefunden habe ich die Berichte bei [Seo.at](http://seo.at/ "Website der Seo.at"). Weitere Videos findet Ihr im Archiv von Baynado.

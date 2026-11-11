@@ -10,6 +10,7 @@ tags:
   - "Apple"
   - "Steve Jobs"
 wpId: 543
+noindex: true
 ---
 
 Ich habe dieses Mal bei [Venture-TV](http://venturetv.de/ "Startseite Venture TV ") eine sehr bewegende Rede von [Steve Jobs](http://de.wikipedia.org/wiki/Steve_Jobs "Wikipedia Artikel Steve Jobs") ([Apple](http://de.wikipedia.org/wiki/Apple "Wikipedia Artikel Apple (Company)")) entdeckt. Im Video erhält man seltene und sehr intime Einblicke in die Gedankenwelt des Ausnahme-Gründers Steve Jobs. Furcht, Passion, Leiden und Leidenschaft, Versagen, Vertrauen und Liebe – Jobs spricht hochemotional und unglaublich inspirierend.

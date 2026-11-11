@@ -5,6 +5,7 @@ date: 2009-03-25T18:39:02
 updated: 2015-03-10T17:16:27
 category: "fundstuecke"
 wpId: 80
+noindex: true
 ---
 
 Eine Dokumentation über die [Suchmaschinen](http://de.wikipedia.org/wiki/Suchmaschine "Suchmaschine Definition") im Internet. Welche Suchmaschine gab es zuerst? Wie stiegen [Yahoo](https://de.yahoo.com/ "Yahoo Homepage") und [Google](https://www.google.de/?gws_rd=ssl "Google Homepage") auf? Wie konnte man damals ohne Suchmaschinen im Internet suchen?

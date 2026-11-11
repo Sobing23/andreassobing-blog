@@ -7,6 +7,7 @@ description: "Der Net Promoter Score (NPS) ist ein Index zur Messung der Wahrsch
 category: "marketing"
 vgwort: "https://vg06.met.vgwort.de/na/e4f8d74c54064d7982ff2fa2975b2311"
 wpId: 407
+noindex: true
 ---
 
 Der [Net Promoter Score (NPS)](http://de.wikipedia.org/wiki/Net_Promoter_Score "Definition Net Promoter Score") ist ein Index zur Messung der Wahrscheinlichkeit, mit der Kunden ein Produkt, ein Unternehmen oder eine Dienstleistung weiterempfehlen.

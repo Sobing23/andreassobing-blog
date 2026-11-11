@@ -7,6 +7,7 @@ description: "Hier einmal eine Übersicht wie die Organisationsstrukturen bei z.
 category: "strategie"
 vgwort: "https://vg09.met.vgwort.de/na/d04e336923eb4370b9845e168d74ec1f"
 wpId: 617
+noindex: true
 ---
 
 Hier einmal eine Übersicht wie die Organisationsstrukturen bei z.B. Apple, Google oder Microsoft aussehen. "Bei Google geht es wild zu, bei Microsoft bekriegt man sich und bei Apple, das weiß man ja, hat bis zuletzt alles Steve Jobs gesteuert." Nun muss man nur noch für sich klären welche Organisationsstruktur man wählt.

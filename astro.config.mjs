@@ -47,12 +47,14 @@ const redirects = {
 
 // Änderungsdatum je Seite für die Sitemap (updated, sonst date aus dem Frontmatter)
 const lastmod = new Map();
+const ohneIndex = new Set(); // Artikel mit noindex: nicht in die Sitemap
 for (const dir of ['src/content/posts', 'src/content/pages']) {
   for (const f of readdirSync(dir).filter((n) => n.endsWith('.md'))) {
     const fm = readFileSync(`${dir}/${f}`, 'utf-8').split('---')[1] || '';
     const slug = fm.match(/^slug:\s*"?([^"\n]+)"?/m)?.[1];
     const datum = fm.match(/^updated:\s*"?([^"\n]+)"?/m)?.[1] || fm.match(/^date:\s*"?([^"\n]+)"?/m)?.[1];
     if (slug && datum) lastmod.set(`/${slug}/`, new Date(datum).toISOString());
+    if (slug && /^noindex:\s*true/m.test(fm)) ohneIndex.add(`/${slug}/`);
   }
 }
 const neuestes = [...lastmod.values()].sort().at(-1);
@@ -79,7 +81,7 @@ export default defineConfig({
       filter: (page) => {
         const pfad = new URL(page).pathname;
         if (ausschluss.some((a) => pfad.startsWith(a)) || weiterleitungen.includes(pfad)) return false;
-        return !duenneSchlagwoerter.has(pfad);
+        return !duenneSchlagwoerter.has(pfad) && !ohneIndex.has(pfad);
       },
       serialize: (item) => {
         // Artikel: eigenes Datum. Übersichten (Startseite, Handbuch, Glossar, Videos …): Datum des neuesten Artikels

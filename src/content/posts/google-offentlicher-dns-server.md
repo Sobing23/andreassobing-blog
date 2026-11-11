@@ -9,6 +9,7 @@ vgwort: "https://vg06.met.vgwort.de/na/93e7f86612104867a64145c14d6e5c96"
 tags:
   - "Google"
 wpId: 421
+noindex: true
 ---
 
 Schneller, sicherer und zuverlässiger: Das sind die Ziele, die Google sich für seinen eigenen DNS-Server gesetzt hat. Der Dienst steht allen Interessierten kostenlos als Alternative zum Server ihres Internet-Anbieters zur Verfügung. Ein höheres Tempo soll er dadurch erreichen, dass er DNS-Einträge aktualisiert, bevor ihre Gültigkeitsdauer (time to live, TTL) abgelaufen ist.

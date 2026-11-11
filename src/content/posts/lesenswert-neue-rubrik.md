@@ -9,6 +9,7 @@ vgwort: "https://vg06.met.vgwort.de/na/6f30e34ad6494ec88dc52e2eb6ecc8eb"
 tags:
   - "Startups"
 wpId: 239
+noindex: true
 ---
 
 Es ist eine weitere Rubrik hinzu gekommen. In Lesenswert stelle ich Bücher vor, welche ich gelesen habe und als sehr empfehlenswert empfinde.

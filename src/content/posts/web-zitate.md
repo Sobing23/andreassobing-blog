@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Zitate"
 wpId: 338
+noindex: true
 ---
 
 "Web-Zitate" wurde als neue Kategorie bei BLOG IT ONLINE MARKETING hinzugefügt. Hier findet Ihr in unregelmäßigen Abständen Zitate von Personen, die das Web beschäftigt.

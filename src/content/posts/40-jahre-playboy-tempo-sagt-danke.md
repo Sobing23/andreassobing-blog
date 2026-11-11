@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Commercials"
 wpId: 789
+noindex: true
 ---
 
 © Foto:Team Konzept/Tempo/Playboy

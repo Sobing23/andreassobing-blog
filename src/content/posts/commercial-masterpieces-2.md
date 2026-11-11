@@ -6,6 +6,7 @@ category: "fundstuecke"
 tags:
   - "Commercials"
 wpId: 374
+noindex: true
 ---
 
 Commercial Masterpieces. In dieser Kategorie findet Ihr Sahnestücke der Werbung mit einem viralen Charakter…

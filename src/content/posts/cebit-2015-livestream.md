@@ -7,6 +7,7 @@ description: "Das Motto der diesjährigen CeBit (16. - 20. März) lautet D!conom
 category: "fundstuecke"
 vgwort: "https://vg06.met.vgwort.de/na/1fe609f063f045f98d6f0f6ffd2da496"
 wpId: 1324
+noindex: true
 ---
 
 <figure><img src="http://www.silicon.de/wp-content/uploads/2014/12/cebit-2015.jpg" alt="CeBit 2015 Logo " loading="lazy"><figcaption>CeBit 2015 Logo (Quelle: Silicon.de)</figcaption></figure>

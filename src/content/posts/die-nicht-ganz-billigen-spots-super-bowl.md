@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Commercials"
 wpId: 678
+noindex: true
 ---
 
 ![](https://s.yimg.com/pw/images/en-us/photo_unavailable_z.png "Super Bowl")

@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Google"
 wpId: 509
+noindex: true
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/commons/a/ad/Mikrofon_i_neve.JPG "Interview")

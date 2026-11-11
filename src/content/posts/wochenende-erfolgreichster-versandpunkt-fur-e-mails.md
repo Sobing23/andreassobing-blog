@@ -7,6 +7,7 @@ category: "email-marketing"
 tags:
   - "E-Mail-Marketing"
 wpId: 75
+noindex: true
 ---
 
 Versandmatrix

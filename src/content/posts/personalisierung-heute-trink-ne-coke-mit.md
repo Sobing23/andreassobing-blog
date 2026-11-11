@@ -11,6 +11,7 @@ tags:
   - "Kampagnen"
   - "Virales Marketing"
 wpId: 1031
+noindex: true
 ---
 
 <figure><img src="/wp-content/uploads/2013/10/werbe_effekt_deutsche_trinken_mehr_coca_cola_evo_580x3261.jpg" alt="Personalisierung heute - Trink ne Coke mit" loading="lazy"><figcaption>Kampagne "Share a Coke" Bild von W&V © Foto:Coca-Cola</figcaption></figure>

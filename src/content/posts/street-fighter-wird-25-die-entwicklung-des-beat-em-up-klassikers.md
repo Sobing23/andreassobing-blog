@@ -6,6 +6,7 @@ updated: 2017-11-02T10:29:12
 description: "Zum 25. Geburtstag hat Capcom eine Doku herausgebracht, die sich mit dem Spiel, seiner Entstehung und der riesigen Fankultur beschäftigt."
 category: "fundstuecke"
 wpId: 1046
+noindex: true
 ---
 
 <figure><img src="http://upload.wikimedia.org/wikipedia/de/e/e9/Street_Fighter_Logo.png" alt="Logo des Computerspiels Street Fighter von Capcom" loading="lazy"><figcaption>Logo des Computerspiels Street Fighter (Capcom 1987) Quelle: Wikimedia</figcaption></figure>

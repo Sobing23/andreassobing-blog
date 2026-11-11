@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "Zitate"
 wpId: 352
+noindex: true
 ---
 
 **"Facebook hilft, mit Leuten in Kontakt zu bleiben, die wir auch im echten Leben kennen. Mehr nicht. Wer glaubt, dass jeder Facebook-Kontakt ein Freund ist, der weiß nicht was Freundschaft bedeutet."**

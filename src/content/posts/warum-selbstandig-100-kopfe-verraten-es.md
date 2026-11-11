@@ -10,6 +10,7 @@ vgwort: "https://vg06.met.vgwort.de/na/60b718914b534f6eb9fa46468b3d09c2"
 tags:
   - "Zitate"
 wpId: 611
+noindex: true
 ---
 
 Warum selbständig? Diese Frage stellen sich sicherlich sowohl Freelancer als auch bisher noch Festangestellte. Was ist der grund ein Unternehmen zu gründen, der eigene Boss zu sein und seine Ideen besser zu verwirklichen?

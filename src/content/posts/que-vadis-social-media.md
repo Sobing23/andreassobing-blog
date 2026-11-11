@@ -7,6 +7,7 @@ category: "marketing"
 tags:
   - "Social Media"
 wpId: 393
+noindex: true
 ---
 
 Quelle: [Internet World Business](http://www.internetworld.de/ "Internetworldbusiness Homepage")

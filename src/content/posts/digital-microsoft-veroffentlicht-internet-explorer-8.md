@@ -7,6 +7,7 @@ category: "ki-tools"
 tags:
   - "Microsoft"
 wpId: 48
+noindex: true
 ---
 
 Internet Explorer 8

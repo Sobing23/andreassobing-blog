@@ -5,6 +5,7 @@ date: 2009-04-24T10:22:41
 updated: 2015-03-10T17:16:27
 category: "fundstuecke"
 wpId: 189
+noindex: true
 ---
 
 Lange hat es gedauert, doch jetzt hat auch die Business-Plattform [Xing](https://www.xing.com/ "Xing homepage") endlich ein eigenes Partnerprogramm. Leider hat diese Erkenntnis sehr lange gedauert. Es ist eine Erweiterung des erfolgreichen Empfehlungsfunktion, über die ein Großteil der neuen Mitglieder geworben wurde.

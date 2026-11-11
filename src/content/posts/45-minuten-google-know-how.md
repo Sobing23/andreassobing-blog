@@ -8,6 +8,7 @@ tags:
   - "Google"
   - "SEO"
 wpId: 318
+noindex: true
 ---
 
 Matt Cutts. Foto: Randy Stewart, Flickr.com

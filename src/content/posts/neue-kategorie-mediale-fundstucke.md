@@ -4,6 +4,7 @@ slug: "neue-kategorie-mediale-fundstucke"
 date: 2009-03-29T17:48:12
 category: "fundstuecke"
 wpId: 128
+noindex: true
 ---
 
 Ich habe eine neue Kategorie hinzugefügt:

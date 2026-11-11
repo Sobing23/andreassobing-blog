@@ -6,6 +6,7 @@ category: "fundstuecke"
 tags:
   - "Social Media"
 wpId: 382
+noindex: true
 ---
 
 Beim [Social Web Counter](http://www.personalizemedia.com/the-count/ "Social Web Counter Definition") handelt es sich um eine beeindruckende Flash-Anwendung von Gary Hayes, mit der er den Versuch unternimmt, die Dynamik beziehungsweise Aktivität des Social Web in Echtzeit widerzugeben. Die Basis für seinen Counter bilden übrigens Daten, die sich Hayes bis Ende September aus unzähligen, verschiedenen (Primär- und Sekundär-)Quellen zusammengesammelt hat.

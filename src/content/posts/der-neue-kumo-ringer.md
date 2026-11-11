@@ -8,6 +8,7 @@ tags:
   - "Microsoft"
   - "SEO"
 wpId: 219
+noindex: true
 ---
 
 [Microsoft](http://de.wikipedia.org/wiki/Microsoft "Microsoft Definition") unternimmt mit der vorerst "Kumo" getauften Suchtechnologie einen neuen Anlauf. Sie baut auf der vorherigen Suchmaschine auf, die derzeit [Live Search](https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=12&ct=1425904093&rver=6.4.6456.0&wp=MBI_SSL_SHARED&wreply=https:%2F%2Fmail.live.com%2Fdefault.aspx%3Frru%3Dinbox&lc=1033&id=64855&mkt=en-US&cbcxt=mai "Homepage Live Search") heißt. Die neue Suchtechnologie geht möglicherweise Anfang Juni an den Start.

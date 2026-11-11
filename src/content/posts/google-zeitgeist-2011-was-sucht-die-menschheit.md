@@ -9,6 +9,7 @@ vgwort: "https://vg09.met.vgwort.de/na/fbf5385316674f60a5d042226e28fade"
 tags:
   - "Google"
 wpId: 638
+noindex: true
 ---
 
 Zeitgeist basiert auf der Analyse der Milliarden von Suchanfragen, die in diesem Jahr auf Google eingegeben wurden, und hält den Zeitgeist im Jahr 2011 fest. Traditionell veranstaltet Google jedes Jahr seinen eigenen Jahresrückblick und wirft einen Blick auf die Ereignisse, die das Leben vieler Menschen geprägt oder verändert haben. Es ist interessant zu sehen wonach die Bevölkerung gesucht hat. Anhand deren Suchen lassen sich die jeweiligen Trends ableiten. Besonders stark sind die Suchanfragen bei schlimmen Ereignissen wie z.B. Naturkatastrophen. Film ab für den Zeitgeist 2011.

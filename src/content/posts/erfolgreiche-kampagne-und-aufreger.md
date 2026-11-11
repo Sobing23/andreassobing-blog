@@ -8,6 +8,7 @@ category: "fundstuecke"
 tags:
   - "Kampagnen"
 wpId: 361
+noindex: true
 ---
 
 Heute geht es um eine erfolgreiche Kampagne und den Aufreger dieser Woche.

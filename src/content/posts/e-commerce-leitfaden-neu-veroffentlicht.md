@@ -7,6 +7,7 @@ description: "ibi research stellt den kostenlosen E-Commerce-Leitfaden in einer 
 category: "fundstuecke"
 vgwort: "https://vg06.met.vgwort.de/na/b96cf12d7386443c9edd4de91fd5962a"
 wpId: 224
+noindex: true
 ---
 
 ibi research stellt den [kostenlosen E-Commerce-Leitfaden in einer überarbeiteten Version zum Download bereit.](http://www.ecommerce-leitfaden.de/neuer-e-commerce-leitfaden-da.html "E-Commerce Leitfaden Download") Dabei wurden die Schwerpunkte der ersten Auflage - Shop-Systeme, rechtliche Fragen, Zahlungsabwicklung, Risiko- und Forderungsmanagement - aktualisiert und wesentlich erweitert.

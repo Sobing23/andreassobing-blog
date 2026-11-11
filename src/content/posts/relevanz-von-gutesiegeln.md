@@ -5,6 +5,7 @@ date: 2009-07-17T13:30:42
 updated: 2015-03-10T17:14:28
 category: "marketing"
 wpId: 290
+noindex: true
 ---
 
 Ich habe im Netz eine interessante Auswertung zum Thema [Gütesiegel](http://de.wikipedia.org/wiki/G%C3%BCtesiegel "Gütesiegel Definition") gefunden von der [eResult GmbH](http://www.eresult.de/ "Homepage eResult").

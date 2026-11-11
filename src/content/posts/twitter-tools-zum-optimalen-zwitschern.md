@@ -9,6 +9,7 @@ vgwort: "https://vg09.met.vgwort.de/na/0364cb6093904462a6439bb4c147d3e1"
 tags:
   - "Twitter"
 wpId: 625
+noindex: true
 ---
 
 Bei [deutsche-startups.de habe ich einen klasse Artikel zum Thema Twitter Tools](http://www.deutsche-startups.de/2011/12/02/das-maechtige-socialbro-und-ueber-200-weitere-twitter-tools/ "Deutsche-Startups Twitter Tools") gefunden. Dort werden die verschiedensten Twitter tools aufgezeigt. Ob nützlich oder nicht müsst Ihr für Euch selbst entscheiden.

@@ -6,6 +6,7 @@ updated: 2015-03-10T17:16:26
 category: "ki-tools"
 vgwort: "https://vg06.met.vgwort.de/na/b8bd1825162b4f5d8e2a03271a6527b1"
 wpId: 278
+noindex: true
 ---
 
 Mehr als zweimal schneller als die Version 3, verbesserter Schutz der Privatsphäre, Unterstützung neuer Web-Standards, individueller bei Add-ons und Konfiguration.

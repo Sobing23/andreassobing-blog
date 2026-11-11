@@ -6,6 +6,7 @@ category: "marketing"
 tags:
   - "Social Media"
 wpId: 712
+noindex: true
 ---
 
 ![](http://www.iframe-apps.com/wp-content/uploads/2012/03/infographic_timeline4.jpg "Facebook Timeline")

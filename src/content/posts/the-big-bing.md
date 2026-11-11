@@ -9,6 +9,7 @@ vgwort: "https://vg09.met.vgwort.de/na/10f40d1bacab441fbde6fda43361fa57"
 tags:
   - "SEO"
 wpId: 234
+noindex: true
 ---
 
 Die neu gestartete Microsoft-Suchmaschine [Bing](http://www.bing.com/?cc=de&FORM=M00GDE&Publ=GOOGLE&Crea=TEXT_Cause_Market_1X1 "Bing Homepage") vormals Kumo hat laut dem US-Marktforschunginstitut StatCount einen guten Start erwischt. [Bing](http://de.wikipedia.org/wiki/Bing_(Suchmaschine) "Bing Definition Wikipedia") hatte nach den Zahlen von StatCount am 4. Juni in den USA mit 16,2 Prozent einen höheren Markanteil als die Yahoo-Suche (10,2 Prozent) und rangierte hinter Google (71,5 Prozent) auf Platz zwei bei den Suchmaschinen.

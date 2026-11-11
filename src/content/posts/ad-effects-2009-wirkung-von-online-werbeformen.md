@@ -7,6 +7,7 @@ description: "Wirkung von Online Werbeformen: Der aktuellen AdEffects-Studie zuf
 category: "marketing"
 vgwort: "https://vg06.met.vgwort.de/na/2d3cfa91826c400087f9401b39f3ce57"
 wpId: 253
+noindex: true
 ---
 
 Der aktuellen AdEffects-Studie des Vermarkters Tomorrow-Focus-Sales zufolge sind vor allem [Banderole-Ads](http://www.stroeerdigitalmedia.de/ "Banderole Ad Definition") bei den Internetnutzern sehr beliebt. Zum einen werden sie als innovativ wahrgenommen und zum anderen gelten sie bei den meisten als vertrauensvolles Format.

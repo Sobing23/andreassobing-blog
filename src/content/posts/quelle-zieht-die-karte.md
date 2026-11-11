@@ -7,6 +7,7 @@ category: "fundstuecke"
 tags:
   - "CRM"
 wpId: 135
+noindex: true
 ---
 
 Nach dem Aus von Happy Digits bereitet das Universalversandhaus Quelle die Einführung einer eigenen Kundenkarte vor. Nachdem [Karstadt](http://www.karstadt.de/ "Karstadt Homepage") am 1.März die GoldKarte an 4 Millionen Kunden heraus gegeben hat, zieht Quelle jetzt nach.

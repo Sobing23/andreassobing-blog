@@ -9,6 +9,7 @@ vgwort: "https://vg09.met.vgwort.de/na/74ea471e66a44fcdbc46bf55a3a8b856"
 tags:
   - "Virales Marketing"
 wpId: 356
+noindex: true
 ---
 
 Als [Viral-Marketing](http://de.wikipedia.org/wiki/Virales_Marketing "DefinitionVirales Marketing") bezeichnet man alle Techniken, Kunden zu animieren, angebotene Produkte und Dienstleistungen weiter zu empfehlen. Die Kunden transportieren die Leistung kostenlos weiter.

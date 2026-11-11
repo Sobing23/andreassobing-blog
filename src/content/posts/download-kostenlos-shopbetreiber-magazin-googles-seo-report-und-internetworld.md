@@ -8,6 +8,7 @@ description: "In der Kategorie bzw. unter dem Tag \"Download\" findet Ihr kosten
 category: "fundstuecke"
 vgwort: "https://vg09.met.vgwort.de/na/295b7d670a92438d92f790f8e8775dc0"
 wpId: 503
+noindex: true
 ---
 
 ![](http://farm4.static.flickr.com/3636/3517776081_53d7d6a6c2.jpg "Download Kategorie")
