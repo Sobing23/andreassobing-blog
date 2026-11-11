@@ -44,7 +44,7 @@ Anbieter im Überblick:
 
 Sieh dir auch gerne an welche weiteren Methoden es gibt um [mehr Anmeldungen zu generieren](/leads-durch-die-newsletter-anmeldung-generieren/). Hier geht es um die internene Möglichkeiten, also ohne EInsatz von Werbeausgaben. Weitere Lösungen um extern Leads zu generieren findest du in diesem [Artikel](/extern-neue-adressen-generieren-fuer-deinen-e-mail-verteiler/).
 
-Du kannst auch [intern eine Verteilerliste für den Versand](/verteilerliste-auf-der-webseite-aufbauen/) deiner Newsletter aufbauen. Auch hier findest du verschiedene Möglichkeiten und Lösungsansätze für dein E-Mail Marketing. Du kannst neben einer  Landingpage die Anmeldung für den Newsletter in deinen Footer einbauen.
+Du kannst auch [intern eine Verteilerliste für den Versand](/der-richtige-aufbau-des-verteilers-fuer-deine-newsletter/) deiner Newsletter aufbauen. Auch hier findest du verschiedene Möglichkeiten und Lösungsansätze für dein E-Mail Marketing. Du kannst neben einer  Landingpage die Anmeldung für den Newsletter in deinen Footer einbauen.
 
 ## Aktualisierung Oktober 2026
 

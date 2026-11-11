@@ -41,4 +41,4 @@ Es ist wichtig, einen Ort zu haben, an dem du deine Ideen speichern kannst. Das 
 
 Eine kontinuierliche Pipeline von Ideen ist für den Wachstumsmarketingprozess entscheidend. Es gibt keine "schlechten Ideen". Das Ziel ist es, so viele Ideen wie möglich zu haben und die besten davon zu finden und zu testen.
 
-Inspiriert hat mich der [Artikel](https://growthmethod.com/experiment-ideas/) von Growthmethod. Finde auch heraus wie das [Pareto Prinzip](/wie-das-pareto-prinzip-dein-marketing-veraendert/) das Marketing verändert.
+Inspiriert hat mich der [Artikel](https://growthmethod.com/experiment-ideas/) von Growthmethod. Finde auch heraus wie das [Pareto Prinzip](/das-pareto-prinzip-in-der-kundensegmentierung-anwenden/) das Marketing verändert.

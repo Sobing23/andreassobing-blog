@@ -28,7 +28,7 @@ Du brauchst Hilfe bei der Strukturierung deiner Projektarbeit? Auch hier kann Ch
 
 Es ist wichtig zu beachten, dass ChatGPT noch in der Entwicklung ist und ständig neue Fähigkeiten erlernt. Momentan unterstützt die KI 26 Sprachen und es werden ständig mehr. Es gibt jedoch noch einige Einschränkungen.
 
-Lerne wie du dich bei [ChatGPT anmelden kannst](/dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht/).
+Lerne wie du dich bei [ChatGPT anmelden kannst](/was-ist-chatgpt/).
 
 ## Aktualisierung Oktober 2026
 

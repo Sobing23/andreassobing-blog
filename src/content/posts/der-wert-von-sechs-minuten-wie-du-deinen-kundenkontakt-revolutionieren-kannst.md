@@ -45,4 +45,4 @@ Jeff Bezos rief einmal während eines Meetings im Kontaktzentrum von Amazon an, 
 
 Die sechs Minuten, die man mit einem Kunden verbringt, können entscheidend sein. Sie bieten die Chance, Vertrauen aufzubauen, eine Beziehung zu entwickeln und den Kunden zu beeindrucken. Es ist an der Zeit, in neue Fähigkeiten zu investieren und Dein Contact Center zu einem Erlebniszentrum zu machen.
 
-Was ist die 80/20 Regel? Erfahre mehr über das [Pareto Prinzip](/wie-das-pareto-prinzip-dein-marketing-veraendert/).
+Was ist die 80/20 Regel? Erfahre mehr über das [Pareto Prinzip](/das-pareto-prinzip-in-der-kundensegmentierung-anwenden/).

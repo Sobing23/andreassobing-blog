@@ -70,7 +70,7 @@ Diese Mantras fassen nicht nur zusammen, wofür die Marken stehen, sondern diene
 
 Das Brand Mantra ist ein Instrument, um die Tiefe und die Werte einer Marke zu kommunizieren. Es dient nicht nur als internes Leitbild, sondern auch als Grundlage für die Entwicklung von Marketingstrategien, die eine echte emotionale Resonanz beim Publikum erzeugen. Durch die konsequente Anwendung des Brand Mantras in allen Bereichen der Markenführung kannst Du eine starke, authentische und unvergessliche Marke aufbauen.
 
-Weitere Infos findest du bei [Content Hochzwei](https://c-hochzwei.com/2021/01/02/markenidentitaetsmodelle-eine-uebersicht/). Sieh dir auch meinen Artikel an zum Thema: [Wie das Pareto-Prinzip dein Marketing verändert](/wie-das-pareto-prinzip-dein-marketing-veraendert/)
+Weitere Infos findest du bei [Content Hochzwei](https://c-hochzwei.com/2021/01/02/markenidentitaetsmodelle-eine-uebersicht/). Sieh dir auch meinen Artikel an zum Thema: [Wie das Pareto-Prinzip dein Marketing verändert](/das-pareto-prinzip-in-der-kundensegmentierung-anwenden/)
 
 ## Tabelle: Zusammenfassung des Artikels
 

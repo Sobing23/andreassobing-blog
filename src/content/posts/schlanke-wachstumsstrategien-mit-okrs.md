@@ -14,7 +14,7 @@ Schlanke Wachstumsstrategien mit OKRs: Stell Dir vor, Du könntest Dein Unterneh
 
 ## Was sind OKRs?
 
-[OKRs](/nachteile-der-okr-methode/) sind ein Zielsetzungssystem, das Dir hilft, ehrgeizige und messbare Ziele auf allen Ebenen Deines Unternehmens zu setzen. Sie bestehen aus zwei Teilen: den Zielen, die inspirierende qualitative Ziele darstellen, und den Schlüsselergebnissen, die spezifische, quantifizierbare Metriken sind, um den Fortschritt zu verfolgen.
+[OKRs](/vorteile-von-okr/) sind ein Zielsetzungssystem, das Dir hilft, ehrgeizige und messbare Ziele auf allen Ebenen Deines Unternehmens zu setzen. Sie bestehen aus zwei Teilen: den Zielen, die inspirierende qualitative Ziele darstellen, und den Schlüsselergebnissen, die spezifische, quantifizierbare Metriken sind, um den Fortschritt zu verfolgen.
 
 ## Der Zusammenhang zwischen OKRs und Lean Growth
 

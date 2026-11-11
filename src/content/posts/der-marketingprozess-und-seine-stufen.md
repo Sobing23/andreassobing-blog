@@ -39,7 +39,7 @@ Diese Analyse liefert dir wichtige Informationen für die nächsten Schritte.
 
 ### 2.2 Zielsetzung
 
-Nach der Analyse der Marktsituation werden konkrete Ziele festgelegt. Diese [Ziele sollten SMART](/smart-ziele-und-okrs/) sein:
+Nach der Analyse der Marktsituation werden konkrete Ziele festgelegt. Diese [Ziele sollten SMART](/die-fuenf-kriterien-von-smart-zielen/) sein:
 
 1. Spezifisch: Sie sollten klar und präzise formuliert sein.
 2. Messbar: Fortschritt und Erfolg sollten messbar sein.

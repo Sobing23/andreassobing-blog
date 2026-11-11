@@ -44,4 +44,4 @@ Angenommen, du möchtest einen Charakter namens "Sam" für eine Kampagne eines V
 
 Die Kombination aus Chat GPT und DALL·E revolutioniert die Art und Weise, wie Marketingteams Charaktere und visuelle Inhalte erstellen. Diese Technologien ermöglichen es, schnell und kosteneffizient konsistente und ansprechende Charaktere für deine Marketingkampagnen zu entwickeln. Nutze diese innovativen Tools, um deine Kreativität zu entfesseln und deine Zielgruppe auf eine neue, fesselnde Weise anzusprechen.
 
-Kennst du bereits [SMART Ziele in Verbindung mit OKRs](/smart-ziele-und-okrs/)? Dann sieh dir meinen Artikel an.
+Kennst du bereits [SMART Ziele in Verbindung mit OKRs](/die-fuenf-kriterien-von-smart-zielen/)? Dann sieh dir meinen Artikel an.

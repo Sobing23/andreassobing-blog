@@ -68,4 +68,4 @@ Panike nicht und kürze Qualifikationsschritte für mehr Leads – es reduziert 
 
 Die Definition Deines Kunden-Avatars ist ein Multiplikator für Wachstum. Befrage, sortiere, analysiere und umsetze, um mehr hochwertige Leads anzuziehen. Im deutschen Markt, von Berlins Finanzszene bis Münchens Tech-Welt, sorgt diese Strategie dafür, dass Du von AI-gesteuerten Suchen und geo-targetierten Werbungen gefunden wirst.
 
-Bereit zur Umsetzung? Starte heute mit Befragungen und beobachte die Transformation Deines Geschäfts. Für mehr zu [Alex Hormozis](https://www.acquisition.com/) Einblicken erkunde Themen wie "[Pareto Prinzip](/wie-das-pareto-prinzip-dein-marketing-veraendert/) im Marketing".
+Bereit zur Umsetzung? Starte heute mit Befragungen und beobachte die Transformation Deines Geschäfts. Für mehr zu [Alex Hormozis](https://www.acquisition.com/) Einblicken erkunde Themen wie "[Pareto Prinzip](/das-pareto-prinzip-in-der-kundensegmentierung-anwenden/) im Marketing".

@@ -41,6 +41,6 @@ Die Mail sollte wie für den Merkzettel oder den Warenkorbabbruch dynamisch sein
 
 Beachte auch bei dieser Kampagne den Marketing Druck und wie du mit vielen Eintragungen eines Kunden umgehst für die Produktverfügbarkeit. Sofern möglich sollten sonst alle betreffenden Produkte in einer Mail kommuniziert werden wenn diese wieder verfügbar sind. Dies ist aber komplizierter abbildbar im Gegensatz zum Merkzettel und dem Warenkorb. Auch die Abmeldemöglichkeiten würde ich unterscheiden. Der Empfänger kann sich komplett für die Newsletter oder nur die Produktverfügbarkeit gesamt bzw. für einzelne Produkte abmelden. Und dies in der jeweiligen Mail, im Preference Center oder im Kundenkonto.
 
-Weißt du schon wie du mit [Warenkorbabbruch Mailings](/warenkorbabbruch-mit-simplen-mails-senken/) deinen Umsatz erhöhst?
+Weißt du schon wie du mit [Warenkorbabbruch Mailings](/warenkorbabbruch-verhindern-und-conversions-steigern/) deinen Umsatz erhöhst?
 
 Grafik stammt vom CRM Blog von Nico Zorn. Dort findest du auch einen interessanten [Artikel](https://crmblog.de/email-marketing/email-marketing-ecommerce-back-in-stock-alerts/) zum Thema.

@@ -31,9 +31,9 @@ Fehlerhafte Daten wirken sich direkt auf die Zustellung und auch die sogenannten
 
 <div class="video" data-provider="youtube" data-id="_XEHHraCi0Y"></div>
 
-Zusätzlich musst du dir die Frage stellen, welche [Daten du für die Segmentierung](/daten-fuer-die-segmentrierung/) hast. Diese entscheiden über den Versand von bestimmten Newslettern oder in welcher Gruppe sich Empfänger befinden. Auch hier können fehlerhafte Daten für falsche Segmentierungen sorgen.
+Zusätzlich musst du dir die Frage stellen, welche [Daten du für die Segmentierung](/segmentierung-vorgehen-und-vorteile/) hast. Diese entscheiden über den Versand von bestimmten Newslettern oder in welcher Gruppe sich Empfänger befinden. Auch hier können fehlerhafte Daten für falsche Segmentierungen sorgen.
 
-Lerne auch wie du eine [Verteilerliste auf deiner Webseite aufbauen](/verteilerliste-auf-der-webseite-aufbauen/) kannst. Dies hilft die  weitere Adressen für deinen Newsletter Versand zu generieren. Aber auch hier ist die Qualität der Daten entscheidend, also welche Daten du abfragst und wie.
+Lerne auch wie du eine [Verteilerliste auf deiner Webseite aufbauen](/der-richtige-aufbau-des-verteilers-fuer-deine-newsletter/) kannst. Dies hilft die  weitere Adressen für deinen Newsletter Versand zu generieren. Aber auch hier ist die Qualität der Daten entscheidend, also welche Daten du abfragst und wie.
 
 Der [CRMblog](https://crmblog.de/email-marketing/email-verteiler-aufbauen/) hat eine schöne Aufstellung für dich, wie du deinen Verteiler aufbauen kannst. Hier findest du 10 Tipps aus der Praxis, die schnell von dir umgesetzt werden können. Ein Tipp ist beispielsweise die Optimierung deiner Anmeldeseite.
 

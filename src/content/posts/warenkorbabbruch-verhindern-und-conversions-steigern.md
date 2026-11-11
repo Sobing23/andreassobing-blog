@@ -1,108 +1,121 @@
 ---
 title: "Warenkorbabbruch verhindern und Conversions steigern"
+seoTitle: "Warenkorbabbruch verhindern: Ursachen, Shop und E-Mails"
 slug: "warenkorbabbruch-verhindern-und-conversions-steigern"
 date: 2022-09-09T16:21:00
-updated: 2022-09-14T12:57:22
-description: "Eines der effektivsten Mailings (Warenkorbabbruch) in Bezug auf Öffnungsraten und Konvertierung zu Käufen. Hast du bereits einen Kampagne?"
+updated: 2026-11-11T18:00:00
+description: "Warum Kunden den Warenkorb abbrechen, wie du Shop und Checkout verbesserst und wie eine Warenkorbabbruch-Mail aufgebaut ist, inklusive Rechtslage."
 image: "/wp-content/uploads/2022/09/shopping-venture-g535454552_6401.jpg"
 category: "email-marketing"
 vgwort: "https://vg09.met.vgwort.de/na/5060808f4e074ebd8b5203bf6d77073d"
 tags:
   - "E-Mail-Marketing"
+  - "Conversion"
+  - "Warenkorbabbruch"
+  - "E-Commerce"
 wpId: 3835
 ---
 
-Eines der effektivsten Mailings (Warenkorbabbruch) in Bezug auf Öffnungsraten und Konvertierung zu Käufen. Hast du bereits einen Kampagne für Warenkorbabbrecher? Dann optimiere diese bzw. lege diese als eine deiner ersten Kampagnen an. Viele E-Mail Tools oder auch Shop Anbieter haben bereits die Funktionalität an Bord automatisch eine E-Mail zu senden wenn der Besucher seinen Kauf abbricht. Mittlerweile gibt es auch Anbieter welche sich rein auf diesen Fall beziehen wie das Tool von [Uptain](https://uptain.de/).
+Ein Kunde legt ein oder mehrere Produkte in den Warenkorb, kauft dann aber nicht. Das passiert oft: Das Baymard Institute hat 50 Studien zur Abbruchrate ausgewertet und kommt im Durchschnitt auf 70,22 Prozent abgebrochene Warenkörbe. Die einzelnen Studien liegen zwischen 55 und 84 Prozent.
 
-Dies sind keine Transaktionsmails und sollten nur an Empfänger mit der DOI Einwilligung versendet werden. Dafür darfst du in den Mails ruhig werblich sein. Die meisten Online Händler haben eine Conversion Rate von 2-5% in Deutschland. Mithilfe der Warenkorbabbruch Kampagnen kannst du diese Rate steigern. Knapp 70% aller Warenkörbe werden abgebrochen und der Kauf somit nicht abgeschlossen. Dies ist ein jährlicher Verlust zwischen 500 Mio. bis zu 1 Mrd. Euro in Deutschland für die Online Shops. Ich habe allerdings auch die Erfahrung gemacht dass Kunden dachten sie hätten den Kauf abgeschlossen. Das ist besonders ärgerlich wenn das Produkt dringend benötigt oder produziert wird. Hätte ich in der Anfangszeit Warenkorbabbruch Mails bereits versendet hätte man viele dieser Kunden informieren können.
+Da der Besucher schon weit im Kaufprozess ist, lohnt es sich besonders, hier anzusetzen. Du hast weniger Erklärungsaufwand als bei jemandem, der zum ersten Mal auf deine Seite kommt. Viele E-Mail-Tools und Shopsysteme bringen die Funktion für Warenkorbabbruch-Mails schon mit. Es gibt auch Anbieter, die sich ganz auf diesen Fall spezialisiert haben, etwa [Uptain](https://uptain.de/).
 
-Da der Kunde oder Besucher schon ziemlich weit im Verkaufsprozess ist, steigt die Wahrscheinlichkeit eines Kaufs. Du hast auch weniger Erklärungsaufwand als bei einem potenziellen Neukunden, der zum ersten Mal deine Seite besucht. Hier kommen die geringeren Kosten ebenfalls dazu.
+Du kannst an drei Punkten ansetzen:
 
-Und viele Besucher oder Kunden verwenden leider auch den Warenkorb als Merkzettel. Du könntest hierfür eine Kampagne bei einer bestimmten Anzahl von Produkten im Warenkorb machen. In dieser Mail kannst du dem Kunden den Merkzettel erklären und einen Rabatt für den nächsten Einkauf anbieten.
+1. Präventiv, also vor dem Abbruch: Shop und Checkout so verbessern, dass weniger Besucher abspringen.
+2. Im Moment des Abbruchs: etwa mit einem Exit-Intent oder einem gut sichtbaren Warenkorb.
+3. Reaktiv, nach dem Abbruch: mit E-Mails oder Retargeting.
 
-Hier musst du ansetzen. Zuerst solltest du den optimalen Zeitpunkt für den Versand dank A/B Tests heraus finden. Dies ist von Produkt zu Produkt unterschiedlich. Bei einfachen Produkten kann dies instant, also sofort, nach Abbruch des Warenkorbs sein. Einige lassen auch über 45 Minuten verstreichen bis zum Versand der Mail. Bei erklärungsbedürftigen Produkten ist es durchaus sinnvoll noch 1-2 Tage mit der Erinnerung zuwarten. Beispielsweise lagen dem Besucher deiner Webseite noch nicht alle benötigten Informationen vor. Vorher der Mail solltest du noch über einen sogenannten Exit Intent auf deiner Webseite nach denken. Dieser wird als Overlay auf deiner Seite eingeblendet wenn der Kunde die Seite verlassen will.
+## Warum Kunden den Warenkorb abbrechen
+
+Ein großer Teil der Abbrecher schaut sich laut einer Befragung von Baymard unter US-Onlineshoppern nur um (42 Prozent). Lässt man diese Gruppe weg, sind die häufigsten Gründe:
+
+| Grund | Anteil |
+| --- | --- |
+| Zusatzkosten zu hoch (Versand, Steuern, Gebühren) | 40 % |
+| Lieferung zu langsam | 20 % |
+| Misstrauen bei der Eingabe der Kreditkartendaten | 19 % |
+| Kundenkonto wird verlangt | 18 % |
+| Checkout zu lang oder kompliziert | 17 % |
+| Fehler oder Abstürze der Website | 17 % |
+| Rückgabebedingungen unbefriedigend | 13 % |
+| Gesamtkosten nicht vorab sichtbar | 12 % |
+
+Mehrfachnennungen waren möglich, und die Zahlen stammen aus den USA. Die Richtung lässt sich trotzdem auf deutsche Shops übertragen. Du kannst die Gründe in drei Gruppen einteilen:
+
+- Mangelhafte [User Experience](/glossar/#user-experience): Wichtige Informationen wie Versandkosten fehlen oder erscheinen zu spät, Produktbewertungen fehlen, der Warenkorb dient als Ersatz für eine fehlende Merkliste.
+- Technische Probleme: lange Ladezeiten, ein Gutschein, der nicht funktioniert, ein Login, der fehlschlägt.
+- Persönliche Motive: Zeitmangel, der Kunde vergleicht noch Preise oder braucht eine zweite Meinung.
+
+## Shop und Checkout zuerst verbessern
+
+Die beste Warenkorbabbruch-Mail ist die, die du gar nicht brauchst. Zeige Versandkosten früh, biete einen Gastkauf an und halte den Checkout kurz. Mehr dazu steht im Artikel [Conversions im Checkout optimieren](/conversions-im-checkout-optimieren/).
+
+Prüfe auch das Shopdesign. Kennzeichne den Warenkorb mit einem Icon und der Zahl der Artikel und hebe ihn farblich hervor, sobald er gefüllt ist. Viele Besucher nutzen den Warenkorb als Merkzettel. Eine echte Merkliste nimmt diesen Druck heraus.
+
+Kurz vor dem Verlassen der Seite kannst du einen Exit-Intent einsetzen. Das ist ein Overlay, das erscheint, wenn der Besucher die Seite offenbar verlassen will. Nutze ihn für eine Frage oder einen Hinweis, nicht für Druck.
 
 <div class="video" data-provider="youtube" data-id="y3kGFVwxO-w"></div>
 
-Die häufigsten Gründe sind:
+## Die Rechtslage: Warenkorbabbruch-Mails brauchen eine Einwilligung
 
-- Hohe Versandkosten
-- Unpassende Zahlungsmethoden
-- Kundenkonto anlegen
-- Produkt ist woanders billiger
-- Langer umständlicher Kaufprozess
+Eine [Warenkorbabbruch-Mail](/glossar/#warenkorbabbruch-mail) ist keine Transaktionsmail, denn es gibt ja keine Transaktion. Die Landesbeauftragte für Datenschutz und Informationsfreiheit NRW hat in ihrem Tätigkeitsbericht für 2025 klargestellt: Erinnerungsmails nach einem Abbruch sind Werbung und keine Servicekommunikation. Mit dem Abbruch ist auch das vorvertragliche Verhältnis beendet. Die Behörde verweist auf § 7 UWG, nach dem E-Mail-Werbung grundsätzlich nur mit ausdrücklicher Einwilligung zulässig ist.
 
-Diese Gründe lassen sich in drei Kategorien einteilen:
+Für die Praxis heißt das:
 
-1. Mangelhaftes User Experience-Design (UX-Design)
-2. Technische Probleme
-3. Persönliche Motive
+- Schicke Warenkorbabbruch-Mails nur an Empfänger mit Einwilligung, idealerweise per [Double-Opt-in](/glossar/#double-opt-in). Die LDI NRW nennt als Beispiel eine aktiv anzuklickende Checkbox mit anschließender Bestätigung.
+- Die Eingabe der E-Mail-Adresse im Checkout ist keine Einwilligung in Werbung.
+- Ohne Einwilligung bleibt nur die Bestandskundenausnahme nach § 7 Abs. 3 UWG: Die Adresse stammt aus einem früheren Kauf, du bewirbst eigene ähnliche Produkte, der Kunde hat nicht widersprochen und du weist ihn bei der Erhebung und in jeder Mail auf sein Widerspruchsrecht hin.
 
-Der Shop Besucher hat bestimmte Erwartungen an den Aufbau und das Design der Seite sowie den Funktionen.
+Der Nachteil ist offensichtlich: Du erreichst nur einen Teil der Abbrecher. Dafür darfst du in den Mails werblich sein.
 
-Werden diese nicht erfüllt, steigt die Wahrscheinlichkeit für einen Kaufabbruch.
+## Die Mailstrecke: Zeitpunkt, Stufen und Inhalt
 
-- Wesentliche Informationen fehlen oder erscheinen zu spät
-- Produktbewertungen fehlen oder sind negativ
-- Der Warenkorb fungiert als Ersatz für die fehlende Merkliste
+Plane eine [mehrstufige Kampagne](/mehrstufige-e-mail-kampagnen/). Eine einzelne Erinnerung verschenkt Potenzial, zu viele Mails nerven. Ein Beispiel für eine Strecke mit drei Mails:
 
-Auch sind technische Probleme häufig die Ursache für Warenkorbabbrüche. 
+| Mail | Zeitpunkt | Inhalt |
+| --- | --- | --- |
+| 1. Erinnerung | nach einigen Stunden bis 24 Stunden | Hinweis auf den Warenkorb, Produktbilder, Hilfe bei Fragen |
+| 2. Argumente | ein bis zwei Tage später | Bewertungen, Vorteile, Antworten auf typische Fragen |
+| 3. Angebot | einige Tage später | Befristeter Gutschein oder kostenloser Versand, Hinweis auf das Ende |
 
-- Die Ladezeiten sind zu lang
-- Der Gutschein funktioniert nicht
-- Das Login schlägt fehl
+Den besten Zeitpunkt findest du nur mit einem [A/B-Test](/glossar/#a-b-test) heraus. Er hängt vom Produkt ab. Bei einfachen Produkten kann eine schnelle Erinnerung sinnvoll sein. Bei erklärungsbedürftigen Produkten lohnt es sich, eher bis zu einem Tag zu warten, weil der Besucher vielleicht noch Informationen sammelt oder eine zweite Meinung einholt.
 
-Und als letzter Punkt die persönlichen Motive, welche zum Kaufabbruch führen.
+Erkennt dein Shop, in welchem Schritt des Checkouts der Besucher abgesprungen ist, nutze diese Information. Springt er auf der Versandseite ab, gehst du in der Mail auf Versandkosten und Lieferzeit ein. Für jeden Absprungpunkt brauchst du dann eine eigene Mail. Kannst du die Schritte nicht unterscheiden, etwa bei einem Checkout auf einer Seite, reicht eine allgemeinere Mail.
 
-Diese sind subjektiv und abhängig vom jeweiligen Kunden.
+### Inhalt und Gestaltung
 
-- Fehlende Produkte
-- Fehlender Service
-- Zeitmangel
+- Zeige den Inhalt des Warenkorbs. Viele Besucher haben ihn schlicht vergessen. Bei vielen Artikeln reichen die ersten drei bis fünf und ein Link zum vollständigen Warenkorb.
+- Liefere Argumente für die Produkte im Warenkorb. Der Empfänger soll das Gefühl haben, eine gute Entscheidung zu treffen. Information und Service sollten die Werbung schlagen.
+- Setze [Social Proof](/glossar/#social-proof) ein: Bewertungen, Erfahrungsberichte, Zertifikate oder Gütesiegel.
+- Biete einen schnellen Servicekanal an, falls Fragen offen sind.
+- Produktempfehlungen gehören eher in die zweite Mail oder in den unteren Bereich.
+- Halte dich an dein Corporate Design und teste die Darstellung auf dem Smartphone.
 
-Bei vielen Shops ist es mittlerweile so dass die Abschlussseite ein One Pager ist. Also dass alle benötigten Informationen sowie die Zusammenfassung auf einer Seite zu finden ist. Andere Shops haben mehrere Schritte im Kaufprozess. Solltest du hier die Möglichkeit haben den Absprung im jeweiligen Schritt des Kaufprozess zu erkennen, kannst du diese Information nutzen. Wenn der Besucher z.B. auf der Versandseite abspringt kannst du in der Mail auf die Versandkosten und Fragen zum Versand eingehen. Ist dir also der Absprungpunkt bekannt solltest du diesen nutzen. Hierfür musst du dann für die einzelnen Absprungpunkte eigene Mailings zu der jeweiligen Thematik erstellen.
+### Gutscheine mit Bedacht
 
-Hast du einen One Pager oder kannst die Absprungpunkte nicht unterscheiden solltest du eine allgemeinere E-Mail erstellen. In beiden Fällen solltest du noch mindestens einen zusätzlichen Reminder einplanen. Dies ist eine Mail welche automatisiert versendet wird sobald der Empfänger eine bestimmte Zeit nach der ersten Mail nicht gekauft haben.
+Biete in der ersten Mail noch keinen Rabatt an. Sonst lernen deine Kunden, dass sich ein Abbruch lohnt. Wenn du später einen Gutschein schickst, sollte er exklusiv und befristet sein. Oft wirkt der Erlass der Versandkosten besser als ein Prozentrabatt, weil hohe Zusatzkosten der häufigste Abbruchgrund sind. Weitere Ideen findest du im Artikel über [Rabattcodes im E-Commerce](/rabattcodes-im-e-commerce-wie-steigerst-du-deine-conversion-rate/).
 
-Die Warenkorbabbruch Kampagne zahlt auf viele Kennzahlen ein: 
+### Betreff und Call-to-Action
 
-- Umsatzsteigerung
-- Bestandskundenaufbau
-- Neukundengewinnung
-- Steigerung des Kundenwerts (Customer Lifetime Value)
+Neben Zustellbarkeit und Zeitpunkt entscheidet die [Betreffzeile](/die-betreffzeile-fuer-dein-e-mail-marketing/) über die Öffnung. Teste sachliche Varianten wie „Fragen zu deinem Warenkorb?“ gegen kreative wie „Dein Warenkorb vermisst dich“. Wenn du einen witzigen Betreff wählst, greife ihn im Inhalt auf.
 
-Du kannst an drei Punkten beim Warenkorbabbruch ansetzen. Zuerst wäre da der präventive Bereich, also vor dem Warenkorbabbruch. Hier hast du die Möglichkeit durch Analysen und Tests die Webseite und deren Funktionalitäten optimieren. Dann der unmittelbare Zeitpunkt des Kaufabbruchs. Dies kann der Exit Intent sein oder das Hervorheben des Warenkorb Icons auf der Webseite. Und dann für unseren Fall, das E-Mail Marketing. Den reaktiven Zeitpunkt. Hier ist der Kaufabbruch bereits erfolgt. Hier gibt es zusätzlich noch die Möglichkeit das klassische Retargeting zu nutzen. Das bedeutet, dass der Besucher markiert wird und in anderen Werbenetzwerken unsere Werbung speziell auf den Warenkorb zugeschnitten bekommt. Neben der klassischen Variante gibt es noch das Social Media Retargeting. Der Ablauf ist der gleiche nur dass die Werbeinhalte in sozialen Netzwerken wie Facebook ausgespielt werden und vielleicht noch um weitere Informationen angereichert oder nur auf bestimmte Gruppen zugeschnitten wird.
+Beim [Call-to-Action](/glossar/#call-to-action) kannst du auf „Kaufen“ oder „Zur Kasse“ verzichten. Formulierungen wie „Zurück zum Warenkorb“ oder „Noch einmal ansehen“ klingen nach weniger Verpflichtung. Ob das bei deiner Zielgruppe besser funktioniert, zeigt ein Test.
 
-Wir wollen uns aber auf das E-Mail Retargeting fokussieren. Diese Möglichkeiten des Retargeting gelten übrigens nicht für Warenkorbabbrüche sondern auch andere Aktionen wie Merkzettel, Registrierung oder Newsletter Anmeldung. Der Vorteil beim E-Mail Retargeting ist die 1 zu 1 Ansprache. Es können individuelle Mailings mit dynamischen Inhalten versendet werden. Ein großer Nachteil ist dass man nur Empfänger mit Einwilligung erreicht.
+<div class="video" data-provider="youtube" data-id="MjMpuYe5614"></div>
 
-Es gibt einige Faktoren welche es für die Warenkorbabbruch Kampagne zu beachten gibt:
+## Retargeting als Ergänzung
 
-- Incentivierung
-- Personalisierung
-- Corporate Design (CD)
-- Mobile optimiert (mobile responsible)
+Neben der E-Mail gibt es das klassische Retargeting. Der Besucher wird markiert und bekommt in Werbenetzwerken oder sozialen Netzwerken Anzeigen, die auf seinen Warenkorb zugeschnitten sind. Der Vorteil der E-Mail ist die persönliche Ansprache mit dynamischen Inhalten. Diese Logik funktioniert nicht nur beim Warenkorb, sondern auch bei Merkzettel, Registrierung oder Newsletter-Anmeldung. Mehr dazu im Artikel über [Trigger-Mails](/trigger-mails-sind-der-ausloeser-fuer-deinen-e-mail-erfolg/). Schöne Beispiele für Warenkorbabbruch-Mails findest du bei [Really Good Emails](https://reallygoodemails.com/categories/abandoned-cart).
 
-**Incentivierung**: Sofern du Gutscheine anbietest sollten diese exklusiv sein. Der Gutschein sollte ein Ablaufdatum haben um den FOMO Effekt (Fear of missing out) zu verstärken. Zusätzlich kannst du noch ein Serviceangebot einbauen. Hier verwendest du am besten einen Kanal, wo dem Kunden schnell geholfen werden kann bei Fragen.
+## Was ich davon halte
 
-**Personalisierung**: Du erreichst eine größere Wertschätzung bei Empfänger durch die Personalisierung. Diese basiert auf dem Nutzerverhalten sowie Informationen wie Nutzerdaten und historischen Daten.
+Warenkorbabbruch-Mails gehören zu den Kampagnen, die sich am direktesten auf den Umsatz auswirken. Trotzdem werden sie oft überschätzt. Wer eine hohe Abbruchrate nur mit E-Mails bekämpft, behandelt Symptome. Versteckte Versandkosten, ein Kontozwang oder ein fehlerhafter Gutschein lassen sich im Shop schneller und für alle Besucher lösen, nicht nur für die mit Einwilligung.
 
-**Corporate Design**: Sämtliche Kommunikationskanäle und -mittel sollen ein stimmiges Gesamtbild abgeben im Bereich Farben und Schriftarten.
+Seit der klaren Einordnung durch die LDI NRW würde ich keine Warenkorbmails mehr an Adressen ohne Einwilligung schicken, auch wenn dein Tool die Funktion standardmäßig anbietet. Dass eine Funktion technisch verfügbar ist, heißt nicht, dass sie zulässig ist. Lass die Einwilligung im Checkout im Zweifel anwaltlich prüfen.
 
-**Mobile optimiert**: Mittlerweile lesen 67% aller Empfänger ihre E-Mail auf dem Smartphone. Hinzu kommen noch einmal 42% welche den Laptop nutzen. Bei diesen gibt es ebenfalls den Trend dass es immer mehr 13 oder 14 Zoll Monitore gibt. Die Bildschirme der Smartphones sind in den letzten Jahren größer geworden. Trotz allem sind die Bildschirme immer noch nicht vergleichbar mit einem Desktop PC. Daher ist es wichtig die Versionen und deren Darstellung auf verschiedenen Geräten zu testen.
+Und: Sei sparsam mit Rabatten. Wer jeden Abbruch mit einem Gutschein belohnt, erzieht seine Kunden zum Abbrechen.
 
-Die höchsten Öffnungsraten haben Transaktionsmails. Die meist bei 80-85%. Allerdings hast du auch eine gute Chance mit den Warenkorbabbrecher Mail. Diese haben bei mir zwischen 60 und 70% erreicht. Neben der Zustellbarkeit und dem Zeitpunkt spielt auch die Betreffzeile eine große Rolle. Hier solltest du A/B testen. Einige verwenden witzige kreative Betreffzeilen wie „Wir vermissen unseren Einkaufswagen Andreas“. Allerdings solltest du dies auch im Mailinhalt aufgreifen. Meine besten Zustellungen habe mit folgendem Betreff erreicht: „Fragen zu deiner Bestellung Andreas“.
+Alle Artikel zum Thema findest du im Handbuch-Kapitel [E-Mail-Marketing](/thema/e-mail-marketing/).
 
-Auch bei dem Design gibt es verschiedene Ansätze welche es zu testen gibt. Ähnlich dem Warenkorb bevorzugen die meisten einen sehr schlichten und übersichtlichen Newsletter. Diese habe ich auch aufgrund des Produkts und der Marke verwendet. Allerdings kann man auch hier bunter sein. Das hängt von der Zielgruppe ab. Auf jeden Fall sollte in deiner Werbung Information und Service die Werbung schlagen. Du solltest auch das Produkt noch einmal hervorheben und evtl. auch mit anderen vergleichen. Der Empfänger muss immer wieder das Gefühl haben, eine gute Entscheidung getroffen zu haben.
-
-Du kannst auch den Faktor Social Proof einsetzen. Dies können neben normalen Bewerbungen auch Erfahrungsberichte zu dem Produkt sein. Ebenso können es Follower Zahlen, Zertifizierungen oder Badges sein, welche im Mailing vorkommen. Social Proof ist ein legitimer, identifizierbarer psychologischer Vorgang, der auftritt, wenn jemand eine Entscheidung basierend auf Handlungen anderer trifft.
-
-Kommen wir zum Call-to-Action (CTA) Button. Versuch auf die Wörter “Bestellen”, “Kaufen” oder “Zur Kasse” zu verzichten. Dies sind CTAs die einem Häufig begegnen. Dies reduziert den Umfang der Verpflichtung. Nutze lieber Formulierungen wie „Zurück in den Warenkorb“, „Wiederfinden deiner Favoriten“ oder „Noch einmal schauen“.
-
-Viele Besucher vergessen schlicht ihren Warenkorb. Daher solltest du ihn auf jeden Fall den Inhalt zeigen. Sollten es mehrere Artikel sein kann man auch nur die ersten 3-5 Artikel anzeigen und den Hinweis geben sich alle Artikel noch einmal im Warenkorb anzusehen. Vielleicht hast du auch noch andere Produktbilder für die Artikel welche du einbinden kannst.  In der zweiten E-Mail oder im unteren Bereich kannst du ansonsten noch dem Empfänger andere Produktvorschläge machen.
-
-Baue eine mehrstufige Kampagne auf in welcher du zwei Mails versendest. In der ersten würde ich noch keinen Rabatt anbieten sondern er auf den vergessenen Warenkorb hinweisen und die darin befindlichen Artikel hervor heben. In der zweiten E-Mail 24 Stunden später, sofern noch kein Kauf erfolgt ist, würde ich dann einen Gutschein anbieten. Die besten Ergebnisse erzielst du wenn due normalerweise Versandkosten berechnest und diese Bestellung dadurch dann versandkostenfrei wäre.
-
-Tipp:
-
-<https://www.cleverreach.com/de/push/automation/abandoned-cart-mails-warenkorbabbrecher/>
-<https://www.drip.com/de/blog/e-mails-fuer-abgebrochene-warenkoerbe>
+*Quellen: [Baymard Institute: Cart Abandonment Rate](https://baymard.com/lists/cart-abandonment-rate), [Haufe: Warenkorberinnerungen per E-Mail sind unzulässige Werbung](https://www.haufe.de/recht/weitere-rechtsgebiete/warenkorberinnerungen-per-e-mail-sind-unzulaessige-werbung_216_692002.html), [eRecht24: Warenkorbabbrecher-Mail](https://www.e-recht24.de/online-marketing/11015-warenkorbabbrecher-mail-erlaubt-oder-nicht.html), [§ 7 UWG (gesetze-im-internet.de)](https://www.gesetze-im-internet.de/uwg_2004/__7.html)*

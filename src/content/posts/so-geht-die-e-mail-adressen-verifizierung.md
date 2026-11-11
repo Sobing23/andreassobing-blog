@@ -24,4 +24,4 @@ Neben der Verifizierung durch externe Dienstleister durch den Upload deiner Mail
 
 Wie bereits erklärt kannst du eine E-Mail Adressen Verifizierung auch schon vorschalten. Dies könnte z.B. bei der Registrierung oder der Anmeldung des Newsletters erfolgen. Um Tippfehler auszuschließen empfiehlt es sich nicht Nutzer ihre E-Mail Adresse doppelt eingeben zu lassen. Dies führt zu einer höheren Absprungrate und ansonsten wird die zuerst eingegebene E-Mail Adresse kopiert und wieder eingefügt. Dadurch wird die falsch geschriebene E-Mail Adressen wieder übernommen. Solltest du eine Verifizierung bei der Registrierung oder dem Newsletter nutzen ist es wichtig auch auf die Meldungen für die Nutzer zu achten sofern die Mail Adresse nicht valide ist. Der Nutzer muss den Grund der Ablehnung der Adresse kennen und diese dann noch einmal überprüfen. Wie bereits erwähnt würde ich Anmeldungen mit Wegwerf Adressen zu lassen.
 
-Erfahre auch wie du eine [Verteilerliste auf der Webseite](/verteilerliste-auf-der-webseite-aufbauen/) aufbaust.
+Erfahre auch wie du eine [Verteilerliste auf der Webseite](/der-richtige-aufbau-des-verteilers-fuer-deine-newsletter/) aufbaust.

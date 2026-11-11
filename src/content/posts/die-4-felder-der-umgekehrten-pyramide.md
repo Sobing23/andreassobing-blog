@@ -1,44 +1,92 @@
 ---
-title: "Die 4 Felder der umgekehrten Pyramide"
+title: "Die umgekehrte Pyramide: Die 4 Felder einer Nachricht"
+seoTitle: "Umgekehrte Pyramide: Die 4 Felder einer Nachricht"
 slug: "die-4-felder-der-umgekehrten-pyramide"
 date: 2018-04-10T08:01:37
-updated: 2021-10-09T18:48:14
-description: "Kennst Du die 4 Felder der umgekehrten Pyramide? Journalisten gewinnen dadurch die Aufmerksamkeit ihrer Leser und fesseln sie. Lass uns einmal den Aufbau von Nachrichtentexten ansehen."
+updated: 2026-11-11T18:00:00
+description: "Die umgekehrte Pyramide erklärt: Kern, Quelle, Einzelheiten, Hintergrund, die Herkunft aus dem Journalismus und der Einsatz in Webtexten und Mails."
 category: "arbeitsweisen"
 vgwort: "https://vg06.met.vgwort.de/na/e35120a28249436798d0a03cf9b12c14"
 tags:
   - "Texte & Copywriting"
+  - "Journalismus"
+  - "Content-Marketing"
+  - "Storytelling"
 wpId: 1511
 ---
 
 ![Zusammengerollte Zeitungen vor schwarzem Hintergrund mit Spiegelung](/wp-content/uploads/2018/04/img_9608.jpg)
 
-Kennst Du die 4 Felder der umgekehrten Pyramide? Journalisten gewinnen dadurch die Aufmerksamkeit ihrer Leser und fesseln sie. Lass uns einmal den Aufbau von Nachrichtentexten ansehen.
+Die umgekehrte Pyramide ist das wichtigste Bauprinzip für Nachrichten. Das Wichtigste steht am Anfang, danach folgen die Informationen in abnehmender Wichtigkeit. Wer nur den ersten Satz liest, weiß schon, was passiert ist. Wer weiterliest, bekommt Schritt für Schritt mehr Details.
 
-Das Prinzip der [umgekehrten Pyramide](https://de.wikipedia.org/wiki/Prinzip_der_umgekehrten_Pyramide) im Journalismus besagt, dass Nachrichten mit den wichtigsten Informationen beginnen und dann immer unbedeutendere Angaben folgen.
+Für Marketingprofis ist das Prinzip mindestens so nützlich wie für Journalisten. Pressemitteilungen, Newsletter, Landingpages, Status-Updates an die Geschäftsführung: Überall entscheiden die ersten Zeilen, ob jemand weiterliest. In diesem Artikel lernst du die vier Felder kennen, in die eine klassische Nachricht gegliedert ist, woher das Prinzip kommt und wann du besser anders erzählst.
+
+## Was die umgekehrte Pyramide ist
+
+Das [Prinzip der umgekehrten Pyramide](https://de.wikipedia.org/wiki/Prinzip_der_umgekehrten_Pyramide) beschreibt eine Pyramide, die auf der Spitze steht. Oben, an der breiten Seite, steht das Wesentliche. Nach unten werden die Informationen immer weniger wichtig. Im Englischen spricht man auch vom „Summary Lead“ oder von „Bottom Line up Front“. Das Gegenteil ist der „vergrabene Lead“: Die eigentliche Nachricht versteckt sich im dritten Absatz.
+
+Der erste Satz oder Absatz, der Lead, beantwortet die wichtigsten W-Fragen. In deutschen Lehrtexten zum journalistischen Schreiben sind das meist: Was ist passiert, wer ist beteiligt, wann und wo, und woher stammt die Information. Wie und warum folgen danach.
 
 ## Die 4 Felder der umgekehrten Pyramide
 
-- Feld 1: Wer oder was? (Was ist passiert? Wer ist involviert?) = Kern
-- Feld 2: Wann und wo? (Zeit und Ort) = Quelle
-- Feld 3: Warum und/oder wozu? (Auslöser, Motivation) = Einzelheiten
-- Feld 4: Woher weiß man das? = Hintergrund
+Viele Anleitungen für Nachrichten gliedern den Text in vier Teile: Kern, Quelle, Einzelheiten und Hintergrund. Diese Reihenfolge nennt zum Beispiel ein Leitfaden für Schülerzeitungen: zuerst die W-Fragen, dann die Quelle, dann Einzelheiten mit weiteren W-Fragen, zuletzt Hintergrund und Zusammenhänge. Das sind die vier Felder.
+
+![Umgekehrte Pyramide mit vier Feldern: Kern mit was, wer, wann und wo, Quelle mit woher, Einzelheiten mit wie und warum, Hintergrund mit Vorgeschichte und Folgen, daneben eine Beispielmeldung](/wp-content/uploads/2026/11/umgekehrte-pyramide-4-felder.jpg)
+
+| Feld | Inhalt | Leitfragen |
+|---|---|---|
+| 1. Kern | Die eigentliche Nachricht in einem Satz | Was? Wer? Wann? Wo? |
+| 2. Quelle | Wer die Information liefert | Woher? |
+| 3. Einzelheiten | Ablauf, Ursachen, Zahlen, Zitate | Wie? Warum? |
+| 4. Hintergrund | Vorgeschichte, Zusammenhänge, mögliche Folgen | Was bedeutet das? |
 
 ### Beispiel für eine Meldung
 
-1. Großbrand bei Druckerei Müller
-2. Gestern Nacht im Gewerbegebiet Keitum
-3. Ursache des Brandes noch unklar, wahrscheinlich ein technischer Defekt
-4. Aufmerksame Fußgänger haben es zuerst bemerkt. Wurde heute früh von der örtlichen Feuerwehr bestätigt.
+Ein ausgedachtes Beispiel, nach den vier Feldern aufgebaut:
 
-Bezogen auf Zeitungen bedeutet es dass die Aufmacher auf der Titelseite sind. Der Grund des Aufbaus ist technischer Natur als die Zeitungen noch mit Setzkästen gearbeitet haben. Dank des Trichterprinzip konnte man aus Platzmangel von unten Sachen streichen. Dies Prinzip wird auch beim Rundfunk und Fernsehen angewendet.
+1. **Kern:** In der Nacht zu Dienstag hat ein Großbrand die Druckerei Müller im Gewerbegebiet Keitum zerstört. Verletzt wurde niemand.
+2. **Quelle:** Das teilte die örtliche Feuerwehr am Dienstagmorgen mit.
+3. **Einzelheiten:** Fußgänger hatten gegen 2 Uhr Rauch bemerkt und den Notruf gewählt. Die Ursache ist noch unklar, die Feuerwehr vermutet einen technischen Defekt.
+4. **Hintergrund:** Die Druckerei beschäftigt 40 Menschen und druckt unter anderem die Wochenzeitung des Ortes. Ob die nächste Ausgabe erscheinen kann, ist offen.
 
-Beim [Storytelling](https://de.wikipedia.org/wiki/Storytelling_(Methode)#Storytelling_in_Unternehmen) gehst Du am besten genau umgekehrt vor. Die beiden unteren Felder an der Spitze einer Pyramide sind für eine gute Story wichtig. Das Motiv sowie die Hintergründe bilden den spannenden Kern, nicht so sehr der Ort oder die Zeit.
+Du siehst: Nach dem ersten Feld weißt du das Wichtigste. Jedes weitere Feld ist eine Vertiefung, auf die du zur Not verzichten kannst.
 
-Storytelling (deutsch: „Geschichten erzählen“) ist eine Erzählmethode, durch die explizites, aber vor allem stillschweigendes Wissen in Form von Themen, Symbolen, Metaphern oder anderen rhetorischen Mitteln vermittelt wird. Es wird hauptsächlich für digitale Medien verwendet, hat aber eine lange Tradition.
+## Woher das Prinzip kommt
 
-Das Publikum konsumiert Geschichten nicht nur durch Hören, Lesen oder Anschauen, sondern kann als Pro-Consumer auch aktiv an der Umsetzung von Nachrichtenportalen, Blogs, Streaming-Media-Plattformen und Virtual Reality mitwirken. Das Wort Storytelling ist eng mit der Erzählung verbunden. Storytelling wird in Bildung, Wissensmanagement, Unternehmenskommunikation, als Problemlösungsmethode und Marketingmethode eingesetzt.
+Die bekannteste Erklärung verbindet die umgekehrte Pyramide mit dem Telegrafen. Übertragungen waren teuer und unzuverlässig, deshalb setzten Korrespondenten das Wichtigste an den Anfang. Chip Scanlan hat 2003 für das Poynter Institute zusammengefasst, was davon belegt ist. Die verbreitete Geschichte, Reporter im Amerikanischen Bürgerkrieg hätten das Wichtigste nach vorn gestellt, falls die Leitung unterbrochen wird, hält er für zweifelhaft. Viele Berichte aus dieser Zeit sind noch chronologisch erzählt.
 
-In der Wissenschaft wird es verwendet, um professionelles Wissen einem Laienpublikum zu vermitteln, wird jedoch manchmal wegen seines angeblich manipulativen Charakters abgelehnt.
+Der Historiker David Mindich sieht den Ursprung stattdessen in der Berichterstattung über die Ermordung Abraham Lincolns. Viele Zeitungen druckten am 15. April 1865 die amtliche Mitteilung von Kriegsminister Edwin Stanton, die mit den wichtigsten Fakten begann. Studien zu Zeitungen des 19. Jahrhunderts, etwa von Pöttker (2003), deuten außerdem darauf hin, dass sich die Form erst Jahrzehnte nach Einführung des Telegrafen durchsetzte.
 
-Grafik: CC0 Creative Commons pixabay moritz320
+Ein praktischer Vorteil war unabhängig vom Ursprung wichtig: Wenn Platz fehlte, konnten Redakteure einen Text von unten kürzen, ohne dass die Nachricht verloren ging.
+
+## Die umgekehrte Pyramide im Marketing
+
+Online ist das Prinzip noch wichtiger geworden. Amy Schade von der Nielsen Norman Group schreibt, die umgekehrte Pyramide sei für das Web perfekt geeignet: Nutzer lesen online selten gründlich, haben wenig Geduld mit Inhalten, die sie nicht sofort ansprechen, und scrollen nur, wenn sie weiter unten etwas Relevantes erwarten.
+
+So setzt du das Prinzip ein:
+
+- **Pressemitteilungen:** Kern und Quelle in den ersten Absatz. Journalisten entscheiden in Sekunden, ob die Meldung für sie relevant ist.
+- **Newsletter und Mails:** Die wichtigste Information und die gewünschte Handlung gehören nach oben. Mehr dazu in [KISS für E-Mails: die 5-Satz-Formel](/kiss-fuer-e-mails-die-5-satz-formel/).
+- **Landingpages:** Nutzenversprechen und Angebot oben, Details, Belege und FAQ darunter.
+- **Berichte an die Geschäftsführung:** Ergebnis und Empfehlung zuerst, Methode und Daten danach.
+- **Blogartikel:** Beantworte die Suchfrage im ersten Absatz, statt mit einer langen Einleitung zu beginnen.
+
+## Wann du besser anders erzählst
+
+Die umgekehrte Pyramide liefert Informationen effizient, erzeugt aber keine Spannung. Wer schon im ersten Satz alles verrät, gibt dem Leser keinen Grund, bis zum Ende zu bleiben. Für Reportagen, Fallstudien, Markengeschichten oder Keynotes funktioniert deshalb oft eine erzählende Struktur besser: ein Einstieg mit einer Person oder Szene, ein Konflikt, eine Auflösung.
+
+Beim [Storytelling](/storytelling-thats-what-it-is-all-about/) kehrst du die Pyramide gewissermaßen um. Nicht Ort und Zeit stehen im Vordergrund, sondern Motiv und Hintergrund, also genau die Felder, die in der Nachricht ganz unten stehen. Auch die Journalismusforschung diskutiert, ob erzählende Formen manche Zielgruppen besser erreichen als die klassische Nachricht.
+
+## Was ich davon halte
+
+Die umgekehrte Pyramide ist für mich die nützlichste Schreibregel überhaupt, weil sie Respekt vor der Zeit des Lesers ausdrückt. Gerade im Marketing, wo wir gern mit Einleitungen, Firmengeschichte und Kontext beginnen, wirkt sie wie ein Filter. Frag dich vor jedem Text: Wenn jemand nur den ersten Satz liest, weiß er dann, worum es geht?
+
+Die vier Felder sind ein gutes Raster für Meldungen und Pressemitteilungen, aber kein Gesetz. In vielen Texten verschwimmen Quelle und Einzelheiten, und bei Marketingtexten ersetzt der Nutzen für den Leser oft die klassischen W-Fragen. Problematisch wird das Prinzip, wenn du es überall anwendest. Eine Kundengeschichte, die mit dem Ergebnis beginnt und dann nur noch abnimmt, liest niemand zu Ende.
+
+Mein Rat: Nutze die umgekehrte Pyramide für alles, was informieren soll, und eine erzählende Struktur für alles, was berühren oder überzeugen soll. Wenn du an deinem Stil arbeiten willst, lies auch [Wie schreibe ich bessere Texte](/wie-schreibe-ich-bessere-texte/) und den Artikel über [Hemingways Eisberg-Theorie](/ernest-hemingway-und-die-eisberg-theorie-einfachheit-mit-tiefe/). Eine Kurzdefinition findest du im Glossar unter [umgekehrte Pyramide](/glossar/#umgekehrte-pyramide).
+
+Mehr zu Texten, Content und Kommunikation findest du im Handbuch-Kapitel [Content, SEO und Social Media](/thema/content/).
+
+Foto oben: CC0 Creative Commons, pixabay, moritz320
+
+*Quellen: [Poynter: Birth of the Inverted Pyramid](https://poynter.org/?p=12755), [Nielsen Norman Group: Inverted Pyramid, Writing for Comprehension](https://www.nngroup.com/articles/inverted-pyramid/), [Wikipedia: Inverted pyramid (journalism)](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)), [Pangloss: Die Nachricht (Leitfaden Schülerzeitung)](https://www.pangloss.de/cms/uploads/Dokumente/Schule/schuelerzeitung/080707_Nachricht.pdf)*

@@ -33,4 +33,4 @@ Viele von uns verwenden ihre E-Mail als eine Art To-Do-Liste. Das Problem dabei 
 
 Die Verwendung eines Kalenders anstelle einer To-Do-Liste kann dir helfen, realistische Erwartungen an das zu setzen, was du in einer Woche erledigen kannst. Es kann auch dazu beitragen, den Stress zu reduzieren, der durch eine endlose To-Do-Liste entsteht. Indem du deine Aufgaben direkt in deinen Kalender einplanst und Pufferzeiten einbaust, kannst du effektiver arbeiten und sicherstellen, dass du deine Zeit optimal nutzt.
 
-Sieh dir auch meinen [Beitrag zu SMART Ziele und OKRs](/smart-ziele-und-okrs/) an.
+Sieh dir auch meinen [Beitrag zu SMART Ziele und OKRs](/die-fuenf-kriterien-von-smart-zielen/) an.

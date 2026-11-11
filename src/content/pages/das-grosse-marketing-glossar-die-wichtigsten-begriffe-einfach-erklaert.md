@@ -34,7 +34,7 @@ Die ABC-Kundenanalyse ist eine Methode im Marketing, um Kunden nach ihrer Bedeut
 
 A-Kunden sind die wichtigsten Kunden des Unternehmens und tragen den größten Teil zum Umsatz bei. B-Kunden sind ebenfalls wichtig, aber nicht so wertvoll wie A-Kunden. C-Kunden sind Kunden, die nur einen geringen Umsatz generieren und daher weniger bedeutend für das Unternehmen sind.
 
-Die ABC-Kundenanalyse wird oft mit der [Pareto-Analyse](/wie-das-pareto-prinzip-dein-marketing-veraendert/) kombiniert. Die Pareto-Analyse besagt, dass 80% des Umsatzes durch 20% der Kunden generiert werden. Diese 20% der Kunden sind normalerweise die A-Kunden.
+Die ABC-Kundenanalyse wird oft mit der [Pareto-Analyse](/das-pareto-prinzip-in-der-kundensegmentierung-anwenden/) kombiniert. Die Pareto-Analyse besagt, dass 80% des Umsatzes durch 20% der Kunden generiert werden. Diese 20% der Kunden sind normalerweise die A-Kunden.
 
 Ein Beispiel für die ABC-Kundenanalyse könnte wie folgt aussehen:
 

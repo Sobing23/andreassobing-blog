@@ -40,7 +40,7 @@ Jetzt kennst du die unterschiedlichen Ziele und deren Hürden. Lerne wie du [Zie
 
 Bist du auf den [Black Friday und den Cyper Monday](/mailkampagnen-fuer-black-friday-und-cyber-monday/) gut vorbereitet? Neben der Erreichbarkeit deiner Webseite spielen beispielsweise die Verfügbarkeit eine große Rolle. Aber auch das Testen des Gutscheincodes für Aktionspreise sollte oberste Priorität bei dir haben.
 
-Neben der Kampagnenplanung und somit der Inhalte sind weitere Faktoren notwendig, Dies sind die Zustellbarkeit aber auch die B[ildung von Segmenten](/daten-fuer-die-segmentrierung/). Mit einer guten Segmentierung erhögst du die Zustellbarkeit, senkst die Abmelderaten und steigerst die Relevanz deiner Mailings.
+Neben der Kampagnenplanung und somit der Inhalte sind weitere Faktoren notwendig, Dies sind die Zustellbarkeit aber auch die B[ildung von Segmenten](/segmentierung-vorgehen-und-vorteile/). Mit einer guten Segmentierung erhögst du die Zustellbarkeit, senkst die Abmelderaten und steigerst die Relevanz deiner Mailings.
 
 ## Ergänzung Oktober 2026
 

@@ -34,7 +34,7 @@ Die Anwendung ist denkbar einfach und dennoch effektiv:
 1. Überprüfe deinen Prozess: Bevor du mit der Planung beginnst, benutze SOSTAC® zur Selbstreflexion. Frage dich, welche Aktivitäten du oder dein Unternehmen besonders gut beherrscht und wo es Verbesserungspotenzial gibt.
 2. Finde die richtige Balance: Oft wird zu viel Zeit in die Analyse und zu wenig in die Strategieentwicklung investiert. Ein guter Richtwert für die Verteilung könnte sein: Situation (20%), Ziele (5%), Strategie (45%) und Taktik (30%).
 3. Nutze die TOWs-Matrix für SWOT: Eine detaillierte SWOT-Analyse hilft, Chancen und Risiken besser zu erkennen und Strategien entsprechend anzupassen.
-4. Setze [SMARTe Ziele](/smart-ziele-und-okrs/): Aufgrund der Messbarkeit des digitalen Marketings solltest du deine Ziele so spezifisch wie möglich formulieren. Nutze zum Beispiel Google Analytics, um konkrete Ziele zu definieren.
+4. Setze [SMARTe Ziele](/die-fuenf-kriterien-von-smart-zielen/): Aufgrund der Messbarkeit des digitalen Marketings solltest du deine Ziele so spezifisch wie möglich formulieren. Nutze zum Beispiel Google Analytics, um konkrete Ziele zu definieren.
 5. Integriere die Elemente deiner SWOT: Eine klare Struktur und ein roter Faden sind entscheidend. Fasse deinen gesamten SOSTAC-Plan in einer Tabelle zusammen, die die Strategien, die Situation und die Ziele enthält.
 
 ![Kreisdiagramm: Multichannel Marketing Growth Wheel mit SOSTAC-Phasen und RACE-Zielen im Zentrum](/wp-content/uploads/2023/09/sostac-marketing-growth-wheel-550x6141-1.png)

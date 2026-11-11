@@ -248,7 +248,6 @@
           "was-sind-denn-wirklich-okrs",
           "okrs-der-schluessel-zu-effektiver-zielsetzung-und-ergebnismessung",
           "vorteile-von-okr",
-          "nachteile-der-okr-methode",
           "fuer-welche-umfelder-eignen-sich-okrs",
           "haeufige-fragen-und-antworten-zu-okr",
           "weitere-fragen-und-antworten-zu-okrs"
@@ -262,7 +261,7 @@
           "alles-was-du-ueber-okr-objektive-wissen-musst",
           "wie-du-gewinnbringende-okrs-schreibst",
           "nuetzliche-okrs-wie-du-ziele-und-schluesselergebnisse-effektiv-einsetzt",
-          "smart-ziele-und-okrs",
+          "die-fuenf-kriterien-von-smart-zielen",
           "okr-kpis-vs-metriken",
           "okrs-wenn-der-nutzer-ein-ki-agent-ist",
           "okr-der-nordstern-und-die-wichtigsten-kennzahlen"
@@ -290,7 +289,6 @@
         "text": "Wie OKRs mit Strategie, Betriebsmodell und Veränderung im Unternehmen zusammenhängen.",
         "artikel": [
           "okrs-strategie-zum-leben-erwecken",
-          "okrs-und-strategie-eine-symbiotische-beziehung",
           "der-connected-strategic-stack",
           "okr-was-ist-die-cross-functional-alignment",
           "mit-dem-operating-model-organisierst-du-dein-unternehmen-richtig-okr",
@@ -395,7 +393,6 @@
           "welche-daten-besitzt-du-fuer-deine-verteilerliste",
           "wie-kannst-du-die-vorhandenen-daten-aufbereiten",
           "der-richtige-aufbau-des-verteilers-fuer-deine-newsletter",
-          "verteilerliste-auf-der-webseite-aufbauen",
           "mit-der-gestaltung-des-anmeldeformulars-mehr-leads-erhalten",
           "leads-durch-die-newsletter-anmeldung-generieren",
           "wie-du-unwiderstehliche-lead-magneten-fuer-dein-marketing-erstellst",
@@ -444,7 +441,6 @@
         "titel": "Kampagnenideen",
         "text": "Konkrete Mailings rund um Warenkorb, Merkzettel, Bewertungen und persönliche Anlässe.",
         "artikel": [
-          "warenkorbabbruch-mit-simplen-mails-senken",
           "warenkorbabbruch-verhindern-und-conversions-steigern",
           "3-merkzettel-kampagnen-die-deine-mitbewerber-nicht-machen",
           "dank-der-produktverfuegbarkeit-kommen-deine-besucher-wieder",
@@ -582,7 +578,6 @@
         "text": "Wie du mit ChatGPT startest, was die Versionen unterscheidet und welche Funktionen es gibt.",
         "artikel": [
           "was-ist-chatgpt",
-          "dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht",
           "so-nutzt-du-chatgpt",
           "chat-gpt-plus-vs-kostenlose-version",
           "sicherheit-bei-der-nutzung-von-chatgpt-was-du-wissen-solltest",
@@ -660,7 +655,6 @@
           "chatgpt-leitfaeden-erstellen-wie-ein-profi",
           "kreative-ideenfindung-mit-chat-gpt",
           "storm-methode-ki-recherche",
-          "deepl-write-dein-neuer-partner-fuer-effektives-content-erstellung",
           "deepl-write-das-beste-kostenlose-tool-zum-umformulieren-und-verbessern-deiner-texte",
           "deepl-das-beste-tool-fuer-kostenlose-uebersetzungen"
         ]
@@ -1080,7 +1074,6 @@
           "einfuehrung-in-die-abc-kundenanalyse",
           "mit-der-rfm-analyse-steigerst-du-deine-kundenbindung",
           "das-pareto-prinzip-in-der-kundensegmentierung-anwenden",
-          "wie-das-pareto-prinzip-dein-marketing-veraendert",
           "die-macht-der-kohortenanalyse-ein-tiefer-einblick",
           "kohortenanalyse-so-verstehst-du-endlich-was-deine-kunden-wirklich-treiben",
           "kundentypen-online-shopping-wer-kauft"
@@ -1430,7 +1423,7 @@
           "die-relative-weight-methode",
           "einfuehrung-in-datenanalysetools-dein-leitfaden-zu-spss",
           "die-rolle-von-big-data-und-predictive-analytics-im-marketing",
-          "daten-fuer-die-segmentrierung",
+          "segmentierung-vorgehen-und-vorteile",
           "die-besten-tools-zur-analyse-deiner-online-marketing-konkurrenz",
           "data-storytelling-impactvolle-botschaften"
         ]
@@ -1594,7 +1587,7 @@
           "human-centered-design-produkte-die-den-kundenbeduerfnissen-entsprechen",
           "walking-skeleton-ein-effektives-werkzeug-fuer-agile-produktentwicklung",
           "produktvision-erstellen-im-team",
-          "die-kunst-der-priorisierung-im-produktmanagement-ice-und-gist",
+          "wie-du-die-richtigen-priorisierungs-frameworks-fuer-dein-marketing-auswaehlst",
           "die-vier-faktoren-von-rice-scoring",
           "die-moscow-methode-zur-effizienten-priorisierung-im-marketing"
         ]

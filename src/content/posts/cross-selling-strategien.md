@@ -135,4 +135,4 @@ Durch individuelle Beratung können passende Zusatzprodukte empfohlen werden, wa
 
 Unternehmen, die **gezielt auf Cross-Selling setzen**, können ihre **Profitabilität** steigern und sich **Wettbewerbsvorteile** sichern.
 
-Sieh dir auch diesen Beitrag von mir an: [Wie das Pareto-Prinzip dein Marketing verändert](/wie-das-pareto-prinzip-dein-marketing-veraendert/)
+Sieh dir auch diesen Beitrag von mir an: [Wie das Pareto-Prinzip dein Marketing verändert](/das-pareto-prinzip-in-der-kundensegmentierung-anwenden/)

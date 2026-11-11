@@ -135,4 +135,4 @@ Die 4Ps sind einfach, aber nicht beliebig anwendbar. Achte auf diese Punkte:
 
 Die 4Ps bieten einen klaren Rahmen, um ein Angebot vollständig zu durchdenken: Produkt, Preis, Platzierung und Promotion. Ihre Stärke liegt in der Einfachheit und im Zwang zur Abstimmung. Erfolgreiches Marketing entsteht, wenn alle vier Elemente zueinander passen und auf die Bedürfnisse deiner Zielgruppe ausgerichtet sind. Deine Aufgabe ist es, diesen Rahmen passend zu deinem Produkt und deiner Zielgruppe mit Leben zu füllen.
 
-Erfahre auch, welche [Daten du für die Segmentierung benötigst](/daten-fuer-die-segmentrierung/).
+Erfahre auch, welche [Daten du für die Segmentierung benötigst](/segmentierung-vorgehen-und-vorteile/).

@@ -38,7 +38,7 @@ OKRs bringen Klarheit und Transparenz in deine Ziele und deren Umsetzung. Sie f�
 
 ## OKRs im Vergleich zu anderen Frameworks
 
-OKRs unterscheiden sich von anderen Zielmanagementmethoden wie [SMART-Zielen](/smart-ziele-und-okrs/) oder [Balanced Scorecards](/okrs-vs-balanced-scorecard/) durch ihren Fokus auf messbare Schlüsselergebnisse und ihre Flexibilität.
+OKRs unterscheiden sich von anderen Zielmanagementmethoden wie [SMART-Zielen](/die-fuenf-kriterien-von-smart-zielen/) oder [Balanced Scorecards](/okrs-vs-balanced-scorecard/) durch ihren Fokus auf messbare Schlüsselergebnisse und ihre Flexibilität.
 
 ## Wie schreibt man gute OKRs?
 

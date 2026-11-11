@@ -1,42 +1,102 @@
 ---
-title: "Wie Du die richtigen Priorisierungs-Frameworks für Dein Marketing auswählst"
-seoTitle: "Priorisierungs-Frameworks im Marketing auswählen"
+title: "Priorisierungs-Frameworks im Marketing: ICE, RICE, PXL, MoSCoW und GIST im Vergleich"
+seoTitle: "Priorisierungs-Frameworks: ICE, RICE, PXL, MoSCoW, GIST"
 slug: "wie-du-die-richtigen-priorisierungs-frameworks-fuer-dein-marketing-auswaehlst"
 date: 2023-09-18T14:55:15
-updated: 2023-09-18T14:57:40
-description: "Ich möchte dir einige wichtige Priorisierungs-Frameworks vorstellen, die helfen können, deine Marketinginitiativen effektiver zu gestalten."
+updated: 2026-11-11T18:00:00
+description: "ICE, RICE, PIE, PXL, MoSCoW, Eisenhower und GIST im Vergleich: Welche Frage jedes Framework beantwortet, wie es rechnet und wann du es nutzt."
 image: "/wp-content/uploads/2023/09/berries-1546125_6401.jpg"
 category: "arbeitsweisen"
 vgwort: "https://vg05.met.vgwort.de/na/e173370931f845b8844bf8d8328abf06"
+tags:
+  - "Priorisierung"
+  - "Growth Marketing"
+  - "Produktmanagement"
+  - "Frameworks"
 wpId: 5393
 ---
 
-Heute möchte ich dir einige wichtige Priorisierungs-Frameworks vorstellen, die dir helfen können, deine Marketing- und Wachstumsinitiativen effektiver zu gestalten. Steigen wir gleich ein!
+An Ideen mangelt es im Marketing selten. Knapp sind Zeit, Budget und Leute. Ein Priorisierungs-Framework hilft dir, aus einer langen Liste die Vorhaben herauszufiltern, die den größten Beitrag zu deinem Ziel leisten. Es ersetzt kein Urteil, aber es zwingt dich und dein Team, die Gründe für eine Entscheidung offenzulegen.
 
-## Was ist ein Priorisierungs-Framework?
+In diesem Überblick findest du die bekanntesten Frameworks, ihre Herkunft, ihre Rechenlogik und einen Vorschlag, wann du welches einsetzt. Zu den meisten gibt es hier im Blog einen eigenen Artikel mit mehr Tiefe.
 
-Ein Priorisierungs-Framework hilft Produktteams, Wachstumsteams und Marketingteams dabei, hochwirksame Projekte zu priorisieren. Diese Frameworks berücksichtigen verschiedene Faktoren und generieren eine Punktzahl, die zur Bewertung der Prioritäten verwendet werden kann. Das Hauptziel besteht darin, die 10% der Ideen zu finden, die 90% des Wachstums generieren.
+## Erst die Frage klären, dann das Framework wählen
 
-## Warum ein Priorisierungs-Framework verwenden?
+Die Frameworks lösen unterschiedliche Probleme. Wer ein Tool für Testideen nimmt, um den Umfang eines Projekts festzulegen, bekommt schiefe Ergebnisse. Deshalb lohnt sich zuerst die Frage, was du eigentlich entscheiden willst:
 
-An Marketingideen mangelt es nie. Das Problem ist, dass die meisten Marketingideen nicht zu messbaren Geschäftsergebnissen führen. Deshalb verwenden Wachstumsteams Frameworks, um ihre Arbeit besser zu priorisieren.
+- **Welche Idee zuerst?** Hier helfen Scoring-Modelle wie ICE und RICE.
+- **Welcher Test zuerst?** Dafür wurden PIE und PXL entwickelt.
+- **Was muss in den Umfang?** Das beantwortet MoSCoW.
+- **Was mache ich heute?** Das ist die Ebene der Eisenhower-Matrix und von Rocks, Pebbles und Sand.
+- **Wie hängen Ziele, Ideen und Aufgaben zusammen?** Dafür gibt es GIST.
 
-## Die Priorisierungsmatrix
+![Übersicht der Priorisierungs-Frameworks nach Fragestellung: ICE und RICE für Ideen, PIE und PXL für Tests, MoSCoW für den Umfang, Eisenhower und Rocks Pebbles Sand für Aufgaben, GIST für die Planung](/wp-content/uploads/2026/11/priorisierungs-frameworks-vergleich.jpg)
 
-Es gibt verschiedene Arten von Arbeit, die in Kategorien wie "hoher Aufwand, hohe Wirkung" oder "geringer Aufwand, geringe Wirkung" eingeteilt werden können. Eine strikte Priorisierung hilft, die Falle von Arbeiten mit geringem Aufwand und geringem Einfluss zu vermeiden.
+## Die Frameworks im Vergleich
 
-## Die wichtigsten Bewertungsrahmen
+| Framework | Herkunft | Kriterien | Bewertung | Gut für |
+|---|---|---|---|---|
+| ICE | Sean Ellis, Growth-Szene | Impact, Confidence, Ease | je 1 bis 10, kombiniert zu einem Score | schnelle Bewertung vieler Wachstumsideen |
+| RICE | Intercom | Reach, Impact, Confidence, Effort | (Reach × Impact × Confidence) ÷ Effort | Produkt- und Marketingvorhaben mit messbarer Reichweite |
+| PIE | Chris Goward | Potential, Importance, Ease | Punktwert je Seite oder Bereich | Auswahl der Seiten für A/B-Tests |
+| PXL | Peep Laja, CXL (2016) | Ja/Nein-Fragen zu Evidenz, Sichtbarkeit, Aufwand | Summe aus 0/1-Werten, einzelne Kriterien gewichtet | Test-Backlogs in der Conversion-Optimierung |
+| MoSCoW | Dai Clegg, Oracle UK (1994) | Must, Should, Could, Won't have | Einordnung in vier Klassen | Umfang eines Projekts oder Releases |
+| Eisenhower | benannt nach Dwight D. Eisenhower | dringend, wichtig | Vier-Felder-Matrix | persönliche Aufgaben und Tagesplanung |
+| GIST | Itamar Gilad | Goals, Ideas, Step-projects, Tasks | Planungssystem mit Evidenz-Bewertung | Verbindung von Zielen und Umsetzung |
 
-Für die Bewertung und Priorisierung von Marketingressourcen gibt es verschiedene Frameworks. Einige der bekanntesten sind
+### ICE: schnell und grob
 
-1. [**ICE-Framework**](/priorisieren-mit-der-ice-bewertungsmethode/): Dieses Framework bewertet Ideen auf der Grundlage ihres erwarteten Einflusses, der Sicherheit ihrer Hypothese und des erforderlichen Aufwands.
-2. [**PIE Framework**](/so-formulierst-du-ideen-mit-dem-pie-framework/): Ursprünglich für AB-Tests entwickelt, bewertet dieses Framework Ideen auf der Grundlage ihres Potenzials, ihrer Wichtigkeit und ihrer Umsetzbarkeit.
-3. [**BRASS-Methode**](/brass-modell-fuer-dein-erfolgreiches-marketing/): Diese Methode wurde entwickelt, um die Frage zu beantworten: "Was sollten wir tun, um Benutzer auf unsere Website zu bringen?
-4. [**RICE Score**](/die-vier-faktoren-von-rice-scoring/): Dieses Framework fügt dem traditionellen ICE Framework einen "Reach"-Faktor hinzu.
-5. [**HIPE Framework**](/wie-hipe-hilft-ressourcen-optimal-zu-nutzen/): Dieses Framework verfolgt einen objektiveren Ansatz und berücksichtigt Faktoren wie Hypothese, Investition, Präzedenzfall und Erfahrung.
+[ICE](/priorisieren-mit-der-ice-bewertungsmethode/) steht für Impact, Confidence und Ease. Du schätzt für jede Idee die erwartete Wirkung, deine Sicherheit in dieser Schätzung und den Aufwand, jeweils auf einer Skala von 1 bis 10. Das Modell geht auf Sean Ellis zurück und wurde unter anderem durch ihn und Morgan Brown bekannt gemacht. Manche Teams multiplizieren die drei Werte, andere addieren oder mitteln sie. Wichtig ist nur, dass alle im Team gleich rechnen.
 
-## Abschließende Überlegungen
+### RICE: mit Reichweite und Aufwand in Personenmonaten
 
-Das Wichtigste ist, sich für ein Framework zu entscheiden und es im Team anzuwenden. Kreativität in Kombination mit schneller Iteration sind die Schlüssel zum Nutzerwachstum. Wenn man viele Ideen brainstormt und auf Quantität statt auf Qualität setzt, wird man viele Ideen haben, die man hinsichtlich ihres Einflusses im Verhältnis zu den Kosten bewerten kann.
+[RICE](/die-vier-faktoren-von-rice-scoring/) hat das Softwareunternehmen Intercom für die eigene Priorisierung entwickelt. Es ergänzt die Reichweite, also wie viele Personen in einem Zeitraum betroffen sind. Impact wird in festen Stufen bewertet (3, 2, 1, 0,5, 0,25), Confidence in Prozent (100, 80, 50) und der Aufwand in Personenmonaten. Der Score ergibt sich aus Reach mal Impact mal Confidence geteilt durch Effort. Die festen Stufen machen Bewertungen vergleichbarer als bei ICE.
 
-Inspiriert hat mich der [Artikel](https://growthmethod.com/prioritisation-frameworks/) auf Growthmethod.
+### PIE und PXL: für Experimente
+
+[PIE](/so-formulierst-du-ideen-mit-dem-pie-framework/) von Chris Goward bewertet, wo ein Test am meisten bringt: Potential (wie viel Luft nach oben eine Seite hat), Importance (wie wertvoll ihr Traffic ist) und Ease (wie leicht der Test umzusetzen ist).
+
+[PXL](/priorisieren-mit-dem-pxl-framework/) hat Peep Laja 2016 bei CXL vorgestellt. Seine Kritik an PIE und ICE: Begriffe wie Potenzial oder Impact lassen zu viel Raum für Bauchgefühl. PXL ersetzt sie deshalb durch Ja/Nein-Fragen. Liegt die Änderung im sichtbaren Bereich ohne Scrollen? Stützt sie sich auf Nutzertests, Heatmaps oder Analytics? Läuft der Test auf einer Seite mit viel Traffic? Einzelne Kriterien zählen doppelt, der Aufwand wird nach Umsetzungszeit gestaffelt.
+
+### MoSCoW: Umfang statt Reihenfolge
+
+Die [MoSCoW-Methode](/die-moscow-methode-zur-effizienten-priorisierung-im-marketing/) stammt von Dai Clegg, der sie 1994 bei Oracle UK entwickelte. Bekannt wurde sie durch die Methode DSDM (Dynamic Systems Development Method). Sie sortiert Anforderungen in Must have, Should have, Could have und Won't have (this time). Damit beantwortet sie nicht, was zuerst kommt, sondern was überhaupt dabei sein muss. Für eine Kampagne mit festem Starttermin ist das oft die wichtigere Frage.
+
+### Eisenhower-Matrix und Rocks, Pebbles, Sand: für den Alltag
+
+Die [Eisenhower-Matrix](/priorisieren-wie-ein-praesident-ein-leitfaden-zur-eisenhower-matrix/) trennt Dringlichkeit und Wichtigkeit und ergibt vier Felder: sofort erledigen, einplanen, delegieren, streichen. Das Bild von [Rocks, Pebbles und Sand](/rocks-pebbles-und-sand-so-priorisierst-du-deine-marketing-aktivitaeten-effektiv/) sagt etwas Ähnliches mit anderen Worten: Wer zuerst die großen Brocken einplant, bekommt sie unter. Wer mit Kleinkram anfängt, hat am Ende keinen Platz mehr für das Wichtige.
+
+### GIST: Planung über mehrere Ebenen
+
+GIST stammt von Itamar Gilad, der das System nach eigener Aussage bei Google zu nutzen begann. Er versteht es ausdrücklich nicht als neue Erfindung, sondern als Zusammenführung bewährter Methoden und als Alternative zu starren Roadmaps. Die vier Ebenen:
+
+1. **Goals**: die angestrebten Ergebnisse, meist für ein Jahr oder länger, mit vierteljährlicher Überprüfung. Wer mit [OKRs](/okrs-strategie-zum-leben-erwecken/) arbeitet, kann die Ziele dort festhalten.
+2. **Ideas**: mögliche Wege zum Ziel. Gilad empfiehlt, sie anhand von Evidenz zu priorisieren, und nennt dafür ausdrücklich ICE.
+3. **Step-projects**: kurze Vorhaben von höchstens zehn Wochen, mit denen eine Idee getestet oder schrittweise umgesetzt wird.
+4. **Tasks**: die konkreten Aufgaben, geplant in Iterationen von ein bis zwei Wochen.
+
+GIST ist damit kein Scoring-Modell, sondern ein Rahmen, in dem ICE oder RICE einen festen Platz haben.
+
+### Weitere Modelle
+
+Daneben gibt es Varianten mit eigenem Schwerpunkt, etwa das [BRASS-Modell](/brass-modell-fuer-dein-erfolgreiches-marketing/) oder das [HIPE-Framework](/wie-hipe-hilft-ressourcen-optimal-zu-nutzen/). Sie folgen dem gleichen Grundgedanken: Wirkung und Aufwand ehrlich gegeneinander abwägen.
+
+## So führst du ein Framework im Team ein
+
+1. **Ziel festlegen**: Ohne ein klares Ziel kann niemand Impact bewerten. Schreibe es über den Backlog.
+2. **Ein Framework wählen und dabei bleiben**: Wechselst du jeden Monat, sind die Scores nicht vergleichbar.
+3. **Skalen definieren**: Lege fest, was eine 3 und was eine 8 bedeutet. Ein Beispiel: Impact 8 heißt bei einem Onlineshop „mehr als 2 Prozent zusätzlicher Umsatz im Quartal“.
+4. **Gemeinsam bewerten**: Lass mehrere Personen unabhängig schätzen und sprich über große Abweichungen. Dort steckt das eigentliche Wissen.
+5. **Nachkalibrieren**: Vergleiche nach einigen Wochen die geschätzte mit der tatsächlichen Wirkung und passe deine Maßstäbe an.
+
+## Was ich davon halte
+
+Die Frameworks wirken objektiver, als sie sind. Hinter jeder Zahl steckt eine Schätzung, und Teams neigen dazu, die eigenen Lieblingsideen hochzurechnen. Genau diese Kritik hat Peep Laja mit PXL aufgegriffen. Ein Score ist deshalb ein Gesprächsanlass, kein Urteil.
+
+Für die meisten Marketingteams reicht ein einfaches Modell. Ich würde mit ICE starten, weil es in fünf Minuten erklärt ist. Wer regelmäßig Vorhaben mit sehr unterschiedlicher Reichweite vergleicht, wechselt zu RICE. Für Conversion-Tests ist PXL die ehrlichere Wahl. MoSCoW passt, sobald ein Termin feststeht und es um den Umfang geht.
+
+Lass die Finger von Frameworks, wenn die Entscheidung eigentlich strategisch ist. Ob du einen neuen Markt erschließt, beantwortet kein ICE-Score. Und wenn der Backlog nur aus fünf Ideen besteht, ist ein gutes Gespräch schneller als jede Tabelle.
+
+Mehr zu Zielen, Prioritäten und Arbeitsorganisation findest du im Handbuch-Kapitel [Arbeitsweisen und Produktivität](/thema/produktivitaet/).
+
+*Quellen: [Itamar Gilad: GIST Framework](https://itamargilad.com/gist-framework/), [CXL: PXL, a better way to prioritize your A/B tests](https://cxl.com/blog/better-way-prioritize-ab-tests/), [ProductPlan: RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model), [Project Smart: MoSCoW Method](https://www.projectsmart.co.uk/tools/moscow-method.php)*

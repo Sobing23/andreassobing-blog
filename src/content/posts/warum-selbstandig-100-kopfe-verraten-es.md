@@ -31,4 +31,4 @@ Agenturregister
 
 Durch die freiwillige Selbständigkeit entscheidet sich jemand bewusst für die Selbstständigkeit aufgrund persönlicher Ziele (Gründung, Firmengründung). Wenn eine Person gesetzlicher Erbe sein muss, beispielsweise ein Erbe, kann sich das Familienunternehmen unfreiwillig selbstständig machen. In Deutschland gilt jedoch die Rechtsordnung der Nachlassverwaltung, die auch von Amts wegen angeordnet werden kann. Der Weg in die Selbstständigkeit zur Bewältigung von Beschäftigungsproblemen auf dem Arbeitsmarkt (versteckte Arbeitslosigkeit) ist auch für Ausländer unfreiwillig.
 
-Kennst du bereits das Tool [Deepl Write](/deepl-write-dein-neuer-partner-fuer-effektives-content-erstellung/) um deine Texte umzuschreiben?
+Kennst du bereits das Tool [Deepl Write](/deepl-write-das-beste-kostenlose-tool-zum-umformulieren-und-verbessern-deiner-texte/) um deine Texte umzuschreiben?

@@ -3,6 +3,7 @@ title: "OKRs bringen die Strategie zum Leben: In sechs Schritten von der Strateg
 seoTitle: "Strategie mit OKRs umsetzen: Sechs Schritte"
 slug: "okrs-strategie-zum-leben-erwecken"
 date: 2026-10-10T11:00:00
+updated: 2026-11-11T18:00:00
 description: "OKRs ersetzen keine Strategie, sie machen sie umsetzbar. Wie du prüfst, ob deine Strategie tragfähig ist, und sie in sechs Schritten in OKRs übersetzt."
 image: "/wp-content/uploads/2026/10/okr-strategie.jpg"
 category: "strategie"
@@ -55,9 +56,21 @@ Die Antwort auf die Frage „Wie gewinnen wir?“ verändert sich laufend. Desha
 
 ## Der wichtigste Unterschied zur klassischen Strategieplanung
 
-Die sechs Schritte bilden einen Kreislauf, in dem Strategie und OKRs sich gegenseitig anpassen. Ein Punkt fällt dabei besonders auf: In den meisten Strategieprozessen sagt die Führung den Teams, was sie tun sollen. Hier ist es umgekehrt. Die Führung fragt die Teams, welchen Beitrag sie leisten können, und unterstützt sie dabei, den Weg selbst zu finden.
+Die sechs Schritte bilden einen Kreislauf, in dem Strategie und OKRs sich gegenseitig anpassen. Ein Punkt fällt dabei besonders auf: In den meisten Strategieprozessen sagt die Führung den Teams, was sie tun sollen. Hier ist es umgekehrt. Die Führung fragt die Teams, welche Ergebnisse sie liefern müssen, um die Strategie zu stützen, und unterstützt sie dabei, den Weg selbst zu finden.
 
 OKRs ersetzen dabei keine saubere Analyse und keine Entscheidungen. Aber eine Strategie, die als OKRs formuliert ist, wird schneller umgesetzt und liefert viel mehr Rückmeldung darüber, ob sie trägt.
+
+## Strategie ist eine Hypothese
+
+Der Autor und Berater Jeff Gothelf bringt das Verhältnis auf eine kurze Formel: OKRs sind Teil der Strategie, aber sie bestimmen sie nicht. Die Strategie ist Aufgabe der Geschäftsleitung. Sie legt fest, worauf sich das Unternehmen konzentriert, gibt aber keinen Plan und keine Taktik vor. Die Teams schreiben ihre OKRs so, dass sie dieser Strategie dienen.
+
+Daraus folgen drei praktische Regeln:
+
+- **Jedes OKR muss die Strategie erkennbar stützen.** Ein OKR, bei dem dieser Bezug fehlt, gehört mindestens hinterfragt.
+- **Die Key Results der Strategie selbst sind Wirkungskennzahlen.** Auf oberster Ebene zählen Ergebnisse für das Geschäft, keine kleinteiligen Messgrößen einzelner Maßnahmen.
+- **Die Führung muss bereit sein, ihre Meinung zu ändern.** Gothelf greift einen Gedanken von Kaplan und Norton auf: Eine Strategie ist eine Reihe von Annahmen über Ursache und Wirkung, also eine [strategische Hypothese](/glossar/#strategische-hypothese). Liefern die Teams Ergebnisse, die diesen Annahmen widersprechen, ist das kein Versagen der Teams. Es ist ein Hinweis, dass die Strategie angepasst werden muss. Je früher das sichtbar wird, desto weniger Zeit fließt in die falsche Richtung.
+
+Hier liegt für mich der größte Wert von OKRs: Sie machen aus einer Strategie eine überprüfbare Wette.
 
 ## Mein Fazit
 
@@ -65,4 +78,4 @@ Martins Warnung trifft einen wunden Punkt. Viele OKR-Workshops starten mit der F
 
 Die Reihenfolge ist deshalb entscheidend: erst die Strategie klären, dann OKRs ableiten, dann jedes Quartal aus den Ergebnissen lernen. Wie die einzelnen Ebenen von der Vision bis zu den Zielen der Teams zusammenhängen, beschreibe ich im Artikel zum [Connected Strategic Implementation Stack](/der-connected-strategic-stack/). Ob euer OKR-Programm wirkt, prüfst du mit den [fünf Fragen für Führungskräfte](/okr-programm-fuenf-fragen/). Wie ein Team Strategie und OKRs in einem Nachmittag gemeinsam erarbeitet, zeigt der [Lean Strategy Canvas](/lean-strategy-canvas/). Alle Artikel zum Thema findest du im Handbuch-Kapitel [OKR](/thema/okr/).
 
-*Quelle: [Daniel Montgomery: Breathing life into strategy with OKRs (Agile Strategies)](https://agile-strategies.com/breathing-life-into-strategy-with-okrs/)*
+*Quellen: [Daniel Montgomery: Breathing life into strategy with OKRs (Agile Strategies)](https://agile-strategies.com/breathing-life-into-strategy-with-okrs/), [Jeff Gothelf: The relationship between OKRs and strategy](https://jeffgothelf.com/blog/the-relationship-between-okrs-and-strategy/)*

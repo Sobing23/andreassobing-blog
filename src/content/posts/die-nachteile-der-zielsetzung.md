@@ -71,4 +71,4 @@ Das Dokument schließt mit einem Aufruf zu einer differenzierteren Betrachtung d
 
 Die Autoren betonen, dass das Setzen von Zielen nicht universell und unbedacht angewendet werden sollte, sondern ein differenzierter Ansatz notwendig ist, der die potenziell schädlichen Nebenwirkungen berücksichtigt. Sie fordern weitere Forschung zu den negativen Konsequenzen der Zielsetzung und plädieren für eine kritischere und weniger selbstgefällige Betrachtung der Zielsetzungspraxis in der Managementforschung und -praxis.
 
-Sieh dir auch folgenden Beitrag von mir an: [Die Kunst der Priorisierung im Produktmanagement: ICE und GIST](/die-kunst-der-priorisierung-im-produktmanagement-ice-und-gist/)
+Sieh dir auch folgenden Beitrag von mir an: [Die Kunst der Priorisierung im Produktmanagement: ICE und GIST](/wie-du-die-richtigen-priorisierungs-frameworks-fuer-dein-marketing-auswaehlst/)

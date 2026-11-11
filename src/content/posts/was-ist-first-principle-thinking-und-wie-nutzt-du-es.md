@@ -93,7 +93,7 @@ Trainiere deine Denkweise mit diesen Übungen:
 | **Praktische Anwendung** | Hinterfragen, Zerlegen, Neu denken, Testen |
 
  
-Sieh dir auch diesne Beitrag von mir an: [Die Kunst der Priorisierung im Produktmanagement: ICE und GIST](/die-kunst-der-priorisierung-im-produktmanagement-ice-und-gist/)
+Sieh dir auch diesne Beitrag von mir an: [Die Kunst der Priorisierung im Produktmanagement: ICE und GIST](/wie-du-die-richtigen-priorisierungs-frameworks-fuer-dein-marketing-auswaehlst/)
 
 ## Quellenangaben:
 

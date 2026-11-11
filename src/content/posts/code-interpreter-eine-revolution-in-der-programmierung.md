@@ -34,7 +34,7 @@ Darüber hinaus kann er auch dazu beitragen, die Produktivität zu steigern. Du 
 
 Der Code Interpreter von OpenAI ist ein revolutionäres Tool, das die Art und Weise, wie wir programmieren, verändert. Es macht das Programmieren zugänglicher und einfacher und kann dazu beitragen, die Produktivität zu steigern. Wenn du also nach einer einfacheren und effizienteren Möglichkeit suchst, Code zu schreiben, solltest du den Code Interpreter von OpenAI ausprobieren.
 
-Lerne auch die [Grundlagen und die Nutzung von ChatGPT](/dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht/).
+Lerne auch die [Grundlagen und die Nutzung von ChatGPT](/was-ist-chatgpt/).
 
 ## Aktualisierung Oktober 2026
 

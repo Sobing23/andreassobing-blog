@@ -73,4 +73,4 @@ Man muss sich nicht für ein System entscheiden. Die Kombination von OKRs und BS
 
 OKRs und BSC können wertvolle Werkzeuge sein, um Deinen strategischen Weg zu gestalten und umzusetzen. Die Wahl hängt von den Bedürfnissen Deiner Organisation ab. Die wahre Stärke liegt jedoch in der Kombination beider Ansätze. Mit OKR-Software kannst Du die Integration der beiden Frameworks weiter vereinfachen und für Deine Organisation nahtlos gestalten.
 
-Weitere Informationen zum Thema OKRs oder Balanced Scorecard findest du bei [Quantive](https://quantive.com/resources/articles/okr-vs-balanced-scorecard). Sieh dir auch meinen Blogbeitrag zu [SMART Ziele und OKRs](/smart-ziele-und-okrs/) an.
+Weitere Informationen zum Thema OKRs oder Balanced Scorecard findest du bei [Quantive](https://quantive.com/resources/articles/okr-vs-balanced-scorecard). Sieh dir auch meinen Blogbeitrag zu [SMART Ziele und OKRs](/die-fuenf-kriterien-von-smart-zielen/) an.

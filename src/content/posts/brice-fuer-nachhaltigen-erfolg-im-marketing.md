@@ -49,4 +49,4 @@ Der Markenertrag ist der Gesamtgewinn, der durch diese Anstrengungen erzielt wir
 
 BRICE ist mehr als nur eine weitere Marketingabkürzung. Es ist ein leistungsstarkes Instrument. Es hilft dir, den wahren Wert deiner Marketinganstrengungen zu erkennen. Indem du das Engagement deiner Kunden in den Mittelpunkt stellst und BRICE regelmäßig überprüfst, kannst du sicherstellen, dass du den bestmöglichen ROI aus deinen Marketinginvestitionen erzielst.
 
-Kennst du bereits das [Pareto Prinzip](/wie-das-pareto-prinzip-dein-marketing-veraendert/) und was die 80/20 Regel bedeutet?
+Kennst du bereits das [Pareto Prinzip](/das-pareto-prinzip-in-der-kundensegmentierung-anwenden/) und was die 80/20 Regel bedeutet?

@@ -28,7 +28,7 @@ Zum Schluss möchte ich noch eine besonders lustige Rolle von GPT-4 hervorheben:
 
 Das waren nur einige der vielen Rollen, die GPT-4 übernehmen kann. Die Möglichkeiten sind nahezu endlos und es ist faszinierend zu sehen, wie vielseitig KI sein kann. Ich hoffe, dieser Beitrag hat dir einen Einblick in die faszinierende Welt der KI gegeben und dich dazu inspiriert, mehr über die Möglichkeiten zu erfahren, die sie bietet.
 
-In einem weiteren Artikel möchte ich dir zeigen, wie einfach der [Einstieg und die Nutzung von ChatGPT4](/dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht/) ist.
+In einem weiteren Artikel möchte ich dir zeigen, wie einfach der [Einstieg und die Nutzung von ChatGPT4](/was-ist-chatgpt/) ist.
 
 ## Aktualisierung Oktober 2026
 

@@ -85,4 +85,4 @@ Es gibt zahlreiche Werkzeuge für die Datenanalyse, von einfachen Tabellenkalkul
 
 Die Analyse und Interpretation von Daten ist ein essenzieller Prozess, um fundierte Entscheidungen zu treffen. Ob im Business, in der Forschung oder im Marketing – wer Daten richtig analysiert und interpretiert, gewinnt wertvolle Einsichten und Wettbewerbsvorteile.
 
-Vielleicht interessiert dich auch dieser Beitrag: [Welche Daten für die Segmentrierung hast du?](/daten-fuer-die-segmentrierung/)
+Vielleicht interessiert dich auch dieser Beitrag: [Welche Daten für die Segmentrierung hast du?](/segmentierung-vorgehen-und-vorteile/)

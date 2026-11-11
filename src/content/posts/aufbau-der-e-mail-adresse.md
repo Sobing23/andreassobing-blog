@@ -30,7 +30,7 @@ Neben der E-Mail Adresse ist auch der [Aufbau des Newsletters](/wie-sieht-der-au
 
 Aber es gibt auch noch einen weiteren Aufbau. Nämlich den [Aufbau des Verteilers.](/der-richtige-aufbau-des-verteilers-fuer-deine-newsletter/) Auch hier gilt  es einige Merkmale zu beachten. Dein Verteiler entscheidet schließlich über die Reichweite und durch die Segmentierung über den Erfolg deiner Kampagnen.
 
-Aber wie kannst du deinen Verteiler weiter ausbauen? Hier gibt es auf jeden Fall die Möglichkeit des [Verteileraufbaus](/verteilerliste-auf-der-webseite-aufbauen/) auf deiner Webseite. Du kannst dadurch Adressen und Daten für deinen Verteiler direkt auf der Webseite zu sammeln, z.B. durch das Anmeldeformular für den Newsletter. Du kannst die Anmeldemöglichkeiten auch auf verschiedenen Seiten einbetten.
+Aber wie kannst du deinen Verteiler weiter ausbauen? Hier gibt es auf jeden Fall die Möglichkeit des [Verteileraufbaus](/der-richtige-aufbau-des-verteilers-fuer-deine-newsletter/) auf deiner Webseite. Du kannst dadurch Adressen und Daten für deinen Verteiler direkt auf der Webseite zu sammeln, z.B. durch das Anmeldeformular für den Newsletter. Du kannst die Anmeldemöglichkeiten auch auf verschiedenen Seiten einbetten.
 
 ## Ergänzung Oktober 2026
 

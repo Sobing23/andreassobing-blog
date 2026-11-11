@@ -24,7 +24,7 @@ Tool Tipp: <https://www.dialog-mail.com/know-how/kostenlose-tools/anrede-check.p
 
 Es gibt auch die Möglichkeit anhand der Vornamen das ungefähre Alter zu bestimmen. Allerdings würde ich hiervon mittlerweile abraten, da wieder viele alte Namen hoch im Kurs sind.
 
-Lerne ebenfalls  welche [Daten du für eine Segmentierung](/daten-fuer-die-segmentrierung/) benötigst. Die Segmentierung ist wichtig für dich, um relevante E-Mails an die richtigen  Empfänger zu senden.  Hierbei gibt es die verschiedensten Segmente, welche du an Merkmalen wie Kaufhistorie, Alter, Geschlecht oder auch Umfrageteilnahmen fest machen.
+Lerne ebenfalls  welche [Daten du für eine Segmentierung](/segmentierung-vorgehen-und-vorteile/) benötigst. Die Segmentierung ist wichtig für dich, um relevante E-Mails an die richtigen  Empfänger zu senden.  Hierbei gibt es die verschiedensten Segmente, welche du an Merkmalen wie Kaufhistorie, Alter, Geschlecht oder auch Umfrageteilnahmen fest machen.
 
 ## Ergänzung Oktober 2026
 

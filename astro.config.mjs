@@ -13,6 +13,17 @@ const redirects = {
   '/cookie-richtlinie-eu': '/datenschutz/',
   '/author/sobing': '/',
   '/category/unkategorisiert': '/archiv/',
+  // Runde 2 Zusammenführung (November 2026)
+  '/nachteile-der-okr-methode': '/vorteile-von-okr/',
+  '/smart-ziele-und-okrs': '/die-fuenf-kriterien-von-smart-zielen/',
+  '/okrs-und-strategie-eine-symbiotische-beziehung': '/okrs-strategie-zum-leben-erwecken/',
+  '/verteilerliste-auf-der-webseite-aufbauen': '/der-richtige-aufbau-des-verteilers-fuer-deine-newsletter/',
+  '/warenkorbabbruch-mit-simplen-mails-senken': '/warenkorbabbruch-verhindern-und-conversions-steigern/',
+  '/die-kunst-der-priorisierung-im-produktmanagement-ice-und-gist': '/wie-du-die-richtigen-priorisierungs-frameworks-fuer-dein-marketing-auswaehlst/',
+  '/wie-das-pareto-prinzip-dein-marketing-veraendert': '/das-pareto-prinzip-in-der-kundensegmentierung-anwenden/',
+  '/daten-fuer-die-segmentrierung': '/segmentierung-vorgehen-und-vorteile/',
+  '/deepl-write-dein-neuer-partner-fuer-effektives-content-erstellung': '/deepl-write-das-beste-kostenlose-tool-zum-umformulieren-und-verbessern-deiner-texte/',
+  '/dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht': '/was-ist-chatgpt/',
   // Runde 1 Zusammenführung (Oktober 2026)
   '/die-4ps-fuer-deinen-marketing-mix': '/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/',
   '/4ps-marketing-beispiele': '/die-4ps-des-marketings-ein-umfassender-leitfaden-fuer-einsteiger/',

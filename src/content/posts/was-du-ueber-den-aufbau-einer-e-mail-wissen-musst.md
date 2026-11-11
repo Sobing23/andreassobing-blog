@@ -43,4 +43,4 @@ Dadurch wird die Darstellung und Formatierung nicht komplett dargestellt. Daher 
 
 ### Artikelempfehlung
 
-Erfahre wie du einen [Verteiler für deinen Newsletter](/verteilerliste-auf-der-webseite-aufbauen/) aufbaust
+Erfahre wie du einen [Verteiler für deinen Newsletter](/der-richtige-aufbau-des-verteilers-fuer-deine-newsletter/) aufbaust

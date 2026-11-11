@@ -35,4 +35,4 @@ Eine gute E-Commerce Roadmap habe ich zum kostenlosen Download auf dem Blog Webm
 
 Unter einem Produkt wird in der Betriebswirtschaftslehre ein materielles Gut oder eine (immaterielle) Dienstleistung verstanden, die das Fazit eines Produktionsprozesses ist.
 
-Finde heraus wie du [mit simplen Mails den Warenkorbabbruch senken](/warenkorbabbruch-mit-simplen-mails-senken/) kannst.
+Finde heraus wie du [mit simplen Mails den Warenkorbabbruch senken](/warenkorbabbruch-verhindern-und-conversions-steigern/) kannst.

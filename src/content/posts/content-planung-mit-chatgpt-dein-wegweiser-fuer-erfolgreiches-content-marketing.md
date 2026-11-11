@@ -47,4 +47,4 @@ Mit einem gut durchdachten Content-Plan und der Unterstützung von ChatGPT kanns
 
 Jetzt bist du dran. Nutze die Vorlage, spiele mit den Ideen und passe sie an dein Produkt an. Und vergiss nicht, ChatGPT kann mehr als nur planen – es kann auch Inhalte erstellen. Also, worauf wartest du? Tauche ein in die Welt des Content-Marketings und lass dein Vitaminwasser in der Gaming-Welt glänzen!
 
-Sieh dir auch meinen Beitrag zum [Einstieg bei ChatGPT](/dein-einstieg-in-chatgpt-anmeldung-und-nutzung-leicht-gemacht/) an.
+Sieh dir auch meinen Beitrag zum [Einstieg bei ChatGPT](/was-ist-chatgpt/) an.
