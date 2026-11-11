@@ -1,5 +1,6 @@
 ---
 title: "Die unsichtbaren Fäden im Kopf: Warum dein Gehirn längst gekauft hat, bevor du „Warenkorb“ klickst"
+seoTitle: "Neuromarketing: Warum dein Gehirn längst gekauft hat"
 slug: "die-unsichtbaren-faeden-im-kopf-warum-dein-gehirn-laengst-gekauft-hat-bevor-du-warenkorb-klickst"
 date: 2026-02-18T14:01:47
 description: "Die unsichtbaren Fäden im Kopf: Warum dein Gehirn längst gekauft hat, bevor du den Button „Warenkorb“ klickst."

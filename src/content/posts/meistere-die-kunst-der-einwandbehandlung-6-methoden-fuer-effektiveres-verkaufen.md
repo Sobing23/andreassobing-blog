@@ -1,5 +1,6 @@
 ---
 title: "Meistere die Kunst der Einwandbehandlung: 6 Methoden für effektiveres Verkaufen"
+seoTitle: "Einwandbehandlung: 6 Methoden für den Verkauf"
 slug: "meistere-die-kunst-der-einwandbehandlung-6-methoden-fuer-effektiveres-verkaufen"
 date: 2023-12-27T12:32:04
 description: "Die Einwandbehandlung ist eine wesentliche Fertigkeit im Verkauf und in diesem Artikel erfährst du, wie du sie meistern kannst."

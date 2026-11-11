@@ -1,6 +1,6 @@
 ---
 title: "Produktstrategie in 12 Übungen: Das Vorgehen von Gibson Biddle"
-seoTitle: "Produktstrategie entwickeln: 12 Übungen nach Gibson Biddle mit DHM, Proxy-Kennzahlen und GLEe"
+seoTitle: "Produktstrategie: 12 Übungen nach Gibson Biddle"
 slug: "produktstrategie-in-12-uebungen-gibson-biddle"
 date: 2026-10-26T10:00:00
 description: "Gibson Biddle, früher Produktchef bei Netflix, hat sein Vorgehen zur Produktstrategie in 12 Übungen gepackt: vom DHM-Modell über Proxy-Kennzahlen bis zur Roadmap."

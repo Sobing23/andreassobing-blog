@@ -1,5 +1,6 @@
 ---
 title: "5 brutale Geld-Wahrheiten, die alles verändern, was du über Reichtum zu wissen glaubst"
+seoTitle: "5 brutale Geld-Wahrheiten über Reichtum"
 slug: "5-brutale-geld-wahrheiten-die-alles-veraendern-was-du-ueber-reichtum-zu-wissen-glaubst"
 date: 2025-10-10T11:30:41
 updated: 2025-10-10T11:31:31

@@ -1,5 +1,6 @@
 ---
 title: "Fakten statt Bauchgefühl: Eine Einführung ins Evidence-Based Management"
+seoTitle: "Evidence-Based Management: Fakten statt Bauchgefühl"
 slug: "evidence-based-management"
 date: 2023-08-31T22:41:19
 updated: 2023-08-31T22:47:30

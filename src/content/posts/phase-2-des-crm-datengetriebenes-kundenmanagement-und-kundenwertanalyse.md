@@ -1,5 +1,6 @@
 ---
 title: "Phase 2 des CRM: Datengetriebenes Kundenmanagement und Kundenwertanalyse"
+seoTitle: "CRM Phase 2: Kundenwertanalyse und Datennutzung"
 slug: "phase-2-des-crm-datengetriebenes-kundenmanagement-und-kundenwertanalyse"
 date: 2025-08-11T10:12:52
 updated: 2025-08-11T10:13:15

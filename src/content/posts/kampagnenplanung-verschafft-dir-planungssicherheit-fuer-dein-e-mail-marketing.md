@@ -1,5 +1,6 @@
 ---
 title: "Kampagnenplanung verschafft dir Planungssicherheit für dein E-Mail Marketing"
+seoTitle: "Kampagnenplanung im E-Mail-Marketing"
 slug: "kampagnenplanung-verschafft-dir-planungssicherheit-fuer-dein-e-mail-marketing"
 date: 2022-09-05T11:03:45
 updated: 2022-09-05T11:47:37

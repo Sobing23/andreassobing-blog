@@ -1,5 +1,6 @@
 ---
 title: "Die Auswirkungen von Handelsabkommen und Zöllen auf das internationale Marketing"
+seoTitle: "Handelsabkommen und Zölle im internationalen Marketing"
 slug: "handelsabkommen-und-zoelle"
 date: 2025-02-06T22:06:05
 updated: 2025-03-05T13:21:23

@@ -1,5 +1,6 @@
 ---
 title: "Warum sich eine dedizierte IP-Adresse für dein E-Mail-Marketing lohnen kann"
+seoTitle: "Dedizierte IP-Adresse im E-Mail-Marketing"
 slug: "warum-sich-eine-dedizierte-ip-adresse-fuer-dein-e-mail-marketing-lohnen-kann"
 date: 2023-12-15T12:38:37
 description: "Eine schlechte Reputation kann dazu führen, dass E-Mails geblockt werden und nicht ankommen. Die Lösung ist eine dedizierte IP-Adresse."

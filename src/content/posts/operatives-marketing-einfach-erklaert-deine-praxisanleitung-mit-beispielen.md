@@ -1,5 +1,6 @@
 ---
 title: "Operatives Marketing einfach erklärt: Deine Praxisanleitung mit Beispielen"
+seoTitle: "Operatives Marketing einfach erklärt, mit Beispielen"
 slug: "operatives-marketing-einfach-erklaert-deine-praxisanleitung-mit-beispielen"
 date: 2023-10-04T11:15:25
 updated: 2023-10-04T15:25:54

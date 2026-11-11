@@ -1,7 +1,9 @@
 ---
 title: "Don´t make me think - so gestaltest du deine Seite benutzerfreundlicher"
+seoTitle: "Don't Make Me Think: Benutzerfreundliche Websites"
 slug: "dont-make-me-think-so-gestaltest-du-deine-seite-benutzerfreundlicher"
 date: 2020-10-08T03:59:04
+description: "Die wichtigsten Regeln aus Steve Krugs Buch „Don’t Make Me Think“: Wie Besucher Websites wirklich nutzen und wie du deine Seite benutzerfreundlicher gestaltest."
 updated: 2022-08-08T16:50:57
 category: "marketing"
 vgwort: "https://vg06.met.vgwort.de/na/4f7adf44e3d34fa18130cb038fa3f7d7"

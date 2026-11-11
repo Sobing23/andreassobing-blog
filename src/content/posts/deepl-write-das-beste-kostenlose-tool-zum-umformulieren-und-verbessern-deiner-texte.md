@@ -1,5 +1,6 @@
 ---
 title: "DeepL Write: Das beste kostenlose Tool zum Umformulieren und Verbessern deiner Texte"
+seoTitle: "DeepL Write: Texte kostenlos umformulieren"
 slug: "deepl-write-das-beste-kostenlose-tool-zum-umformulieren-und-verbessern-deiner-texte"
 date: 2024-09-19T17:09:19
 description: "Bist du auf der Suche deine Texte umzuschreiben und besser klingen zu lassen? DeepL Write ist das beste Tool, um dies kostenlos zu tun."

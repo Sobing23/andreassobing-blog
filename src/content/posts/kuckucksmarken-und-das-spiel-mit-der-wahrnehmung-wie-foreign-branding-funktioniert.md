@@ -1,5 +1,6 @@
 ---
 title: "Kuckucksmarken und das Spiel mit der Wahrnehmung: Wie Foreign Branding funktioniert"
+seoTitle: "Kuckucksmarken: Wie Foreign Branding funktioniert"
 slug: "kuckucksmarken-und-das-spiel-mit-der-wahrnehmung-wie-foreign-branding-funktioniert"
 date: 2023-07-04T09:50:41
 description: "Das macht es irgendwie exotisch und interessant, oder? Willkommen in der Welt der Kuckucksmarken oder Foreign Branding."

@@ -2,6 +2,7 @@
 title: "Kopf schlägt Kapital. Die ganz andere Art, ein Unternehmen zu gründen"
 slug: "kopf-schlagt-kapital-die-ganz-andere-art-ein-unternehmen-zu-grunden"
 date: 2011-11-02T08:26:46
+description: "Günter Faltin und die Teekampagne: Warum für eine Gründung eine durchdachte Idee wichtiger ist als viel Kapital."
 updated: 2015-03-13T10:27:22
 category: "strategie"
 vgwort: "https://vg06.met.vgwort.de/na/ce498d41374f4dfb82885147dd49a69c"

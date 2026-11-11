@@ -1,5 +1,6 @@
 ---
 title: "Die Auswirkungen von Online-Bewertungen und sozialen Medien auf das Konsumentenverhalten"
+seoTitle: "Online-Bewertungen und Social Media: Wirkung auf Käufer"
 slug: "die-auswirkungen-von-online-bewertungen-und-sozialen-medien-auf-das-konsumentenverhalten"
 date: 2024-10-24T18:39:28
 updated: 2026-10-10T12:00:00

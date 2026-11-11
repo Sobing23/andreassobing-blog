@@ -2,6 +2,7 @@
 title: "Innovationen vs. Copycats"
 slug: "innovationen-vs-copycats"
 date: 2012-01-30T13:30:08
+description: "Dreiste Kopie oder kluge Weiterentwicklung? Wo bei Geschäftsmodellen die Grenze zwischen Copycat und Innovation verläuft."
 updated: 2026-10-10T12:00:00
 category: "strategie"
 vgwort: "https://vg06.met.vgwort.de/na/5236a261a560451b9a3d6552f9ce1deb"

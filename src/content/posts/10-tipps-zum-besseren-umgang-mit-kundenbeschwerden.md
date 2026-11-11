@@ -2,6 +2,7 @@
 title: "10 Tipps zum besseren Umgang mit Kundenbeschwerden"
 slug: "10-tipps-zum-besseren-umgang-mit-kundenbeschwerden"
 date: 2023-07-27T17:03:16
+description: "Beschwerden lassen sich nicht vermeiden, aber gut lösen. Zehn Tipps, wie du Kundenbeschwerden annimmst, bearbeitest und aus unzufriedenen Kunden treue machst."
 updated: 2023-07-28T15:43:24
 image: "/wp-content/uploads/2023/07/rock-1771916_6401.jpg"
 category: "marketing"

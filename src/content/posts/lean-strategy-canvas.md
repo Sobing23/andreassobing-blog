@@ -1,6 +1,6 @@
 ---
 title: "Der Lean Strategy Canvas: In einem Nachmittag zur gemeinsamen Strategie"
-seoTitle: "Lean Strategy Canvas nach Jeff Gothelf: Ziel, Hindernisse, Strategie und OKRs auf einer Seite"
+seoTitle: "Lean Strategy Canvas nach Jeff Gothelf"
 slug: "lean-strategy-canvas"
 date: 2026-10-20T10:00:00
 description: "Der Lean Strategy Canvas von Jeff Gothelf bringt Teams in einem Nachmittag auf eine gemeinsame Strategie: Ziel, Hindernisse, Where to play und How to win, messbar gemacht mit OKRs. Mit Beispiel und Einordnung."

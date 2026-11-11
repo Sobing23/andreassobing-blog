@@ -1,5 +1,6 @@
 ---
 title: "Human-Centered Design: Produkte, die den Kundenbedürfnissen entsprechen"
+seoTitle: "Human-Centered Design: Produkte nach Kundenbedürfnis"
 slug: "human-centered-design-produkte-die-den-kundenbeduerfnissen-entsprechen"
 date: 2023-06-23T17:32:48
 updated: 2023-06-23T17:33:16

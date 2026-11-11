@@ -1,5 +1,6 @@
 ---
 title: "Crossfunktionale Teams vs. Komponententeams: Neuer Ansatz für effektives Arbeiten"
+seoTitle: "Crossfunktionale Teams vs. Komponententeams"
 slug: "crossfunktionale-teams-vs-komponententeams-neuer-ansatz-fuer-effektives-arbeiten"
 date: 2023-07-17T13:33:32
 description: "Eine Methode, Agilität zu erreichen,sind crossfunktionale Teams. Doch wie unterscheiden sie sich von traditionellen Komponententeams?"

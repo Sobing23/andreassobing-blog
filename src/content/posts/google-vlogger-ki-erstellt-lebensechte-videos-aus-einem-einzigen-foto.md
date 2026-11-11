@@ -1,5 +1,6 @@
 ---
 title: "Google VLOGGER - KI erstellt lebensechte Videos aus einem einzigen Foto"
+seoTitle: "Google VLOGGER: KI macht aus einem Foto ein Video"
 slug: "google-vlogger-ki-erstellt-lebensechte-videos-aus-einem-einzigen-foto"
 date: 2024-04-05T14:54:11
 description: "Aus einem einzigen Foto ein Video erstellen, in dem die abgebildete Person spricht und sich bewegt, als wäre sie echt mit Google Vlogger."

@@ -1,5 +1,6 @@
 ---
 title: "Content-Planung mit ChatGPT: Dein Wegweiser für erfolgreiches Content-Marketing"
+seoTitle: "Content-Planung mit ChatGPT: So geht's"
 slug: "content-planung-mit-chatgpt-dein-wegweiser-fuer-erfolgreiches-content-marketing"
 date: 2023-11-07T13:42:04
 updated: 2023-11-07T14:59:07

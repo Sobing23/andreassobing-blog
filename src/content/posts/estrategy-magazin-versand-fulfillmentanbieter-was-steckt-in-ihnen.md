@@ -1,5 +1,6 @@
 ---
 title: "eStrategy Magazin - Versand- & Fulfillmentanbieter - Was steckt in ihnen?"
+seoTitle: "eStrategy Magazin: Versand- und Fulfillment-Anbieter"
 slug: "estrategy-magazin-versand-fulfillmentanbieter-was-steckt-in-ihnen"
 date: 2012-03-13T17:50:51
 updated: 2021-10-14T06:35:02

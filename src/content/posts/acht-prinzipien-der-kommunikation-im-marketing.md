@@ -1,6 +1,6 @@
 ---
 title: "Die 8 Prinzipien der Kommunikation im Marketing: Von den 7 Cs zur Praxis"
-seoTitle: "8 Kommunikationsprinzipien im Marketing: Klarheit, Timing, Kohärenz und mehr"
+seoTitle: "8 Prinzipien der Kommunikation im Marketing"
 slug: "acht-prinzipien-der-kommunikation-im-marketing"
 date: 2026-11-03T12:00:00
 description: "Klar, rechtzeitig, stimmig, dringlich, knapp, korrekt, respektvoll und vollständig: acht Prinzipien für Marketingkommunikation, abgeleitet aus den klassischen 7 Cs. Mit Werkzeugen für die Praxis und einer kritischen Einordnung."

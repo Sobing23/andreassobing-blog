@@ -1,5 +1,6 @@
 ---
 title: "Adobe Firefly BETA (AI) - Eine Revolution in der Farbgestaltung von Vektorgrafiken"
+seoTitle: "Adobe Firefly: Vektorgrafiken per KI neu einfärben"
 slug: "adobe-firefly-beta-ai-eine-revolution-in-der-farbgestaltung-von-vektorgrafiken"
 date: 2023-05-25T11:20:26
 updated: 2026-10-10T12:00:00

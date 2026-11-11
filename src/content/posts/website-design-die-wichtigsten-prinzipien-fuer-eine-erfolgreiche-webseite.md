@@ -1,5 +1,6 @@
 ---
 title: "Website-Design – Die wichtigsten Prinzipien für eine erfolgreiche Webseite"
+seoTitle: "Website-Design: Die wichtigsten Prinzipien"
 slug: "website-design-die-wichtigsten-prinzipien-fuer-eine-erfolgreiche-webseite"
 date: 2025-02-05T16:15:02
 updated: 2025-02-05T16:16:18

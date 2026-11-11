@@ -1,6 +1,6 @@
 ---
 title: "Chat, Automatisierung, Agenten: Die drei Stufen der KI im Unternehmen"
-seoTitle: "KI im Unternehmen: Drei Stufen von Chat bis KI-Agent und Reverse Prompting erklärt"
+seoTitle: "KI im Unternehmen: Von Chat zu KI-Agenten"
 slug: "ki-im-unternehmen-chat-automatisierung-agenten"
 date: 2026-10-13T14:00:00
 description: "Dan Martell teilt den KI-Einsatz im Unternehmen in drei Stufen: Chat, Automatisierung und Agenten. Was hinter dem Modell steckt, wie Reverse Prompting funktioniert und wo die Versprechen zu groß sind."

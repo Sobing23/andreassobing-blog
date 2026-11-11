@@ -1,5 +1,6 @@
 ---
 title: "Download - Kostenlos Shopbetreiber Magazin, Googles SEO Report und Internetworld"
+seoTitle: "Kostenlose Downloads: Shopbetreiber, SEO, Internetworld"
 slug: "download-kostenlos-shopbetreiber-magazin-googles-seo-report-und-internetworld"
 date: 2010-03-06T16:42:59
 updated: 2021-10-14T05:36:42

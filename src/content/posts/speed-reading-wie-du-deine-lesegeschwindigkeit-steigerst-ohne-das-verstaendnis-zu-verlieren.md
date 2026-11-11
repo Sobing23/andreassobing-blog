@@ -1,5 +1,6 @@
 ---
 title: "Speed Reading: Wie du deine Lesegeschwindigkeit steigerst, ohne das Verständnis zu verlieren"
+seoTitle: "Speed Reading: Schneller lesen und trotzdem verstehen"
 slug: "speed-reading-wie-du-deine-lesegeschwindigkeit-steigerst-ohne-das-verstaendnis-zu-verlieren"
 date: 2023-10-10T16:13:20
 description: "Doch wie kann man mehr lesen in weniger Zeit, ohne das Textverständnis zu verlieren? Die Antwort liegt im Speed Reading."

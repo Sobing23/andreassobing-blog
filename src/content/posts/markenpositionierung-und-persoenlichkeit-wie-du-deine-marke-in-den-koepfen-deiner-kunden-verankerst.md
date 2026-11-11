@@ -1,5 +1,6 @@
 ---
 title: "Markenpositionierung und -persönlichkeit: Wie du deine Marke in den Köpfen deiner Kunden verankerst"
+seoTitle: "Markenpositionierung und Markenpersönlichkeit"
 slug: "markenpositionierung-und-persoenlichkeit-wie-du-deine-marke-in-den-koepfen-deiner-kunden-verankerst"
 date: 2024-01-09T14:21:39
 description: "Markenpositionierung und -persönlichkeit: In einer Welt voller Marken ist es wichtiger denn je, dass sich deine Marke von anderen abhebt."

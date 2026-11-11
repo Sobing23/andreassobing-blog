@@ -1,6 +1,6 @@
 ---
 title: "OKRs und Leistungsbeurteilung: Vier Prinzipien, damit beides zusammenpasst"
-seoTitle: "OKRs und Performance Management: Gehören OKRs in die Mitarbeiterbeurteilung?"
+seoTitle: "OKRs in der Mitarbeiterbeurteilung?"
 slug: "okrs-und-leistungsbeurteilung"
 date: 2026-10-10T09:00:00
 description: "Sollen individuelle OKRs in Beurteilung und Bonus einfließen? Vier Prinzipien zeigen, wie OKRs und Performance Management zusammenpassen, ohne dass alle nur noch sichere Ziele setzen."

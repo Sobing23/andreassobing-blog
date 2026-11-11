@@ -1,5 +1,6 @@
 ---
 title: "Das Spotify-Modell: Wie du dein Team agil machst, ohne im Chaos zu versinken"
+seoTitle: "Das Spotify-Modell: Agile Teams ohne Chaos"
 slug: "das-spotify-modell-wie-du-dein-team-agil-machst-ohne-im-chaos-zu-versinken"
 date: 2026-01-15T10:47:42
 description: "Vielleicht hast du schon mal vom Spotify-Modell gehört?Sie sind wahnsinnig schnell gewachsen und mussten agil bleiben."

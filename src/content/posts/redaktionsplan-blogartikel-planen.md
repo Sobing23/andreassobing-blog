@@ -1,5 +1,6 @@
 ---
 title: "Redaktionsplan: So planst du deine Blogartikel, ohne den Faden zu verlieren"
+seoTitle: "Redaktionsplan: Blogartikel richtig planen"
 slug: "redaktionsplan-blogartikel-planen"
 date: 2026-10-06T10:00:00
 description: "Mit einem einfachen Redaktionsplan veröffentlichst du regelmäßig, verpasst keine wichtigen Termine und hast weniger Stress. So baust du deinen ersten Plan in fünf Schritten."

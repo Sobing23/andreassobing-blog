@@ -1,5 +1,6 @@
 ---
 title: "Herausforderung oder Chance? Unterbrechungsorientiertes Arbeiten im modernen Marketing"
+seoTitle: "Unterbrechungsorientiertes Arbeiten im Marketing"
 slug: "herausforderung-oder-chance-unterbrechungsorientiertes-arbeiten-im-modernen-marketing"
 date: 2023-07-03T10:55:53
 updated: 2023-07-03T11:14:43

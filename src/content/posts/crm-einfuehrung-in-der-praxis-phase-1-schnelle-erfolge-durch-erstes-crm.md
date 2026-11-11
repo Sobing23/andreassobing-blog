@@ -1,5 +1,6 @@
 ---
 title: "CRM-Einführung in der Praxis: Phase 1 – Schnelle Erfolge durch erstes CRM"
+seoTitle: "CRM-Einführung Phase 1: Schnelle Erfolge mit dem ersten CRM"
 slug: "crm-einfuehrung-in-der-praxis-phase-1-schnelle-erfolge-durch-erstes-crm"
 date: 2025-08-11T10:10:17
 description: "Die Einführung von CRM muss kein “Big Bang” sein. Es hat sich bewährt, schrittweise vorzugehen und zunächst schnelle Erfolge zu erzielen."

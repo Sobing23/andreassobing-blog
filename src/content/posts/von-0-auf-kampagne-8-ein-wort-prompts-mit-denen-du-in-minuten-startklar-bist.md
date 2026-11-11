@@ -1,5 +1,6 @@
 ---
 title: "Von 0 auf Kampagne: 8 Ein-Wort-Prompts, mit denen du in Minuten startklar bist"
+seoTitle: "8 Ein-Wort-Prompts für deine nächste Kampagne"
 slug: "von-0-auf-kampagne-8-ein-wort-prompts-mit-denen-du-in-minuten-startklar-bist"
 date: 2025-12-17T11:36:11
 updated: 2025-12-17T11:40:41

@@ -1,5 +1,6 @@
 ---
 title: "Agile Teamorganisation: Wie das Tribe-Modell die Arbeitswelt revolutioniert"
+seoTitle: "Tribe-Modell: Agile Teamorganisation erklärt"
 slug: "agile-teamorganisation-wie-das-tribe-modell-die-arbeitswelt-revolutioniert"
 date: 2023-06-09T15:25:10
 updated: 2023-11-28T16:35:13

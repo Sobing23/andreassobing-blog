@@ -1,5 +1,6 @@
 ---
 title: "Künstliche Intelligenz, Machine Learning und Deep Learning: Was ist der Unterschied?"
+seoTitle: "KI, Machine Learning, Deep Learning: Der Unterschied"
 slug: "kuenstliche-intelligenz-machine-learning-und-deep-learning-was-ist-der-unterschied"
 date: 2023-09-26T15:00:17
 updated: 2023-09-26T15:06:21

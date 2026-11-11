@@ -1,5 +1,6 @@
 ---
 title: "Varianz und Standardabweichung: Warum diese statistischen Kennzahlen wichtig sind"
+seoTitle: "Varianz und Standardabweichung einfach erklärt"
 slug: "varianz-und-standardabweichung-warum-diese-statistischen-kennzahlen-wichtig-sind"
 date: 2023-08-31T15:21:49
 updated: 2026-10-10T12:00:00

@@ -1,5 +1,6 @@
 ---
 title: "Zeitmanagement: Wie die besten CEOs das Meiste aus jedem Tag herausholen"
+seoTitle: "Zeitmanagement: So nutzen erfolgreiche CEOs ihren Tag"
 slug: "zeitmanagement-wie-die-besten-ceos-das-meiste-aus-jedem-tag-herausholen"
 date: 2023-06-01T11:48:50
 updated: 2023-06-01T12:03:36

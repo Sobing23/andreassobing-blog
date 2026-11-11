@@ -1,5 +1,6 @@
 ---
 title: "Kundenzufriedenheit und Kundenbindung: Warum sie entscheidend für deinen Erfolg sind"
+seoTitle: "Kundenzufriedenheit und Kundenbindung erklärt"
 slug: "kundenzufriedenheit-und-kundenbindung-warum-sie-entscheidend-fuer-deinen-erfolg-sind"
 date: 2024-11-20T15:56:57
 description: "Kundenzufriedenheit und Kundenbindung sind essenziell für deinen Unternehmenserfolg. Erfahre, wie sie sich gegenseitig beeinflussen."

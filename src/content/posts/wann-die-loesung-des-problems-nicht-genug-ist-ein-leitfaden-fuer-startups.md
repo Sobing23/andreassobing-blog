@@ -1,5 +1,6 @@
 ---
 title: "Wann die Lösung des Problems nicht genug ist: Ein Leitfaden für Startups"
+seoTitle: "Wenn die Problemlösung nicht reicht: Startups"
 slug: "wann-die-loesung-des-problems-nicht-genug-ist-ein-leitfaden-fuer-startups"
 date: 2024-04-23T14:11:50
 updated: 2024-04-23T16:35:09

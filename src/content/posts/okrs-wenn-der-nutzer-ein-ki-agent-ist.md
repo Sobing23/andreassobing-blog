@@ -1,6 +1,6 @@
 ---
 title: "OKRs, wenn der Nutzer ein KI-Agent ist: Warum Key Results bei Menschen bleiben"
-seoTitle: "Outcome-basierte OKRs für KI-Agenten: Key Results eine Ebene höher schreiben"
+seoTitle: "OKRs für KI-Agenten: Outcomes richtig messen"
 slug: "okrs-wenn-der-nutzer-ein-ki-agent-ist"
 date: 2026-10-20T14:00:00
 description: "Wenn KI-Agenten dein Produkt nutzen, liegt es nahe, ihre Aktivität zu messen. Jeff Gothelf rät zum Gegenteil: Key Results gehören zu den Menschen vor und hinter dem Agenten. Mit Vorher-nachher-Beispiel."

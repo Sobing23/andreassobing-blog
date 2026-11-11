@@ -1,5 +1,6 @@
 ---
 title: "Effektive Vertriebsstrategien mit Chat GPT: Zielgruppenanalyse und Priorisierung"
+seoTitle: "Vertriebsstrategie mit ChatGPT: Zielgruppen priorisieren"
 slug: "effektive-vertriebsstrategien-mit-chat-gpt-zielgruppenanalyse-und-priorisierung"
 date: 2024-01-31T11:58:07
 updated: 2024-01-31T12:34:29

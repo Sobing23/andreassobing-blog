@@ -1,5 +1,6 @@
 ---
 title: "Produktbeschreibungen, die verkaufen: Ein Leitfaden für effektives Marketing"
+seoTitle: "Produktbeschreibungen, die verkaufen"
 slug: "produktbeschreibungen-die-verkaufen-ein-leitfaden-fuer-effektives-marketing"
 date: 2023-07-14T15:18:54
 description: "Produktbeschreibungen: Ja, du hast richtig gehört. Diese kleinen Textblöcke, die du neben den Bildern deiner Produkte siehst."

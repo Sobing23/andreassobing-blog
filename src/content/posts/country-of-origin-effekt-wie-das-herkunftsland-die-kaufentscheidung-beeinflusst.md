@@ -1,5 +1,6 @@
 ---
 title: "Country-of-Origin-Effekt: Wie das Herkunftsland die Kaufentscheidung beeinflusst"
+seoTitle: "Country-of-Origin-Effekt: Herkunft und Kaufentscheidung"
 slug: "country-of-origin-effekt-wie-das-herkunftsland-die-kaufentscheidung-beeinflusst"
 date: 2023-06-14T17:28:37
 updated: 2023-07-04T09:45:06

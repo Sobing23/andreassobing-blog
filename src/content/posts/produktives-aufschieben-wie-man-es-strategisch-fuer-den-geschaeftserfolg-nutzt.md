@@ -1,5 +1,6 @@
 ---
 title: "Produktives Aufschieben: Wie man es strategisch für den Geschäftserfolg nutzt"
+seoTitle: "Produktives Aufschieben: Strategisch prokrastinieren"
 slug: "produktives-aufschieben-wie-man-es-strategisch-fuer-den-geschaeftserfolg-nutzt"
 date: 2024-04-25T15:15:56
 updated: 2024-04-25T15:30:03

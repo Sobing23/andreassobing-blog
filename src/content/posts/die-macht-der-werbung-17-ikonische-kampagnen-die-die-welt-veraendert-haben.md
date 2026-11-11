@@ -1,5 +1,6 @@
 ---
 title: "Die Macht der Werbung: 17 ikonische Kampagnen, die die Welt verändert haben"
+seoTitle: "17 ikonische Werbekampagnen, die die Welt veränderten"
 slug: "die-macht-der-werbung-17-ikonische-kampagnen-die-die-welt-veraendert-haben"
 date: 2023-07-05T12:38:30
 description: "Die Kampagnen stammen aus den frühen 1900er Jahren bis in die 1960er Jahre und decken eine Vielzahl von Branchen und Produkten ab."

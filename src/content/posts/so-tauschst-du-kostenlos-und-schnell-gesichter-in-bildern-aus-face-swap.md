@@ -1,5 +1,6 @@
 ---
 title: "So tauschst du kostenlos und schnell Gesichter in Bildern aus (Face Swap)"
+seoTitle: "Face Swap: Gesichter in Bildern kostenlos tauschen"
 slug: "so-tauschst-du-kostenlos-und-schnell-gesichter-in-bildern-aus-face-swap"
 date: 2024-09-09T11:42:12
 updated: 2024-09-19T16:45:13

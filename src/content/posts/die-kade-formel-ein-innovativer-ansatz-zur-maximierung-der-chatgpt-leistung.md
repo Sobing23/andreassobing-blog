@@ -1,5 +1,6 @@
 ---
 title: "Die KADE-Formel: Ein innovativer Ansatz zur Maximierung der ChatGPT-Leistung"
+seoTitle: "Die KADE-Formel für bessere ChatGPT-Prompts"
 slug: "die-kade-formel-ein-innovativer-ansatz-zur-maximierung-der-chatgpt-leistung"
 date: 2023-07-14T11:40:04
 updated: 2023-07-14T11:45:38

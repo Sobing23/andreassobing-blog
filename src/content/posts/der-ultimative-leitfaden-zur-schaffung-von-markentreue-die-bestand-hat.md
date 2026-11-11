@@ -1,5 +1,6 @@
 ---
 title: "Der ultimative Leitfaden zur Schaffung von Markentreue, die Bestand hat"
+seoTitle: "Markentreue aufbauen: Ein Leitfaden"
 slug: "der-ultimative-leitfaden-zur-schaffung-von-markentreue-die-bestand-hat"
 date: 2023-09-01T12:17:52
 updated: 2023-09-01T12:30:44

@@ -2,6 +2,7 @@
 title: "Fokussiert bleiben mit dem Minimum Viable Segment"
 slug: "fokussiert-bleiben-mit-dem-minimum-viable-segment"
 date: 2023-06-19T12:33:35
+description: "Statt alle zu erreichen, erst eine kleine Kundengruppe begeistern: Was das Minimum Viable Segment ist und wie du es für dein Produkt findest."
 updated: 2023-09-11T22:19:46
 image: "/wp-content/uploads/2023/06/orange-883187_6401.jpg"
 category: "marketing"

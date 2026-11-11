@@ -1,5 +1,6 @@
 ---
 title: "Direktvertrieb vs. Indirekter Vertrieb: Welcher Vertriebsweg ist der richtige für dich?"
+seoTitle: "Direktvertrieb vs. indirekter Vertrieb im Vergleich"
 slug: "direktvertrieb-vs-indirekter-vertrieb-welcher-vertriebsweg-ist-der-richtige-fuer-dich"
 date: 2024-01-16T13:15:25
 updated: 2024-01-16T13:16:10

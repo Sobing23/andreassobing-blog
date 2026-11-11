@@ -1,6 +1,6 @@
 ---
 title: "OKRs bringen die Strategie zum Leben: In sechs Schritten von der Strategie zu OKRs"
-seoTitle: "Strategie mit OKRs umsetzen: Sechs Schritte nach Roger Martin und Agile Strategies"
+seoTitle: "Strategie mit OKRs umsetzen: Sechs Schritte"
 slug: "okrs-strategie-zum-leben-erwecken"
 date: 2026-10-10T11:00:00
 description: "OKRs ersetzen keine Strategie, sie machen sie umsetzbar. Wie du prüfst, ob deine Strategie tragfähig ist, und sie in sechs Schritten in OKRs übersetzt."

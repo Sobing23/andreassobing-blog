@@ -1,5 +1,6 @@
 ---
 title: "Marketingmaßnahmen Beispiele: Der effektive Weg zu mehr Sichtbarkeit und Erfolg"
+seoTitle: "Marketingmaßnahmen: Beispiele für mehr Sichtbarkeit"
 slug: "marketingmassnahmen-beispiele-der-effektive-weg-zu-mehr-sichtbarkeit-und-erfolg"
 date: 2023-10-02T14:37:10
 updated: 2023-10-02T15:00:45

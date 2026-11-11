@@ -1,5 +1,6 @@
 ---
 title: "Effektives Lernen mit ChatGPT: Wie du mehr behältst und dein Wissen teilst"
+seoTitle: "Effektiv lernen mit ChatGPT: Mehr behalten"
 slug: "effektives-lernen-mit-chatgpt"
 date: 2023-10-12T15:49:09
 updated: 2023-10-12T16:37:05

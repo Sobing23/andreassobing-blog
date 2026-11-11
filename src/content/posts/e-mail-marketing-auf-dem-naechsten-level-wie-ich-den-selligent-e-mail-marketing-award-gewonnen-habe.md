@@ -1,5 +1,6 @@
 ---
 title: "E-Mail-Marketing auf dem nächsten Level: Wie ich den Selligent E-Mail-Marketing Award gewonnen habe"
+seoTitle: "Selligent E-Mail-Marketing Award: So habe ich gewonnen"
 slug: "e-mail-marketing-auf-dem-naechsten-level-wie-ich-den-selligent-e-mail-marketing-award-gewonnen-habe"
 date: 2023-09-14T10:15:58
 updated: 2026-10-10T12:00:00

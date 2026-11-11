@@ -1,5 +1,6 @@
 ---
 title: "Visual Styleguide: Ein unverzichtbares Werkzeug für konsistentes Branding"
+seoTitle: "Visual Styleguide für konsistentes Branding"
 slug: "visual-styleguide-ein-unverzichtbares-werkzeug-fuer-konsistentes-branding"
 date: 2024-08-02T13:20:14
 description: "Ein Visual Styleguide ist ein essenzielles Werkzeug für jedes Unternehmen, das eine starke und konsistente Markenidentität aufbauen möchte."

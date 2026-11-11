@@ -1,6 +1,6 @@
 ---
 title: "Ikigai ist kein Venn-Diagramm: Was hinter dem japanischen Konzept wirklich steckt"
-seoTitle: "Ikigai-Framework: Kamiyas 7 Bedürfnisse und Mogis 5 Säulen statt Venn-Diagramm"
+seoTitle: "Ikigai richtig verstehen: Kamiya und Mogi statt Venn"
 slug: "ikigai-framework-kamiya-mogi"
 date: 2026-10-08T12:00:00
 description: "Das bekannte Ikigai-Diagramm mit vier Kreisen stammt nicht aus Japan. Was Ikigai dort bedeutet und was die sieben Bedürfnisse nach Mieko Kamiya und die fünf Säulen nach Ken Mogi für Marketing und Führung bringen."

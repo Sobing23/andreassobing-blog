@@ -1,5 +1,6 @@
 ---
 title: "So surft der Durchschnittsdeutsche - das Informationsverhalten im Internet"
+seoTitle: "So surft der Durchschnittsdeutsche im Internet"
 slug: "so-surft-der-durchschnittsdeutsche-das-informationsverhalten-im-internet"
 date: 2011-10-27T13:34:24
 updated: 2015-03-10T17:16:34

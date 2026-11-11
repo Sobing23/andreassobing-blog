@@ -1,5 +1,6 @@
 ---
 title: "Die Zukunft von YouTube: Ein Blick auf Video-Übersetzungen und Synchronisation"
+seoTitle: "YouTube: Video-Übersetzung und Synchronisation per KI"
 slug: "die-zukunft-von-youtube-ein-blick-auf-video-uebersetzungen-und-synchronisation"
 date: 2023-09-22T10:07:48
 updated: 2023-09-22T11:20:13

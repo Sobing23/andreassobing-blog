@@ -21,7 +21,8 @@ interface Props {
 }
 const { title, description = 'Mein digitales Notizbuch rund um Marketing, Strategie und Führung.', image, type = 'website', aktiveRubrik, noindex = false, kompakt = false, jsonld = [] } = Astro.props;
 const SITE = 'Blog it Marketing';
-const fullTitle = title === SITE ? SITE : `${title} – ${SITE}`;
+// Markenname nur anhängen, wenn der Titel in den Suchergebnissen dann nicht abgeschnitten wird (etwa 60 Zeichen)
+const fullTitle = title === SITE ? SITE : (title.length + SITE.length + 3 <= 60 ? `${title} – ${SITE}` : title);
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const ogImage = image ? new URL(image, Astro.site).toString() : undefined;
 ---

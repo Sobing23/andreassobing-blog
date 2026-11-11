@@ -1,5 +1,6 @@
 ---
 title: "Marketingstrategien Beispiele: So bringst du dein Unternehmen auf Erfolgskurs"
+seoTitle: "Marketingstrategien: Beispiele für dein Unternehmen"
 slug: "marketingstrategien-beispiele-so-bringst-du-dein-unternehmen-auf-erfolgskurs"
 date: 2023-10-02T15:39:56
 description: "Marketingstrategien Beispiele: So bringst du dein Unternehmen auf Erfolgskurs. Dieser Artikel gibt dir wertvolle Tipps."

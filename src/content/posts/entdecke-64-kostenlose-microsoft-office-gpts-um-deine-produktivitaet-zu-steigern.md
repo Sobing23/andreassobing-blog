@@ -1,5 +1,6 @@
 ---
 title: "Entdecke 64 kostenlose Microsoft Office GPTs, um deine Produktivität zu steigern"
+seoTitle: "64 kostenlose Microsoft-Office-GPTs im Überblick"
 slug: "entdecke-64-kostenlose-microsoft-office-gpts-um-deine-produktivitaet-zu-steigern"
 date: 2024-03-27T10:51:26
 updated: 2024-03-27T13:48:29

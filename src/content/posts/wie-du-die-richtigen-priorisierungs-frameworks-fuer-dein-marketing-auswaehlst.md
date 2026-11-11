@@ -1,5 +1,6 @@
 ---
 title: "Wie Du die richtigen Priorisierungs-Frameworks für Dein Marketing auswählst"
+seoTitle: "Priorisierungs-Frameworks im Marketing auswählen"
 slug: "wie-du-die-richtigen-priorisierungs-frameworks-fuer-dein-marketing-auswaehlst"
 date: 2023-09-18T14:55:15
 updated: 2023-09-18T14:57:40

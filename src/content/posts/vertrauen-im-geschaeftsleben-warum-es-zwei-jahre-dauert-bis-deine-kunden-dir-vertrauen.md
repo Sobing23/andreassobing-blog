@@ -1,5 +1,6 @@
 ---
 title: "Vertrauen im Geschäftsleben: Warum es zwei Jahre dauert, bis deine Kunden dir vertrauen"
+seoTitle: "Vertrauen im Geschäftsleben: Warum es dauert"
 slug: "vertrauen-im-geschaeftsleben-warum-es-zwei-jahre-dauert-bis-deine-kunden-dir-vertrauen"
 date: 2023-07-14T11:21:30
 updated: 2026-10-10T12:00:00

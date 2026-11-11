@@ -1,5 +1,6 @@
 ---
 title: "Employee Experience in Deutschland: Definition, Business Case und OKRs als Wachstumsmotor"
+seoTitle: "Employee Experience: Definition, Business Case, OKRs"
 slug: "employee-experience-in-deutschland-definition-business-case-und-okrs-als-wachstumsmotor"
 date: 2025-08-21T09:54:20
 updated: 2026-10-10T12:00:00

@@ -1,5 +1,6 @@
 ---
 title: "Startup neben dem Job: Die richtige Geschäftsidee finden und klein anfangen"
+seoTitle: "Startup neben dem Job: Die richtige Idee finden"
 slug: "startup-neben-dem-job-die-richtige-geschaeftsidee-finden-und-klein-anfangen"
 date: 2025-08-19T20:59:29
 description: "Viele träumen davon, ein eigenes Startup neben dem Job zu starten – doch häufig scheitert es schon an der Ideenfindung."

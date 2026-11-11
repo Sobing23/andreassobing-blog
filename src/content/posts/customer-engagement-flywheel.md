@@ -1,6 +1,6 @@
 ---
 title: "Das Customer Engagement Flywheel: Wachstum, das nach dem Kauf erst richtig beginnt"
-seoTitle: "Customer Engagement Flywheel: Awareness, Adoption, Advocacy und Innovation erklärt"
+seoTitle: "Customer Engagement Flywheel einfach erklärt"
 slug: "customer-engagement-flywheel"
 date: 2026-10-13T10:00:00
 description: "Das Customer Engagement Flywheel von Appcues beschreibt vier Phasen: Awareness, Adoption, Advocacy und Innovation. Was hinter dem Modell steckt, welche Kennzahlen je Phase zählen und wo seine Grenzen liegen."

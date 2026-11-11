@@ -1,5 +1,6 @@
 ---
 title: "Kohortenanalyse: So verstehst du endlich, was deine Kunden wirklich treiben"
+seoTitle: "Kohortenanalyse: Kundenverhalten verstehen"
 slug: "kohortenanalyse-so-verstehst-du-endlich-was-deine-kunden-wirklich-treiben"
 date: 2026-01-15T10:42:32
 description: "Hier kommt die Kohortenanalyse ins Spiel. Sie ist quasi das Schweizer Taschenmesser für dein Marketing und die Analyse."

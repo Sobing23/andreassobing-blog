@@ -1,5 +1,6 @@
 ---
 title: "Internet-Manifest  Wie Journalismus heute funktioniert. 17 Behauptungen."
+seoTitle: "Internet-Manifest: 17 Thesen zum Journalismus"
 slug: "internet-manifest-wie-journalismus-heute-funktioniert-17-behauptungen"
 date: 2009-09-09T18:32:18
 updated: 2018-02-12T16:34:56

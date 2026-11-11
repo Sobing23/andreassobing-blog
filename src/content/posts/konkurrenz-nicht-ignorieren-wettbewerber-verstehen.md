@@ -1,6 +1,6 @@
 ---
 title: "Hör auf, deine Konkurrenz zu ignorieren: Wie du über Wettbewerber deine Kunden besser verstehst"
-seoTitle: "Wettbewerber analysieren: Vier Arten von Konkurrenz und vier Methoden nach Hiten Shah"
+seoTitle: "Wettbewerber analysieren: 4 Arten von Konkurrenz"
 slug: "konkurrenz-nicht-ignorieren-wettbewerber-verstehen"
 date: 2026-10-28T10:00:00
 description: "Konzentrier dich auf deine Kunden, nicht auf die Konkurrenz? Hiten Shah hält das für einen Fehler. Vier Arten von Wettbewerbern und vier Methoden, aus ihnen zu lernen."

@@ -1,5 +1,6 @@
 ---
 title: "Employer Branding: Wie du dein Unternehmen als attraktiven Arbeitgeber positionierst"
+seoTitle: "Employer Branding: Als Arbeitgeber attraktiv werden"
 slug: "employer-branding-wie-du-dein-unternehmen-als-attraktiven-arbeitgeber-positionierst"
 date: 2024-07-08T16:20:47
 description: "Es ist wichtig, sich als attraktiver Arbeitgeber zu positionieren. Employer Branding hilft dir, die besten Talente anzuziehen und zu halten."

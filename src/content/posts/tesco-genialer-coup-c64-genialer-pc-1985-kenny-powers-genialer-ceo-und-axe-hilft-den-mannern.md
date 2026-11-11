@@ -1,5 +1,6 @@
 ---
 title: "Tesco - genialer Coup, C64 - genialer PC 1985, Kenny Powers - genialer CEO und Axe hilft den Männern"
+seoTitle: "Fundstücke: Tesco, C64, Kenny Powers und Axe"
 slug: "tesco-genialer-coup-c64-genialer-pc-1985-kenny-powers-genialer-ceo-und-axe-hilft-den-mannern"
 date: 2011-11-18T18:47:54
 category: "fundstuecke"

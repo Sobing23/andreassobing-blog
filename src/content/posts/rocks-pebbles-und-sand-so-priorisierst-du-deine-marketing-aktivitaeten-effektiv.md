@@ -1,5 +1,6 @@
 ---
 title: "Rocks, Pebbles und Sand – So priorisierst du deine Marketing-Aktivitäten effektiv"
+seoTitle: "Rocks, Pebbles und Sand: Marketing priorisieren"
 slug: "rocks-pebbles-und-sand-so-priorisierst-du-deine-marketing-aktivitaeten-effektiv"
 date: 2024-05-06T12:29:38
 description: "Rocks, Pebbles und Sand hilft dir, deine Aufgaben und Projekte so zu organisieren, dass du das Beste aus deiner verfügbaren Zeit herausholst."

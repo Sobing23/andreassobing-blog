@@ -1,5 +1,6 @@
 ---
 title: "Die Kunst der Verkaufspsychologie: Wie du das menschliche Gehirn zu deinem Vorteil nutzt"
+seoTitle: "Verkaufspsychologie: So entscheidet das Gehirn"
 slug: "die-kunst-der-verkaufspsychologie-wie-du-das-menschliche-gehirn-zu-deinem-vorteil-nutzt"
 date: 2023-09-22T17:06:12
 updated: 2023-09-22T17:57:28

@@ -1,5 +1,6 @@
 ---
 title: "Verpackungsdesign: Wie du mit dem richtigen Design deine Produkte in den Köpfen deiner Kunden verankerst"
+seoTitle: "Verpackungsdesign: So bleiben Produkte im Kopf"
 slug: "verpackungsdesign-wie-du-mit-dem-richtigen-design-deine-produkte-in-den-koepfen-deiner-kunden-verankerst"
 date: 2024-01-09T17:45:52
 updated: 2024-01-09T17:45:53

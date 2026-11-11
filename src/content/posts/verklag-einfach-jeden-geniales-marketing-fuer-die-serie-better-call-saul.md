@@ -1,5 +1,6 @@
 ---
 title: "Verklag einfach jeden! - Geniales Marketing für die Serie Better Call Saul"
+seoTitle: "Better Call Saul: Geniales Serienmarketing"
 slug: "verklag-einfach-jeden-geniales-marketing-fuer-die-serie-better-call-saul"
 date: 2015-03-09T10:50:42
 updated: 2021-10-21T23:23:24

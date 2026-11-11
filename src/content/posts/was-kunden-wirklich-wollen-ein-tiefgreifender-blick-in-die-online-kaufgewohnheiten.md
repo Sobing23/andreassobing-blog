@@ -1,5 +1,6 @@
 ---
 title: "Was Kunden wirklich wollen: Ein tiefgreifender Blick in die Online-Kaufgewohnheiten"
+seoTitle: "Was Kunden wollen: Online-Kaufgewohnheiten"
 slug: "was-kunden-wirklich-wollen-ein-tiefgreifender-blick-in-die-online-kaufgewohnheiten"
 date: 2023-07-27T14:38:47
 updated: 2023-07-27T16:11:51

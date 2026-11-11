@@ -1,5 +1,6 @@
 ---
 title: "Startup neben dem Job: Wie du trotz Vollzeitjob Zeit und Energie dafür findest"
+seoTitle: "Startup neben dem Job: Zeit und Energie finden"
 slug: "startup-neben-dem-job-wie-du-trotz-vollzeitjob-zeit-und-energie-dafuer-findest"
 date: 2025-08-19T21:02:59
 description: "Eine der häufigsten Ausreden, warum aus dem Traum vom Startup neben dem Job nichts wird: „Ich habe keine Zeit!“"

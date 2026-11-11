@@ -1,5 +1,6 @@
 ---
 title: "Der Wert von Sechs Minuten: Wie du deinen Kundenkontakt revolutionieren kannst"
+seoTitle: "Sechs Minuten Kundenkontakt: Was sie wert sind"
 slug: "der-wert-von-sechs-minuten-wie-du-deinen-kundenkontakt-revolutionieren-kannst"
 date: 2023-09-21T13:59:59
 updated: 2023-09-21T14:16:10

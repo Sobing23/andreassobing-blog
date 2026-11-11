@@ -15,7 +15,7 @@ export const getStaticPaths = (async ({ paginate }) => {
 
 const { page, r } = Astro.props;
 ---
-<Base title={page.currentPage > 1 ? `${r.name} – Seite ${page.currentPage}` : r.name} description={`Alle Artikel der Rubrik ${r.name} im Blog it Marketing.`} aktiveRubrik={r.key}>
+<Base title={page.currentPage > 1 ? `${r.name} – Seite ${page.currentPage}` : r.name} description={page.currentPage > 1 ? `Artikel der Rubrik ${r.name} im Blog it Marketing, Seite ${page.currentPage} von ${page.lastPage}.` : `Alle Artikel der Rubrik ${r.name} im Blog it Marketing.`} aktiveRubrik={r.key}>
   <main class="wrap simple">
     <h1>{r.name}</h1>
     <p class="lead-text">{page.total} Artikel{page.lastPage > 1 && ` · Seite ${page.currentPage} von ${page.lastPage}`}</p>

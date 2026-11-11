@@ -1,6 +1,6 @@
 ---
 title: "Das CLEAR-Coaching-Modell: Bessere Gespräche mit deinem Team in 5 Schritten"
-seoTitle: "CLEAR-Modell nach Peter Hawkins: 5 Schritte, Beispiel, Vorlage und Video"
+seoTitle: "CLEAR-Modell: 5 Schritte, Beispiel und Vorlage"
 slug: "klare-kommunikation-das-clear-coaching-modell"
 date: 2023-09-06T09:00:04
 updated: 2026-11-03T22:00:00
