@@ -2413,8 +2413,12 @@
  },
  {
   "begriff": "Hawthorne-Effekt",
-  "definition": "Der Hawthorne-Effekt beschreibt den positiven Einfluss von sozialer Anerkennung auf die Produktivität. Er geht auf Untersuchungen der Arbeitsbedingungen in den US-amerikanischen Hawthorne-Werken zurück, die zeigten, dass soziale Zuwendung die Leistung der Arbeiter deutlich steigert. Gute Beziehungen im Team erhöhen zudem die Zufriedenheit der Angestellten.",
+  "definition": "Die Veränderung von Verhalten, weil Menschen wissen, dass sie beobachtet oder untersucht werden. Der Name geht auf Studien in den Hawthorne-Werken der Western Electric Company (1924 bis 1933) zurück. Die berühmteste Geschichte daraus, dass jede Änderung der Beleuchtung die Produktivität steigerte, ist laut einer Neuauswertung der Originaldaten nicht belegt.",
   "artikel": [
+   {
+    "slug": "hawthorne-effekt-beobachtung-veraendert-verhalten",
+    "titel": "Der Hawthorne-Effekt: Warum Beobachtung Verhalten verändert und was davon ein Mythos ist"
+   },
    {
     "slug": "wir-kultur-in-der-arbeitswelt-nutzen",
     "titel": "Wir-Kultur in der Arbeitswelt nutzen"

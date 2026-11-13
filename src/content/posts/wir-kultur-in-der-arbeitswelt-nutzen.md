@@ -2,7 +2,7 @@
 title: "Wir-Kultur in der Arbeitswelt nutzen"
 slug: "wir-kultur-in-der-arbeitswelt-nutzen"
 date: 2026-06-01T13:28:37
-description: "Erfahre, wie die Wir-Kultur in der Arbeitswelt dein Team beflügelt. Optimiere deine Corporate Culture für Motivation und nachhaltigen Erfolg!"
+description: "Erfahre, wie die Wir-Kultur in der Arbeitswelt dein Team beflügelt. Optimiere deine Corporate Culture für Motivation und nachhaltigen Erfolg."
 image: "/wp-content/uploads/2026/06/johnhain-we-2078026_640.jpg"
 category: "strategie"
 vgwort: "https://vg09.met.vgwort.de/na/7155cd4e637549baa4cea5f5b3575635"
@@ -13,9 +13,9 @@ Du willst dein Team zu Höchstleistungen anspornen? Dann brauchst du eine echte 
 
 ## Corporate Culture: Woher kommt das Wir-Gefühl?
 
-Die soziale Dynamik in Gruppen fasziniert die Forschung seit über einem Jahrhundert. Der australische Psychologe Elton Mayo untersuchte dieses Phänomen bereits im Jahr 1924. Er analysierte die Arbeitsbedingungen in den US-amerikanischen Hawthorne-Werken. Seine Studien bewiesen eine überraschende und fundamentale Wahrheit für das Management.
+Die soziale Dynamik in Gruppen beschäftigt die Forschung seit rund hundert Jahren. Ab 1924 untersuchten Forscher in den US-amerikanischen Hawthorne-Werken der Western Electric Company, wie Arbeitsbedingungen die Leistung beeinflussen. Später kam ein Team der Harvard Business School um den australischen Psychologen Elton Mayo dazu.
 
-Die pure soziale Zuwendung steigert die Leistung der Arbeiter massiv. Der bekannte Hawthorne-Effekt war damit offiziell geboren. Er beschreibt den positiven Einfluss von sozialer Anerkennung auf die Produktivität. Gute Beziehungen im Team erhöhen die Zufriedenheit der Angestellten enorm.
+Aus diesen Studien entstand die bekannte Lehre, dass soziale Zuwendung die Leistung steigert, und mit ihr der Begriff Hawthorne-Effekt. Ganz so eindeutig sind die Belege allerdings nicht: Eine Neuauswertung der Originaldaten hat gezeigt, dass die berühmtesten Ergebnisse nicht haltbar sind. Was davon trägt und was Legende ist, beschreibe ich im Artikel zum [Hawthorne-Effekt](/hawthorne-effekt-beobachtung-veraendert-verhalten/). Dass gute Beziehungen im Team die Zufriedenheit erhöhen, ist trotzdem gut belegt, nur eben nicht durch diese Studie.
 
 Die moderne Organisationspsychologie beschäftigt sich intensiv mit diesem wichtigen Thema. Der bekannte Forscher Edgar Schein prägte das heutige Verständnis von Corporate Culture (Unternehmenskultur). Er teilt die Kultur eines Betriebs in drei verschiedene Ebenen ein. Die tiefste Ebene umfasst die unbewussten Grundannahmen der Belegschaft. Eine echte Gemeinschaft entsteht nur durch gemeinsam gelebte Werte im Alltag. Du musst diese Werte als Führungskraft aktiv vorleben.
 
@@ -58,7 +58,7 @@ Eine starke Wir-Kultur in der Arbeitswelt sichert die langfristige Zukunft deine
 | **Fachbegriff** | **Bedeutung im Unternehmen** | **Dein konkreter Nutzen** |
 | --- | --- | --- |
 | **Corporate Culture** | Die gelebten Werte und Normen im Betrieb. | Höhere Identifikation der Mitarbeiter. |
-| **Hawthorne-Effekt** | Soziale Anerkennung steigert die Leistung. | Höhere Produktivität ohne Mehrkosten. |
+| **[Hawthorne-Effekt](/hawthorne-effekt-beobachtung-veraendert-verhalten/)** | Wer sich beobachtet weiß, verhält sich anders. | Ergebnisse von Messungen kritisch lesen. |
 | **Steiner-Formel** | Berechnet die Produktivität von Teams. | Aufdeckung und Reduzierung von Verlusten. |
 | **Employer Branding** | Positionierung als attraktiver Arbeitgeber. | Leichtere Rekrutierung von Top-Talenten. |
 | **New Work** | Modernes und flexibles Arbeiten im Alltag. | Höhere Zufriedenheit durch Flexibilität. |
