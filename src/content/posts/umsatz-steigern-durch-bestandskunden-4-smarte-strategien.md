@@ -119,4 +119,6 @@ Mit komplementären Produkten, wiederkehrenden Umsätzen, kluger Preisstrategie 
 
 - Noah Kagan – *Million Dollar Weekend (The Lost Chapter)*
 
+Was einen Bestandskunden genau ausmacht, was er wirklich wert ist und was die Bestandskundenausnahme im UWG erlaubt, erkläre ich im Artikel [Bestandskunden: Definition, Wert und Pflege](/bestandskunden-definition-wert-pflege/).
+
 Sieh dir auch diesen Artikel an: [Verstehen Deiner Zielgruppe: 5 effektive Strategien](/verstehen-deiner-zielgruppe-5-effektive-strategien/)

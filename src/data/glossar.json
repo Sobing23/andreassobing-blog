@@ -748,6 +748,30 @@
   "buchstabe": "B"
  },
  {
+  "begriff": "Bestandskunde",
+  "definition": "Ein Kunde mit einer bestehenden Geschäftsbeziehung. Im Onlinehandel gilt meist als Bestandskunde, wer mindestens zweimal gekauft hat, bei Verträgen und Abos schon mit dem ersten Abschluss. Wer regelmäßig wiederkauft, wird oft als Stammkunde bezeichnet.",
+  "artikel": [
+   {
+    "slug": "bestandskunden-definition-wert-pflege",
+    "titel": "Bestandskunden: Was sie ausmacht, was sie wirklich wert sind und wie du sie pflegst"
+   }
+  ],
+  "anker": "bestandskunde",
+  "buchstabe": "B"
+ },
+ {
+  "begriff": "Bestandskundenausnahme (§ 7 Abs. 3 UWG)",
+  "definition": "Ausnahme vom Einwilligungserfordernis für E-Mail-Werbung. Unternehmen dürfen Kunden ohne Einwilligung per E-Mail werben, wenn sie die Adresse beim Verkauf erhalten haben, nur eigene ähnliche Produkte bewerben, der Kunde nicht widersprochen hat und bei Erhebung und jeder Nutzung klar auf das Widerspruchsrecht hingewiesen wird.",
+  "artikel": [
+   {
+    "slug": "bestandskunden-definition-wert-pflege",
+    "titel": "Bestandskunden: Was sie ausmacht, was sie wirklich wert sind und wie du sie pflegst"
+   }
+  ],
+  "anker": "bestandskundenausnahme",
+  "buchstabe": "B"
+ },
+ {
   "begriff": "Big Data",
   "definition": "Big Data bezeichnet die riesigen Datenmengen, die täglich etwa aus sozialen Medien, Online-Käufen, Website-Interaktionen und Sensoren entstehen. Charakterisiert wird es durch die 3 V's: Volume (Menge), Velocity (Geschwindigkeit) und Variety (Vielfalt der Datenformen). Im Marketing werden diese Daten analysiert, um Kundenverhalten und Markttrends zu verstehen.",
   "artikel": [
@@ -1026,6 +1050,10 @@
    {
     "slug": "kundenabwanderungsrate-wie-man-sie-berechnet-und-was-sie-bedeutet",
     "titel": "Kundenabwanderungsrate - wie man sie berechnet und was sie bedeutet"
+   },
+   {
+    "slug": "bestandskunden-definition-wert-pflege",
+    "titel": "Bestandskunden: Was sie ausmacht, was sie wirklich wert sind und wie du sie pflegst"
    }
   ],
   "anker": "churn-rate",
@@ -1386,6 +1414,10 @@
    {
     "slug": "customer-lifetime-value-der-wert-deiner-kunden",
     "titel": "Customer Lifetime Value (CLV): Berechnung und Wege zur Steigerung"
+   },
+   {
+    "slug": "bestandskunden-definition-wert-pflege",
+    "titel": "Bestandskunden: Was sie ausmacht, was sie wirklich wert sind und wie du sie pflegst"
    }
   ],
   "anker": "customer-lifetime-value",
@@ -2962,6 +2994,10 @@
    {
     "slug": "kundenzufriedenheit-und-kundenbindung-warum-sie-entscheidend-fuer-deinen-erfolg-sind",
     "titel": "Kundenzufriedenheit und Kundenbindung: Warum sie entscheidend für deinen Erfolg sind"
+   },
+   {
+    "slug": "bestandskunden-definition-wert-pflege",
+    "titel": "Bestandskunden: Was sie ausmacht, was sie wirklich wert sind und wie du sie pflegst"
    }
   ],
   "anker": "kundenbindung",
@@ -4866,6 +4902,10 @@
    {
     "slug": "retention-marketing-so-behaeltst-du-deine-kunden",
     "titel": "Retention-Marketing: So behältst du deine Kunden"
+   },
+   {
+    "slug": "bestandskunden-definition-wert-pflege",
+    "titel": "Bestandskunden: Was sie ausmacht, was sie wirklich wert sind und wie du sie pflegst"
    }
   ],
   "anker": "retention-marketing",
@@ -6409,6 +6449,18 @@
    }
   ],
   "anker": "wettbewerbsanalyse",
+  "buchstabe": "W"
+ },
+ {
+  "begriff": "Wiederkaufrate",
+  "definition": "Anteil der Kunden, die nach dem ersten Kauf ein weiteres Mal kaufen. Sie zeigt, wie gut der Schritt vom Neukunden zum Bestandskunden gelingt, und wird am besten getrennt nach dem Monat des ersten Kaufs gemessen.",
+  "artikel": [
+   {
+    "slug": "bestandskunden-definition-wert-pflege",
+    "titel": "Bestandskunden: Was sie ausmacht, was sie wirklich wert sind und wie du sie pflegst"
+   }
+  ],
+  "anker": "wiederkaufrate",
   "buchstabe": "W"
  },
  {

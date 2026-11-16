@@ -13,7 +13,7 @@ Retention Marketing ist ein wichtiger Bestandteil des Marketing-Mix. Es geht dar
 
 ## Was ist Retention-Marketing?
 
-Retention Marketing ist eine Marketingstrategie, die darauf abzielt, bestehende Kunden zu halten und sie zu loyalen Stammkunden zu machen.
+Retention Marketing ist eine Marketingstrategie, die darauf abzielt, bestehende Kunden zu halten und sie zu loyalen Stammkunden zu machen. Wer als Bestandskunde gilt und was Bestandskunden wirklich wert sind, beschreibe ich im Artikel [Bestandskunden: Definition, Wert und Pflege](/bestandskunden-definition-wert-pflege/).
 Retention-Marketing ist wichtig, weil es
 
 1. Deine Kundenbindung verbessert
