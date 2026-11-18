@@ -22,7 +22,7 @@ Digital Analytics bedeutet: Nutzerflüsse erkennen, Ziele definieren und sauber 
 
 ### Web Analytics
 
-Klassisch misst du über JavaScript-Tags und 1-Pixel-Beacons. Du ergänzt Kampagnen-URLs um **UTM-Parameter** wie `utm_source`, `utm_medium`, `utm_campaign`. So ordnest du Zugriffe korrekt zu. Standardisiere Schreibweisen, sonst zerreißt es deine Reports.
+Klassisch misst du über JavaScript-Tags und 1-Pixel-Beacons. Du ergänzt Kampagnen-URLs um **UTM-Parameter** wie `utm_source`, `utm_medium`, `utm_campaign`. So ordnest du Zugriffe korrekt zu. Standardisiere Schreibweisen, sonst zerreißt es deine Reports. Wie so eine Konvention aussieht, zeige ich im Artikel zu [UTM-Parametern](/utm-parameter-kampagnen-tracking/), inklusive Excel-Vorlage.
 
 ### Mobile Tracking
 

@@ -6077,8 +6077,12 @@
  },
  {
   "begriff": "UTM-Parameter",
-  "definition": "UTM-Parameter sind Kampagnenparameter, die an die URLs in Mailings oder anderen Werbemitteln angehängt werden. In einem Web-Analytics-Tool wie Google Analytics siehst du dadurch, von welcher Kampagne Nutzer kamen und wie effektiv sie war. Beispiele sind utm_source für die Quelle und utm_medium für das Werbemedium.",
+  "definition": "UTM-Parameter sind Zusätze am Ende einer Adresse, die einem Analysetool wie Google Analytics oder Matomo sagen, woher ein Besuch kommt. Die wichtigsten sind utm_source für die Quelle, utm_medium für den Kanal und utm_campaign für die Kampagne, ergänzt um utm_content und utm_term. Die Werte unterscheiden Groß- und Kleinschreibung, deshalb braucht jedes Team eine einheitliche Benennung.",
   "artikel": [
+   {
+    "slug": "utm-parameter-kampagnen-tracking",
+    "titel": "UTM-Parameter: So erkennst du, welche Kampagne wirklich wirkt"
+   },
    {
     "slug": "e-mail-tracking-mit-google-analytics",
     "titel": "E-Mail Tracking mit Google Analytics"

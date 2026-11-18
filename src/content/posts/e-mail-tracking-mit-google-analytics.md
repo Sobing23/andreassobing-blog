@@ -41,7 +41,7 @@ Die benutzerdefinierte Kampagnen-URL würde dann wie folgt aussehen:
 
 <https://www.example.com/?utm_source=rabatt-mail&utm_medium=email&utm_campaign=sale2022&utm_content=headergrafik>
 
-Bei den URL Parametern müssen immer utm\_source, utm\_medium und utm\_campaign enthalten sein. utm\_term und utm\_content sind optional. utm\_ ist einfach das erforderliche Präfix für diese Parameter. Ich arbeite bei allen Parametern mit utm\_content um eine bessere Unterscheidung der einzelnen Mailinhalte zu erhalten. Viele E-Mail Tools haben aber auch eine sogenannte Heatmap für die Klicks auf die einzelnen Mailelemente. Schreib am besten die Beschreibungen für die utm Parameter immer klein. So entstehen keine Verwechselung bei unterschiedlichen Kampagnen.
+Bei den URL Parametern müssen immer utm\_source, utm\_medium und utm\_campaign enthalten sein. utm\_term und utm\_content sind optional. utm\_ ist einfach das erforderliche Präfix für diese Parameter. Ich arbeite bei allen Parametern mit utm\_content um eine bessere Unterscheidung der einzelnen Mailinhalte zu erhalten. Viele E-Mail Tools haben aber auch eine sogenannte Heatmap für die Klicks auf die einzelnen Mailelemente. Schreib am besten die Beschreibungen für die utm Parameter immer klein. So entstehen keine Verwechselung bei unterschiedlichen Kampagnen. Eine Vorlage für eine einheitliche Benennung im ganzen Team findest du im Artikel zu [UTM-Parametern](/utm-parameter-kampagnen-tracking/).
 
 Solltest du die URL Parameter für das Tracking am Anfang selber erstelle müssen oder es gerne erst einmal ausprobieren, dann kannst du das Google Tool zur Erstellung nutzen: <https://ga-dev-tools.web.app/campaign-url-builder/>
 
