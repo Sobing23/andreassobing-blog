@@ -35,4 +35,4 @@ Der Schlüssel zur effektiven Nutzung von Prompts liegt darin, klar zu verstehen
 
 Prompts sind mehr als nur Fragen oder Aufgaben; sie sind ein kreatives Werkzeug, das dir hilft, deine Gedanken zu ordnen und deine Ideen zum Ausdruck zu bringen. Indem du lernst, wie du verschiedene Arten von Prompts effektiv einsetzt, kannst du deine Kreativität auf ein neues Level heben und Inhalte schaffen, die nicht nur informativ, sondern auch inspirierend sind.
 
-Sieh dir auch an: [Die verschiedenen Spieler Typen erreichen](/die-verschiedenen-spieler-typen-erreichen/)
+Sieh dir auch an: [Die Spielertypen nach Bartle](/die-verschiedenen-spieler-typen-erreichen/)

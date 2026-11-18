@@ -51,6 +51,8 @@ Hier liegt der Kern des Modells. Eine Belohnung, die immer gleich ausfällt, wir
 | Belohnung der Jagd | Ressourcen, Informationen, Schnäppchen | Ein Feed mit immer neuen Inhalten, Deal-Newsletter |
 | Belohnung des Selbst | Meisterschaft, Kontrolle, Abschluss | Ein leerer Posteingang, ein gelöstes Level im Spiel |
 
+Welche Belohnung wirkt, hängt auch vom Menschen ab. Ein Denkmodell dafür sind die [Spielertypen nach Bartle](/die-verschiedenen-spieler-typen-erreichen/): Wer gern sammelt und Ziele erreicht, reagiert anders als jemand, der vor allem Austausch sucht.
+
 ### 4. Investition (Investment)
 
 Zum Schluss steckt der Nutzer etwas in das Produkt: Zeit, persönliche Daten, Ansehen oder Geld. Eine Playlist, ein gepflegtes Profil, gesammelte Follower. Diese Investition verbessert das Produkt für die nächste Nutzung und macht einen Wechsel teurer. Gleichzeitig bereitet sie oft den nächsten Auslöser vor, etwa wenn auf einen Beitrag eine Antwort kommt.

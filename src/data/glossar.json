@@ -2472,6 +2472,18 @@
   "buchstabe": "H"
  },
  {
+  "begriff": "Hexad-Modell",
+  "definition": "Das Hexad-Modell von Andrzej Marczewski beschreibt sechs Nutzertypen für Gamification: Philanthropists, Socialisers, Free Spirits, Achievers, Players und Disruptors. Anders als die Spielertypen nach Bartle wurde es für Gamification entwickelt. Forscher um Gustavo Tondello veröffentlichten 2016 einen geprüften Fragebogen dazu.",
+  "artikel": [
+   {
+    "slug": "die-verschiedenen-spieler-typen-erreichen",
+    "titel": "Die Spielertypen nach Bartle: Was Achiever, Explorer, Socializer und Killer im Marketing taugen"
+   }
+  ],
+  "anker": "hexad-modell",
+  "buchstabe": "H"
+ },
+ {
   "begriff": "HIPE-Framework",
   "definition": "HIPE steht für High Impact, Probability, and Effort und ist ein Rahmenwerk zur Priorisierung von Projekten. Jedes Projekt wird nach seiner Wirkung auf das Unternehmen, der Wahrscheinlichkeit eines erfolgreichen Abschlusses und dem nötigen Aufwand bewertet. So kannst du entscheiden, welche Projekte den größten Nutzen bringen.",
   "artikel": [
@@ -5509,11 +5521,11 @@
  },
  {
   "begriff": "Spielertypen nach Bartle",
-  "definition": "Die Klassifizierung nach Richard Bartle unterscheidet vier Spielertypen, die sowohl in Spielen als auch in Online-Shops anzutreffen sind. Der Achiever etwa möchte nach konkreten Maßstäben wie Levels, Punkten oder Ranglisten möglichst viel erreichen.",
+  "definition": "Richard Bartle beschrieb 1996 in einem Aufsatz über textbasierte Mehrspielerspiele (MUDs) vier Spielertypen: Achiever, Explorer, Socializer und Killer. Sie ergeben sich aus zwei Achsen: ob es um andere Spieler oder um die Spielwelt geht und ob man auf etwas einwirkt oder mit etwas in Austausch tritt. Der verbreitete Bartle-Test stammt nicht von Bartle selbst. Im Marketing dient das Modell vor allem als Denkwerkzeug für Gamification und Kundenbindung.",
   "artikel": [
    {
     "slug": "die-verschiedenen-spieler-typen-erreichen",
-    "titel": "Die verschiedenen Spieler Typen erreichen"
+    "titel": "Die Spielertypen nach Bartle: Was Achiever, Explorer, Socializer und Killer im Marketing taugen"
    }
   ],
   "anker": "spielertypen-nach-bartle",
