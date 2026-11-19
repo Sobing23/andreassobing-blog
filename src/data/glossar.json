@@ -4701,8 +4701,12 @@
  },
  {
   "begriff": "Psychologische Sicherheit",
-  "definition": "Psychologische Sicherheit bedeutet, dass sich Menschen in einem Team trauen, Probleme anzusprechen, Fehler zuzugeben und Ideen einzubringen, ohne Nachteile zu fürchten. Googles Studie Project Aristotle hat sie als wichtigsten Faktor für erfolgreiche Teams identifiziert.",
+  "definition": "Psychologische Sicherheit ist nach Amy Edmondson die gemeinsame Überzeugung der Mitglieder eines Teams, dass man im Team zwischenmenschliche Risiken eingehen kann: Fragen stellen, Fehler zugeben, widersprechen oder unfertige Ideen einbringen, ohne Bloßstellung oder Bestrafung zu fürchten. In Googles Project Aristotle war sie der wichtigste von fünf Faktoren erfolgreicher Teams. Sie bedeutet nicht, auf Kritik oder hohe Ansprüche zu verzichten.",
   "artikel": [
+   {
+    "slug": "psychologische-sicherheit-im-team",
+    "titel": "Psychologische Sicherheit: Warum gute Teams mehr Fehler melden"
+   },
    {
     "slug": "okrs-und-leistungsbeurteilung",
     "titel": "OKRs und Leistungsbeurteilung: Vier Prinzipien, damit beides zusammenpasst"

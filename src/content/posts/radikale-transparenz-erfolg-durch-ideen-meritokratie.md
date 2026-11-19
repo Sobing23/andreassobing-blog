@@ -64,7 +64,7 @@ Das hilft dabei:
 
 Im Marketing hilft dir radikale Transparenz, schneller auf Marktveränderungen zu reagieren. Wenn Kampagnen nicht funktionieren, muss das sofort offen kommuniziert werden. Budgetverschwendung wird so minimiert.
 
-Du schaffst eine Feedback-Kultur, in der Kreativität gedeiht. Mitarbeiter trauen sich, gewagte Ideen zu präsentieren, weil sie wissen, dass die Kritik konstruktiv ist. Es geht nie um die Person, sondern immer um die Sache. Das steigert die psychologische Sicherheit im Team enorm.
+Du schaffst eine Feedback-Kultur, in der Kreativität gedeiht. Mitarbeiter trauen sich, gewagte Ideen zu präsentieren, weil sie wissen, dass die Kritik konstruktiv ist. Es geht nie um die Person, sondern immer um die Sache. Das steigert die [psychologische Sicherheit](/psychologische-sicherheit-im-team/) im Team enorm.
 
 ## Wie gehst du mit Fehlern produktiv um?
 

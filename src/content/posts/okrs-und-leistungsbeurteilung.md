@@ -29,7 +29,7 @@ Die Autoren ziehen daraus einen klaren Schluss. Ein Beurteilungssystem, das ehrg
 
 Ob mit oder ohne Noten, ob mit dieser oder jener Software: Die technische Gestaltung des Systems ist weniger wichtig als die Qualität und Häufigkeit der Gespräche zwischen Führungskraft und Mitarbeitenden. Die Autoren sagen sogar, dass viele Beurteilungssysteme vor allem schwache Führung ausgleichen sollen. Gute Führungskräfte setzen ohnehin Ziele, geben regelmäßig Feedback und sprechen über Entwicklung und Wohlbefinden.
 
-Als Vorbild nennen sie das Check-in-Modell von Adobe: regelmäßige Gespräche in beide Richtungen über Erwartungen, Entwicklung und Feedback. Die Autoren ergänzen ein viertes Thema, das Wohlbefinden. Wichtig ist außerdem psychologische Sicherheit. Googles Studie Project Aristotle hat gezeigt, dass sie für erfolgreiche Teams wichtiger ist als jeder andere untersuchte Faktor. Wer sich sicher fühlt, spricht Probleme an, gibt Fehler zu und bringt Ideen ein.
+Als Vorbild nennen sie das Check-in-Modell von Adobe: regelmäßige Gespräche in beide Richtungen über Erwartungen, Entwicklung und Feedback. Die Autoren ergänzen ein viertes Thema, das Wohlbefinden. Wichtig ist außerdem [psychologische Sicherheit](/psychologische-sicherheit-im-team/). Googles Studie Project Aristotle hat gezeigt, dass sie für erfolgreiche Teams wichtiger ist als jeder andere untersuchte Faktor. Wer sich sicher fühlt, spricht Probleme an, gibt Fehler zu und bringt Ideen ein.
 
 Was du tun kannst:
 
