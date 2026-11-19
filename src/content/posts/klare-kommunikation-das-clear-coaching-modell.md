@@ -124,6 +124,6 @@ Zwei Einschränkungen gehören dazu. Erstens funktioniert CLEAR nur, wenn du wir
 
 Mein Rat: Fang mit dem letzten Schritt an. Wenn du nach jedem Gespräch fragst, was dein Gegenüber mitnimmt, und einen Termin zum Nachfassen vereinbarst, ändert sich schon viel. Die anderen Schritte kommen mit der Übung.
 
-Weitere Coaching-Modelle findest du in den Artikeln zum [FUEL-Modell](/der-turbo-fuer-deine-kommunikation-das-fuel-coaching-modell/), zur [OSKAR-Methode](/die-oskar-coaching-methode-2/) und zum [GROW-Modell](/das-grow-modell-dein-schluessel-zu-effektiven-marketingstrategien/). Alle Artikel zum Thema stehen im Handbuch-Kapitel [Führung und Organisation](/thema/fuehrung/).
+Weitere Coaching-Modelle findest du in den Artikeln zum [FUEL-Modell](/der-turbo-fuer-deine-kommunikation-das-fuel-coaching-modell/), zu dem es ebenfalls ein Video gibt, zur [OSKAR-Methode](/die-oskar-coaching-methode-2/) und zum [GROW-Modell](/das-grow-modell-dein-schluessel-zu-effektiven-marketingstrategien/). Alle Artikel zum Thema stehen im Handbuch-Kapitel [Führung und Organisation](/thema/fuehrung/).
 
 *Quelle: [Think Insights: The CLEAR Model](https://thinkinsights.net/leadership/clear-model)*

@@ -4,7 +4,7 @@ seoTitle: "FUEL-Modell: 4 Schritte, Beispiel und Vorlage"
 slug: "der-turbo-fuer-deine-kommunikation-das-fuel-coaching-modell"
 date: 2023-09-05T22:47:36
 updated: 2026-11-19T20:00:00
-description: "Das FUEL-Modell von John Zenger und Kathleen Stinnett in vier Schritten: Frame, Understand, Explore und Lay out. Mit Beispielgespräch, Vorlage mit Leitfragen und Vergleich mit GROW und CLEAR."
+description: "Das FUEL-Modell von John Zenger und Kathleen Stinnett in vier Schritten: Frame, Understand, Explore und Lay out. Mit Beispielgespräch, Vorlage mit Leitfragen, Vergleich mit GROW und CLEAR und Erklärvideo."
 image: "/wp-content/uploads/2026/11/fuel-coaching-modell-titelbild.jpg"
 category: "strategie"
 vgwort: "https://vg05.met.vgwort.de/na/a113dfb116884b27895625a65d3e8d91"
@@ -19,6 +19,12 @@ tags:
 Donnerstagabend, kurz nach sieben. Sabine leitet ein Marketingteam und sieht, dass bei ihrer Kollegin Lena noch Licht brennt. Lena baut die Reports, prüft jede Anzeige selbst und beantwortet nebenbei die Fragen der Werkstudentin. Zwei Kampagnen sind in diesem Monat zu spät gestartet, weil alles über Lenas Tisch läuft. Sabine sagt im Vorbeigehen: „Du musst mehr abgeben.“ Lena nickt. In der Woche darauf brennt das Licht wieder.
 
 Sabine hat ein Thema, das sie ansprechen will, und sie will trotzdem nicht einfach eine Anweisung geben. Genau für diese Lage ist das FUEL-Modell gemacht. Es gibt einem Gespräch vier Schritte, vom Einstieg bis zum Plan. Sabine und Lena sind ausgedachte Figuren, an denen ich die Schritte zeige.
+
+## Das Video zum Artikel
+
+In knapp fünf Minuten erkläre ich das Modell am Beispiel von Sabine und Lena.
+
+<div class="video" data-provider="youtube" data-id="sdLlCDCciKk"></div>
 
 ## Warum der gute Rat im Vorbeigehen nichts ändert
 
