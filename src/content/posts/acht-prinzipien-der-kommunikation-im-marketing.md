@@ -34,7 +34,7 @@ Hancock streicht deshalb zwei Cs, konkret und rücksichtsvoll, und ergänzt drei
 
 ### 1. Klarheit: Was soll passieren?
 
-Klarheit beginnt nicht beim Text, sondern beim Ziel. Bevor du schreibst, legst du fest, was die Botschaft erreichen soll und an welcher Kennzahl du das misst. Eine Landingpage, die Termine bringen soll, misst gebuchte Termine und nicht Seitenaufrufe.
+Klarheit beginnt nicht beim Text, sondern beim Ziel. Bevor du schreibst, legst du fest, was die Botschaft erreichen soll und an welcher Kennzahl du das misst. Eine Landingpage, die Termine bringen soll, misst gebuchte Termine und nicht Seitenaufrufe. Wie du die Botschaft selbst auf einen Satz verdichtest, zeigt die [Message Map](/was-du-ueber-die-message-map-wissen-musst/).
 
 Hancock nennt dazu zwei Werkzeuge:
 

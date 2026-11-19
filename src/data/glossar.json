@@ -60,6 +60,18 @@
   "buchstabe": "0–9"
  },
  {
+  "begriff": "27/9/3-Regel",
+  "definition": "Faustregel aus der Risiko- und Krisenkommunikation von Vincent Covello: Eine Botschaft sollte aus höchstens 27 Wörtern bestehen, die sich in 9 Sekunden sagen lassen, und höchstens drei Kernaussagen enthalten. Covello begründet sie damit, dass Menschen unter Stress weniger Informationen aufnehmen können. Verwandt ist die Message Map.",
+  "artikel": [
+   {
+    "slug": "was-du-ueber-die-message-map-wissen-musst",
+    "titel": "Die Message Map: So bringst du deine Botschaft in 7 Sekunden auf den Punkt"
+   }
+  ],
+  "anker": "27-9-3-regel",
+  "buchstabe": "0–9"
+ },
+ {
   "begriff": "3 Financial Statements",
   "definition": "Die 3 Financial Statements sind Bilanz, Gewinn- und Verlustrechnung (GuV) und Cashflow-Statement. Zusammen zeigen sie Vermögen, Ertrag und Liquidität eines Unternehmens und bilden die Grundlage jeder Unternehmensanalyse. Die Bilanz bildet Vermögen (Aktiva) und Kapital (Passiva) zu einem Stichtag ab.",
   "artikel": [
@@ -3673,11 +3685,11 @@
  },
  {
   "begriff": "Message Map",
-  "definition": "Eine Message Map ist ein Werkzeug, mit dem eine Botschaft vereinfacht, verdeutlicht und verstärkt wird. Ziel ist eine starke Botschaft, die Aufmerksamkeit erregt, in Erinnerung bleibt und Käufer zum Handeln inspiriert. Die Kernaussage sollte sich in etwa 7 Sekunden oder mit maximal 23 Wörtern vermitteln lassen.",
+  "definition": "Eine Message Map ordnet eine Botschaft in drei Ebenen: eine Kernbotschaft von höchstens 23 Wörtern, die sich in etwa sieben Sekunden sagen lässt, drei positive Punkte als Gründe und dazu jeweils drei Belege und Beispiele. Laut Crystal Clear Communications entstand sie in den 1980er Jahren für das Medientraining von Führungskräften. Dieselbe Botschaft lässt sich so auf sieben Sekunden, zwei Minuten oder zwanzig Minuten ausdehnen.",
   "artikel": [
    {
     "slug": "was-du-ueber-die-message-map-wissen-musst",
-    "titel": "Was du über die Message Map wissen musst"
+    "titel": "Die Message Map: So bringst du deine Botschaft in 7 Sekunden auf den Punkt"
    }
   ],
   "anker": "message-map",
