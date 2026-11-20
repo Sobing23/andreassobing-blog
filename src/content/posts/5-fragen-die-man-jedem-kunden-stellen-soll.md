@@ -33,7 +33,7 @@ Die fünf Fragen bringen dir am meisten, wenn du sie gezielt einsetzt und die An
 1. Lege den Zeitpunkt fest. Gut geeignet ist die Zeit kurz nach dem ersten Kauf, solange die Entscheidung noch frisch ist.
 2. Halte die Befragung kurz. Stelle offene Fragen und verzichte auf Pflichtfelder, die nichts mit deinem Ziel zu tun haben.
 3. Ordne die Antworten in Kategorien, etwa Preis, Service, Empfehlung oder Produktqualität. So erkennst du Muster statt Einzelmeinungen.
-4. Übernimm die Formulierungen deiner Kunden. Die Antworten auf Frage 5 liefern dir Suchbegriffe für SEO und Anzeigen. Die Antworten auf Frage 1 und 2 zeigen dir, welche Argumente du auf Landingpages und in Mailings nach vorne stellst.
+4. Übernimm die Formulierungen deiner Kunden. Die Antworten auf Frage 5 liefern dir Suchbegriffe für SEO und Anzeigen. Die Antworten auf Frage 1 und 2 zeigen dir, welche Argumente du auf [Landingpages](/landing-page-aufbau-beispiele-checkliste/) und in Mailings nach vorne stellst.
 5. Melde dich bei kritischen Antworten zurück. Wer Kritik äußert, erwartet eine Reaktion.
 
 Ein Beispiel: Ein Onlineshop für Kaffee befragt Neukunden einige Tage nach der ersten Lieferung. Viele nennen als Kaufgrund die frische Röstung, kaum jemand den Preis. Der Shop rückt daraufhin das Röstdatum in Produkttexte und Betreffzeilen und testet diese Botschaft gegen die bisherige Preisbotschaft.

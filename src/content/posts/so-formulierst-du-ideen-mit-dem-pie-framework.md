@@ -34,7 +34,7 @@ Um das PIE Framework anzuwenden, bewerte jede Idee für jeden der drei Faktoren 
 
 ## Beispiel für das PIE Framework
 
-Angenommen, du hast eine Idee für die Optimierung einer Landing Page. Die Bewertungen für Potential, Importance und Ease sind wie folgt:
+Angenommen, du hast eine Idee für die Optimierung einer [Landing Page](/landing-page-aufbau-beispiele-checkliste/). Die Bewertungen für Potential, Importance und Ease sind wie folgt:
 
 Potential: 8
 Wichtigkeit: 9

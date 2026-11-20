@@ -92,7 +92,7 @@ Deine Ziele in Evaluate:
 
 Konkrete Hebel:
 
-- Klarer Value Proposition auf der Landingpage
+- Klarer Value Proposition auf der [Landingpage](/landing-page-aufbau-beispiele-checkliste/)
 - Friction-loser Sign-up (SSO, wenige Felder)
 - Smarte Voreinstellungen im Produkt
 

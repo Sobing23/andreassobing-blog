@@ -57,7 +57,7 @@ Deine Geschäftsidee ist nur dann wertvoll, wenn Kunden dafür bezahlen. Teste s
 
 1. **Direkte Ansprache:** Kontaktiere potenzielle Kunden persönlich.
 2. **Produkte auf Marktplätzen listen:** Nutze bestehende Plattformen.
-3. **Landing Pages erstellen:** Erfasse Interesse und Vorbestellungen online.
+3. **[Landing Pages](/landing-page-aufbau-beispiele-checkliste/) erstellen:** Erfasse Interesse und Vorbestellungen online.
 
 Frage gezielt nach Zahlungen, nicht nur nach Meinungen. Dies bringt dir wertvolles Feedback und zeigt echte Nachfrage.
 

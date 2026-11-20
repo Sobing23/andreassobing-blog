@@ -119,7 +119,7 @@ Angles werden oft mit Hooks verwechselt. Der Angle ist die Argumentationslinie, 
 
 ### 6) **PAS** (im Transkript als „PRS“) – Problem, Agitate, Solution
 
-**Ziel:** Klassische Copy-Struktur für Ads, Reels, Landingpages.
+**Ziel:** Klassische Copy-Struktur für Ads, Reels, [Landingpages](/landing-page-aufbau-beispiele-checkliste/).
 
 **Beispiel-Prompt:**
 

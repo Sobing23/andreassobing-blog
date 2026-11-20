@@ -127,7 +127,7 @@ Wähle Werkzeuge, die Reibung **vermeiden**, nicht erhöhen.
 
 ## Beispiel: Marketing-Team entscheidet A/B-Test
 
-**Zweck:** Conversion-Rate der Landingpage steigern.  
+**Zweck:** Conversion-Rate der [Landingpage](/landing-page-aufbau-beispiele-checkliste/) steigern.  
 **Ergebnis:** Entscheidung über Testvariante für das Hero-Element.
 
 **Ablauf in 20 Minuten:**

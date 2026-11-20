@@ -86,7 +86,7 @@ Die Kunden suchen bereits aktiv und prüfen, welches Produkt oder welche Dienstl
 
 #### Phase 3: Convert, verkaufen
 
-Jetzt geht es darum, den Kunden endgültig zu überzeugen. In dieser Phase bist du im Verkaufsmodus. Du führst Interessenten auf Landingpages oder zu Referenzen. Entscheidend ist ein klar erkennbarer Mehrwert, der zeigt, warum sie sich für dein Angebot entscheiden sollten.
+Jetzt geht es darum, den Kunden endgültig zu überzeugen. In dieser Phase bist du im Verkaufsmodus. Du führst Interessenten auf [Landingpages](/landing-page-aufbau-beispiele-checkliste/) oder zu Referenzen. Entscheidend ist ein klar erkennbarer Mehrwert, der zeigt, warum sie sich für dein Angebot entscheiden sollten.
 
 ### Die Modelle im Vergleich
 

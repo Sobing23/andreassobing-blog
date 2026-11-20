@@ -51,7 +51,7 @@ Scribble macht Spaß und es kann wirklich jeder. Worauf wartet Ihr noch? Viel Sp
 
 ## Ergänzung Oktober 2026
 
-So nutzt du Scribbles im Marketing-Alltag, zum Beispiel für eine neue Landingpage:
+So nutzt du Scribbles im Marketing-Alltag, zum Beispiel für eine neue [Landingpage](/landing-page-aufbau-beispiele-checkliste/):
 
 1. Kläre vorab das Ziel der Seite und die wichtigste Handlung, die Besucher ausführen sollen.
 2. Zeichne in wenigen Minuten mehrere grobe Varianten. Beschränke dich auf Kästen für Bilder, Linien für Text und eine Markierung für den Button.

@@ -13,7 +13,7 @@ tags:
 wpId: 4014
 ---
 
-Extern Adressen generieren mit der Co Registrierung (Co Reg). Diese sind häufig Landingpages mit Gewinnspielen mit dem Ziel Adressen zu generieren. Um es kurz zu machen. Mach es nicht. Die Qualität der Adressen ist sehr schlecht, da viele auch nur Fake oder wenig genutzte E-Mail Adressen angeben. Zusätzlich sind dann  7 oder mehr Unternehmen beteiligt. Diese können dann alle am Ende den Empfänger anschreiben. Das schädigt eher deine Marke und hilft dir nicht weiter.
+Extern Adressen generieren mit der Co Registrierung (Co Reg). Diese sind häufig [Landingpages](/landing-page-aufbau-beispiele-checkliste/) mit Gewinnspielen mit dem Ziel Adressen zu generieren. Um es kurz zu machen. Mach es nicht. Die Qualität der Adressen ist sehr schlecht, da viele auch nur Fake oder wenig genutzte E-Mail Adressen angeben. Zusätzlich sind dann  7 oder mehr Unternehmen beteiligt. Diese können dann alle am Ende den Empfänger anschreiben. Das schädigt eher deine Marke und hilft dir nicht weiter.
 
 Was ich allerdings empfehlen kann sind Standalone Mailings. Dies sind Newsletter mit nur deinen Inhalten, versendet von einer anderen Seite an deren Empfänger. Zuerst musst du einmal sehen wer deine Zielgruppe ist. Hier macht es meist Sinn direkt zu sogenannten List Brokern wie [AZ Direct](https://www.az-direct.com/site/multichannel-marketing-produkte/e-mail-marketing/) zu gehen. Diese haben 45 Millionen E-Mail Adressen in ihrem Verteiler.
 

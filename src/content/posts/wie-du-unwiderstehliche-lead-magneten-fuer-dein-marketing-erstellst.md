@@ -36,7 +36,7 @@ Du solltest in einer begleitenden E-Mail oder in den Leadmagneten selbst auf dei
 
 ## 5. Ermögliche einen einfachen Download
 
-Deine Leadmagneten sollten direkt auf einer Landingpage platziert sein und der Download sollte problemlos möglich sein. Stelle sicher, dass der Download-Button gut sichtbar ist und der Download-Prozess intuitiv und ohne technische Hürden abläuft.
+Deine Leadmagneten sollten direkt auf einer [Landingpage](/landing-page-aufbau-beispiele-checkliste/) platziert sein und der Download sollte problemlos möglich sein. Stelle sicher, dass der Download-Button gut sichtbar ist und der Download-Prozess intuitiv und ohne technische Hürden abläuft.
 
 ## 6. Sei spezifisch
 

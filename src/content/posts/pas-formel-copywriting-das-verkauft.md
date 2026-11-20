@@ -78,7 +78,7 @@ Die PAS Formel passt fast überall. Besonders gut wirkt sie dort, wo du schnell 
 
 Typische Einsatzorte:
 
-- Landingpage
+- [Landingpage](/landing-page-aufbau-beispiele-checkliste/)
 - E-Mail-Marketing
 - Social Ads
 - Produktseite

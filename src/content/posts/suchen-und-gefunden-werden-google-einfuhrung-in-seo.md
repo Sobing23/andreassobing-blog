@@ -57,7 +57,7 @@ Der Text beschreibt, wie Crawler und Indexer arbeiten. Daraus ergibt sich eine e
 
 Typische Fehler im Marketing:
 
-- Landingpages für Kampagnen werden bewusst versteckt und später trotzdem als SEO-Seite erwartet.
+- [Landingpages](/landing-page-aufbau-beispiele-checkliste/) für Kampagnen werden bewusst versteckt und später trotzdem als SEO-Seite erwartet.
 - Nach dem Ende einer Aktion wird die Seite gelöscht, obwohl andere Seiten darauf verlinken. Eine Weiterleitung auf eine passende Seite erhält den Nutzen der Links.
 - Mehrere Sprachversionen ohne klare Kennzeichnung.
 

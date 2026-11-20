@@ -61,7 +61,7 @@ Sobald der Plan steht, geht es an die Umsetzung. Hier wird die kreative Idee in 
 
 ### **Produktion**
 
-Abhängig von der Art deiner Kampagne kann die Produktion verschiedene Elemente umfassen, von der Erstellung von Anzeigen und Videos bis hin zur Gestaltung von Social-Media-Inhalten oder der Programmierung von Landingpages. Achte darauf, dass alle Elemente der Kampagne konsistent und auf deine Marke abgestimmt sind.
+Abhängig von der Art deiner Kampagne kann die Produktion verschiedene Elemente umfassen, von der Erstellung von Anzeigen und Videos bis hin zur Gestaltung von Social-Media-Inhalten oder der Programmierung von [Landingpages](/landing-page-aufbau-beispiele-checkliste/). Achte darauf, dass alle Elemente der Kampagne konsistent und auf deine Marke abgestimmt sind.
 
 ### **Launch und Monitoring**
 

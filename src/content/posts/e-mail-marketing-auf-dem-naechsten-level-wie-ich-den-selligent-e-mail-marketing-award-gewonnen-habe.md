@@ -29,7 +29,7 @@ Die Kampagne für den Selligent E-Mail-Marketing Award, die wir "Road to Opticia
 
 **Datengetriebener Inhalt:** Je nachdem, welche Brille der Kunde zuletzt gekauft hatte, wurde ihm ein personalisiertes Angebot gemacht. Für diejenigen, die noch keine Brille gekauft hatten, wurde ein Anreiz geschaffen, dies zu tun.
 
-**Sternzeichen-Personalisierung:** Ein weiteres Highlight war die Integration von Horoskopen. Basierend auf dem Geburtsdatum des Kunden wurde ihm sein Sternzeichen zusammen mit einer Brille präsentiert. Jedes Sternzeichen hatte auch eine eigene Landing Page mit einem spaßigen Horoskop und speziellen Angeboten.
+**Sternzeichen-Personalisierung:** Ein weiteres Highlight war die Integration von Horoskopen. Basierend auf dem Geburtsdatum des Kunden wurde ihm sein Sternzeichen zusammen mit einer Brille präsentiert. Jedes Sternzeichen hatte auch eine eigene [Landing Page](/landing-page-aufbau-beispiele-checkliste/) mit einem spaßigen Horoskop und speziellen Angeboten.
 
 **Ergebnisse, die sprechen:** Die Kampagne erzielte eine beeindruckende Öffnungsrate von 55,42%. Durch die Kampagne konnten wir 2.732 neue Geburtsdaten sammeln und 2.140 neue User gewinnen. Insgesamt generierte die Kampagne einen Umsatz von über 50.000 €.
 

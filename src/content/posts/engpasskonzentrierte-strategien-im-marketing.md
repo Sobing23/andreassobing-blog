@@ -60,7 +60,7 @@ Begrenzte Ressourcen können die Umsetzung von Strategien erschweren. Priorisier
 
 ### Beispiel 1: Optimierung der Kundenakquise
 
-**Herausforderung**: Ein E-Commerce-Unternehmen stellt fest, dass die hohe Absprungrate auf seiner Landing-Page ein wesentlicher Engpass für die Kundengewinnung ist.
+**Herausforderung**: Ein E-Commerce-Unternehmen stellt fest, dass die hohe Absprungrate auf seiner [Landing-Page](/landing-page-aufbau-beispiele-checkliste/) ein wesentlicher Engpass für die Kundengewinnung ist.
 
 **Strategie**: Das Unternehmen führt A/B-Tests durch, um verschiedene Elemente der Landing-Page zu optimieren, einschließlich des Call-to-Action-Buttons, der Produktbeschreibungen und der Bilder.
 

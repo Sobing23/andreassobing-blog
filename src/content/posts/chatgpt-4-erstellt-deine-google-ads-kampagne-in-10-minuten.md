@@ -38,7 +38,7 @@ Nach der Auswahl deiner Keywords ist der nächste Schritt die Erstellung von Anz
 
 ### Kostenschätzung
 
-ChatGPT-4 kann dir auch bei der finanziellen Planung deiner Kampagne helfen. Basierend auf den ausgewählten Keywords, der Leistung der Anzeigen und der Conversion-Rate deiner Landing Page kann die KI eine Schätzung der Kosten pro Akquisition und des erwarteten ROI liefern.
+ChatGPT-4 kann dir auch bei der finanziellen Planung deiner Kampagne helfen. Basierend auf den ausgewählten Keywords, der Leistung der Anzeigen und der Conversion-Rate deiner [Landing Page](/landing-page-aufbau-beispiele-checkliste/) kann die KI eine Schätzung der Kosten pro Akquisition und des erwarteten ROI liefern.
 
 ## Zusammenfassung und 3-Monats-Strategie
 

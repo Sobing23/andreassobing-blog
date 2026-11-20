@@ -15,7 +15,7 @@ wpId: 4149
 
 Welche E-Mail Kampagnen gibt es zu Weihnachten? Die Weihnachtsfeiertage sind der 24.12. bis zum 26.12. Diese sind mit dem Vorverkäufen und Weihnachtsbesorgungen besonders umsatzstark. Allerdings empfehle ich dir nicht speziell nur die Weihnachtskampagne zu planen sondern eine Adventskalender.
 
-Diesen aber nicht klassisch mit 24 Türchen sondern 31. Jetzt musst du für den Monat Dezember eine Landingpage planen. Auf dieser ist der Kalender mit allen Türchen für die unterschiedlichen Tage. Jetzt kommen wir zum wirklich spannendem. Die Türchen sind zu Beginn alle offen und jeden Tag schließt sich ein Türchen. Damit hebst du dich vom Wettbewerb ab. Das Schließen der Bilder (Türen) kann im ersten Schritt auch manuell vorgenommen werden sollten noch nicht die technischen Mittel vorliegen.
+Diesen aber nicht klassisch mit 24 Türchen sondern 31. Jetzt musst du für den Monat Dezember eine [Landingpage](/landing-page-aufbau-beispiele-checkliste/) planen. Auf dieser ist der Kalender mit allen Türchen für die unterschiedlichen Tage. Jetzt kommen wir zum wirklich spannendem. Die Türchen sind zu Beginn alle offen und jeden Tag schließt sich ein Türchen. Damit hebst du dich vom Wettbewerb ab. Das Schließen der Bilder (Türen) kann im ersten Schritt auch manuell vorgenommen werden sollten noch nicht die technischen Mittel vorliegen.
 
 <div class="video" data-provider="youtube" data-id="hIPfaVw5gf0"></div>
 

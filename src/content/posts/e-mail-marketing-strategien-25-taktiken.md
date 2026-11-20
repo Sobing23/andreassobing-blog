@@ -85,7 +85,7 @@ B2B braucht Beweise. Liefere Tiefe und klare Next Steps.
 
 ### Fach-Content priorisieren
 
-Setze Guides, Case-Studys, E-Books und Demos ein. Zeige Nutzen am echten Beispiel. Verlinke auf passende Landingpages.
+Setze Guides, Case-Studys, E-Books und Demos ein. Zeige Nutzen am echten Beispiel. Verlinke auf passende [Landingpages](/landing-page-aufbau-beispiele-checkliste/).
 
 ### Drip-Strecken planen
 

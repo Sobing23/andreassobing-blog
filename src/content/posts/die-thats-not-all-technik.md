@@ -53,7 +53,7 @@ In Werbekampagnen kannst du die "That's Not All"-Technik verwenden, um die Attra
 
 ### Online-Marketing
 
-Auch im Online-Marketing ist diese Technik sehr effektiv. Du kannst sie in E-Mail-Kampagnen, auf Landing Pages oder in Social Media Posts einsetzen.
+Auch im Online-Marketing ist diese Technik sehr effektiv. Du kannst sie in E-Mail-Kampagnen, auf [Landing Pages](/landing-page-aufbau-beispiele-checkliste/) oder in Social Media Posts einsetzen.
 
 **Beispiel:** Eine E-Mail-Kampagne könnte ein Sonderangebot für ein Produkt präsentieren und dann Schritt für Schritt weitere kostenlose Produkte oder Rabatte hinzufügen.
 

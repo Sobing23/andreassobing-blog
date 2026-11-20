@@ -22,7 +22,7 @@ In diesem Artikel zeige ich dir,
 
 Die Signatur in deinen E-Mails fügt deiner Kommunikation quasi automatisch Werbe-Inhalte hinzu. Jeder Empfänger sieht beim Öffnen deiner Nachricht auch Links und Informationen, die du prominent platzierst.
 
-Im Gegensatz zu offensichtlichen Werbe-E-Mails wird deine Signatur aber nicht als störend empfunden. Sie wird als fester Bestandteil deiner E-Mail wahrgenommen. Nutze dieses Potenzial, um auf Landingpages, Blog-Artikel oder Kampagnen aufmerksam zu machen.
+Im Gegensatz zu offensichtlichen Werbe-E-Mails wird deine Signatur aber nicht als störend empfunden. Sie wird als fester Bestandteil deiner E-Mail wahrgenommen. Nutze dieses Potenzial, um auf [Landingpages](/landing-page-aufbau-beispiele-checkliste/), Blog-Artikel oder Kampagnen aufmerksam zu machen.
 
 ## Was kannst du in deiner Signatur bewerben?
 

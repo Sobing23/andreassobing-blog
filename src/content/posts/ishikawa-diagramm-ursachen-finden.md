@@ -14,7 +14,7 @@ tags:
   - "Methoden"
 ---
 
-Die Conversion-Rate einer Landingpage sinkt von einem Monat auf den anderen um ein Drittel. Im Team gibt es sofort fünf Erklärungen: das neue Design, die teurere Anzeige, der Feiertag, ein Fehler im Tracking, die Konkurrenz. Jede klingt plausibel, und meist setzt sich die Erklärung durch, die am lautesten vertreten wird.
+Die Conversion-Rate einer [Landingpage](/landing-page-aufbau-beispiele-checkliste/) sinkt von einem Monat auf den anderen um ein Drittel. Im Team gibt es sofort fünf Erklärungen: das neue Design, die teurere Anzeige, der Feiertag, ein Fehler im Tracking, die Konkurrenz. Jede klingt plausibel, und meist setzt sich die Erklärung durch, die am lautesten vertreten wird.
 
 Das Ishikawa-Diagramm ist ein Werkzeug gegen genau diese Situation. Es sammelt alle möglichen Ursachen eines Problems, ordnet sie nach Kategorien und macht sichtbar, wo man genauer hinschauen sollte. Weil es aussieht wie das Skelett eines Fisches, heißt es auch Fischgrätendiagramm. Ein dritter Name beschreibt am besten, was es tut: Ursache-Wirkungs-Diagramm.
 

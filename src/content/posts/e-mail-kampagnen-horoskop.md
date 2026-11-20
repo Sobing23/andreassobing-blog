@@ -12,7 +12,7 @@ tags:
 wpId: 4152
 ---
 
-Warum solltest du eine  E-Mail Kampagne für ein  Horoskop machen? Eine meiner außergewöhnlichsten Kampagnen war ein Brillenhoroskop für unsere Kunden. Allerdings nimmt diese Kampagne extrem viel Zeit in Anspruch. Du musst nicht nur die jeweiligen Horoskope der Sternzeichen zusammen schreiben, sondern auch Grafiken, Newsletter und Landingpages entwerfen. Und das sind immerhin 12 Sternzeichen. Trotz allem möchte ich dir die Möglichkeit vorstellen. Mit der Kampagne solltest du aber nicht starten. Der Vorteil liegt in der Einzigartigkeit, da diese Kampagnen nur wenig versendet werden. Du benötigst lediglich den Geburtstag des Empfängers.
+Warum solltest du eine  E-Mail Kampagne für ein  Horoskop machen? Eine meiner außergewöhnlichsten Kampagnen war ein Brillenhoroskop für unsere Kunden. Allerdings nimmt diese Kampagne extrem viel Zeit in Anspruch. Du musst nicht nur die jeweiligen Horoskope der Sternzeichen zusammen schreiben, sondern auch Grafiken, Newsletter und [Landingpages](/landing-page-aufbau-beispiele-checkliste/) entwerfen. Und das sind immerhin 12 Sternzeichen. Trotz allem möchte ich dir die Möglichkeit vorstellen. Mit der Kampagne solltest du aber nicht starten. Der Vorteil liegt in der Einzigartigkeit, da diese Kampagnen nur wenig versendet werden. Du benötigst lediglich den Geburtstag des Empfängers.
 
 Laut einer gemeinsamen Umfrage von Statista und YouGov glauben jeweils 61 Prozent der 18- bis 24-Jährigen sowie die 35- bis 44-Jährigen an Horoskope. Bei den 25- bis 34-Jährigen glauben immer noch 56 Prozent an Vorhersagen aus Horoskopen. Damit ist auf jeden ein generelles Interesse an Horoskopen in den Altersgruppen vorhanden.
 

@@ -17,7 +17,7 @@ tags:
   - "Führung"
 ---
 
-Das Team hat zwei Entwürfe für eine Landingpage vorbereitet. Die Daten aus einem ersten Test sprechen leicht für Entwurf A. Dann sagt die Geschäftsführerin: „Mir gefällt B besser.“ Die Diskussion ist beendet, B geht live. Genau dieses Muster beschreibt der HiPPO-Effekt. HiPPO steht für „Highest Paid Person's Opinion“, die Meinung der am besten bezahlten Person im Raum.
+Das Team hat zwei Entwürfe für eine [Landingpage](/landing-page-aufbau-beispiele-checkliste/) vorbereitet. Die Daten aus einem ersten Test sprechen leicht für Entwurf A. Dann sagt die Geschäftsführerin: „Mir gefällt B besser.“ Die Diskussion ist beendet, B geht live. Genau dieses Muster beschreibt der HiPPO-Effekt. HiPPO steht für „Highest Paid Person's Opinion“, die Meinung der am besten bezahlten Person im Raum.
 
 <figure><img src="/wp-content/uploads/2023/03/highest-paid-persons-opinion1.jpg" alt="Cartoon: Ein Team präsentiert Daten zu Option A, ein Nilpferd am Kopfende des Tisches entscheidet sich trotzdem für Option B" loading="lazy"><figcaption>Cartoon: Tom Fishburne, marketoonist.com</figcaption></figure>
 

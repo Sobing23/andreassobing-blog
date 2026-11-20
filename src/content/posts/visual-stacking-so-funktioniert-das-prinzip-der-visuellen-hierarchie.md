@@ -56,7 +56,7 @@ Ein Call-to-Action-Button („Jetzt kaufen“) sollte:
 
 ### 1. **Webdesign**
 
-Seitenaufbau, Landingpages, Blogartikel – überall, wo Inhalte strukturiert werden müssen.  
+Seitenaufbau, [Landingpages](/landing-page-aufbau-beispiele-checkliste/), Blogartikel – überall, wo Inhalte strukturiert werden müssen.  
 Ein typisches Beispiel ist die „F-Pattern“-Lesebewegung, bei der Nutzer zuerst links oben beginnen und dann horizontal und vertikal nach unten scannen.
 
 ### 2. **Marketingmaterialien**

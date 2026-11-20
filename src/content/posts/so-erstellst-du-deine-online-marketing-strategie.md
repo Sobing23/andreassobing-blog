@@ -83,7 +83,7 @@ Nutze Retargeting, um Nutzer, die bereits mit deiner Marke interagiert haben, er
 
 ### Weitere sinnvolle Ergänzungen
 
-- **A/B-Testing:** Um die Wirksamkeit verschiedener Marketingansätze zu testen, könnte der Shop A/B-Tests mit verschiedenen Landing Pages oder E-Mail-Marketing-Kampagnen durchführen.
+- **A/B-Testing:** Um die Wirksamkeit verschiedener Marketingansätze zu testen, könnte der Shop A/B-Tests mit verschiedenen [Landing Pages](/landing-page-aufbau-beispiele-checkliste/) oder E-Mail-Marketing-Kampagnen durchführen.
 - **Influencer-Marketing:** Eine Partnerschaft mit Influencern, die sich für Nachhaltigkeit interessieren, könnte die Glaubwürdigkeit der Marke steigern und die Markenbekanntheit erhöhen.
 - **Kundenfeedback einholen:** Durch regelmäßige Umfragen und die Analyse von Kundenbewertungen kann der Shop direktes Feedback erhalten, um Produkte und Marketingstrategien weiter zu verbessern.
 

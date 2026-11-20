@@ -22,7 +22,7 @@ So erzielst du Klarheit. So steuerst du Aufmerksamkeit. So erhöhst du Conversio
 ## PASTOR Ursprung: Wer die Formel bekannt machte
 
 Die Formel wird dem Copywriter **Ray Edwards** zugeschrieben. Er nutzte sie in Trainings und in seinem Buch „How to Write Copy That Sells“. Ziel ist klare, ethische Verkaufs-Copy. Keine Tricks. Stattdessen echte Problemlösung und Nutzen.  
-Die Idee ist zeitlos. Sie passt auf Landingpages, E-Mails, Ads und Pitches.
+Die Idee ist zeitlos. Sie passt auf [Landingpages](/landing-page-aufbau-beispiele-checkliste/), E-Mails, Ads und Pitches.
 
 ## PASTOR Nutzen: Warum die Methode wirkt
 

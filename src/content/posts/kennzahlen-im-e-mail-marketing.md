@@ -48,7 +48,7 @@ Gibt an wie viele Empfänger sich vom Erhalt weiterer Mailings abgemeldet haben.
 
 **Abmelderate** (%) = Abmeldungen : (Anzahl der Empfänger – Bounces) \* 100
 
-Erfolgsformel: Optimierung der Versandhäufigkeit und des Versandzeitpunkts. Zusätzlich die Landingpage für die Abmeldung überarbeiten beispielsweise durch ein Opt-Over. Dies ist ein Hinweis für andere Kanäle wie Facebook, YouTube oder Instagram sein wo Empfänger ebenfalls Infos erhalten.
+Erfolgsformel: Optimierung der Versandhäufigkeit und des Versandzeitpunkts. Zusätzlich die [Landingpage](/landing-page-aufbau-beispiele-checkliste/) für die Abmeldung überarbeiten beispielsweise durch ein Opt-Over. Dies ist ein Hinweis für andere Kanäle wie Facebook, YouTube oder Instagram sein wo Empfänger ebenfalls Infos erhalten.
 
 ### **Zustellrate**
 

@@ -145,7 +145,7 @@ Gute Antwort:
 
 ## Objections in Copywriting: Einwände direkt auf der Seite lösen
 
-Objections entstehen nicht nur im Call. Sie entstehen beim Lesen. Gute Landingpages beantworten Einwände, bevor jemand fragt.
+Objections entstehen nicht nur im Call. Sie entstehen beim Lesen. Gute [Landingpages](/landing-page-aufbau-beispiele-checkliste/) beantworten Einwände, bevor jemand fragt.
 
 Ein sauberer Aufbau:
 

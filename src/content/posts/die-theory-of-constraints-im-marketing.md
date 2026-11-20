@@ -62,7 +62,7 @@ Datenanalyse
 **Handlungsaufforderungen**:
 
 1. **Analyse der Website**: Führe eine gründliche Analyse der Benutzererfahrung und des Benutzerflusses auf der Website durch, um Bereiche zu identifizieren, die verbessert werden können.
-2. **A/B-Testing**: Implementiere A/B-Tests für verschiedene Elemente der Landing-Pages, einschließlich Call-to-Action-Buttons, Formulardesigns und Inhalte, um die Konversionsrate zu erhöhen.
+2. **A/B-Testing**: Implementiere A/B-Tests für verschiedene Elemente der [Landing-Pages](/landing-page-aufbau-beispiele-checkliste/), einschließlich Call-to-Action-Buttons, Formulardesigns und Inhalte, um die Konversionsrate zu erhöhen.
 3. **Inhaltsüberprüfung**: Überprüfe und optimiere den bereitgestellten Inhalt, um sicherzustellen, dass er wertvoll und ansprechend für die Zielgruppe ist.
 
 ### Beispiel 2: Kundenbindung

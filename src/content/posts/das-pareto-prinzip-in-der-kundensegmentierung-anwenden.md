@@ -70,7 +70,7 @@ Schau dir die Top-Gruppe genau an. Kommen sie über bestimmte Kanäle? Kaufen si
 
 ### Kanäle und Botschaften ausrichten
 
-Wenn deine besten Kunden überwiegend aus einem Kanal kommen, verdient dieser Kanal mehr Aufmerksamkeit. Nutze die Sprache und die Gründe dieser Kunden in Anzeigen und auf Landingpages. So ziehst du mehr Menschen an, die ihnen ähneln.
+Wenn deine besten Kunden überwiegend aus einem Kanal kommen, verdient dieser Kanal mehr Aufmerksamkeit. Nutze die Sprache und die Gründe dieser Kunden in Anzeigen und auf [Landingpages](/landing-page-aufbau-beispiele-checkliste/). So ziehst du mehr Menschen an, die ihnen ähneln.
 
 ### Den Weg der besten Kunden nachbauen
 

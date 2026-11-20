@@ -18,7 +18,7 @@ Anfangs kann man sicherlich relativ kostenneutral das Thema Newsletter im Untern
 
 ## Personal bei den E-Mail Marketing Kosten
 
-Du benötigst einen Grafiker oder mehrere intern oder extern für die Anfertigung der verwendeten Bilder. Und diese betrifft nicht nur Newsletter sondern auch die Startseite oder dazugehörige Landingpages bzw. Micro Sites. Dann wird jemand benötigt der die Kampagnen plant und die Umsetzung begleitet. Vielleicht brauchst du später auch noch einen Texter für die Inhalte der Kampagnen.
+Du benötigst einen Grafiker oder mehrere intern oder extern für die Anfertigung der verwendeten Bilder. Und diese betrifft nicht nur Newsletter sondern auch die Startseite oder dazugehörige [Landingpages](/landing-page-aufbau-beispiele-checkliste/) bzw. Micro Sites. Dann wird jemand benötigt der die Kampagnen plant und die Umsetzung begleitet. Vielleicht brauchst du später auch noch einen Texter für die Inhalte der Kampagnen.
 
 Dann wird eine Person benötigt für die Verwaltung des E-Mail Tools und der Einrichtung von diesem. Zusätzlich muss ein Newsletter in HTML und als Textvariante erstellt und getestet werden. Dies kann natürlich alles von nur einer Person erledigt werden am Anfang. Aber mit der Zeit wird definitiv mehr an Personal benötigt. Und auch das E-Mail Tool kostet monatlich einen Betrag.
 

@@ -85,7 +85,7 @@ Diese Formeln sind simpel. Die Kunst liegt in sauberem Tracking und klaren Ziele
 
 1. **UTM-Konventionen festlegen:** Kleinschreibung, feste Listen für `source` und `medium`.
 2. **Tag Management nutzen:** Ein Data-Layer macht Events stabil und wiederverwendbar.
-3. **QA vor Kampagnenstart:** Test-Klicks, Parameter, Landingpages, Messpunkte prüfen.
+3. **QA vor Kampagnenstart:** Test-Klicks, Parameter, [Landingpages](/landing-page-aufbau-beispiele-checkliste/), Messpunkte prüfen.
 4. **Bot- und Fraud-Kontrollen:** Ungewöhnliche CTRs, Budgetspitzen, Placements prüfen; Viewability reporten.
 5. **Dashboards auf Ziele ausrichten:** Keine Zahl ohne Entscheidungskonsequenz.
 

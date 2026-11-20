@@ -17,7 +17,7 @@ Du willst mehr Klicks, Leads und Käufe – ohne das Budget zu erhöhen? Dann br
 
 ## CTA: Was ist das – und warum ist es so wichtig?
 
-Ein **Call-to-Action (CTA)** fordert Nutzer zu einer konkreten Handlung auf. In Google Ads, Social Ads und auf Landingpages entscheidet er oft über Klick oder Abbruch. Klarheit, Sichtbarkeit und Relevanz sind die drei Grundpfeiler – vor allem in Anzeigen mit engen Zeichenlimits.
+Ein **Call-to-Action (CTA)** fordert Nutzer zu einer konkreten Handlung auf. In Google Ads, Social Ads und auf [Landingpages](/landing-page-aufbau-beispiele-checkliste/) entscheidet er oft über Klick oder Abbruch. Klarheit, Sichtbarkeit und Relevanz sind die drei Grundpfeiler – vor allem in Anzeigen mit engen Zeichenlimits.
 
 ## CTA-Formel: So schreibst du überzeugende Calls-to-Action
 

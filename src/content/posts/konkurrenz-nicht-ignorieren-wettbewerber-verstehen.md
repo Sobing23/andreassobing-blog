@@ -74,7 +74,7 @@ FYI hat dafür den [Net Promoter Score](/zufriedenheit-der-kunden-messen-net-pro
 
 Auf ihren Websites erzählen Wettbewerber, wen sie erreichen wollen und womit. Prokopets empfiehlt eine feste Prüfliste:
 
-- Startseite und Landingpages: Welches Nutzenversprechen steht im Mittelpunkt, und an wen richtet es sich?
+- Startseite und [Landingpages](/landing-page-aufbau-beispiele-checkliste/): Welches Nutzenversprechen steht im Mittelpunkt, und an wen richtet es sich?
 - Kundenstimmen und Fallstudien: Welche Kunden zeigen sie, und welche Ergebnisse heben sie hervor?
 - Funktionen und Vorteile: Was stellen sie in den Vordergrund?
 - Preise und Pakete: Wie ist das Angebot aufgebaut?

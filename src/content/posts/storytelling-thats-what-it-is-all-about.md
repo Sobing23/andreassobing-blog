@@ -62,7 +62,7 @@ Typische Fehler:
 
 - Das eigene Produkt ist der Held. Leser identifizieren sich aber mit dem Kunden, nicht mit der Software.
 - Es fehlt ein Hindernis. Ohne Konflikt entsteht keine Spannung.
-- Die Geschichte ist zu lang. Für einen Newsletter reichen oft wenige Absätze, die ausführliche Fassung kann auf einer Landingpage stehen.
+- Die Geschichte ist zu lang. Für einen Newsletter reichen oft wenige Absätze, die ausführliche Fassung kann auf einer [Landingpage](/landing-page-aufbau-beispiele-checkliste/) stehen.
 - Geschönte Details. Sie zerstören Vertrauen, sobald sie auffallen.
 
 Andrew Stantons Gedanke aus dem Talk passt hier gut: Liefere nicht jede Schlussfolgerung fertig, sondern lass dem Leser Raum, selbst zu verstehen.

@@ -45,7 +45,7 @@ Wir streben danach, in unseren Worten, Taten und Überzeugungen konsistent zu se
 
 ## Prinzip 7: Zusammengehörigkeit (Unity)
 
-Hier geht es im Gegensatz zur Sympathie um das Wir-Gefühl. Dies kann auf verschiedenen Eben wie Familie, Ort oder Religion ausgelöst werden. Ein Beispiel wäre eine personalisierte Landingpage mit Bildern der Stadt des Besuchers.
+Hier geht es im Gegensatz zur Sympathie um das Wir-Gefühl. Dies kann auf verschiedenen Eben wie Familie, Ort oder Religion ausgelöst werden. Ein Beispiel wäre eine personalisierte [Landingpage](/landing-page-aufbau-beispiele-checkliste/) mit Bildern der Stadt des Besuchers.
 
 ## Übertragung der Prinzipien auf die Customer Journey
 

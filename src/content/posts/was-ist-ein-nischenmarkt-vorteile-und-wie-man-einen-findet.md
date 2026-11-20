@@ -33,7 +33,7 @@ Ein Nischenmarkt ist eine konzentrierte Gruppe von Menschen oder Unternehmen, di
 - Finde heraus, welche Probleme und Bedürfnisse deine Kunden haben: Jetzt, wo du einige Ideen für Nischenmärkte hast, überlege, welche Probleme dein Zielmarkt hat.
 - Recherchiere die Konkurrenz: Bevor du deine Zeit und Energie in die Entwicklung eines völlig neuen Geschäfts investierst, recherchiere deine potenziellen Konkurrenten.
 - Definiere deine Nische und ihre Rentabilität: Wenn du deine Ressourcen und Zeit in ein neues Geschäft investierst, sollte es die Möglichkeit haben, profitabel zu werden.
-- Teste dein Produkt oder deine Dienstleistung: Erstelle eine einfache Website oder Landing Page für dein Geschäft, damit Kunden dich finden können.
+- Teste dein Produkt oder deine Dienstleistung: Erstelle eine einfache Website oder [Landing Page](/landing-page-aufbau-beispiele-checkliste/) für dein Geschäft, damit Kunden dich finden können.
 
 ## Beispiele für Nischenmärkte
 

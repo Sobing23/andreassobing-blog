@@ -164,7 +164,7 @@ Score-Modell bauen. 1–2 Kernsegmente wählen. Kill-Kriterien definieren.
 Positionierungs-Statement schreiben. Perzeptionskarte erstellen. Proof sammeln.
 
 **Woche 7–8**  
-Landingpages je Segment. Angebote paketieren. Preis- und CTA-Tests starten.
+[Landingpages](/landing-page-aufbau-beispiele-checkliste/) je Segment. Angebote paketieren. Preis- und CTA-Tests starten.
 
 **Woche 9–10**  
 Kampagnen live. Zwei A/B-Streams: Botschaft und Beweis.

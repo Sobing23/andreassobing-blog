@@ -50,7 +50,7 @@ Die drei Werte werden multipliziert. Ein Beispiel: Eine Idee mit 7, 6 und 5 Punk
 
 ## 4. Experiment entwerfen
 
-Für die ausgewählte Idee planst du den kleinsten Test, der die Hypothese bestätigen oder widerlegen kann. Statt eine neue Funktion zu programmieren, reicht oft eine geänderte Landingpage, eine E-Mail-Variante oder ein manueller Prozess im Hintergrund.
+Für die ausgewählte Idee planst du den kleinsten Test, der die Hypothese bestätigen oder widerlegen kann. Statt eine neue Funktion zu programmieren, reicht oft eine geänderte [Landingpage](/landing-page-aufbau-beispiele-checkliste/), eine E-Mail-Variante oder ein manueller Prozess im Hintergrund.
 
 Lege vorher fest:
 

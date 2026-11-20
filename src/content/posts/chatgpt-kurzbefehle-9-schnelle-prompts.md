@@ -44,7 +44,7 @@ Kurze Prompts reduzieren Rauschen. Du sagst präzise, **welches Format** du brau
 - `ELI5: Erkläre <Begriff/Thema> in kinderleichten Worten.`
 - `ELI9: Erkläre <Begriff/Thema> einfach, aber etwas gründlicher.`
 - `ELI12: Erkläre <Begriff/Thema> mit einfachen Beispielen und etwas Tiefe.`  
-  **Praxis:** Ideal für Produktbotschaften, Onboarding oder Social-Posts. ELI5 für Hooks, ELI9 für kurze Landingpages, ELI12 für FAQs.
+  **Praxis:** Ideal für Produktbotschaften, Onboarding oder Social-Posts. ELI5 für Hooks, ELI9 für kurze [Landingpages](/landing-page-aufbau-beispiele-checkliste/), ELI12 für FAQs.
 
 ## Q&A – Lernen im Frage-Antwort-Format
 

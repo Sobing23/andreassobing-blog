@@ -23,7 +23,7 @@ Aber es gibt einige Methoden wie du einen Abmeldung abwenden kannst oder den Emp
 ## Wie helfen Präferenzmöglichkeiten?
 
 Was laut meiner Erfahrung sehr gut funktioniert, sind Präferenzmöglichkeiten. Der Empfänger kann auswählen ob er nur noch bestimmte Themen (z.B. Rabatte) oder nur noch zu einer bestimmten Häufigkeit (1x im Monat) erhält. Somit hast du den Empfänger nicht komplett verloren. Bei der Themenauswahl gewinnst du auch noch neue Erkenntnisse über den Empfänger.
-Zusätzlich hast du die Möglichkeit eine Landingpage für die Newsletterabmeldung zu erstellen. Das bedeutet, sobald der Empfänger zum Beispiel im Newsletter auf die Abmeldung klickt, landet er auf dieser Seite.
+Zusätzlich hast du die Möglichkeit eine [Landingpage](/landing-page-aufbau-beispiele-checkliste/) für die Newsletterabmeldung zu erstellen. Das bedeutet, sobald der Empfänger zum Beispiel im Newsletter auf die Abmeldung klickt, landet er auf dieser Seite.
 
 ## Folgende Inhalte helfen gegen Abmeldungen:
 

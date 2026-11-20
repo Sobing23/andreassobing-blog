@@ -19,7 +19,7 @@ wpId: 1511
 
 Die umgekehrte Pyramide ist das wichtigste Bauprinzip für Nachrichten. Das Wichtigste steht am Anfang, danach folgen die Informationen in abnehmender Wichtigkeit. Wer nur den ersten Satz liest, weiß schon, was passiert ist. Wer weiterliest, bekommt Schritt für Schritt mehr Details.
 
-Für Marketingprofis ist das Prinzip mindestens so nützlich wie für Journalisten. Pressemitteilungen, Newsletter, Landingpages, Status-Updates an die Geschäftsführung: Überall entscheiden die ersten Zeilen, ob jemand weiterliest. In diesem Artikel lernst du die vier Felder kennen, in die eine klassische Nachricht gegliedert ist, woher das Prinzip kommt und wann du besser anders erzählst.
+Für Marketingprofis ist das Prinzip mindestens so nützlich wie für Journalisten. Pressemitteilungen, Newsletter, [Landingpages](/landing-page-aufbau-beispiele-checkliste/), Status-Updates an die Geschäftsführung: Überall entscheiden die ersten Zeilen, ob jemand weiterliest. In diesem Artikel lernst du die vier Felder kennen, in die eine klassische Nachricht gegliedert ist, woher das Prinzip kommt und wann du besser anders erzählst.
 
 ## Was die umgekehrte Pyramide ist
 

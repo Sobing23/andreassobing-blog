@@ -67,7 +67,7 @@ So bringst du Ordnung in jedes Projekt.
 
 ## Mini-Beispiel: RACI für eine Kampagnen-Landingpage
 
-Projektziel: neue Landingpage, Go-Live in vier Wochen.
+Projektziel: neue [Landingpage](/landing-page-aufbau-beispiele-checkliste/), Go-Live in vier Wochen.
 
 - **Briefing schreiben:** R = PM, A = Marketing Lead, C = Sales, I = Produkt
 - **Design erstellen:** R = Design, A = Design Lead, C = PM, I = Marketing
