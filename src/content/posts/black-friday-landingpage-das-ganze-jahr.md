@@ -13,7 +13,7 @@ Soll deine Black Friday Landingpage das ganze Jahr live bleiben? Erfahre, wie du
 
 Jedes Jahr das gleiche Spiel: Du baust in wenigen Wochen eine aufwendige Black Friday Landingpage, füllst sie mit Angeboten, fährst Kampagnen – und kurz nach dem Event verschwindet alles wieder. Aus SEO-Sicht ist das, als würdest du jedes Jahr ein Haus bauen und direkt abreißen. Viel Aufwand, wenig nachhaltiger Wert.
 
-Stattdessen kannst du deine Black Friday Landingpage das ganze Jahr live lassen und sie wie ein Evergreen-Asset behandeln. Genau darum geht es in diesem Artikel: Du erfährst, warum das sinnvoll ist, wie du die Seiten strukturierst und welche Kennzahlen dir zeigen, ob deine Strategie funktioniert.
+Stattdessen kannst du deine Black Friday Landingpage das ganze Jahr live lassen und sie wie ein Evergreen-Asset behandeln. Genau darum geht es in diesem Artikel: Du erfährst, warum das sinnvoll ist, wie du die Seiten strukturierst und welche Kennzahlen dir zeigen, ob deine Strategie funktioniert. Die Grundlagen zum Aufbau findest du im Artikel zur [Landing Page](/landing-page-aufbau-beispiele-checkliste/).
 
 ## Was ist eine Black Friday Landingpage eigentlich?
 

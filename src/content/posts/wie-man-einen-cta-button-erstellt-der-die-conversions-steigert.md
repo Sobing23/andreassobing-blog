@@ -38,4 +38,4 @@ Ein häufiger Fehler ist ein Button, der als Bild eingebaut ist. Bei blockierten
 
 Ein zweiter Fehler sind mehrere gleich starke Buttons mit unterschiedlichen Zielen. Der Leser muss sich entscheiden und klickt im Zweifel gar nicht.
 
-Achte außerdem darauf, dass die Landingpage hält, was der Button verspricht. Steht dort "Gutschein einlösen", muss der Gutschein auf der Zielseite sofort sichtbar sein.
+Achte außerdem darauf, dass die [Landingpage](/landing-page-aufbau-beispiele-checkliste/) hält, was der Button verspricht. Steht dort "Gutschein einlösen", muss der Gutschein auf der Zielseite sofort sichtbar sein.

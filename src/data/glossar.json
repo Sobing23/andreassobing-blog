@@ -1276,6 +1276,18 @@
   "buchstabe": "C"
  },
  {
+  "begriff": "Conversion Rate",
+  "definition": "Anteil der Besucher, die eine gewünschte Handlung ausführen, zum Beispiel einen Kauf, eine Anmeldung oder eine Anfrage. Sie wird berechnet als Zahl der Handlungen geteilt durch die Zahl der Besucher. Vergleichswerte anderer Unternehmen sind wenig aussagekräftig, weil sie stark von Angebot und geforderter Handlung abhängen.",
+  "artikel": [
+   {
+    "slug": "landing-page-aufbau-beispiele-checkliste",
+    "titel": "Landing Page: Aufbau, Beispiel und Checkliste für Seiten, die ein Ziel erreichen"
+   }
+  ],
+  "anker": "conversion-rate",
+  "buchstabe": "C"
+ },
+ {
   "begriff": "Cost per Click (CPC)",
   "definition": "Cost per Click (CPC) steht für den Preis pro einzelnem Klick beim Abrechnungsmodell Pay per Click (PPC), bei dem die Werbeleistung pro Klick abgerechnet wird. PPC und CPC werden oft synonym verwendet, wobei PPC eigentlich das Verfahren bezeichnet.",
   "artikel": [
@@ -3116,6 +3128,18 @@
   "buchstabe": "L"
  },
  {
+  "begriff": "Landing Page (Zielseite)",
+  "definition": "Seite, die für eine bestimmte Kampagne gebaut wurde und genau ein Ziel hat, etwa eine Anfrage, eine Anmeldung oder einen Kauf. Besucher landen dort nach dem Klick auf eine Anzeige oder einen Link im Newsletter. Anders als die Startseite verzichtet sie auf alles, was vom Ziel ablenkt.",
+  "artikel": [
+   {
+    "slug": "landing-page-aufbau-beispiele-checkliste",
+    "titel": "Landing Page: Aufbau, Beispiel und Checkliste für Seiten, die ein Ziel erreichen"
+   }
+  ],
+  "anker": "landing-page",
+  "buchstabe": "L"
+ },
+ {
   "begriff": "Lateral Thinking (Querdenken)",
   "definition": "Lateral Thinking ist ein Problemlösungsansatz, der unkonventionelle, nicht-lineare Methoden nutzt, um neue Ideen zu entwickeln. Statt Schritt für Schritt vorzugehen, springt man von einem Gedanken zum nächsten, oft in scheinbar unzusammenhängenden Mustern. Der Begriff wurde von Edward de Bono geprägt.",
   "artikel": [
@@ -3729,6 +3753,18 @@
    }
   ],
   "anker": "message-map",
+  "buchstabe": "M"
+ },
+ {
+  "begriff": "Message Match",
+  "definition": "Grundsatz, dass eine Landing Page das Versprechen der Anzeige oder des Links wiederholt, über den der Besucher gekommen ist. Stimmen Botschaft vor und nach dem Klick nicht überein, verlassen Besucher die Seite schnell wieder.",
+  "artikel": [
+   {
+    "slug": "landing-page-aufbau-beispiele-checkliste",
+    "titel": "Landing Page: Aufbau, Beispiel und Checkliste für Seiten, die ein Ziel erreichen"
+   }
+  ],
+  "anker": "message-match",
   "buchstabe": "M"
  },
  {

@@ -42,7 +42,7 @@ Um eine erfolgreiche Google Ads-Kampagne zu starten, müssen mehrere Elemente so
 2. **Anzeigentexte:**
    Der Anzeigentext ist das, was die Nutzer sehen, wenn deine Anzeige erscheint. Ein guter Anzeigentext sollte klar und ansprechend sein und den Nutzer dazu motivieren, auf die Anzeige zu klicken. Er sollte das Keyword enthalten und eine Handlungsaufforderung (Call-to-Action) beinhalten, wie zum Beispiel „Jetzt besuchen“ oder „Mehr erfahren“.
 3. **Zielseite (Landing Page):**
-   Die Zielseite ist die Seite, auf die der Nutzer nach dem Klick auf die Anzeige gelangt. Sie sollte relevant und benutzerfreundlich sein, um den Nutzer zu überzeugen, die gewünschte Aktion (zum Beispiel einen Kauf) durchzuführen. Die Qualität der Zielseite beeinflusst auch den Qualitätsfaktor und somit die Position der Anzeige.
+   Die Zielseite ist die Seite, auf die der Nutzer nach dem Klick auf die Anzeige gelangt. Wie du sie aufbaust, steht im Artikel zur [Landing Page](/landing-page-aufbau-beispiele-checkliste/). Sie sollte relevant und benutzerfreundlich sein, um den Nutzer zu überzeugen, die gewünschte Aktion (zum Beispiel einen Kauf) durchzuführen. Die Qualität der Zielseite beeinflusst auch den Qualitätsfaktor und somit die Position der Anzeige.
 
 ### Beispiel einer gelungenen Kampagne
 
