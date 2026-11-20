@@ -52,7 +52,7 @@ Ein Influencer auf Instagram teilt ein Bild von einer neuen Modemarke und sprich
 
 ### **Influencer-Marketing**
 
-Im Influencer-Marketing nutzen Unternehmen die Reichweite und das Vertrauen von Social-Media-Persönlichkeiten, um ihre Produkte zu bewerben. Influencer haben oft eine treue Anhängerschaft, die ihre Empfehlungen ernst nimmt und basierend auf diesen Empfehlungen Kaufentscheidungen trifft.
+Im [Influencer-Marketing](/influencer-marketing-grundlagen-auswahl-recht/) nutzen Unternehmen die Reichweite und das Vertrauen von Social-Media-Persönlichkeiten, um ihre Produkte zu bewerben. Influencer haben oft eine treue Anhängerschaft, die ihre Empfehlungen ernst nimmt und basierend auf diesen Empfehlungen Kaufentscheidungen trifft.
 
 **Beispiel**:
 Eine Kosmetikmarke schickt ihre neuen Produkte an eine bekannte Beauty-Influencerin, die daraufhin ein Video darüber postet. Die Follower sehen, wie die Produkte angewendet werden, und viele entscheiden sich, die Produkte zu kaufen, weil sie der Influencerin vertrauen und ihre Meinung schätzen.

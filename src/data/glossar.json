@@ -1312,6 +1312,18 @@
   "buchstabe": "C"
  },
  {
+  "begriff": "Creator",
+  "definition": "Person, die Inhalte wie Videos, Fotos oder Anleitungen für soziale Netzwerke produziert. Der Begriff überschneidet sich stark mit Influencer, betont aber die Inhalte statt der Reichweite. Unternehmen kaufen bei Creators oft auch Nutzungsrechte an den Inhalten.",
+  "artikel": [
+   {
+    "slug": "influencer-marketing-grundlagen-auswahl-recht",
+    "titel": "Influencer Marketing: Wie du die richtigen Partner findest und sauber kennzeichnest"
+   }
+  ],
+  "anker": "creator",
+  "buchstabe": "C"
+ },
+ {
   "begriff": "CRM-Strategie",
   "definition": "Eine CRM-Strategie richtet alle Unternehmensaktivitäten darauf aus, profitable Kundenbeziehungen aufzubauen. Typische Ziele sind, die Kundenerträge zu steigern, etwa durch Cross-Selling und Upselling, das Kundenpotenzial auszuschöpfen und den Fokus auf profitable Kunden zu legen.",
   "artikel": [
@@ -2672,6 +2684,18 @@
   "buchstabe": "I"
  },
  {
+  "begriff": "Influencer Marketing",
+  "definition": "Zusammenarbeit von Unternehmen mit Menschen, die sich in sozialen Netzwerken ein Publikum aufgebaut haben und dort Produkte oder Marken vorstellen. Entscheidend ist weniger die Reichweite als die Passung von Person, Publikum und Produkt. Bezahlte Beiträge müssen in Deutschland als Werbung gekennzeichnet werden.",
+  "artikel": [
+   {
+    "slug": "influencer-marketing-grundlagen-auswahl-recht",
+    "titel": "Influencer Marketing: Wie du die richtigen Partner findest und sauber kennzeichnest"
+   }
+  ],
+  "anker": "influencer-marketing",
+  "buchstabe": "I"
+ },
+ {
   "begriff": "Interleaving",
   "definition": "Interleaving ist eine Lernmethode, bei der du mehrere verwandte Konzepte gleichzeitig lernst, indem du abwechselnd zwischen ihnen hin- und herspringst. Den Gegensatz bildet das lange Üben eines einzelnen Themas (blocked practice). Die Methode soll helfen, die Unterschiede zwischen Konzepten zu erkennen und Wissen flexibler anzuwenden.",
   "artikel": [
@@ -2797,6 +2821,18 @@
    }
   ],
   "anker": "kaufmotivation",
+  "buchstabe": "K"
+ },
+ {
+  "begriff": "Kennzeichnungspflicht (Werbung)",
+  "definition": "Pflicht, Werbung als solche erkennbar zu machen. Für Influencer gilt nach den Urteilen des Bundesgerichtshofs von 2021 und § 5a Abs. 4 UWG: Wer für einen Beitrag eine Gegenleistung erhält, muss ihn kennzeichnen, etwa mit „Werbung“ oder „Anzeige“ am Anfang des Beitrags. Auch kostenlose Produkte zählen als Gegenleistung.",
+  "artikel": [
+   {
+    "slug": "influencer-marketing-grundlagen-auswahl-recht",
+    "titel": "Influencer Marketing: Wie du die richtigen Partner findest und sauber kennzeichnest"
+   }
+  ],
+  "anker": "kennzeichnungspflicht-werbung",
   "buchstabe": "K"
  },
  {
@@ -3705,6 +3741,18 @@
    }
   ],
   "anker": "micro-conversion",
+  "buchstabe": "M"
+ },
+ {
+  "begriff": "Micro-Influencer",
+  "definition": "Influencer mit einem mittelgroßen Publikum, grob zwischen 10.000 und 100.000 Followern. Einheitliche Grenzen gibt es nicht. Micro-Influencer haben meist ein klares Thema und gelten in ihrer Nische als glaubwürdig. Noch kleinere Accounts heißen Nano-Influencer.",
+  "artikel": [
+   {
+    "slug": "influencer-marketing-grundlagen-auswahl-recht",
+    "titel": "Influencer Marketing: Wie du die richtigen Partner findest und sauber kennzeichnest"
+   }
+  ],
+  "anker": "micro-influencer",
   "buchstabe": "M"
  },
  {

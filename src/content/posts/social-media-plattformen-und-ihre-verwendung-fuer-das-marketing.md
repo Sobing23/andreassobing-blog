@@ -45,7 +45,7 @@ Instagram ist eine Plattform, die sich auf das Teilen von Fotos und Videos spezi
 
 - **Visuelles Storytelling:** Unternehmen können ihre Markenbotschaft durch ansprechende Bilder und Videos vermitteln.
 - **Hashtags:** Durch die Nutzung von Hashtags können Unternehmen ihre Reichweite erhöhen und von Nutzern gefunden werden, die sich für bestimmte Themen interessieren.
-- **Influencer Marketing:** Unternehmen können mit Influencern zusammenarbeiten, die ihre Produkte oder Dienstleistungen bewerben.
+- **Influencer Marketing:** Unternehmen können mit Influencern zusammenarbeiten, die ihre Produkte oder Dienstleistungen bewerben. Wie du Partner auswählst und Werbung richtig kennzeichnest, steht im Artikel zum [Influencer Marketing](/influencer-marketing-grundlagen-auswahl-recht/).
 
 **Beispiel:**
 Ein Restaurant könnte Instagram nutzen, um appetitliche Fotos von Gerichten zu posten. Durch die Zusammenarbeit mit lokalen Food-Influencern könnten sie neue Kunden gewinnen und ihre Marke bekannter machen.
